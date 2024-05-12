@@ -1,0 +1,664 @@
+Virginia Beach,Virginia Beach,Virginia,51810,Virginia Beach,36.7335,-76.0435,1443020,722.4,shape,false,true,America/New_York,1,23459 23451 23453 23452 23455 23457 23456 23454 23460 23461 23462 23464 23450 23458 23463 23465 23466 23467 23471 23479,1840003871
+Richmond,Richmond,Virginia,51760,Richmond,37.5295,-77.4756,1073223,1463.7,shape,false,true,America/New_York,1,23222 23223 23298 23284 23220 23221 23226 23227 23224 23225 23230 23235 23234 23219 23173 23218 23232 23249 23260 23261 23269 23274 23276 23278 23282 23285 23286 23289 23290 23291 23292 23295,1840001698
+Chesapeake,Chesapeake,Virginia,51550,Chesapeake,36.6778,-76.3023,249377,284.5,shape,false,true,America/New_York,2,23325 23324 23323 23322 23321 23320 23326 23327 23328,1840003874
+Norfolk,Norfolk,Virginia,51710,Norfolk,36.8945,-76.259,236973,1717.4,shape,false,true,America/New_York,2,23509 23508 23507 23504 23503 23502 23505 23518 23510 23511 23513 23517 23551 23523 23501 23506 23514 23515 23519 23529 23541,1840003869
+Arlington,Arlington,Virginia,51013,Arlington,38.8786,-77.1011,235845,3502.7,shape,false,false,America/New_York,2,22209 22203 22202 22201 22207 22206 22205 22204 22214 22211 22213 22210 22212 22215 22216 22217 22219 22225 22226 22227 22230 22240 22241 22242 22243 22244 22245 22246 22350,1840006112
+Roanoke,Roanoke,Virginia,51770,Roanoke,37.2785,-79.9581,218533,900.9,shape,false,true,America/New_York,2,24019 24014 24015 24016 24017 24011 24012 24013 24022 24001 24002 24003 24004 24005 24006 24007 24008 24009 24010 24023 24024 24025 24026 24027 24028 24029 24030 24031 24032 24033 24034 24035 24036 24037 24038 24040 24042 24043,1840003858
+Newport News,Newport News,Virginia,51700,Newport News,37.1051,-76.5185,185118,1035.9,shape,false,true,America/New_York,2,23601 23603 23608 23604 23605 23606 23607 23602 23609 23612 23628 23630,1840003862
+Fredericksburg,Fredericksburg,Virginia,51630,Fredericksburg,38.2992,-77.4872,176791,1044.0,shape,false,true,America/New_York,2,22401 22404 22412,1840003845
+Alexandria,Alexandria,Virginia,51510,Alexandria,38.8185,-77.0861,157594,4074.1,shape,false,true,America/New_York,2,22302 22301 22304 22305 22311 22314 20598 22320 22331 22332 22333 22334,1840003837
+Hampton,Hampton,Virginia,51650,Hampton,37.0551,-76.363,137217,1029.5,shape,false,true,America/New_York,2,23665 23651 23681 23605 23661 23668 23663 23666 23667 23664 23669 23670,1840003866
+Lynchburg,Lynchburg,Virginia,51680,Lynchburg,37.4003,-79.1909,128849,624.1,shape,false,true,America/New_York,2,24515 24504 24502 24503 24501 24505 24506 24513 24514,1840003855
+Charlottesville,Charlottesville,Virginia,51540,Charlottesville,38.0375,-78.4855,103760,1744.5,shape,false,true,America/New_York,2,22908 22901 22902 22903 22904 22905 22906 22909,1840001678
+Portsmouth,Portsmouth,Virginia,51740,Portsmouth,36.8468,-76.354,97384,1129.1,shape,false,true,America/New_York,3,23709 23708 23704 23707 23701 23703 23702 23705,1840003872
+Williamsburg,Williamsburg,Virginia,51830,Williamsburg,37.2693,-76.7076,94892,668.9,shape,false,true,America/New_York,3,23185 23188 23187,1840001720
+Suffolk,Suffolk,Virginia,51800,Suffolk,36.6953,-76.6398,94856,91.8,shape,false,true,America/New_York,3,23433 23432 23437 23436 23435 23434 23438 23439,1840003873
+Winchester,Winchester,Virginia,51840,Winchester,39.1735,-78.1746,86813,1180.3,shape,false,true,America/New_York,3,22601 22604,1840001623
+Dale City,Dale City,Virginia,51153,Prince William,38.6473,-77.3459,73928,2004.5,shape,false,false,America/New_York,2,22193,1840006094
+Harrisonburg,Harrisonburg,Virginia,51660,Harrisonburg,38.4362,-78.8735,73160,1153.3,shape,false,true,America/New_York,3,22801 22802 22807 22803,1840003844
+Centreville,Centreville,Virginia,51059,Fairfax,38.839,-77.4389,72680,2350.9,shape,false,false,America/New_York,2,20120 20124 20121,1840006015
+Blacksburg,Blacksburg,Virginia,51121,Montgomery,37.23,-80.4279,71277,883.1,shape,false,true,America/New_York,3,24061 24060 24062 24063 24111,1840006446
+Reston,Reston,Virginia,51059,Fairfax,38.9497,-77.3461,62339,1568.8,shape,false,false,America/New_York,3,20194 20191 20190 20192 20195 22096,1840006025
+McLean,McLean,Virginia,51059,Fairfax,38.9436,-77.1943,49587,772.1,shape,false,false,America/New_York,3,22046 22101 22043 22102 22067 22103 22106 22107 22108 22109,1840006018
+Leesburg,Leesburg,Virginia,51107,Loudoun,39.1057,-77.5544,48465,1486.9,shape,false,true,America/New_York,3,20175 20176 20177 20178,1840005872
+Tuckahoe,Tuckahoe,Virginia,51087,Henrico,37.5878,-77.5858,48049,907.6,shape,false,false,America/New_York,3,23229 23238 23255 23288,1840006395
+Ashburn,Ashburn,Virginia,51107,Loudoun,39.0277,-77.4714,45479,1148.0,shape,false,false,America/New_York,3,20166 20147 20103 20104 20146 20149,1840024495
+Lake Ridge,Lake Ridge,Virginia,51153,Prince William,38.6847,-77.3066,44720,1893.9,shape,false,false,America/New_York,3,22192,1840006099
+Burke,Burke,Virginia,51059,Fairfax,38.7773,-77.2633,44228,1983.8,shape,false,false,America/New_York,3,22015 22153 22152 22009,1840006014
+Linton Hall,Linton Hall,Virginia,51153,Prince William,38.7551,-77.575,42702,1295.4,shape,false,false,America/New_York,3,20136 20155 20181,1840006100
+Manassas,Manassas,Virginia,51683,Manassas,38.7479,-77.4838,42620,1671.8,shape,false,true,America/New_York,3,20110 20108,1840003839
+Woodbridge,Woodbridge,Virginia,51153,Prince William,38.6409,-77.258,42619,1824.0,shape,false,false,America/New_York,3,22191 22194 22195,1840006106
+Danville,Danville,Virginia,51590,Danville,36.5831,-79.4088,42507,383.5,shape,false,true,America/New_York,3,24540 24541,1840003878
+Annandale,Annandale,Virginia,51059,Fairfax,38.8324,-77.196,42330,2082.5,shape,false,false,America/New_York,2,22003 22042,1840006011
+Mechanicsville,Mechanicsville,Virginia,51085,Hanover,37.6263,-77.3561,38328,522.3,shape,false,false,America/New_York,3,23116 23111,1840006340
+Oakton,Oakton,Virginia,51059,Fairfax,38.8887,-77.3016,36529,1445.0,shape,false,false,America/New_York,3,22031 22124 22181,1840006023
+Fair Oaks,Fair Oaks,Virginia,51059,Fairfax,38.8653,-77.3586,35130,2717.0,shape,false,false,America/New_York,2,22030 22033 22035,1840024568
+South Riding,South Riding,Virginia,51107,Loudoun,38.912,-77.5132,33358,1881.7,shape,false,false,America/New_York,3,20152,1840024507
+Petersburg,Petersburg,Virginia,51730,Petersburg,37.2043,-77.3913,33261,565.2,shape,false,true,America/New_York,3,23803 23805 23804 23806,1840003861
+West Falls Church,West Falls Church,Virginia,51059,Fairfax,38.8648,-77.1878,31121,2407.2,shape,false,false,America/New_York,2,22042,1840006117
+Sterling,Sterling,Virginia,51107,Loudoun,39.0052,-77.405,31058,2198.9,shape,false,false,America/New_York,2,20164 20167,1840024508
+Springfield,Springfield,Virginia,51059,Fairfax,38.781,-77.1839,31022,1526.7,shape,false,false,America/New_York,3,22151 22150 22156 22159 22161 22313,1840006039
+Short Pump,Short Pump,Virginia,51087,Henrico,37.6549,-77.6201,28400,1222.9,shape,false,false,America/New_York,3,23059 23233,1840006394
+Tysons,Tysons,Virginia,51059,Fairfax,38.9215,-77.2273,27617,2500.0,shape,false,false,America/New_York,2,22102 22182,1840006040
+Cave Spring,Cave Spring,Virginia,51161,Roanoke,37.2254,-80.0072,26013,841.5,shape,false,false,America/New_York,3,24018,1840006440
+Staunton,Staunton,Virginia,51790,Staunton,38.1593,-79.0611,25581,495.8,shape,false,true,America/New_York,3,24401 24402,1840001670
+Salem,Salem,Virginia,51775,Salem,37.2864,-80.0555,25372,674.9,shape,false,true,America/New_York,3,24153 24155 24157,1840001719
+Bailey's Crossroads,Bailey's Crossroads,Virginia,51059,Fairfax,38.8477,-77.1305,24785,4665.0,shape,false,true,America/New_York,2,22041 22311,1840037327
+Herndon,Herndon,Virginia,51059,Fairfax,38.9699,-77.3867,24456,2202.9,shape,false,true,America/New_York,2,20170 20172 22095,1840006037
+Fairfax,Fairfax,Virginia,51600,Fairfax,38.8531,-77.2997,24242,1499.8,shape,false,true,America/New_York,3,22031 22030 22037,1840001650
+West Springfield,West Springfield,Virginia,51059,Fairfax,38.7771,-77.2268,23372,1875.5,shape,false,false,America/New_York,3,22152,1840006041
+Chantilly,Chantilly,Virginia,51059,Fairfax,38.8868,-77.4453,23107,743.4,shape,false,false,America/New_York,3,20151 20153,1840006016
+Chester,Chester,Virginia,51041,Chesterfield,37.3531,-77.4342,23068,676.8,shape,false,false,America/New_York,3,23831,1840006410
+Hopewell,Hopewell,Virginia,51670,Hopewell,37.2915,-77.2985,23046,859.4,shape,false,true,America/New_York,3,23860,1840003859
+Woodlawn,Woodlawn,Virginia,51059,Fairfax,38.7332,-77.1149,22966,3873.3,shape,false,false,America/New_York,2,22309,1840145210
+Christiansburg,Christiansburg,Virginia,51121,Montgomery,37.1406,-80.4036,22947,606.0,shape,false,true,America/New_York,3,24073 24068,1840006447
+Brambleton,Brambleton,Virginia,51107,Loudoun,38.9803,-77.5323,22796,1529.4,shape,false,false,America/New_York,3,20148,1840024497
+Cherry Hill,Cherry Hill,Virginia,51153,Prince William,38.5696,-77.2895,22505,1113.6,shape,false,false,America/New_York,3,22191 22026,1840026712
+Waynesboro,Waynesboro,Virginia,51820,Waynesboro,38.0674,-78.9014,22341,576.2,shape,false,true,America/New_York,3,22980,1840003848
+McNair,McNair,Virginia,51059,Fairfax,38.9513,-77.4115,22187,4195.2,shape,false,true,America/New_York,2,20171,1840041794
+Montclair,Montclair,Virginia,51153,Prince William,38.6111,-77.34,22083,1419.8,shape,false,false,America/New_York,3,22193 22025,1840006095
+Lorton,Lorton,Virginia,51059,Fairfax,38.6983,-77.2164,22049,1598.2,shape,false,false,America/New_York,3,22079 22199,1840006035
+Rose Hill,Rose Hill,Virginia,51059,Fairfax,38.7872,-77.1085,21203,1457.2,shape,false,false,America/New_York,3,22303 22310,1840133323
+Culpeper,Culpeper,Virginia,51047,Culpeper,38.4704,-78.0001,20105,1066.5,shape,false,true,America/New_York,3,22701,1840006169
+Buckhall,Buckhall,Virginia,51153,Prince William,38.7239,-77.4476,20095,393.8,shape,false,false,America/New_York,3,20111 20110 20112,1840026707
+Meadowbrook,Meadowbrook,Virginia,51041,Chesterfield,37.4301,-77.474,20047,949.7,shape,false,false,America/New_York,3,23234 23237,1840024786
+Merrifield,Merrifield,Virginia,51059,Fairfax,38.8731,-77.2426,19923,2850.5,shape,false,false,America/New_York,2,22031 22042 22180 22081 22082 22119,1840006019
+Lincolnia,Lincolnia,Virginia,51059,Fairfax,38.8158,-77.1543,19812,1613.9,shape,false,false,America/New_York,3,22312,1840006034
+Sudley,Sudley,Virginia,51153,Prince William,38.7878,-77.4961,19289,2701.9,shape,false,false,America/New_York,2,20109,1840006104
+Midlothian,Midlothian,Virginia,51041,Chesterfield,37.4856,-77.6522,19123,861.8,shape,false,false,America/New_York,3,23114 23113,1840037396
+Franklin Farm,Franklin Farm,Virginia,51059,Fairfax,38.9133,-77.3969,18903,1536.8,shape,false,true,America/New_York,3,22033 20171,1840041752
+Laurel,Laurel,Virginia,51087,Henrico,37.6375,-77.5062,18480,1324.2,shape,false,false,America/New_York,3,23294 23228,1840006393
+Kingstowne,Kingstowne,Virginia,51059,Fairfax,38.7625,-77.1444,18228,2454.1,shape,false,true,America/New_York,2,22315,1840041770
+Colonial Heights,Colonial Heights,Virginia,51570,Colonial Heights,37.265,-77.3969,18158,932.4,shape,false,true,America/New_York,3,23834,1840003860
+Hybla Valley,Hybla Valley,Virginia,51059,Fairfax,38.7484,-77.0821,18104,3404.8,shape,false,false,America/New_York,2,22306,1840006031
+Burke Centre,Burke Centre,Virginia,51059,Fairfax,38.7903,-77.2999,17926,2209.4,shape,false,true,America/New_York,2,22015,1840041683
+Franconia,Franconia,Virginia,51059,Fairfax,38.7682,-77.1587,17906,1987.3,shape,false,false,America/New_York,3,22310 22315,1840006027
+Idylwood,Idylwood,Virginia,51059,Fairfax,38.8896,-77.2056,17788,2452.0,shape,false,false,America/New_York,2,22046 22043,1840006032
+Bon Air,Bon Air,Virginia,51041,Chesterfield,37.5187,-77.5713,17452,805.1,shape,false,false,America/New_York,3,23235,1840006409
+Manassas Park,Manassas Park,Virginia,51685,Manassas Park,38.7709,-77.4429,17123,2179.2,shape,false,true,America/New_York,2,20111,1840003838
+Bristol,Bristol,Virginia,51520,Bristol,36.6181,-82.1604,17036,511.0,shape,false,true,America/New_York,3,24201 24202 24203 24205 24209,1840003879
+Gainesville,Gainesville,Virginia,51153,Prince William,38.7931,-77.6347,16972,648.0,shape,false,false,America/New_York,3,20169 20155 20156,1840006098
+Bull Run,Bull Run,Virginia,51153,Prince William,38.7802,-77.5204,16620,2459.3,shape,false,false,America/New_York,2,20109,1840006093
+East Highland Park,East Highland Park,Virginia,51087,Henrico,37.577,-77.3865,16499,725.2,shape,false,false,America/New_York,3,23222 23223,1840006388
+Vienna,Vienna,Virginia,51059,Fairfax,38.8996,-77.2597,16401,1438.1,shape,false,true,America/New_York,3,22180 22183 22185,1840003829
+Hollins,Hollins,Virginia,51161,Roanoke,37.3434,-79.9534,16386,735.2,shape,false,false,America/New_York,3,24019 24020 24050,1840006441
+Radford,Radford,Virginia,51750,Radford,37.1229,-80.5587,16379,653.5,shape,false,true,America/New_York,3,24142 24141 24143,1840003864
+Glen Allen,Glen Allen,Virginia,51087,Henrico,37.666,-77.4838,16246,712.9,shape,false,false,America/New_York,3,23060 23059 23058,1840006390
+Stone Ridge,Stone Ridge,Virginia,51107,Loudoun,38.9294,-77.5557,16049,2397.5,shape,false,true,America/New_York,2,20105,1840041868
+Fort Hunt,Fort Hunt,Virginia,51059,Fairfax,38.7361,-77.0589,16009,1056.5,shape,false,false,America/New_York,3,22308 22307,1840006010
+Wolf Trap,Wolf Trap,Virginia,51059,Fairfax,38.9395,-77.2842,15712,620.2,shape,false,false,America/New_York,3,22181 22182,1840006042
+Front Royal,Front Royal,Virginia,51187,Warren,38.926,-78.1838,15064,566.1,shape,false,true,America/New_York,3,22630,1840006045
+Great Falls,Great Falls,Virginia,51059,Fairfax,39.011,-77.3013,14968,227.9,shape,false,false,America/New_York,3,22066 22102,1840006028
+Highland Springs,Highland Springs,Virginia,51087,Henrico,37.5516,-77.3285,14881,720.6,shape,false,false,America/New_York,3,23075 23223,1840006391
+Groveton,Groveton,Virginia,51059,Fairfax,38.7605,-77.098,14619,1298.6,shape,false,false,America/New_York,3,22306 22307,1840006029
+Broadlands,Broadlands,Virginia,51107,Loudoun,39.0168,-77.5167,14582,1741.4,shape,false,false,America/New_York,3,20148,1840024498
+Falls Church,Falls Church,Virginia,51610,Falls Church,38.8847,-77.1751,14576,2750.1,shape,false,true,America/New_York,2,22046 22040,1840003835
+Brandermill,Brandermill,Virginia,51041,Chesterfield,37.434,-77.6522,14285,894.8,shape,false,false,America/New_York,3,23112,1840024784
+Huntington,Huntington,Virginia,51059,Fairfax,38.7916,-77.074,13913,4756.7,shape,false,false,America/New_York,2,22303 22310,1840006030
+Newington,Newington,Virginia,51059,Fairfax,38.7358,-77.1993,13560,1143.5,shape,false,false,America/New_York,3,22153 22150 22079 22122,1840006021
+Martinsville,Martinsville,Virginia,51690,Martinsville,36.6826,-79.8636,13539,477.2,shape,false,true,America/New_York,3,24112 24113 24114 24115,1840001727
+Mount Vernon,Mount Vernon,Virginia,51059,Fairfax,38.714,-77.1043,13299,982.8,shape,false,false,America/New_York,3,22309 22121,1840006020
+Kings Park West,Kings Park West,Virginia,51059,Fairfax,38.8151,-77.296,13254,1730.6,shape,false,true,America/New_York,3,22032,1840041769
+Timberlake,Timberlake,Virginia,51031,Campbell,37.3167,-79.2481,12999,445.9,shape,false,false,America/New_York,3,24551 24550 24502,1840006437
+Lansdowne,Lansdowne,Virginia,51107,Loudoun,39.0844,-77.4839,12840,1226.2,shape,false,true,America/New_York,3,20147 20176,1840041773
+Sugarland Run,Sugarland Run,Virginia,51107,Loudoun,39.0309,-77.3762,12818,2463.8,shape,false,false,America/New_York,2,20164,1840024510
+Newington Forest,Newington Forest,Virginia,51059,Fairfax,38.737,-77.2339,12647,1473.5,shape,false,true,America/New_York,3,22153,1840041848
+Cascades,Cascades,Virginia,51107,Loudoun,39.0464,-77.3874,12542,1313.8,shape,false,true,America/New_York,3,20165,1840041712
+Poquoson,Poquoson,Virginia,51735,Poquoson,37.1318,-76.3568,12479,313.8,shape,false,true,America/New_York,3,23662,1840003863
+Fairfax Station,Fairfax Station,Virginia,51059,Fairfax,38.7942,-77.3358,12277,522.0,shape,false,false,America/New_York,3,22039 22030 22032,1840024566
+Dranesville,Dranesville,Virginia,51059,Fairfax,38.9955,-77.3693,12154,1222.5,shape,false,false,America/New_York,3,20170,1840024565
+Lakeside,Lakeside,Virginia,51087,Henrico,37.6132,-77.4768,12124,1082.5,shape,false,false,America/New_York,3,23228,1840006392
+Wyndham,Wyndham,Virginia,51087,Henrico,37.6924,-77.6123,12110,1275.6,shape,false,false,America/New_York,3,23059,1840006396
+Manchester,Manchester,Virginia,51041,Chesterfield,37.4902,-77.5396,11929,777.2,shape,false,false,America/New_York,3,23225 23235 23236,1840024785
+New Baltimore,New Baltimore,Virginia,51061,Fauquier,38.7495,-77.7151,11743,377.5,shape,false,false,America/New_York,3,20187,1840024594
+Wakefield,Wakefield,Virginia,51059,Fairfax,38.823,-77.2406,11621,1189.1,shape,false,true,America/New_York,3,22003 22158,1840143806
+Forest,Forest,Virginia,51019,Bedford,37.3728,-79.2831,11559,328.2,shape,false,false,America/New_York,3,24551,1840006398
+Stuarts Draft,Stuarts Draft,Virginia,51015,Augusta,38.0188,-79.0354,11554,152.2,shape,false,false,America/New_York,3,24477,1840006247
+Lowes Island,Lowes Island,Virginia,51107,Loudoun,39.0471,-77.3524,11265,1441.5,shape,false,false,America/New_York,3,20165,1840024504
+Gloucester Point,Gloucester Point,Virginia,51073,Gloucester,37.2767,-76.5043,11016,452.4,shape,false,false,America/New_York,3,23062 23072 23018 23131 23184,1840006399
+Triangle,Triangle,Virginia,51153,Prince William,38.5483,-77.3195,10886,1493.0,shape,false,false,America/New_York,3,22172,1840006105
+Lake Monticello,Lake Monticello,Virginia,51065,Fluvanna,37.921,-78.3295,10834,472.9,shape,false,false,America/New_York,3,22963,1840006342
+Madison Heights,Madison Heights,Virginia,51009,Amherst,37.4487,-79.1057,10694,215.4,shape,false,false,America/New_York,3,24572,1840006372
+Lake Barcroft,Lake Barcroft,Virginia,51059,Fairfax,38.8514,-77.1579,10591,1680.8,shape,false,false,America/New_York,3,22044 22041,1840006033
+Yorkshire,Yorkshire,Virginia,51153,Prince William,38.7882,-77.4496,10563,1733.9,shape,false,false,America/New_York,3,20111 20113,1840006107
+Loudoun Valley Estates,Loudoun Valley Estates,Virginia,51107,Loudoun,38.977,-77.5053,10514,1447.1,shape,false,true,America/New_York,3,20166 20148,1840041775
+Difficult Run,Difficult Run,Virginia,51059,Fairfax,38.9016,-77.3471,10434,480.8,shape,false,false,America/New_York,3,20171 22124 22181,1840153061
+Warrenton,Warrenton,Virginia,51061,Fauquier,38.7176,-77.7976,10111,891.3,shape,false,true,America/New_York,3,20186,1840006058
+George Mason,George Mason,Virginia,51059,Fairfax,38.8356,-77.3186,10017,1524.2,shape,false,true,America/New_York,3,22030 22032 22118,1840041768
+Woodburn,Woodburn,Virginia,51059,Fairfax,38.8503,-77.2322,9960,1377.4,shape,false,false,America/New_York,3,22031 22003,1840024584
+Belmont,Belmont,Virginia,51107,Loudoun,39.0622,-77.4985,9888,1413.3,shape,false,false,America/New_York,3,20147,1840024496
+Independent Hill,Independent Hill,Virginia,51153,Prince William,38.6404,-77.4089,9858,426.9,shape,false,false,America/New_York,3,22193 20112,1840026708
+University of Virginia,University of Virginia,Virginia,51003,Albemarle,38.0405,-78.5164,9648,2089.9,shape,false,false,America/New_York,2,22903 22904,1840140574
+Countryside,Countryside,Virginia,51107,Loudoun,39.0518,-77.4124,9646,1450.6,shape,false,false,America/New_York,3,20165,1840024500
+Fishersville,Fishersville,Virginia,51015,Augusta,38.105,-78.9826,9422,183.9,shape,false,false,America/New_York,3,22980 22939 24401,1840006240
+Seven Corners,Seven Corners,Virginia,51059,Fairfax,38.8658,-77.1445,9141,5181.4,shape,false,false,America/New_York,2,22044 22041,1840006038
+Pulaski,Pulaski,Virginia,51155,Pulaski,37.0528,-80.7624,8982,429.8,shape,false,true,America/New_York,3,24301,1840006469
+Purcellville,Purcellville,Virginia,51107,Loudoun,39.1378,-77.711,8928,1018.4,shape,false,true,America/New_York,3,20132 20134,1840005875
+Fair Lakes,Fair Lakes,Virginia,51059,Fairfax,38.853,-77.3885,8918,1454.4,shape,false,true,America/New_York,3,22030 22033,1840041732
+Crozet,Crozet,Virginia,51003,Albemarle,38.0645,-78.6961,8894,777.2,shape,false,false,America/New_York,3,22932,1840006280
+Hollymead,Hollymead,Virginia,51003,Albemarle,38.1266,-78.4386,8740,522.5,shape,false,false,America/New_York,3,22936 22911,1840024700
+Dunn Loring,Dunn Loring,Virginia,51059,Fairfax,38.8945,-77.2315,8707,1421.0,shape,false,false,America/New_York,3,22027 22180 22182,1840006017
+Innsbrook,Innsbrook,Virginia,51087,Henrico,37.6552,-77.5775,8699,769.2,shape,false,true,America/New_York,3,23060 23233,1840042829
+Smithfield,Smithfield,Virginia,51093,Isle of Wight,36.9755,-76.6152,8625,342.4,shape,false,true,America/New_York,3,23430 23431,1840006487
+Montrose,Montrose,Virginia,51087,Henrico,37.52,-77.3772,8363,1003.2,shape,false,false,America/New_York,3,23223 23231,1840006389
+Lake of the Woods,Lake of the Woods,Virginia,51137,Orange,38.3343,-77.7599,8356,651.4,shape,false,true,America/New_York,3,22508,1840042948
+Abingdon,Abingdon,Virginia,51191,Washington,36.709,-81.9713,8346,400.6,shape,false,true,America/New_York,3,24210 24211 24212,1840006529
+Dumbarton,Dumbarton,Virginia,51087,Henrico,37.613,-77.5066,8271,1693.9,shape,false,false,America/New_York,3,23228 23230,1840006387
+Wytheville,Wytheville,Virginia,51197,Wythe,36.953,-81.0881,8228,219.3,shape,false,true,America/New_York,3,24382,1840006504
+Franklin,Franklin,Virginia,51620,Franklin,36.6831,-76.9386,8194,382.2,shape,false,true,America/New_York,3,23851,1840003876
+Rockwood,Rockwood,Virginia,51041,Chesterfield,37.463,-77.5744,8076,574.9,shape,false,true,America/New_York,3,23235 23236,1840041858
+Vinton,Vinton,Virginia,51161,Roanoke,37.2746,-79.8887,8045,998.7,shape,false,true,America/New_York,3,24179,1840003856
+Greenbriar,Greenbriar,Virginia,51059,Fairfax,38.8717,-77.397,7945,1971.8,shape,false,false,America/New_York,3,22033,1840024572
+South Boston,South Boston,Virginia,51083,Halifax,36.7132,-78.9135,7942,234.8,shape,false,true,America/New_York,3,24592,1840037461
+Fort Belvoir,Fort Belvoir,Virginia,51059,Fairfax,38.7119,-77.1459,7815,340.9,shape,true,true,America/New_York,3,22060,1840073578
+Bellwood,Bellwood,Virginia,51041,Chesterfield,37.406,-77.4363,7783,518.4,shape,false,false,America/New_York,3,23237,1840006407
+Farmville,Farmville,Virginia,51147,Prince Edward,37.2959,-78.4002,7647,384.7,shape,false,true,America/New_York,3,23901 23909,1840006443
+Collinsville,Collinsville,Virginia,51089,Henry,36.7215,-79.9122,7640,375.4,shape,false,false,America/New_York,3,24078 24112,1840006553
+Long Branch,Long Branch,Virginia,51059,Fairfax,38.8302,-77.2713,7635,1192.9,shape,false,true,America/New_York,3,22032,1840041774
+Ashland,Ashland,Virginia,51085,Hanover,37.7597,-77.4716,7617,408.6,shape,false,true,America/New_York,3,23005,1840006341
+Fort Lee,Fort Lee,Virginia,51149,Prince George,37.2357,-77.3325,7577,490.7,shape,true,true,America/New_York,3,23801,1840073580
+Woodlake,Woodlake,Virginia,51041,Chesterfield,37.4215,-77.6783,7566,1206.3,shape,false,false,America/New_York,3,23112,1840026845
+Mantua,Mantua,Virginia,51059,Fairfax,38.8526,-77.2571,7531,1228.0,shape,false,false,America/New_York,3,22031 22034 22036 22116,1840006036
+Bull Run,Bull Run,Virginia,51059,Fairfax,38.8396,-77.4897,7504,200.9,shape,false,false,America/New_York,3,20120 20121 20122,1840153063
+Floris,Floris,Virginia,51059,Fairfax,38.9347,-77.4084,7417,1032.3,shape,false,false,America/New_York,3,20171 20196,1840024569
+Lexington,Lexington,Virginia,51678,Lexington,37.7825,-79.4441,7346,1134.9,shape,false,true,America/New_York,3,24450,1840001689
+Laurel Hill,Laurel Hill,Virginia,51059,Fairfax,38.7026,-77.2422,7338,639.0,shape,false,false,America/New_York,3,22079,1840025639
+Carrollton,Carrollton,Virginia,51093,Isle of Wight,36.9382,-76.5238,7330,432.8,shape,false,false,America/New_York,3,23314,1840024808
+Sandston,Sandston,Virginia,51087,Henrico,37.512,-77.3149,7152,279.9,shape,false,false,America/New_York,3,23150 23250 23231,1840026826
+Strasburg,Strasburg,Virginia,51171,Shenandoah,38.9961,-78.3549,7104,673.8,shape,false,true,America/New_York,3,22657,1840006004
+Aquia Harbour,Aquia Harbour,Virginia,51179,Stafford,38.4598,-77.3806,6947,943.1,shape,false,false,America/New_York,3,22554,1840006216
+Hutchison,Hutchison,Virginia,51059,Fairfax,38.9636,-77.411,6947,4888.5,shape,false,false,America/New_York,2,20170,1840153056
+South Run,South Run,Virginia,51059,Fairfax,38.7467,-77.2754,6940,1059.9,shape,false,true,America/New_York,3,22039 22153,1840041864
+North Springfield,North Springfield,Virginia,51059,Fairfax,38.8023,-77.2027,6916,1749.7,shape,false,false,America/New_York,3,22151,1840006022
+Galax,Galax,Virginia,51640,Galax,36.666,-80.9176,6687,313.5,shape,false,true,America/New_York,3,24333,1840003877
+Bedford,Bedford,Virginia,51019,Bedford,37.336,-79.5179,6676,295.5,shape,false,true,America/New_York,3,24523,1840001713
+Buena Vista,Buena Vista,Virginia,51530,Buena Vista,37.7319,-79.3568,6639,398.1,shape,false,true,America/New_York,3,24416,1840003851
+Spotsylvania Courthouse,Spotsylvania Courthouse,Virginia,51177,Spotsylvania,38.1993,-77.5892,6610,237.8,shape,false,false,America/New_York,3,22551 22553,1840006269
+Bridgewater,Bridgewater,Virginia,51165,Rockingham,38.3862,-78.9674,6575,1007.6,shape,false,true,America/New_York,3,22812,1840006135
+Potomac Mills,Potomac Mills,Virginia,51153,Prince William,38.6554,-77.3,6510,591.4,shape,false,false,America/New_York,3,22192,1840026711
+Pimmit Hills,Pimmit Hills,Virginia,51059,Fairfax,38.9105,-77.1991,6500,1692.0,shape,false,false,America/New_York,3,22043,1840006024
+Braddock,Braddock,Virginia,51059,Fairfax,38.8308,-77.3565,6360,385.1,shape,false,false,America/New_York,3,22030 22038,1840153064
+Belle Haven,Belle Haven,Virginia,51059,Fairfax,38.7775,-77.0574,6359,1239.2,shape,false,false,America/New_York,3,22307,1840145044
+Massanetta Springs,Massanetta Springs,Virginia,51165,Rockingham,38.3899,-78.834,6254,508.3,shape,false,false,America/New_York,3,22801,1840026720
+Bensley,Bensley,Virginia,51041,Chesterfield,37.447,-77.442,6032,810.2,shape,false,false,America/New_York,3,23234 23237,1840006408
+Dulles Town Center,Dulles Town Center,Virginia,51107,Loudoun,39.0265,-77.4196,5884,946.0,shape,false,false,America/New_York,3,20166,1840024501
+Woodstock,Woodstock,Virginia,51171,Shenandoah,38.875,-78.516,5798,587.2,shape,false,true,America/New_York,3,22664,1840006006
+Covington,Covington,Virginia,51580,Covington,37.7786,-79.9867,5722,404.0,shape,false,true,America/New_York,3,24426,1840001688
+Marion,Marion,Virginia,51173,Smyth,36.8379,-81.5156,5722,460.8,shape,false,true,America/New_York,3,24354,1840006515
+Dumfries,Dumfries,Virginia,51153,Prince William,38.567,-77.3233,5697,1433.0,shape,false,true,America/New_York,3,22026,1840006102
+Emporia,Emporia,Virginia,51595,Emporia,36.6953,-77.5356,5680,317.7,shape,false,true,America/New_York,3,23847,1840003875
+Ettrick,Ettrick,Virginia,51041,Chesterfield,37.2435,-77.4287,5632,736.3,shape,false,false,America/New_York,3,23803 23834,1840001699
+Quantico Base,Quantico Base,Virginia,51153,Prince William,38.5228,-77.3186,5372,296.7,shape,true,true,America/New_York,3,22134,1840073661
+Crosspointe,Crosspointe,Virginia,51059,Fairfax,38.7253,-77.2638,5305,926.3,shape,false,true,America/New_York,3,22039 22079,1840041713
+Richlands,Richlands,Virginia,51185,Tazewell,37.0878,-81.8081,5266,359.9,shape,false,true,America/New_York,3,24641 24612 24609,1840006454
+Big Stone Gap,Big Stone Gap,Virginia,51195,Wise,36.8626,-82.7769,5221,420.0,shape,false,true,America/New_York,3,24219,1840006481
+Bluefield,Bluefield,Virginia,51185,Tazewell,37.2351,-81.2751,5059,205.7,shape,false,true,America/New_York,3,24605,1840006451
+Stafford Courthouse,Stafford Courthouse,Virginia,51179,Stafford,38.4184,-77.4202,4996,479.5,shape,false,true,America/New_York,3,22554 22555,1840041867
+Chamberlayne,Chamberlayne,Virginia,51087,Henrico,37.628,-77.4288,4965,572.7,shape,false,false,America/New_York,3,23227,1840037466
+Orange,Orange,Virginia,51137,Orange,38.2485,-78.1129,4919,565.0,shape,false,true,America/New_York,3,22960,1840006268
+Rocky Mount,Rocky Mount,Virginia,51067,Franklin,37.0045,-79.8854,4916,278.0,shape,false,true,America/New_York,3,24151,1840006479
+Luray,Luray,Virginia,51139,Page,38.665,-78.4546,4838,385.2,shape,false,true,America/New_York,3,22835,1840006141
+King George,King George,Virginia,51099,King George,38.2807,-77.1896,4826,172.9,shape,false,false,America/New_York,3,22485,1840026758
+Falmouth,Falmouth,Virginia,51179,Stafford,38.3319,-77.4655,4689,580.5,shape,false,false,America/New_York,3,22405,1840006215
+South Hill,South Hill,Virginia,51117,Mecklenburg,36.7254,-78.1287,4683,183.8,shape,false,true,America/New_York,3,23970 23950,1840006541
+Bealeton,Bealeton,Virginia,51061,Fauquier,38.5822,-77.7781,4670,327.2,shape,false,false,America/New_York,3,22712,1840024589
+Berryville,Berryville,Virginia,51043,Clarke,39.1504,-77.9825,4598,717.3,shape,false,true,America/New_York,3,22611,1840005892
+Verona,Verona,Virginia,51015,Augusta,38.1937,-79.0082,4582,230.7,shape,false,false,America/New_York,3,24482,1840006248
+Tazewell,Tazewell,Virginia,51185,Tazewell,37.1268,-81.5134,4456,250.5,shape,false,true,America/New_York,3,24651 24630 24608,1840006455
+Mount Hermon,Mount Hermon,Virginia,51143,Pittsylvania,36.6716,-79.4202,4434,304.3,shape,false,false,America/New_York,3,24540,1840026888
+Bethel Manor,Bethel Manor,Virginia,51199,York,37.0972,-76.4243,4422,3380.7,shape,true,true,America/New_York,2,23665,1840043173
+Hayfield,Hayfield,Virginia,51059,Fairfax,38.7536,-77.1321,4390,1322.1,shape,false,false,America/New_York,3,22315,1840024573
+Union Mill,Union Mill,Virginia,51059,Fairfax,38.7978,-77.3815,4302,166.3,shape,false,false,America/New_York,3,22039 20124,1840153065
+University Center,University Center,Virginia,51107,Loudoun,39.0599,-77.4443,4223,1775.6,shape,false,false,America/New_York,3,20147,1840024511
+Pantops,Pantops,Virginia,51003,Albemarle,38.0316,-78.4437,4189,695.3,shape,false,false,America/New_York,3,22911,1840037472
+Broadway,Broadway,Virginia,51165,Rockingham,38.6083,-78.8016,4169,677.6,shape,false,true,America/New_York,3,22815,1840006136
+Enon,Enon,Virginia,51041,Chesterfield,37.3273,-77.3195,4087,366.0,shape,false,false,America/New_York,3,23836,1840026844
+County Center,County Center,Virginia,51153,Prince William,38.6917,-77.3507,4024,769.5,shape,false,true,America/New_York,3,22192,1840043275
+Kings Park,Kings Park,Virginia,51059,Fairfax,38.8026,-77.2396,4003,1188.3,shape,false,false,America/New_York,3,22151,1840024574
+Shenandoah Farms,Shenandoah Farms,Virginia,51187,Warren,38.9752,-78.0482,3926,116.6,shape,false,false,America/New_York,3,22630 22642,1840026699
+Colonial Beach,Colonial Beach,Virginia,51193,Westmoreland,38.2567,-76.9777,3895,614.2,shape,false,true,America/New_York,3,22443,1840006282
+Loch Lomond,Loch Lomond,Virginia,51153,Prince William,38.7812,-77.4817,3851,2069.2,shape,false,false,America/New_York,2,20111 20110,1840006101
+Norton,Norton,Virginia,51720,Norton,36.9314,-82.6262,3668,189.4,shape,false,true,America/New_York,3,24273,1840003870
+Navy,Navy,Virginia,51059,Fairfax,38.8882,-77.3907,3638,1035.3,shape,false,false,America/New_York,4,22033 20171,1840115668
+North Shore,North Shore,Virginia,51067,Franklin,37.0783,-79.6525,3588,99.1,shape,false,false,America/New_York,3,24121,1840006474
+Clifton Forge,Clifton Forge,Virginia,51005,Alleghany,37.8232,-79.825,3541,452.6,shape,false,true,America/New_York,3,24422,1840006365
+Dahlgren,Dahlgren,Virginia,51099,King George,38.3443,-77.0624,3517,507.7,shape,false,false,America/New_York,3,22485,1840006266
+Gloucester Courthouse,Gloucester Courthouse,Virginia,51073,Gloucester,37.4053,-76.526,3513,194.5,shape,false,false,America/New_York,3,23061,1840037468
+Cloverdale,Cloverdale,Virginia,51023,Botetourt,37.3566,-79.9055,3501,436.2,shape,false,false,America/New_York,3,24077 24019,1840006375
+West Point,West Point,Virginia,51101,King William,37.5519,-76.8017,3396,259.6,shape,false,true,America/New_York,3,23181,1840006367
+Altavista,Altavista,Virginia,51031,Campbell,37.1235,-79.2856,3370,253.7,shape,false,true,America/New_York,3,24517,1840006438
+Blackstone,Blackstone,Virginia,51135,Nottoway,37.0822,-78.003,3362,288.8,shape,false,true,America/New_York,3,23824,1840006460
+Chincoteague,Chincoteague,Virginia,51001,Accomack,37.9593,-75.3495,3303,137.7,shape,false,true,America/New_York,3,23336,1840006323
+Lake Land'Or,Lake Land'Or,Virginia,51033,Caroline,38.017,-77.5593,3179,271.3,shape,false,true,America/New_York,3,22546,1840043221
+Daleville,Daleville,Virginia,51023,Botetourt,37.415,-79.9132,3169,285.3,shape,false,false,America/New_York,3,24083,1840006376
+Lebanon,Lebanon,Virginia,51167,Russell,36.8991,-82.0784,3139,251.7,shape,false,true,America/New_York,3,24266,1840006492
+Lake Wilderness,Lake Wilderness,Virginia,51177,Spotsylvania,38.3036,-77.7277,3122,573.5,shape,false,true,America/New_York,3,22551,1840043215
+Marshall,Marshall,Virginia,51061,Fauquier,38.8661,-77.8453,3033,406.0,shape,false,false,America/New_York,3,20198 20115 20116,1840024592
+Shenandoah,Shenandoah,Virginia,51139,Page,38.4875,-78.6171,3020,538.3,shape,false,true,America/New_York,3,22849,1840006142
+Blue Ridge,Blue Ridge,Virginia,51023,Botetourt,37.3783,-79.8206,2994,189.9,shape,false,false,America/New_York,3,24064,1840006374
+Timberville,Timberville,Virginia,51165,Rockingham,38.6335,-78.7731,2966,856.9,shape,false,true,America/New_York,3,22815 22853,1840006139
+Wise,Wise,Virginia,51195,Wise,36.9767,-82.5809,2962,376.4,shape,false,true,America/New_York,3,24293,1840006485
+Elkton,Elkton,Virginia,51165,Rockingham,38.4106,-78.6161,2948,359.9,shape,false,true,America/New_York,3,22827,1840006133
+Crewe,Crewe,Virginia,51135,Nottoway,37.1812,-78.1307,2931,562.0,shape,false,true,America/New_York,3,23930,1840006462
+Grottoes,Grottoes,Virginia,51165,Rockingham,38.2691,-78.8251,2904,549.9,shape,false,true,America/New_York,3,24441,1840006134
+Waverly,Waverly,Virginia,51183,Sussex,37.034,-77.0956,2890,361.7,shape,false,true,America/New_York,3,23890,1840006500
+Pearisburg,Pearisburg,Virginia,51071,Giles,37.3289,-80.7275,2876,347.8,shape,false,true,America/New_York,3,24134,1840006433
+Hillsville,Hillsville,Virginia,51035,Carroll,36.7613,-80.7371,2856,113.2,shape,false,true,America/New_York,3,24343,1840006526
+One Loudoun,One Loudoun,Virginia,51107,Loudoun,39.0505,-77.456,2779,1693.4,shape,false,false,America/New_York,3,20147,1840148744
+Windsor,Windsor,Virginia,51093,Isle of Wight,36.8095,-76.7406,2765,266.1,shape,false,true,America/New_York,3,23487,1840006488
+Merrimac,Merrimac,Virginia,51121,Montgomery,37.1902,-80.4243,2719,610.9,shape,false,false,America/New_York,3,24060,1840037349
+Dublin,Dublin,Virginia,51155,Pulaski,37.0987,-80.6831,2673,764.6,shape,false,true,America/New_York,3,24084,1840006468
+Lovettsville,Lovettsville,Virginia,51107,Loudoun,39.2731,-77.64,2666,1219.1,shape,false,true,America/New_York,3,20180,1840005873
+Ravensworth,Ravensworth,Virginia,51059,Fairfax,38.8033,-77.2222,2661,1137.3,shape,false,false,America/New_York,3,22151 22160,1840024581
+Lake Caroline,Lake Caroline,Virginia,51033,Caroline,37.9856,-77.5244,2652,360.8,shape,false,true,America/New_York,3,22546,1840043222
+Sully Square,Sully Square,Virginia,51059,Fairfax,38.9183,-77.4248,2560,1246.0,shape,false,false,America/New_York,3,20151 20171,1840153062
+Southern Gateway,Southern Gateway,Virginia,51179,Stafford,38.3489,-77.5036,2551,306.4,shape,false,true,America/New_York,3,22406,1840041862
+Oak Grove,Oak Grove,Virginia,51107,Loudoun,38.9845,-77.4174,2533,836.3,shape,false,false,America/New_York,3,20164 20166,1840024506
+Arcola,Arcola,Virginia,51107,Loudoun,38.9447,-77.5307,2437,411.8,shape,false,false,America/New_York,3,20166 20105,1840024494
+Piney Mountain,Piney Mountain,Virginia,51003,Albemarle,38.1591,-78.4156,2415,812.5,shape,false,true,America/New_York,3,22911,1840041851
+Fairlawn,Fairlawn,Virginia,51155,Pulaski,37.1476,-80.5567,2400,294.6,shape,false,false,America/New_York,3,24141,1840001721
+Matoaca,Matoaca,Virginia,51041,Chesterfield,37.2313,-77.4679,2374,356.6,shape,false,false,America/New_York,3,23803,1840006411
+Chilhowie,Chilhowie,Virginia,51173,Smyth,36.8009,-81.6832,2371,361.3,shape,false,true,America/New_York,3,24319,1840006514
+Massanutten,Massanutten,Virginia,51165,Rockingham,38.4115,-78.727,2368,92.3,shape,false,false,America/New_York,3,22840,1840006132
+Shawneeland,Shawneeland,Virginia,51069,Frederick,39.1968,-78.3465,2347,119.3,shape,false,true,America/New_York,4,22602,1840037404
+Chase City,Chase City,Virginia,51117,Mecklenburg,36.7998,-78.461,2339,413.0,shape,false,true,America/New_York,3,23924,1840006538
+Goose Creek Village,Goose Creek Village,Virginia,51107,Loudoun,39.0432,-77.5254,2332,6.2,shape,false,false,America/New_York,3,20147 20148,1840148751
+Warsaw,Warsaw,Virginia,51159,Richmond,37.9603,-76.761,2330,297.4,shape,false,true,America/New_York,3,22572,1840006314
+Amherst,Amherst,Virginia,51009,Amherst,37.5816,-79.0509,2299,181.1,shape,false,true,America/New_York,3,24521,1840006373
+Horse Pasture,Horse Pasture,Virginia,51089,Henry,36.6313,-79.9515,2291,91.8,shape,false,false,America/New_York,3,24148 24165 24112,1840006555
+Pennington Gap,Pennington Gap,Virginia,51105,Lee,36.7594,-83.0299,2254,521.8,shape,false,true,America/New_York,3,24277 24218,1840006535
+Glade Spring,Glade Spring,Virginia,51191,Washington,36.7899,-81.7726,2249,714.3,shape,false,true,America/New_York,3,24340,1840006528
+Lake Holiday,Lake Holiday,Virginia,51069,Frederick,39.3092,-78.3245,2233,254.1,shape,false,true,America/New_York,3,22625,1840043223
+Weyers Cave,Weyers Cave,Virginia,51015,Augusta,38.2844,-78.9125,2212,129.5,shape,false,false,America/New_York,3,24486,1840006249
+Patrick Springs,Patrick Springs,Virginia,51141,Patrick,36.6343,-80.1985,2204,54.8,shape,false,false,America/New_York,3,24133 24171,1840006548
+Louisa,Louisa,Virginia,51109,Louisa,38.0212,-77.9986,2173,461.7,shape,false,true,America/New_York,3,23093,1840006312
+New Market,New Market,Virginia,51171,Shenandoah,38.6459,-78.6709,2162,413.1,shape,false,true,America/New_York,3,22844,1840006003
+Appomattox,Appomattox,Virginia,51011,Appomattox,37.3592,-78.8276,2157,375.0,shape,false,true,America/New_York,3,24522,1840006412
+Stephens City,Stephens City,Virginia,51069,Frederick,39.0902,-78.223,2107,335.4,shape,false,true,America/New_York,3,22655,1840005777
+Rivanna,Rivanna,Virginia,51003,Albemarle,37.9945,-78.3788,2088,296.1,shape,false,true,America/New_York,3,22947,1840041853
+Saltville,Saltville,Virginia,51173,Smyth,36.8751,-81.7642,2085,100.4,shape,false,true,America/New_York,3,24370,1840006516
+Raven,Raven,Virginia,51185,Tazewell,37.0937,-81.8601,2065,121.8,shape,false,false,America/New_York,3,24612 24639 24640,1840006450
+East Lexington,East Lexington,Virginia,51163,Rockbridge,37.8009,-79.416,2034,342.8,shape,false,false,America/New_York,3,24450,1840026792
+Crimora,Crimora,Virginia,51015,Augusta,38.1618,-78.8413,2017,256.7,shape,false,false,America/New_York,3,22980 24431,1840006241
+Narrows,Narrows,Virginia,51071,Giles,37.3316,-80.8082,1990,606.6,shape,false,true,America/New_York,3,24124,1840006432
+Prince George,Prince George,Virginia,51149,Prince George,37.2209,-77.2683,1964,121.0,shape,false,false,America/New_York,3,23875,1840026869
+Victoria,Victoria,Virginia,51111,Lunenburg,36.9947,-78.2242,1946,266.8,shape,false,true,America/New_York,3,23974,1840003865
+Gordonsville,Gordonsville,Virginia,51137,Orange,38.136,-78.1879,1946,792.4,shape,false,true,America/New_York,3,22942,1840006267
+Hampden-Sydney,Hampden-Sydney,Virginia,51147,Prince Edward,37.2415,-78.4693,1936,192.7,shape,false,true,America/New_York,4,23943 23901,1840037380
+Mason Neck,Mason Neck,Virginia,51059,Fairfax,38.6556,-77.1819,1932,53.8,shape,false,true,America/New_York,4,22079,1840041817
+Tappahannock,Tappahannock,Virginia,51057,Essex,37.9187,-76.8667,1919,277.6,shape,false,true,America/New_York,3,22560,1840006311
+Dayton,Dayton,Virginia,51165,Rockingham,38.4173,-78.9412,1915,716.9,shape,false,true,America/New_York,3,22821,1840006137
+Gate City,Gate City,Virginia,51169,Scott,36.6401,-82.5782,1910,185.3,shape,false,true,America/New_York,3,24251,1840006544
+Mount Jackson,Mount Jackson,Virginia,51171,Shenandoah,38.739,-78.651,1833,185.8,shape,false,true,America/New_York,3,22847 22842,1840006002
+Westlake Corner,Westlake Corner,Virginia,51067,Franklin,37.1249,-79.7076,1815,52.7,shape,false,false,America/New_York,3,24184 24121 24101,1840006477
+Stanley,Stanley,Virginia,51139,Page,38.5769,-78.5027,1811,487.8,shape,false,true,America/New_York,3,22851,1840006143
+Brightwood,Brightwood,Virginia,51113,Madison,38.4132,-78.188,1775,137.7,shape,false,false,America/New_York,3,22715,1840026738
+Lyndhurst,Lyndhurst,Virginia,51015,Augusta,38.022,-78.9516,1750,112.0,shape,false,false,America/New_York,3,22952 22980 24477,1840006245
+Exmore,Exmore,Virginia,51131,Northampton,37.5295,-75.8283,1744,258.9,shape,false,true,America/New_York,3,23350,1840006415
+Ferrum,Ferrum,Virginia,51067,Franklin,36.9314,-80.0148,1717,72.5,shape,false,false,America/New_York,3,24088,1840006473
+Laymantown,Laymantown,Virginia,51023,Botetourt,37.3628,-79.8524,1685,222.5,shape,false,false,America/New_York,3,24175,1840006377
+Courtland,Courtland,Virginia,51175,Southampton,36.7123,-77.062,1642,691.4,shape,false,true,America/New_York,3,23837,1840006520
+Chatham,Chatham,Virginia,51143,Pittsylvania,36.8185,-79.3967,1637,311.4,shape,false,true,America/New_York,3,24531,1840006494
+Clarksville,Clarksville,Virginia,51117,Mecklenburg,36.6171,-78.5638,1629,216.1,shape,false,true,America/New_York,3,23927,1840006539
+Rustburg,Rustburg,Virginia,51031,Campbell,37.2712,-79.0962,1610,49.7,shape,false,false,America/New_York,3,24588,1840006436
+Weber City,Weber City,Virginia,51169,Scott,36.6236,-82.5632,1591,358.9,shape,false,true,America/New_York,3,24290,1840006547
+Appalachia,Appalachia,Virginia,51195,Wise,36.9098,-82.7882,1585,177.8,shape,false,true,America/New_York,3,24216 24219,1840006480
+Apple Mountain Lake,Apple Mountain Lake,Virginia,51187,Warren,38.9231,-78.1033,1584,356.5,shape,false,false,America/New_York,3,22642,1840026696
+Haymarket,Haymarket,Virginia,51153,Prince William,38.8121,-77.6363,1572,1056.9,shape,false,true,America/New_York,3,20169 20168,1840006103
+Middletown,Middletown,Virginia,51069,Frederick,39.0287,-78.2781,1558,776.1,shape,false,true,America/New_York,3,22645,1840005776
+Bowling Green,Bowling Green,Virginia,51033,Caroline,38.0535,-77.3473,1538,370.2,shape,false,true,America/New_York,3,22427 22428,1840006303
+Coeburn,Coeburn,Virginia,51195,Wise,36.9444,-82.4698,1533,303.5,shape,false,true,America/New_York,3,24230,1840006482
+Stuart,Stuart,Virginia,51141,Patrick,36.6404,-80.2687,1533,194.8,shape,false,true,America/New_York,3,24171,1840006549
+Rural Retreat,Rural Retreat,Virginia,51197,Wythe,36.901,-81.2765,1531,259.7,shape,false,true,America/New_York,3,24368,1840006503
+Shawsville,Shawsville,Virginia,51121,Montgomery,37.1707,-80.2527,1529,248.1,shape,false,false,America/New_York,3,24162 24087,1840006445
+Bull Run Mountain Estates,Bull Run Mountain Estates,Virginia,51153,Prince William,38.9106,-77.6638,1525,334.6,shape,false,false,America/New_York,3,20169,1840026706
+Camp Barrett,Camp Barrett,Virginia,51179,Stafford,38.5198,-77.4441,1506,84.8,shape,true,false,America/New_York,4,22134,1840153066
+Wattsville,Wattsville,Virginia,51001,Accomack,37.9301,-75.4943,1480,133.2,shape,false,false,America/New_York,3,23337 23415,1840024748
+Stanleytown,Stanleytown,Virginia,51089,Henry,36.7514,-79.9524,1463,201.9,shape,false,false,America/New_York,3,24168 24055,1840006558
+Great Falls Crossing,Great Falls Crossing,Virginia,51059,Fairfax,38.9808,-77.3256,1462,946.7,shape,false,false,America/New_York,3,20194,1840153059
+Nokesville,Nokesville,Virginia,51153,Prince William,38.694,-77.5757,1452,58.5,shape,false,false,America/New_York,3,20181 20182,1840006096
+Onancock,Onancock,Virginia,51001,Accomack,37.7102,-75.7434,1434,529.1,shape,false,true,America/New_York,3,23417,1840006326
+Adwolf,Adwolf,Virginia,51173,Smyth,36.7942,-81.5937,1434,60.0,shape,false,false,America/New_York,3,24354 24319,1840006511
+Mountain Road,Mountain Road,Virginia,51083,Halifax,36.7585,-78.989,1419,63.9,shape,false,false,America/New_York,3,24558,1840024812
+Bracey,Bracey,Virginia,51117,Mecklenburg,36.5762,-78.1107,1417,42.1,shape,false,false,America/New_York,3,23919 23950,1840024859
+Nellysford,Nellysford,Virginia,51125,Nelson,37.9132,-78.8829,1396,56.0,shape,false,false,America/New_York,3,22958,1840024714
+Central Garage,Central Garage,Virginia,51101,King William,37.7458,-77.1316,1393,111.6,shape,false,false,America/New_York,3,23086 23009,1840024751
+Penhook,Penhook,Virginia,51067,Franklin,36.9908,-79.6318,1390,48.0,shape,false,false,America/New_York,3,24137,1840006475
+Kenbridge,Kenbridge,Virginia,51111,Lunenburg,36.9609,-78.1284,1389,232.6,shape,false,true,America/New_York,3,23944,1840006497
+Innovation,Innovation,Virginia,51153,Prince William,38.7539,-77.5248,1389,185.8,shape,false,false,America/New_York,4,20110 20109,1840153060
+Clintwood,Clintwood,Virginia,51051,Dickenson,37.1507,-82.4573,1381,256.4,shape,false,true,America/New_York,3,24228,1840006459
+Hurt,Hurt,Virginia,51143,Pittsylvania,37.0954,-79.3029,1378,153.1,shape,false,true,America/New_York,3,24563,1840006495
+Glasgow,Glasgow,Virginia,51163,Rockbridge,37.6348,-79.4514,1376,347.3,shape,false,true,America/New_York,3,24555,1840006315
+Twin Lakes,Twin Lakes,Virginia,51079,Greene,38.2504,-78.4417,1374,446.1,shape,false,false,America/New_York,3,22968,1840026751
+Basye,Basye,Virginia,51171,Shenandoah,38.8182,-78.7659,1341,59.5,shape,false,false,America/New_York,3,22810 22842,1840006000
+Cana,Cana,Virginia,51035,Carroll,36.5816,-80.6688,1330,64.8,shape,false,false,America/New_York,3,24317,1840006525
+Edinburg,Edinburg,Virginia,51171,Shenandoah,38.8235,-78.5634,1321,688.6,shape,false,true,America/New_York,3,22824,1840006001
+Halifax,Halifax,Virginia,51083,Halifax,36.7612,-78.9279,1320,134.7,shape,false,true,America/New_York,3,24558,1840006505
+Passapatanzy,Passapatanzy,Virginia,51099,King George,38.2942,-77.3266,1284,243.3,shape,false,false,America/New_York,3,22485,1840026759
+Kilmarnock,Kilmarnock,Virginia,51103,Lancaster,37.7118,-76.3834,1284,145.5,shape,false,true,America/New_York,3,22482,1840006370
+Ruckersville,Ruckersville,Virginia,51079,Greene,38.2314,-78.3756,1275,178.6,shape,false,false,America/New_York,3,22968,1840026750
+Jonesville,Jonesville,Virginia,51105,Lee,36.687,-83.1153,1259,437.6,shape,false,true,America/New_York,3,24263,1840006534
+Gretna,Gretna,Virginia,51143,Pittsylvania,36.9492,-79.3647,1227,283.8,shape,false,true,America/New_York,3,24557,1840006493
+Arrington,Arrington,Virginia,51125,Nelson,37.6744,-78.8928,1226,45.5,shape,false,false,America/New_York,3,22922,1840024712
+Brookneal,Brookneal,Virginia,51031,Campbell,37.0532,-78.9485,1225,135.3,shape,false,true,America/New_York,3,24528,1840006439
+Greenville,Greenville,Virginia,51015,Augusta,38.0036,-79.1523,1224,129.2,shape,false,false,America/New_York,3,24440,1840006243
+Claypool Hill,Claypool Hill,Virginia,51185,Tazewell,37.0633,-81.7505,1219,85.6,shape,false,false,America/New_York,3,24637 24609,1840006449
+Honaker,Honaker,Virginia,51167,Russell,37.0156,-81.9686,1213,279.3,shape,false,true,America/New_York,3,24260,1840006490
+Cedar Bluff,Cedar Bluff,Virginia,51185,Tazewell,37.0876,-81.7633,1210,223.5,shape,false,true,America/New_York,3,24609,1840006452
+Lawrenceville,Lawrenceville,Virginia,51025,Brunswick,36.7565,-77.8539,1199,402.1,shape,false,true,America/New_York,3,23868,1840006510
+Belview,Belview,Virginia,51121,Montgomery,37.1688,-80.511,1197,261.3,shape,false,true,America/New_York,3,24141 24073,1840041677
+Belmont Estates,Belmont Estates,Virginia,51165,Rockingham,38.4464,-78.9228,1192,692.8,shape,false,false,America/New_York,3,22801,1840026719
+Captains Cove,Captains Cove,Virginia,51001,Accomack,38.0003,-75.4173,1189,155.5,shape,false,false,America/New_York,3,23356,1840024722
+Cape Charles,Cape Charles,Virginia,51131,Northampton,37.257,-76.0093,1183,128.6,shape,false,true,America/New_York,3,23310,1840006416
+Earlysville,Earlysville,Virginia,51003,Albemarle,38.1579,-78.4688,1182,148.9,shape,false,false,America/New_York,3,22936,1840117573
+Independence,Independence,Virginia,51077,Grayson,36.6254,-81.1511,1176,193.8,shape,false,true,America/New_York,3,24348,1840006562
+Gratton,Gratton,Virginia,51185,Tazewell,37.1351,-81.4212,1176,83.6,shape,false,false,America/New_York,3,24651,1840026868
+Benns Church,Benns Church,Virginia,51093,Isle of Wight,36.937,-76.5842,1157,108.9,shape,false,false,America/New_York,3,23314 23430,1840024806
+St. Paul,St. Paul,Virginia,51195,Wise,36.9068,-82.3163,1129,316.3,shape,false,true,America/New_York,3,24283,1840006484
+Castlewood,Castlewood,Virginia,51167,Russell,36.8782,-82.2879,1122,60.2,shape,false,false,America/New_York,3,24224,1840006489
+Concord,Concord,Virginia,51031,Campbell,37.3426,-78.9862,1117,77.2,shape,false,false,America/New_York,3,24538,1840026857
+Laurel Park,Laurel Park,Virginia,51089,Henry,36.6871,-79.7872,1114,330.2,shape,false,false,America/New_York,3,24112,1840006556
+Buchanan,Buchanan,Virginia,51023,Botetourt,37.5212,-79.6893,1108,197.2,shape,false,true,America/New_York,3,24066,1840006379
+Ridgeway,Ridgeway,Virginia,51089,Henry,36.5781,-79.8583,1095,442.4,shape,false,true,America/New_York,3,24148,1840006560
+Mathews,Mathews,Virginia,51115,Mathews,37.4365,-76.3245,1094,212.9,shape,false,false,America/New_York,3,23109,1840026849
+Elliston,Elliston,Virginia,51121,Montgomery,37.2164,-80.2245,1092,386.2,shape,false,false,America/New_York,3,24087,1840024789
+Jolivue,Jolivue,Virginia,51015,Augusta,38.1148,-79.0668,1083,222.8,shape,false,false,America/New_York,3,24401,1840006244
+Occoquan,Occoquan,Virginia,51153,Prince William,38.6825,-77.2606,1072,2885.4,shape,false,true,America/New_York,2,22192 22125,1840006108
+Union Hall,Union Hall,Virginia,51067,Franklin,37.0206,-79.6837,1071,28.5,shape,false,false,America/New_York,3,24176,1840006476
+Chester Gap,Chester Gap,Virginia,51157,Rappahannock,38.8534,-78.1325,1069,198.3,shape,false,false,America/New_York,3,22640 22623,1840026718
+McGaheysville,McGaheysville,Virginia,51165,Rockingham,38.3724,-78.7327,1064,481.3,shape,false,false,America/New_York,3,22840,1840116639
+Chatmoss,Chatmoss,Virginia,51089,Henry,36.6758,-79.7981,1064,76.7,shape,false,false,America/New_York,3,24054 24112,1840006552
+Emory,Emory,Virginia,51191,Washington,36.78,-81.828,1052,99.2,shape,false,false,America/New_York,3,24327 24361 24340,1840024856
+Plum Creek,Plum Creek,Virginia,51121,Montgomery,37.1267,-80.5048,1047,260.6,shape,false,false,America/New_York,3,24073,1840037471
+Riverdale,Riverdale,Virginia,51083,Halifax,36.6764,-78.8943,1046,49.7,shape,false,false,America/New_York,3,24592,1840024814
+Dooms,Dooms,Virginia,51015,Augusta,38.1027,-78.8495,1040,99.8,shape,false,false,America/New_York,3,22980,1840006242
+Harriston,Harriston,Virginia,51015,Augusta,38.212,-78.8283,1033,252.9,shape,false,false,America/New_York,3,24441,1840026752
+Atkins,Atkins,Virginia,51173,Smyth,36.8659,-81.4045,1028,64.0,shape,false,false,America/New_York,3,24311,1840006512
+Maurertown,Maurertown,Virginia,51171,Shenandoah,38.9325,-78.4615,1019,182.0,shape,false,false,America/New_York,3,22644,1840026690
+Springville,Springville,Virginia,51185,Tazewell,37.194,-81.3999,1017,52.6,shape,false,false,America/New_York,3,24630,1840026867
+Blairs,Blairs,Virginia,51143,Pittsylvania,36.6958,-79.3774,1015,112.8,shape,false,false,America/New_York,3,24527 24540,1840026886
+Prices Fork,Prices Fork,Virginia,51121,Montgomery,37.207,-80.4852,1014,193.9,shape,false,false,America/New_York,3,24060,1840024791
+Pembroke,Pembroke,Virginia,51071,Giles,37.3219,-80.6365,1005,357.3,shape,false,true,America/New_York,3,24136,1840006434
+Accomac,Accomac,Virginia,51001,Accomack,37.7196,-75.6673,981,927.8,shape,false,true,America/New_York,3,23301,1840006320
+Rio,Rio,Virginia,51003,Albemarle,38.0804,-78.4732,969,605.5,shape,false,false,America/New_York,3,22901,1840037470
+Boyce,Boyce,Virginia,51043,Clarke,39.0933,-78.0601,956,484.3,shape,false,true,America/New_York,3,22620,1840005893
+Cluster Springs,Cluster Springs,Virginia,51083,Halifax,36.6128,-78.9221,953,42.9,shape,false,false,America/New_York,3,24520 24592,1840024811
+Riner,Riner,Virginia,51121,Montgomery,37.0676,-80.4405,953,252.3,shape,false,false,America/New_York,3,24149,1840024792
+Goochland,Goochland,Virginia,51075,Goochland,37.6974,-77.8943,953,81.6,shape,false,false,America/New_York,3,23063 23014,1840026810
+Jarratt,Jarratt,Virginia,51183,Sussex,36.816,-77.4689,935,286.9,shape,false,true,America/New_York,3,23867,1840006498
+Pound,Pound,Virginia,51195,Wise,37.126,-82.6071,933,138.3,shape,false,true,America/New_York,3,24279,1840006483
+Glenvar,Glenvar,Virginia,51161,Roanoke,37.276,-80.1257,932,258.0,shape,false,false,America/New_York,3,24153,1840026859
+Craigsville,Craigsville,Virginia,51015,Augusta,38.0838,-79.3853,931,173.9,shape,false,true,America/New_York,3,24430,1840006250
+New Hope,New Hope,Virginia,51015,Augusta,38.1954,-78.9044,927,61.9,shape,false,false,America/New_York,3,22980 24401 24469 24431 24437,1840024687
+Amelia Court House,Amelia Court House,Virginia,51007,Amelia,37.3367,-77.9882,916,93.9,shape,false,false,America/New_York,3,23002,1840026850
+Henry Fork,Henry Fork,Virginia,51067,Franklin,36.9679,-79.871,897,127.3,shape,false,false,America/New_York,3,24151,1840026877
+Rushmere,Rushmere,Virginia,51093,Isle of Wight,37.0787,-76.6778,896,35.3,shape,false,false,America/New_York,3,23430,1840006486
+Mount Sidney,Mount Sidney,Virginia,51015,Augusta,38.2586,-78.9654,894,207.8,shape,false,false,America/New_York,3,24467,1840024686
+Bassett,Bassett,Virginia,51089,Henry,36.7615,-79.9866,852,95.2,shape,false,false,America/New_York,3,24055,1840006551
+Remington,Remington,Virginia,51061,Fauquier,38.5346,-77.8083,836,545.3,shape,false,true,America/New_York,3,22734,1840006056
+East Stone Gap,East Stone Gap,Virginia,51195,Wise,36.8657,-82.7435,828,595.3,shape,false,false,America/New_York,3,24246 24219,1840117574
+Deltaville,Deltaville,Virginia,51119,Middlesex,37.5525,-76.3331,809,77.0,shape,false,false,America/New_York,3,23043,1840026817
+Disputanta,Disputanta,Virginia,51149,Prince George,37.1236,-77.2249,807,113.1,shape,false,false,America/New_York,3,23842,1840037341
+Fieldale,Fieldale,Virginia,51089,Henry,36.7009,-79.9424,802,199.7,shape,false,false,America/New_York,3,24089,1840006550
+New Kent,New Kent,Virginia,51127,New Kent,37.5095,-76.9863,796,68.5,shape,false,false,America/New_York,3,23124,1840026835
+Skyland Estates,Skyland Estates,Virginia,51187,Warren,38.9329,-78.085,791,127.6,shape,false,false,America/New_York,3,22642,1840026697
+Grundy,Grundy,Virginia,51027,Buchanan,37.2754,-82.0988,777,60.2,shape,false,true,America/New_York,3,24614,1840006429
+Damascus,Damascus,Virginia,51191,Washington,36.6326,-81.7891,767,371.3,shape,false,true,America/New_York,3,24236,1840006530
+Parksley,Parksley,Virginia,51001,Accomack,37.7863,-75.6539,764,478.6,shape,false,true,America/New_York,3,23421,1840006329
+Motley,Motley,Virginia,51143,Pittsylvania,37.0657,-79.3474,762,74.2,shape,false,false,America/New_York,3,24563 24557,1840026887
+Pastoria,Pastoria,Virginia,51001,Accomack,37.7446,-75.6352,761,133.0,shape,false,false,America/New_York,3,23421,1840024740
+Keysville,Keysville,Virginia,51037,Charlotte,37.039,-78.4804,760,249.5,shape,false,true,America/New_York,3,23947,1840006466
+Opal,Opal,Virginia,51061,Fauquier,38.6201,-77.8049,756,93.1,shape,false,false,America/New_York,3,22712 20186 20187,1840024595
+Shenandoah Shores,Shenandoah Shores,Virginia,51187,Warren,38.9621,-78.1414,753,299.5,shape,false,false,America/New_York,3,22630,1840026698
+Nassawadox,Nassawadox,Virginia,51131,Northampton,37.4762,-75.8591,742,432.6,shape,false,true,America/New_York,3,23413,1840006418
+Dahlgren Center,Dahlgren Center,Virginia,51099,King George,38.34,-77.0324,723,68.1,shape,true,true,America/New_York,4,22448,1840043194
+Sugar Grove,Sugar Grove,Virginia,51173,Smyth,36.7689,-81.4075,723,95.8,shape,false,false,America/New_York,3,24375,1840006513
+Barboursville,Barboursville,Virginia,51137,Orange,38.1704,-78.2831,708,122.0,shape,false,false,America/New_York,3,22942 22923,1840116754
+Rich Creek,Rich Creek,Virginia,51071,Giles,37.3831,-80.8203,707,333.3,shape,false,true,America/New_York,3,24147,1840006435
+Seven Mile Ford,Seven Mile Ford,Virginia,51173,Smyth,36.8139,-81.6309,697,210.6,shape,false,false,America/New_York,3,24354,1840026900
+Charlotte Court House,Charlotte Court House,Virginia,51037,Charlotte,37.0563,-78.6377,696,67.8,shape,false,true,America/New_York,3,23923,1840006465
+Sedley,Sedley,Virginia,51175,Southampton,36.7753,-76.9862,687,78.4,shape,false,false,America/New_York,3,23878,1840026906
+Dryden,Dryden,Virginia,51105,Lee,36.7764,-82.9433,684,37.4,shape,false,false,America/New_York,3,24277 24243,1840006531
+Ivy,Ivy,Virginia,51003,Albemarle,38.0611,-78.5987,682,111.5,shape,false,false,America/New_York,3,22901 22903 22945,1840026776
+Fort Chiswell,Fort Chiswell,Virginia,51197,Wythe,36.9444,-80.9577,680,19.4,shape,false,false,America/New_York,3,24382 24360,1840037378
+Boissevain,Boissevain,Virginia,51185,Tazewell,37.2809,-81.3802,680,123.2,shape,false,false,America/New_York,3,24605 24606,1840116799
+Hamilton,Hamilton,Virginia,51107,Loudoun,39.1349,-77.6642,674,1041.5,shape,false,true,America/New_York,3,20158 20159,1840005870
+Round Hill,Round Hill,Virginia,51107,Loudoun,39.1319,-77.7681,668,587.6,shape,false,true,America/New_York,3,20141 20142,1840005876
+Blue Ridge Shores,Blue Ridge Shores,Virginia,51109,Louisa,38.1091,-78.0236,666,187.6,shape,false,false,America/New_York,3,23093,1840026786
+Baywood,Baywood,Virginia,51077,Grayson,36.6172,-81.0094,661,79.9,shape,false,false,America/New_York,3,24333,1840118819
+Onley,Onley,Virginia,51001,Accomack,37.6915,-75.718,656,316.7,shape,false,true,America/New_York,3,23418,1840006327
+Big Stone Gap East,Big Stone Gap East,Virginia,51195,Wise,36.8785,-82.7444,656,529.0,shape,false,false,America/New_York,3,24219,1840153057
+The University of Virginia's College at Wise,The University of Virginia's College at Wise,Virginia,51195,Wise,36.9734,-82.5573,650,583.3,shape,false,false,America/New_York,3,24293,1840147149
+Saluda,Saluda,Virginia,51119,Middlesex,37.6053,-76.5938,650,77.1,shape,false,false,America/New_York,3,23149,1840026816
+Allison Gap,Allison Gap,Virginia,51173,Smyth,36.8998,-81.7869,647,95.1,shape,false,false,America/New_York,3,24370,1840140390
+Middleburg,Middleburg,Virginia,51107,Loudoun,38.9715,-77.7429,643,239.4,shape,false,true,America/New_York,3,20117 20118,1840005874
+Gwynn,Gwynn,Virginia,51115,Mathews,37.4984,-76.2883,639,105.2,shape,false,false,America/New_York,3,23066 23064,1840026848
+Gargatha,Gargatha,Virginia,51001,Accomack,37.7905,-75.582,634,82.7,shape,false,false,America/New_York,3,23421,1840024726
+Camptown,Camptown,Virginia,51093,Isle of Wight,36.6833,-76.8965,627,39.8,shape,false,true,America/New_York,4,23851,1840041693
+Shenandoah Retreat,Shenandoah Retreat,Virginia,51043,Clarke,39.1373,-77.8637,622,159.5,shape,false,false,America/New_York,3,20135,1840026669
+Sandy Level,Sandy Level,Virginia,51089,Henry,36.5645,-79.7276,621,35.5,shape,false,false,America/New_York,3,24148 24054,1840006557
+Fincastle,Fincastle,Virginia,51023,Botetourt,37.5006,-79.8749,621,117.2,shape,false,true,America/New_York,3,24090,1840006378
+Mineral,Mineral,Virginia,51109,Louisa,38.0068,-77.9061,614,266.9,shape,false,true,America/New_York,3,23117,1840006313
+Ivanhoe,Ivanhoe,Virginia,51197,Wythe,36.8428,-80.9683,608,87.6,shape,false,false,America/New_York,3,24350,1840026891
+Gasburg,Gasburg,Virginia,51025,Brunswick,36.5588,-77.8722,606,41.2,shape,false,false,America/New_York,3,23887 23857,1840024816
+Mallow,Mallow,Virginia,51005,Alleghany,37.7676,-79.9702,604,352.9,shape,false,false,America/New_York,3,24426,1840117168
+Haysi,Haysi,Virginia,51051,Dickenson,37.2151,-82.2931,592,62.5,shape,false,true,America/New_York,3,24256,1840006457
+Lafayette,Lafayette,Virginia,51121,Montgomery,37.233,-80.2051,582,352.6,shape,false,false,America/New_York,3,24087,1840024790
+Max Meadows,Max Meadows,Virginia,51197,Wythe,36.9798,-80.9678,580,48.8,shape,false,false,America/New_York,3,24382 24360,1840006502
+Dillwyn,Dillwyn,Virginia,51029,Buckingham,37.5411,-78.4613,580,347.5,shape,false,true,America/New_York,3,23936,1840006384
+Savageville,Savageville,Virginia,51001,Accomack,37.6825,-75.7592,574,206.8,shape,false,false,America/New_York,3,23417,1840024745
+Scottsville,Scottsville,Virginia,51003,Albemarle,37.8064,-78.4919,571,144.8,shape,false,true,America/New_York,3,24590,1840006281
+Floyd,Floyd,Virginia,51063,Floyd,36.9118,-80.3184,570,482.5,shape,false,true,America/New_York,3,24091,1840006496
+La Crosse,La Crosse,Virginia,51117,Mecklenburg,36.7014,-78.0943,565,178.4,shape,false,true,America/New_York,3,23950,1840006540
+Clover,Clover,Virginia,51083,Halifax,36.8389,-78.7284,563,31.0,shape,false,false,America/New_York,3,24534,1840024810
+Cheriton,Cheriton,Virginia,51131,Northampton,37.2919,-75.9678,562,199.4,shape,false,true,America/New_York,3,23310 23316,1840006417
+Atlantic,Atlantic,Virginia,51001,Accomack,37.9023,-75.5058,560,36.7,shape,false,false,America/New_York,3,23303,1840024718
+McKenney,McKenney,Virginia,51053,Dinwiddie,36.9853,-77.7219,559,232.6,shape,false,true,America/New_York,3,23872,1840006463
+Boykins,Boykins,Virginia,51175,Southampton,36.5779,-77.1989,550,305.8,shape,false,true,America/New_York,3,23827,1840006517
+Quantico,Quantico,Virginia,51153,Prince William,38.5224,-77.2902,543,1753.1,shape,false,true,America/New_York,3,22134 22135,1840006109
+Villa Heights,Villa Heights,Virginia,51089,Henry,36.6981,-79.8994,540,217.4,shape,false,false,America/New_York,3,24112,1840006559
+Irvington,Irvington,Virginia,51103,Lancaster,37.6621,-76.4205,519,133.1,shape,false,true,America/New_York,3,22480,1840006369
+Dante,Dante,Virginia,51167,Russell,36.9792,-82.296,518,28.4,shape,false,false,America/New_York,3,24237 24272,1840026885
+Stewartsville,Stewartsville,Virginia,51019,Bedford,37.265,-79.7899,514,78.5,shape,false,false,America/New_York,3,24179 24095,1840119431
+Mount Crawford,Mount Crawford,Virginia,51165,Rockingham,38.3601,-78.9413,509,389.7,shape,false,true,America/New_York,3,22841,1840006138
+Drakes Branch,Drakes Branch,Virginia,51037,Charlotte,36.9933,-78.6009,508,47.4,shape,false,true,America/New_York,3,23937,1840006464
+Keezletown,Keezletown,Virginia,51165,Rockingham,38.4115,-78.8004,507,237.4,shape,false,false,America/New_York,3,22832,1840116613
+Chase Crossing,Chase Crossing,Virginia,51001,Accomack,37.7604,-75.6658,502,234.2,shape,false,false,America/New_York,3,23357,1840024724
+Stanardsville,Stanardsville,Virginia,51079,Greene,38.2991,-78.4368,492,609.4,shape,false,true,America/New_York,3,22973,1840006239
+New Church,New Church,Virginia,51001,Accomack,37.9826,-75.5291,487,99.4,shape,false,false,America/New_York,3,23415,1840024738
+Burkeville,Burkeville,Virginia,51135,Nottoway,37.1879,-78.2012,485,187.1,shape,false,true,America/New_York,3,23922,1840006461
+Riverview,Riverview,Virginia,51195,Wise,36.9326,-82.4846,479,324.3,shape,false,false,America/New_York,3,24230,1840037353
+Southampton Meadows,Southampton Meadows,Virginia,51175,Southampton,36.5916,-76.9293,479,468.3,shape,false,true,America/New_York,3,23851,1840043157
+Ewing,Ewing,Virginia,51105,Lee,36.6381,-83.4291,476,48.8,shape,false,false,America/New_York,3,24248,1840001726
+Powhatan,Powhatan,Virginia,51145,Powhatan,37.5427,-77.9267,473,88.1,shape,false,false,America/New_York,3,23139,1840037427
+Troutville,Troutville,Virginia,51023,Botetourt,37.4168,-79.8779,467,260.7,shape,false,true,America/New_York,3,24175,1840006380
+Esmont,Esmont,Virginia,51003,Albemarle,37.8284,-78.5959,456,48.4,shape,false,false,America/New_York,3,22937,1840026774
+Selma,Selma,Virginia,51005,Alleghany,37.8041,-79.8495,455,404.2,shape,false,false,America/New_York,3,24474,1840006364
+Hot Springs,Hot Springs,Virginia,51017,Bath,38.0013,-79.8239,455,31.5,shape,false,false,America/New_York,3,24445,1840026779
+Horntown,Horntown,Virginia,51001,Accomack,37.9655,-75.456,453,33.2,shape,false,false,America/New_York,3,23395,1840024730
+Oak Level,Oak Level,Virginia,51089,Henry,36.7944,-79.9391,453,28.8,shape,false,false,America/New_York,3,24055,1840006554
+Mappsville,Mappsville,Virginia,51001,Accomack,37.8435,-75.5686,445,218.3,shape,false,false,America/New_York,3,23407 23359 23308,1840024734
+Draper,Draper,Virginia,51155,Pulaski,37.0012,-80.7372,441,78.8,shape,false,false,America/New_York,3,24324,1840024801
+Shipman,Shipman,Virginia,51125,Nelson,37.7272,-78.8424,439,63.1,shape,false,false,America/New_York,3,22971,1840024716
+Phenix,Phenix,Virginia,51037,Charlotte,37.0811,-78.7485,437,146.3,shape,false,true,America/New_York,3,23959,1840006467
+Urbanna,Urbanna,Virginia,51119,Middlesex,37.6395,-76.5747,437,398.7,shape,false,true,America/New_York,3,23175,1840003850
+Melfa,Melfa,Virginia,51001,Accomack,37.6489,-75.7407,436,280.2,shape,false,true,America/New_York,3,23410,1840006325
+Bland,Bland,Virginia,51021,Bland,37.1,-81.1161,433,80.8,shape,false,false,America/New_York,3,24315,1840026871
+Montvale,Montvale,Virginia,51019,Bedford,37.3865,-79.7252,424,67.8,shape,false,false,America/New_York,3,24064 24122,1840026837
+Claremont,Claremont,Virginia,51181,Surry,37.2273,-76.9666,421,64.0,shape,false,true,America/New_York,3,23899,1840006471
+Wintergreen,Wintergreen,Virginia,51125,Nelson,37.9161,-78.9382,413,18.1,shape,false,false,America/New_York,3,22958 22967,1840024717
+Boston,Boston,Virginia,51001,Accomack,37.6039,-75.8437,406,61.1,shape,false,false,America/New_York,3,23420,1840024721
+Bloxom,Bloxom,Virginia,51001,Accomack,37.8292,-75.6214,398,302.5,shape,false,true,America/New_York,3,23308,1840006322
+Iron Gate,Iron Gate,Virginia,51005,Alleghany,37.7985,-79.7904,397,348.2,shape,false,true,America/New_York,3,24448,1840006366
+Low Moor,Low Moor,Virginia,51005,Alleghany,37.7952,-79.8695,389,133.0,shape,false,false,America/New_York,3,24474 24457,1840006363
+New River,New River,Virginia,51155,Pulaski,37.1408,-80.593,387,379.9,shape,false,false,America/New_York,3,24141 24129,1840024803
+Hiltons,Hiltons,Virginia,51169,Scott,36.6548,-82.4678,385,123.9,shape,false,false,America/New_York,3,24258 24251,1840115618
+Madison,Madison,Virginia,51113,Madison,38.3794,-78.2586,383,202.3,shape,false,true,America/New_York,3,22727,1840006186
+Lovingston,Lovingston,Virginia,51125,Nelson,37.7605,-78.8688,382,36.6,shape,false,false,America/New_York,3,22949,1840024713
+Moneta,Moneta,Virginia,51019,Bedford,37.1886,-79.6133,378,38.1,shape,false,false,America/New_York,3,24121,1840037272
+North Garden,North Garden,Virginia,51003,Albemarle,37.9612,-78.6334,374,51.0,shape,false,false,America/New_York,3,22959,1840117239
+Bastian,Bastian,Virginia,51021,Bland,37.1535,-81.1525,373,122.6,shape,false,false,America/New_York,3,24314,1840037328
+Montross,Montross,Virginia,51193,Westmoreland,38.0941,-76.8229,368,137.9,shape,false,true,America/New_York,3,22520,1840006283
+Brodnax,Brodnax,Virginia,51025,Brunswick,36.7033,-78.0318,365,200.0,shape,false,true,America/New_York,3,23920,1840006509
+Fries,Fries,Virginia,51077,Grayson,36.714,-80.9752,364,220.3,shape,false,true,America/New_York,3,24330 24333,1840006561
+Toms Brook,Toms Brook,Virginia,51171,Shenandoah,38.9465,-78.44,363,396.7,shape,false,true,America/New_York,3,22660,1840006005
+Nickelsville,Nickelsville,Virginia,51169,Scott,36.7517,-82.416,360,290.1,shape,false,true,America/New_York,3,24271,1840006546
+Clifton,Clifton,Virginia,51059,Fairfax,38.7802,-77.3866,358,408.5,shape,false,true,America/New_York,3,20124,1840006043
+Clinchco,Clinchco,Virginia,51051,Dickenson,37.1588,-82.3562,354,48.9,shape,false,true,America/New_York,3,24226,1840006458
+Cleveland,Cleveland,Virginia,51167,Russell,36.9434,-82.1527,352,257.6,shape,false,true,America/New_York,3,24225,1840006491
+Deerfield,Deerfield,Virginia,51015,Augusta,38.1954,-79.4105,351,41.1,shape,false,false,America/New_York,3,24432,1840024684
+Stony Creek,Stony Creek,Virginia,51183,Sussex,36.948,-77.4001,350,234.7,shape,false,true,America/New_York,3,23882,1840006499
+Parrott,Parrott,Virginia,51155,Pulaski,37.2168,-80.6241,350,40.8,shape,false,false,America/New_York,3,24132,1840024804
+Tangier,Tangier,Virginia,51001,Accomack,37.8235,-75.9934,345,246.0,shape,false,true,America/New_York,3,23440,1840006331
+Port Republic,Port Republic,Virginia,51165,Rockingham,38.2894,-78.8134,343,59.2,shape,false,false,America/New_York,3,24471 24441,1840118344
+Fairfield,Fairfield,Virginia,51163,Rockbridge,37.8827,-79.2829,337,192.1,shape,false,false,America/New_York,3,24435,1840037344
+Keswick,Keswick,Virginia,51003,Albemarle,38.0127,-78.3613,336,65.1,shape,false,false,America/New_York,3,22947,1840118152
+Cumberland,Cumberland,Virginia,51049,Cumberland,37.4914,-78.2577,334,31.0,shape,false,false,America/New_York,3,23040,1840026820
+Keokee,Keokee,Virginia,51105,Lee,36.8622,-82.9161,327,26.8,shape,false,false,America/New_York,3,24265,1840006533
+Sperryville,Sperryville,Virginia,51157,Rappahannock,38.6562,-78.2323,327,141.7,shape,false,false,America/New_York,3,22740,1840026717
+Newsoms,Newsoms,Virginia,51175,Southampton,36.6262,-77.1248,325,251.1,shape,false,true,America/New_York,3,23874,1840006522
+Schuyler,Schuyler,Virginia,51125,Nelson,37.7939,-78.7002,323,81.0,shape,false,false,America/New_York,3,22969,1840024715
+Flint Hill,Flint Hill,Virginia,51157,Rappahannock,38.7666,-78.1028,319,70.8,shape,false,false,America/New_York,3,22640 22627,1840026716
+Callaghan,Callaghan,Virginia,51005,Alleghany,37.8112,-80.0871,317,80.8,shape,false,false,America/New_York,3,24426,1840024750
+Goshen,Goshen,Virginia,51163,Rockbridge,37.9901,-79.5067,317,70.8,shape,false,true,America/New_York,3,24439,1840006316
+Kincora,Kincora,Virginia,51107,Loudoun,39.0383,-77.4357,317,228.2,shape,false,false,America/New_York,3,20166,1840151358
+Eastville,Eastville,Virginia,51131,Northampton,37.3511,-75.9417,316,155.1,shape,false,true,America/New_York,3,23310 23347,1840006414
+Pounding Mill,Pounding Mill,Virginia,51185,Tazewell,37.079,-81.7106,314,49.8,shape,false,false,America/New_York,3,24637,1840119308
+Nelsonia,Nelsonia,Virginia,51001,Accomack,37.8224,-75.5896,314,69.5,shape,false,false,America/New_York,3,23414 23308,1840024737
+White Stone,White Stone,Virginia,51103,Lancaster,37.644,-76.3897,311,122.8,shape,false,true,America/New_York,3,22578,1840006371
+Dungannon,Dungannon,Virginia,51169,Scott,36.8285,-82.4681,309,314.3,shape,false,true,America/New_York,3,24245,1840006543
+Quinby,Quinby,Virginia,51001,Accomack,37.5533,-75.7368,298,102.6,shape,false,false,America/New_York,3,23423,1840024742
+Alberta,Alberta,Virginia,51025,Brunswick,36.8552,-77.8937,297,53.7,shape,false,true,America/New_York,3,23821,1840006508
+Keller,Keller,Virginia,51001,Accomack,37.6211,-75.7644,286,167.3,shape,false,true,America/New_York,3,23401 23410,1840006324
+Dinwiddie,Dinwiddie,Virginia,51053,Dinwiddie,37.085,-77.5865,280,21.3,shape,false,false,America/New_York,3,23841,1840140552
+Boydton,Boydton,Virginia,51117,Mecklenburg,36.666,-78.3908,279,131.3,shape,false,true,America/New_York,3,23917,1840006537
+Linville,Linville,Virginia,51165,Rockingham,38.52,-78.8358,277,187.7,shape,false,false,America/New_York,3,22834 22802,1840037347
+Ivor,Ivor,Virginia,51175,Southampton,36.9052,-76.8978,276,97.8,shape,false,true,America/New_York,3,23866,1840006521
+Ripplemead,Ripplemead,Virginia,51071,Giles,37.339,-80.6883,275,93.7,shape,false,false,America/New_York,3,24150,1840118699
+Fairview,Fairview,Virginia,51117,Mecklenburg,36.8292,-78.4653,274,99.4,shape,false,false,America/New_York,3,23924,1840024860
+The Plains,The Plains,Virginia,51061,Fauquier,38.8621,-77.7743,273,238.2,shape,false,true,America/New_York,3,20198,1840006057
+Buckingham Courthouse,Buckingham Courthouse,Virginia,51029,Buckingham,37.5541,-78.5514,272,94.2,shape,false,true,America/New_York,4,23921,1840041682
+Wachapreague,Wachapreague,Virginia,51001,Accomack,37.6063,-75.6897,270,182.6,shape,false,true,America/New_York,3,23480,1840003849
+Afton,Afton,Virginia,51125,Nelson,38.0266,-78.8357,263,45.1,shape,false,false,America/New_York,3,22920,1840118783
+Temperanceville,Temperanceville,Virginia,51001,Accomack,37.8991,-75.5526,262,29.6,shape,false,false,America/New_York,3,23442,1840024747
+Saxis,Saxis,Virginia,51001,Accomack,37.926,-75.7224,256,244.3,shape,false,true,America/New_York,3,23427,1840006330
+Carrsville,Carrsville,Virginia,51093,Isle of Wight,36.7088,-76.837,253,30.5,shape,false,false,America/New_York,3,23315 23851,1840024809
+Fairview Beach,Fairview Beach,Virginia,51099,King George,38.3282,-77.2424,251,720.3,shape,false,false,America/New_York,3,22485,1840001665
+Waterford,Waterford,Virginia,51107,Loudoun,39.1859,-77.6109,248,388.7,shape,false,false,America/New_York,3,20197,1840037282
+Savage Town,Savage Town,Virginia,51001,Accomack,37.55,-75.7983,247,9.8,shape,false,false,America/New_York,3,23420,1840024744
+Sherando,Sherando,Virginia,51015,Augusta,37.9889,-78.9442,246,13.4,shape,false,false,America/New_York,3,22952 24477,1840006246
+Painter,Painter,Virginia,51001,Accomack,37.5852,-75.7837,244,144.8,shape,false,true,America/New_York,3,23420,1840006328
+Metompkin,Metompkin,Virginia,51001,Accomack,37.7671,-75.6054,244,81.4,shape,false,false,America/New_York,3,23421,1840024735
+Dendron,Dendron,Virginia,51181,Surry,37.0364,-76.9241,243,26.3,shape,false,true,America/New_York,3,23888 23839,1840006470
+McMullin,McMullin,Virginia,51173,Smyth,36.8179,-81.5775,240,94.5,shape,false,false,America/New_York,3,24354,1840026899
+Weems,Weems,Virginia,51103,Lancaster,37.6554,-76.4497,235,168.1,shape,false,false,America/New_York,3,22576,1840118488
+Brucetown,Brucetown,Virginia,51069,Frederick,39.252,-78.0605,235,160.4,shape,false,false,America/New_York,3,22624 22622,1840037374
+Baskerville,Baskerville,Virginia,51117,Mecklenburg,36.6844,-78.2732,231,41.6,shape,false,false,America/New_York,3,23915 23970,1840024858
+Vansant,Vansant,Virginia,51027,Buchanan,37.2359,-82.0961,229,29.2,shape,false,false,America/New_York,3,24656 24614 24631,1840006430
+Modest Town,Modest Town,Virginia,51001,Accomack,37.8169,-75.5611,227,148.6,shape,false,false,America/New_York,3,23308,1840024736
+New Castle,New Castle,Virginia,51045,Craig,37.5013,-80.1119,224,286.5,shape,false,true,America/New_York,3,24127,1840006397
+Surry,Surry,Virginia,51181,Surry,37.1372,-76.8333,222,103.7,shape,false,true,America/New_York,3,23883,1840006472
+Lunenburg,Lunenburg,Virginia,51111,Lunenburg,36.9585,-78.2683,220,39.7,shape,false,false,America/New_York,3,23947 23974 23952,1840026889
+Yorktown,Yorktown,Virginia,51199,York,37.2352,-76.5146,217,132.7,shape,false,false,America/New_York,3,23690,1840006444
+Glen Wilton,Glen Wilton,Virginia,51023,Botetourt,37.7555,-79.8213,216,194.6,shape,false,false,America/New_York,3,24085 24438,1840037345
+Bobtown,Bobtown,Virginia,51001,Accomack,37.6493,-75.7998,214,23.1,shape,false,false,America/New_York,3,23410,1840024720
+Aldie,Aldie,Virginia,51107,Loudoun,38.9761,-77.645,211,53.8,shape,false,false,America/New_York,3,20105,1840117836
+Stickleyville,Stickleyville,Virginia,51105,Lee,36.7091,-82.9116,209,28.3,shape,false,false,America/New_York,3,24244,1840115741
+Boones Mill,Boones Mill,Virginia,51067,Franklin,37.1156,-79.9514,205,107.1,shape,false,true,America/New_York,3,24065,1840006478
+Cliftondale Park,Cliftondale Park,Virginia,51005,Alleghany,37.825,-79.7981,196,39.7,shape,false,false,America/New_York,3,24422,1840116888
+Pungoteague,Pungoteague,Virginia,51001,Accomack,37.629,-75.8171,195,28.9,shape,false,false,America/New_York,3,23420 23422,1840024741
+Bayside,Bayside,Virginia,51001,Accomack,37.7548,-75.7128,194,44.4,shape,false,false,America/New_York,3,23417,1840024719
+Catlett,Catlett,Virginia,51061,Fauquier,38.654,-77.637,190,22.8,shape,false,false,America/New_York,3,20119,1840023873
+Mount Clifton,Mount Clifton,Virginia,51171,Shenandoah,38.7617,-78.7166,186,160.8,shape,false,false,America/New_York,3,22847 22842,1840117215
+Troutdale,Troutdale,Virginia,51077,Grayson,36.7022,-81.4413,185,22.9,shape,false,true,America/New_York,3,24378,1840037463
+Free Union,Free Union,Virginia,51003,Albemarle,38.1539,-78.5594,185,35.7,shape,false,false,America/New_York,3,22901 22940,1840026775
+Abbs Valley,Abbs Valley,Virginia,51185,Tazewell,37.2395,-81.4616,184,31.3,shape,false,false,America/New_York,3,24605,1840118779
+Breaks,Breaks,Virginia,51027,Buchanan,37.3004,-82.2758,182,52.9,shape,false,false,America/New_York,3,24607,1840117558
+Big Island,Big Island,Virginia,51019,Bedford,37.5351,-79.3615,181,84.9,shape,false,false,America/New_York,3,24526,1840026836
+Brandy Station,Brandy Station,Virginia,51047,Culpeper,38.4977,-77.8899,180,105.3,shape,false,false,America/New_York,3,22714,1840116806
+Hallwood,Hallwood,Virginia,51001,Accomack,37.8774,-75.5897,172,159.1,shape,false,true,America/New_York,3,23359,1840006319
+Belspring,Belspring,Virginia,51155,Pulaski,37.1938,-80.6097,170,68.6,shape,false,false,America/New_York,3,24058,1840024800
+Cats Bridge,Cats Bridge,Virginia,51001,Accomack,37.5491,-75.7797,168,20.5,shape,false,false,America/New_York,3,23420,1840024723
+Midland,Midland,Virginia,51061,Fauquier,38.5984,-77.7213,167,15.9,shape,false,false,America/New_York,3,22728,1840024593
+Monterey,Monterey,Virginia,51091,Highland,38.4116,-79.5809,164,146.3,shape,false,true,America/New_York,3,24465,1840006214
+Pocahontas,Pocahontas,Virginia,51185,Tazewell,37.307,-81.3436,163,110.4,shape,false,true,America/New_York,3,24635,1840006453
+Big Rock,Big Rock,Virginia,51027,Buchanan,37.3536,-82.1887,162,135.3,shape,false,false,America/New_York,3,24603,1840117874
+Virgilina,Virgilina,Virginia,51083,Halifax,36.5463,-78.7755,157,98.7,shape,false,true,America/New_York,3,24598,1840003868
+Eagle Rock,Eagle Rock,Virginia,51023,Botetourt,37.6423,-79.7919,156,84.6,shape,false,false,America/New_York,3,24085,1840037359
+Singers Glen,Singers Glen,Virginia,51165,Rockingham,38.55,-78.9143,155,69.2,shape,false,false,America/New_York,3,22850,1840119403
+King William,King William,Virginia,51101,King William,37.6882,-77.0212,155,13.0,shape,false,false,America/New_York,3,23086 23177,1840026809
+Tacoma,Tacoma,Virginia,51195,Wise,36.9356,-82.5323,154,126.7,shape,false,false,America/New_York,3,24230,1840116699
+Hillsboro,Hillsboro,Virginia,51107,Loudoun,39.1987,-77.7239,152,191.4,shape,false,true,America/New_York,3,20132,1840005871
+Stonega,Stonega,Virginia,51195,Wise,36.9522,-82.7899,150,93.1,shape,false,false,America/New_York,3,24216,1840037320
+Greenbush,Greenbush,Virginia,51001,Accomack,37.7398,-75.6797,149,57.8,shape,false,false,America/New_York,3,23357,1840024728
+Sussex,Sussex,Virginia,51183,Sussex,36.9173,-77.2719,145,11.9,shape,false,false,America/New_York,3,23882 23884 23890,1840026890
+Yogaville,Yogaville,Virginia,51029,Buckingham,37.6688,-78.6917,144,9.2,shape,false,false,America/New_York,3,23921,1840037448
+Makemie Park,Makemie Park,Virginia,51001,Accomack,37.9106,-75.5845,142,54.1,shape,false,false,America/New_York,3,23442,1840024732
+Port Royal,Port Royal,Virginia,51033,Caroline,38.1657,-77.1989,139,82.8,shape,false,true,America/New_York,3,22535,1840006304
+Mendota,Mendota,Virginia,51191,Washington,36.7102,-82.3048,132,52.0,shape,false,false,America/New_York,3,24258 24270,1840037395
+Capron,Capron,Virginia,51175,Southampton,36.7093,-77.2013,132,136.3,shape,false,true,America/New_York,3,23829,1840006519
+Branchville,Branchville,Virginia,51175,Southampton,36.5698,-77.2501,131,118.5,shape,false,true,America/New_York,3,23828,1840006518
+Falls Mills,Falls Mills,Virginia,51185,Tazewell,37.2773,-81.3067,128,56.3,shape,false,false,America/New_York,3,24613,1840116984
+Ebony,Ebony,Virginia,51025,Brunswick,36.5759,-77.9839,126,11.1,shape,false,false,America/New_York,3,23845,1840024815
+Heathsville,Heathsville,Virginia,51133,Northumberland,37.92,-76.4785,126,12.2,shape,false,false,America/New_York,3,22473,1840026795
+Palmyra,Palmyra,Virginia,51065,Fluvanna,37.8652,-78.2627,125,34.1,shape,false,false,America/New_York,3,22963,1840026797
+Scottsburg,Scottsburg,Virginia,51083,Halifax,36.7588,-78.7914,124,64.7,shape,false,true,America/New_York,3,24589,1840006506
+Millboro,Millboro,Virginia,51017,Bath,37.9785,-79.6022,124,40.3,shape,false,false,America/New_York,3,24460,1840037397
+Augusta Springs,Augusta Springs,Virginia,51015,Augusta,38.108,-79.3352,124,12.8,shape,false,false,America/New_York,3,24411 24430,1840024682
+Scotland,Scotland,Virginia,51181,Surry,37.1812,-76.7966,123,52.4,shape,false,false,America/New_York,3,23883,1840026876
+Templeton,Templeton,Virginia,51149,Prince George,37.0811,-77.3563,119,22.2,shape,false,false,America/New_York,3,23805,1840026870
+Hanover,Hanover,Virginia,51085,Hanover,37.7668,-77.3707,111,36.1,shape,false,false,America/New_York,3,23069,1840026796
+Lee Mont,Lee Mont,Virginia,51001,Accomack,37.7799,-75.6802,108,55.5,shape,false,false,America/New_York,3,23421,1840024731
+Stevens Creek,Stevens Creek,Virginia,51077,Grayson,36.7314,-80.9943,107,60.8,shape,false,false,America/New_York,3,24330,1840037371
+Nottoway Court House,Nottoway Court House,Virginia,51135,Nottoway,37.1271,-78.0734,103,31.7,shape,false,false,America/New_York,3,23930 23955,1840026872
+Osaka,Osaka,Virginia,51195,Wise,36.9514,-82.8144,102,91.3,shape,false,false,America/New_York,3,24216,1840117256
+Locust Mount,Locust Mount,Virginia,51001,Accomack,37.6124,-75.7018,97,14.1,shape,false,false,America/New_York,3,23480 23410,1840139040
+Hilltown,Hilltown,Virginia,51077,Grayson,36.729,-80.9822,91,63.4,shape,false,false,America/New_York,3,24330,1840117712
+Willis Wharf,Willis Wharf,Virginia,51131,Northampton,37.5176,-75.8089,90,70.7,shape,false,false,America/New_York,3,23486 23350,1840117610
+Tasley,Tasley,Virginia,51001,Accomack,37.7125,-75.697,89,32.2,shape,false,false,America/New_York,3,23301 23441,1840024746
+Hiwassee,Hiwassee,Virginia,51155,Pulaski,36.9682,-80.7045,86,6.5,shape,false,false,America/New_York,3,24347,1840024802
+Eggleston,Eggleston,Virginia,51071,Giles,37.2871,-80.6227,83,38.8,shape,false,false,America/New_York,3,24086 24136,1840037360
+Snowville,Snowville,Virginia,51155,Pulaski,37.026,-80.5739,79,14.0,shape,false,false,America/New_York,3,24347,1840024805
+Glen Lyn,Glen Lyn,Virginia,51071,Giles,37.3727,-80.858,78,49.3,shape,false,true,America/New_York,3,24093,1840006431
+Union Level,Union Level,Virginia,51117,Mecklenburg,36.7071,-78.2319,73,7.6,shape,false,false,America/New_York,3,23970,1840024862
+Pamplin City,Pamplin City,Virginia,51011,Appomattox,37.2642,-78.682,70,228.9,shape,false,true,America/New_York,3,23958,1840037417
+Nathalie,Nathalie,Virginia,51083,Halifax,36.9381,-78.9422,70,9.1,shape,false,false,America/New_York,3,24577,1840024813
+Clinchport,Clinchport,Virginia,51169,Scott,36.6781,-82.7451,66,38.2,shape,false,true,America/New_York,3,24244,1840006545
+Duffield,Duffield,Virginia,51169,Scott,36.7196,-82.796,65,40.9,shape,false,true,America/New_York,3,24244,1840006542
+St. Charles,St. Charles,Virginia,51105,Lee,36.8052,-83.0575,64,195.8,shape,false,true,America/New_York,3,24282,1840006536
+Churchville,Churchville,Virginia,51015,Augusta,38.2247,-79.1619,61,98.8,shape,false,false,America/New_York,3,24421,1840024683
+Paris,Paris,Virginia,51061,Fauquier,39.0024,-77.952,60,52.2,shape,false,false,America/New_York,3,20130,1840117262
+Whitesville,Whitesville,Virginia,51001,Accomack,37.7816,-75.6636,60,152.7,shape,false,false,America/New_York,3,23421,1840024749
+Rectortown,Rectortown,Virginia,51061,Fauquier,38.9211,-77.856,59,35.8,shape,false,false,America/New_York,3,20115 20140,1840119323
+Allisonia,Allisonia,Virginia,51155,Pulaski,36.9342,-80.7255,56,6.6,shape,false,false,America/New_York,3,24347,1840024799
+Upperville,Upperville,Virginia,51061,Fauquier,38.9926,-77.8821,55,49.7,shape,false,false,America/New_York,3,20184 20185,1840119483
+Southside Chesconessex,Southside Chesconessex,Virginia,51001,Accomack,37.7439,-75.7786,55,15.7,shape,false,true,America/New_York,4,23417,1840041865
+Washington,Washington,Virginia,51157,Rappahannock,38.7122,-78.1598,54,153.4,shape,false,true,America/New_York,3,22747,1840006130
+Calverton,Calverton,Virginia,51061,Fauquier,38.6355,-77.6662,54,4.5,shape,false,false,America/New_York,3,20119 22728 20138,1840024590
+Thynedale,Thynedale,Virginia,51117,Mecklenburg,36.8182,-78.4774,53,27.7,shape,false,true,America/New_York,4,23924,1840041878
+Schooner Bay,Schooner Bay,Virginia,51001,Accomack,37.763,-75.768,47,62.7,shape,false,false,America/New_York,4,23417,1840153058
+Warfield,Warfield,Virginia,51025,Brunswick,36.896,-77.819,46,8.3,shape,false,false,America/New_York,3,23889,1840024817
+McDowell,McDowell,Virginia,51091,Highland,38.3375,-79.4994,45,17.0,shape,false,false,America/New_York,3,24458,1840037315
+Oak Hall,Oak Hall,Virginia,51001,Accomack,37.9307,-75.547,45,15.9,shape,false,false,America/New_York,3,23416 23396,1840024739
+Middlebrook,Middlebrook,Virginia,51015,Augusta,38.0552,-79.2182,45,2.3,shape,false,false,America/New_York,3,24459 24401,1840024685
+Greenbackville,Greenbackville,Virginia,51001,Accomack,38.0105,-75.3869,43,32.1,shape,false,false,America/New_York,3,23356,1840024727
+Dunbar,Dunbar,Virginia,51195,Wise,36.9733,-82.7459,43,112.9,shape,false,false,America/New_York,3,24216,1840118577
+King and Queen Court House,King and Queen Court House,Virginia,51097,King and Queen,37.6683,-76.8781,42,13.2,shape,false,false,America/New_York,3,23085,1840026804
+Columbia,Columbia,Virginia,51065,Fluvanna,37.7538,-78.1632,40,140.8,shape,false,false,America/New_York,3,23038,1840006343
+Meadows of Dan,Meadows of Dan,Virginia,51141,Patrick,36.7386,-80.3973,39,12.6,shape,false,false,America/New_York,3,24120,1840142876
+Deep Creek,Deep Creek,Virginia,51001,Accomack,37.763,-75.7552,38,24.4,shape,false,false,America/New_York,3,23417,1840024725
+Gore,Gore,Virginia,51069,Frederick,39.2627,-78.3293,36,15.8,shape,false,false,America/New_York,3,22637,1840037266
+Sanford,Sanford,Virginia,51001,Accomack,37.9299,-75.662,36,4.8,shape,false,false,America/New_York,3,23426 23442,1840024743
+Jewell Ridge,Jewell Ridge,Virginia,51185,Tazewell,37.1857,-81.7874,34,31.7,shape,false,false,America/New_York,3,24622,1840037385
+Charles City,Charles City,Virginia,51036,Charles City,37.344,-77.0687,31,4.4,shape,false,false,America/New_York,3,23030,1840026851
+Mappsburg,Mappsburg,Virginia,51001,Accomack,37.576,-75.7593,27,4.6,shape,false,false,America/New_York,3,23420,1840024733
+Fancy Gap,Fancy Gap,Virginia,51035,Carroll,36.6771,-80.6997,23,2.2,shape,false,false,America/New_York,3,24328,1840006524
+Lancaster,Lancaster,Virginia,51103,Lancaster,37.7675,-76.4549,22,3.9,shape,false,false,America/New_York,3,22503,1840037426
+Doran,Doran,Virginia,51185,Tazewell,37.0958,-81.8321,14,207.4,shape,false,false,America/New_York,3,24641 24612,1840118973
+Mechanicsburg,Mechanicsburg,Virginia,51021,Bland,37.152,-80.9411,13,10.5,shape,false,false,America/New_York,3,24315,1840037394
+Harborton,Harborton,Virginia,51001,Accomack,37.6596,-75.8332,0,204.8,shape,false,false,America/New_York,3,23389,1840024729
+Rocky Gap,Rocky Gap,Virginia,51021,Bland,37.2413,-81.1049,0,34.8,shape,false,false,America/New_York,3,24366,1840037319
+Austinville,Austinville,Virginia,51197,Wythe,36.851,-80.9142,0,142.4,shape,false,false,America/New_York,3,24312,1840037312
+Amonate,Amonate,Virginia,51185,Tazewell,37.1907,-81.6405,0,33.8,shape,false,false,America/New_York,3,24601,1840037326
+Franktown,Franktown,Virginia,51131,Northampton,37.4777,-75.8773,0,38.6,shape,false,false,America/New_York,3,23354,1840117688
+Warm Springs,Warm Springs,Virginia,51017,Bath,38.0463,-79.7826,0,32.0,shape,false,false,America/New_York,3,24484,1840026778

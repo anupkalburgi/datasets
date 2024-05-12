@@ -1,0 +1,590 @@
+Omaha,Omaha,Nebraska,31055,Douglas,41.2627,-96.0529,821345,1323.9,shape,false,true,America/Chicago,2,68112 68114 68117 68116 68118 68182 68183 68105 68108 68178 68110 68122 68127 68124 68111 68022 68137 68135 68132 68144 68134 68131 68130 68102 68106 68107 68104 68164 68152 68154 68101 68103 68109 68119 68139 68145 68172 68175 68176 68179 68180 68197 68198,1840009315
+Lincoln,Lincoln,Nebraska,31109,Lancaster,40.8099,-96.6784,290531,1132.1,shape,false,true,America/Chicago,2,68528 68524 68526 68520 68521 68522 68514 68516 68510 68512 68506 68507 68504 68505 68502 68503 68508 68588 68509 68529 68542 68544 68583,1840009357
+Bellevue,Bellevue,Nebraska,31153,Sarpy,41.1485,-95.939,63336,1138.1,shape,false,true,America/Chicago,3,68147 68123 68005 68157,1840007142
+Grand Island,Grand Island,Nebraska,31079,Hall,40.9218,-98.3586,52822,677.9,shape,false,true,America/Chicago,3,68803 68801,1840000956
+Kearney,Kearney,Nebraska,31019,Buffalo,40.7011,-99.0833,33809,877.4,shape,false,true,America/Chicago,3,68847 68845 68849 68848,1840000957
+Fremont,Fremont,Nebraska,31053,Dodge,41.4395,-96.4873,27230,973.9,shape,false,true,America/Chicago,3,68025 68026,1840003346
+Norfolk,Norfolk,Nebraska,31119,Madison,42.0324,-97.4217,25883,555.9,shape,false,true,America/Chicago,3,68701 68702,1840008136
+Hastings,Hastings,Nebraska,31001,Adams,40.5961,-98.39,25098,651.7,shape,false,true,America/Chicago,3,68901 68902,1840001130
+Columbus,Columbus,Nebraska,31141,Platte,41.4366,-97.3565,24035,897.4,shape,false,true,America/Chicago,3,68601 68602,1840003345
+Papillion,Papillion,Nebraska,31153,Sarpy,41.1511,-96.0665,24016,773.1,shape,false,true,America/Chicago,3,68046 68128 68133 68138,1840009328
+North Platte,North Platte,Nebraska,31111,Lincoln,41.1263,-100.7641,23309,665.6,shape,false,true,America/Chicago,3,69101 69103,1840008251
+La Vista,La Vista,Nebraska,31153,Sarpy,41.1816,-96.0664,16713,1146.7,shape,false,true,America/Chicago,3,68128,1840008263
+Scottsbluff,Scottsbluff,Nebraska,31157,Scotts Bluff,41.8684,-103.6616,14454,841.2,shape,false,true,America/Denver,3,69361 69363,1840009197
+South Sioux City,South Sioux City,Nebraska,31043,Dakota,42.4627,-96.4125,13835,848.0,shape,false,true,America/Chicago,3,68776,1840009129
+Beatrice,Beatrice,Nebraska,31067,Gage,40.2736,-96.7455,12237,498.5,shape,false,true,America/Chicago,3,68310,1840001352
+Lexington,Lexington,Nebraska,31047,Dawson,40.7779,-99.7461,10662,812.5,shape,false,true,America/Chicago,3,68850,1840008285
+Chalco,Chalco,Nebraska,31153,Sarpy,41.1817,-96.1353,10457,1433.2,shape,false,false,America/Chicago,3,68138,1840005176
+Gretna,Gretna,Nebraska,31153,Sarpy,41.1314,-96.245,9019,509.4,shape,false,true,America/Chicago,3,68028 68138,1840007143
+Gering,Gering,Nebraska,31157,Scotts Bluff,41.8275,-103.6622,8582,597.1,shape,false,true,America/Denver,3,69341,1840008139
+Alliance,Alliance,Nebraska,31013,Box Butte,42.1025,-102.8766,8118,640.4,shape,false,true,America/Denver,3,69301,1840006975
+York,York,Nebraska,31185,York,40.8701,-97.5928,8101,478.9,shape,false,true,America/Chicago,3,68467,1840010328
+Blair,Blair,Nebraska,31177,Washington,41.5416,-96.1359,7813,547.4,shape,false,true,America/Chicago,3,68008,1840007094
+Seward,Seward,Nebraska,31159,Seward,40.9099,-97.0957,7667,664.4,shape,false,true,America/Chicago,3,68434,1840009356
+McCook,McCook,Nebraska,31145,Red Willow,40.2046,-100.6216,7412,524.2,shape,false,true,America/Chicago,3,69001,1840008369
+Nebraska City,Nebraska City,Nebraska,31131,Otoe,40.6762,-95.8613,7257,563.4,shape,false,true,America/Chicago,3,68410,1840008324
+Crete,Crete,Nebraska,31151,Saline,40.6253,-96.9575,7093,721.1,shape,false,true,America/Chicago,3,68333,1840007215
+Plattsmouth,Plattsmouth,Nebraska,31025,Cass,41.0054,-95.894,6585,767.5,shape,false,true,America/Chicago,3,68048,1840009355
+Schuyler,Schuyler,Nebraska,31037,Colfax,41.4497,-97.062,6516,922.6,shape,false,true,America/Chicago,3,68661,1840009252
+Ralston,Ralston,Nebraska,31055,Douglas,41.2005,-96.0355,6462,1526.9,shape,false,true,America/Chicago,3,68127,1840009316
+Sidney,Sidney,Nebraska,31033,Cheyenne,41.1341,-102.9681,6407,330.5,shape,false,true,America/Denver,3,69162 69160,1840009309
+Wayne,Wayne,Nebraska,31179,Wayne,42.2379,-97.0101,5973,816.5,shape,false,true,America/Chicago,3,68787,1840010121
+Offutt AFB,Offutt AFB,Nebraska,31153,Sarpy,41.1207,-95.9209,5627,548.1,shape,true,true,America/Chicago,3,68123 68113,1840073770
+Holdrege,Holdrege,Nebraska,31137,Phelps,40.4394,-99.3773,5494,502.0,shape,false,true,America/Chicago,3,68949,1840001131
+Chadron,Chadron,Nebraska,31045,Dawes,42.826,-103.0025,5255,520.0,shape,false,true,America/Denver,3,69337,1840006893
+Ogallala,Ogallala,Nebraska,31101,Keith,41.1292,-101.7211,4835,376.6,shape,false,true,America/Denver,3,69153,1840008250
+Wahoo,Wahoo,Nebraska,31155,Saunders,41.2166,-96.6172,4832,623.8,shape,false,true,America/Chicago,3,68066,1840003455
+Aurora,Aurora,Nebraska,31081,Hamilton,40.8645,-98.0078,4656,548.3,shape,false,true,America/Chicago,3,68818,1840007144
+Waverly,Waverly,Nebraska,31109,Lancaster,40.9111,-96.5341,4289,681.9,shape,false,true,America/Chicago,3,68462,1840010333
+Falls City,Falls City,Nebraska,31147,Richardson,40.0623,-95.5989,4124,476.3,shape,false,true,America/Chicago,3,68355,1840008380
+Cozad,Cozad,Nebraska,31047,Dawson,40.8613,-99.9863,3943,582.0,shape,false,true,America/Chicago,3,69130,1840007167
+Fairbury,Fairbury,Nebraska,31095,Jefferson,40.1448,-97.1764,3913,595.8,shape,false,true,America/Chicago,3,68352,1840008368
+O'Neill,O'Neill,Nebraska,31089,Holt,42.461,-98.6465,3584,580.1,shape,false,true,America/Chicago,3,68763,1840000406
+Broken Bow,Broken Bow,Nebraska,31041,Custer,41.4051,-99.6408,3510,671.6,shape,false,true,America/Chicago,3,68822,1840003347
+West Point,West Point,Nebraska,31039,Cuming,41.8379,-96.7057,3481,473.3,shape,false,true,America/Chicago,3,68788,1840003222
+Gothenburg,Gothenburg,Nebraska,31047,Dawson,40.9242,-100.154,3463,368.2,shape,false,true,America/Chicago,3,69138,1840008284
+Auburn,Auburn,Nebraska,31127,Nemaha,40.3894,-95.8436,3434,606.6,shape,false,true,America/Chicago,3,68305,1840007232
+Ashland,Ashland,Nebraska,31155,Saunders,41.0396,-96.3723,3130,873.9,shape,false,true,America/Chicago,3,68003,1840007132
+Minden,Minden,Nebraska,31099,Kearney,40.4981,-98.9672,3099,543.0,shape,false,true,America/Chicago,3,68924 68959,1840008337
+Central City,Central City,Nebraska,31121,Merrick,41.1134,-98.0008,3035,483.8,shape,false,true,America/Chicago,3,68826,1840003466
+Valley,Valley,Nebraska,31055,Douglas,41.3148,-96.3566,3032,241.0,shape,false,true,America/Chicago,3,68064,1840010287
+David City,David City,Nebraska,31023,Butler,41.2578,-97.1282,3000,574.8,shape,false,true,America/Chicago,3,68632,1840003454
+Dakota City,Dakota City,Nebraska,31043,Dakota,42.4184,-96.4201,2857,765.8,shape,false,true,America/Chicago,3,68776 68731,1840006968
+Hickman,Hickman,Nebraska,31109,Lancaster,40.6248,-96.6307,2697,1168.9,shape,false,true,America/Chicago,3,68372,1840007168
+Valentine,Valentine,Nebraska,31031,Cherry,42.8758,-100.5466,2621,384.1,shape,false,true,America/Chicago,3,69201,1840010081
+Milford,Milford,Nebraska,31159,Seward,40.7722,-97.0535,2530,1201.7,shape,false,true,America/Chicago,3,68405,1840008287
+Bennington,Bennington,Nebraska,31055,Douglas,41.3682,-96.1616,2432,1049.8,shape,false,true,America/Chicago,3,68007,1840007137
+St. Paul,St. Paul,Nebraska,31093,Howard,41.2138,-98.4596,2408,748.5,shape,false,true,America/Chicago,3,68873,1840009313
+Imperial,Imperial,Nebraska,31029,Chase,40.5145,-101.6374,2207,281.7,shape,false,true,America/Denver,3,69033,1840007214
+Kimball,Kimball,Nebraska,31105,Kimball,41.2335,-103.6513,2149,400.6,shape,false,true,America/Denver,3,69145,1840008252
+Ord,Ord,Nebraska,31175,Valley,41.5993,-98.9166,2121,389.8,shape,false,true,America/Chicago,3,68862 68859,1840009254
+Madison,Madison,Nebraska,31119,Madison,41.8283,-97.4568,2098,689.1,shape,false,true,America/Chicago,3,68748,1840009191
+Geneva,Geneva,Nebraska,31059,Fillmore,40.5308,-97.5974,2097,354.6,shape,false,true,America/Chicago,3,68361,1840008333
+Pierce,Pierce,Nebraska,31139,Pierce,42.199,-97.5287,2049,864.3,shape,false,true,America/Chicago,3,68767,1840009135
+Wilber,Wilber,Nebraska,31151,Saline,40.481,-96.9645,1967,843.3,shape,false,true,America/Chicago,3,68465,1840010390
+Mitchell,Mitchell,Nebraska,31157,Scotts Bluff,41.9427,-103.8098,1930,1109.8,shape,false,true,America/Denver,3,69357,1840008141
+Superior,Superior,Nebraska,31129,Nuckolls,40.0217,-98.0618,1905,329.5,shape,false,true,America/Chicago,3,68978,1840009446
+Tecumseh,Tecumseh,Nebraska,31097,Johnson,40.3718,-96.1888,1878,479.9,shape,false,true,America/Chicago,3,68450,1840009428
+Syracuse,Syracuse,Nebraska,31131,Otoe,40.6635,-96.1827,1876,567.2,shape,false,true,America/Chicago,3,68446,1840009400
+Tekamah,Tekamah,Nebraska,31021,Burt,41.778,-96.2247,1847,453.5,shape,false,true,America/Chicago,3,68061,1840003263
+Gibbon,Gibbon,Nebraska,31019,Buffalo,40.7461,-98.8458,1785,793.5,shape,false,true,America/Chicago,3,68840,1840008286
+Gordon,Gordon,Nebraska,31161,Sheridan,42.8064,-102.204,1697,703.4,shape,false,true,America/Denver,3,69343,1840008019
+Stanton,Stanton,Nebraska,31167,Stanton,41.9471,-97.2171,1673,371.5,shape,false,true,America/Chicago,3,68779,1840009192
+Woodland Park,Woodland Park,Nebraska,31167,Stanton,42.0542,-97.3452,1655,408.5,shape,false,true,America/Chicago,3,68701,1840042699
+Albion,Albion,Nebraska,31011,Boone,41.6873,-97.9989,1641,606.8,shape,false,true,America/Chicago,3,68620,1840007049
+Neligh,Neligh,Nebraska,31003,Antelope,42.1291,-98.03,1624,429.0,shape,false,true,America/Chicago,3,68756,1840000458
+Oakland,Oakland,Nebraska,31021,Burt,41.8356,-96.4669,1578,642.3,shape,false,true,America/Chicago,3,68045,1840000501
+Hebron,Hebron,Nebraska,31169,Thayer,40.1685,-97.5866,1569,413.9,shape,false,true,America/Chicago,3,68370,1840007250
+Ainsworth,Ainsworth,Nebraska,31017,Brown,42.5485,-99.8576,1563,601.1,shape,false,true,America/Chicago,3,69210,1840006919
+Springfield,Springfield,Nebraska,31153,Sarpy,41.0854,-96.1333,1555,371.5,shape,false,true,America/Chicago,3,68059,1840009327
+Hartington,Hartington,Nebraska,31027,Cedar,42.6205,-97.2672,1552,589.8,shape,false,true,America/Chicago,3,68739,1840006918
+Arlington,Arlington,Nebraska,31177,Washington,41.4548,-96.3565,1519,980.2,shape,false,true,America/Chicago,3,68002,1840011526
+Louisville,Louisville,Nebraska,31025,Cass,40.9964,-96.1612,1499,891.3,shape,false,true,America/Chicago,3,68037,1840009354
+Yutan,Yutan,Nebraska,31155,Saunders,41.2431,-96.3959,1451,976.3,shape,false,true,America/Chicago,3,68073,1840010272
+Bayard,Bayard,Nebraska,31123,Morrill,41.7572,-103.323,1435,796.9,shape,false,true,America/Denver,3,69334,1840007044
+Atkinson,Atkinson,Nebraska,31089,Holt,42.5309,-98.9747,1426,336.5,shape,false,true,America/Chicago,3,68713,1840006917
+Ceresco,Ceresco,Nebraska,31155,Saunders,41.058,-96.6459,1414,1223.5,shape,false,true,America/Chicago,3,68017,1840010274
+Ravenna,Ravenna,Nebraska,31019,Buffalo,41.0275,-98.8945,1408,327.4,shape,false,true,America/Chicago,3,68869,1840000958
+Battle Creek,Battle Creek,Nebraska,31119,Madison,41.9981,-97.5994,1405,768.9,shape,false,true,America/Chicago,3,68715,1840007036
+Wood River,Wood River,Nebraska,31079,Hall,40.8196,-98.6041,1405,479.5,shape,false,true,America/Chicago,3,68883,1840010329
+Grant,Grant,Nebraska,31135,Perkins,40.8446,-101.7256,1398,685.1,shape,false,true,America/Denver,3,69140,1840008289
+Wisner,Wisner,Nebraska,31039,Cuming,41.9891,-96.9147,1389,428.9,shape,false,true,America/Chicago,3,68791,1840003223
+Sutton,Sutton,Nebraska,31035,Clay,40.6072,-97.8589,1384,306.9,shape,false,true,America/Chicago,3,68979,1840003618
+Bridgeport,Bridgeport,Nebraska,31123,Morrill,41.6639,-103.0962,1384,445.9,shape,false,true,America/Denver,3,69336,1840004795
+Wakefield,Wakefield,Nebraska,31051,Dixon,42.2665,-96.8632,1354,492.1,shape,false,true,America/Chicago,3,68784,1840010092
+Fullerton,Fullerton,Nebraska,31125,Nance,41.3647,-97.9726,1353,389.4,shape,false,true,America/Chicago,3,68638,1840000638
+Shelton,Shelton,Nebraska,31019,Buffalo,40.7784,-98.7294,1333,529.6,shape,false,true,America/Chicago,3,68876,1840011835
+Plainview,Plainview,Nebraska,31139,Pierce,42.3534,-97.7871,1326,473.1,shape,false,true,America/Chicago,3,68769,1840009136
+Wymore,Wymore,Nebraska,31067,Gage,40.1221,-96.6642,1287,265.5,shape,false,true,America/Chicago,3,68466,1840010434
+Pender,Pender,Nebraska,31173,Thurston,42.1108,-96.7113,1273,696.0,shape,false,true,America/Chicago,3,68047,1840011219
+North Bend,North Bend,Nebraska,31053,Dodge,41.462,-96.7857,1250,430.7,shape,false,true,America/Chicago,3,68649,1840000566
+Creighton,Creighton,Nebraska,31107,Knox,42.4649,-97.9071,1241,396.0,shape,false,true,America/Chicago,3,68729,1840002458
+Weeping Water,Weeping Water,Nebraska,31025,Cass,40.8691,-96.1399,1201,469.4,shape,false,true,America/Chicago,3,68463,1840010325
+Sutherland,Sutherland,Nebraska,31111,Lincoln,41.1601,-101.1229,1184,351.3,shape,false,true,America/Chicago,3,69165,1840011651
+Elm Creek,Elm Creek,Nebraska,31019,Buffalo,40.7201,-99.3755,1176,652.9,shape,false,true,America/Chicago,3,68836,1840011831
+Cambridge,Cambridge,Nebraska,31065,Furnas,40.2843,-100.1653,1170,337.9,shape,false,true,America/Chicago,3,69022,1840007247
+Fort Calhoun,Fort Calhoun,Nebraska,31177,Washington,41.4563,-96.0264,1154,652.8,shape,false,true,America/Chicago,3,68023,1840008196
+Alma,Alma,Nebraska,31083,Harlan,40.1036,-99.3657,1131,379.7,shape,false,true,America/Chicago,3,68920,1840001384
+Utica,Utica,Nebraska,31159,Seward,40.8953,-97.3455,1117,935.1,shape,false,true,America/Chicago,3,68456,1840011843
+Friend,Friend,Nebraska,31151,Saline,40.6505,-97.2838,1117,521.5,shape,false,true,America/Chicago,3,68359,1840008334
+Tilden,Tilden,Nebraska,31119,Madison,42.0435,-97.8318,1110,552.6,shape,false,true,America/Chicago,3,68781,1840003224
+Bennet,Bennet,Nebraska,31109,Lancaster,40.6818,-96.5039,1098,813.8,shape,false,true,America/Chicago,3,68317,1840011844
+Cairo,Cairo,Nebraska,31079,Hall,41.0046,-98.6007,1082,438.5,shape,false,true,America/Chicago,3,68824,1840010330
+Harvard,Harvard,Nebraska,31035,Clay,40.6201,-98.0961,1056,632.6,shape,false,true,America/Chicago,3,68944,1840007216
+Randolph,Randolph,Nebraska,31027,Cedar,42.3775,-97.3578,1034,381.8,shape,false,true,America/Chicago,3,68771,1840009092
+Rushville,Rushville,Nebraska,31161,Sheridan,42.7134,-102.4665,1011,339.3,shape,false,true,America/Denver,3,69360,1840009069
+Eagle,Eagle,Nebraska,31025,Cass,40.8161,-96.4329,999,935.4,shape,false,true,America/Chicago,3,68347,1840011811
+Loup City,Loup City,Nebraska,31163,Sherman,41.2766,-98.9677,980,401.7,shape,false,true,America/Chicago,3,68853,1840009314
+Hooper,Hooper,Nebraska,31053,Dodge,41.6116,-96.5487,980,555.9,shape,false,true,America/Chicago,3,68031,1840007087
+Arapahoe,Arapahoe,Nebraska,31065,Furnas,40.3052,-99.898,976,387.9,shape,false,true,America/Chicago,3,68922,1840007248
+Stromsburg,Stromsburg,Nebraska,31143,Polk,41.1159,-97.5912,970,365.5,shape,false,true,America/Chicago,3,68666,1840009311
+Oshkosh,Oshkosh,Nebraska,31069,Garden,41.408,-102.3452,965,554.5,shape,false,true,America/Denver,3,69154,1840009196
+Crawford,Crawford,Nebraska,31045,Dawes,42.6845,-103.416,962,316.4,shape,false,true,America/Denver,3,69339,1840006892
+Henderson,Henderson,Nebraska,31185,York,40.78,-97.8117,958,561.3,shape,false,true,America/Chicago,3,68371,1840007166
+Laurel,Laurel,Nebraska,31027,Cedar,42.4301,-97.0986,956,272.8,shape,false,true,America/Chicago,3,68745,1840008042
+Newman Grove,Newman Grove,Nebraska,31119,Madison,41.7469,-97.7767,946,670.1,shape,false,true,America/Chicago,3,68758,1840003225
+Pawnee City,Pawnee City,Nebraska,31133,Pawnee,40.1106,-96.153,944,302.5,shape,false,true,America/Chicago,3,68420,1840009454
+Burwell,Burwell,Nebraska,31071,Garfield,41.7801,-99.1342,938,345.2,shape,false,true,America/Chicago,3,68823,1840007037
+Waterloo,Waterloo,Nebraska,31055,Douglas,41.2856,-96.285,931,447.2,shape,false,true,America/Chicago,3,68069,1840011670
+Benkelman,Benkelman,Nebraska,31057,Dundy,40.0468,-101.5402,921,296.5,shape,false,true,America/Denver,3,69021,1840007246
+Red Cloud,Red Cloud,Nebraska,31181,Webster,40.0864,-98.5222,917,344.6,shape,false,true,America/Chicago,3,68970,1840009445
+Doniphan,Doniphan,Nebraska,31079,Hall,40.7742,-98.3708,916,714.7,shape,false,true,America/Chicago,3,68832,1840011826
+Walthill,Walthill,Nebraska,31173,Thurston,42.1489,-96.4929,911,822.4,shape,false,true,America/Chicago,3,68067,1840011222
+Crofton,Crofton,Nebraska,31107,Knox,42.7315,-97.4986,907,547.5,shape,false,true,America/Chicago,3,68730,1840002459
+Arnold,Arnold,Nebraska,31041,Custer,41.4231,-100.1936,901,519.4,shape,false,true,America/Chicago,3,69120,1840011467
+Minatare,Minatare,Nebraska,31157,Scotts Bluff,41.8111,-103.5017,891,788.5,shape,false,true,America/Denver,3,69356,1840008140
+Emerson,Emerson,Nebraska,31051,Dixon,42.2783,-96.7263,891,726.7,shape,false,true,America/Chicago,3,68733,1840011096
+Chappell,Chappell,Nebraska,31049,Deuel,41.0913,-102.47,889,488.8,shape,false,true,America/Denver,3,69129,1840007141
+Blue Hill,Blue Hill,Nebraska,31181,Webster,40.3328,-98.4483,883,464.9,shape,false,true,America/Chicago,3,68930,1840007245
+Humboldt,Humboldt,Nebraska,31147,Richardson,40.1658,-95.9443,876,253.5,shape,false,true,America/Chicago,3,68376,1840007256
+Winnebago,Winnebago,Nebraska,31173,Thurston,42.2383,-96.4716,869,892.5,shape,false,true,America/Chicago,3,68071,1840011220
+Oxford,Oxford,Nebraska,31065,Furnas,40.253,-99.6323,862,365.7,shape,false,true,America/Chicago,3,68967,1840012278
+Bloomfield,Bloomfield,Nebraska,31107,Knox,42.5984,-97.6481,847,400.7,shape,false,true,America/Chicago,3,68718,1840000415
+Kenesaw,Kenesaw,Nebraska,31001,Adams,40.6189,-98.6576,826,301.7,shape,false,true,America/Chicago,3,68956,1840012038
+Lyons,Lyons,Nebraska,31021,Burt,41.936,-96.4717,815,460.9,shape,false,true,America/Chicago,3,68038,1840009193
+Franklin,Franklin,Nebraska,31061,Franklin,40.0966,-98.9514,809,314.8,shape,false,true,America/Chicago,3,68939,1840003710
+Osceola,Osceola,Nebraska,31143,Polk,41.1781,-97.5498,803,336.3,shape,false,true,America/Chicago,3,68651,1840009312
+Curtis,Curtis,Nebraska,31063,Frontier,40.6336,-100.5112,786,253.0,shape,false,true,America/Chicago,3,69025,1840007213
+Axtell,Axtell,Nebraska,31099,Kearney,40.4798,-99.1292,781,649.7,shape,false,true,America/Chicago,3,68924,1840012065
+Clay Center,Clay Center,Nebraska,31035,Clay,40.5256,-98.055,780,411.9,shape,false,true,America/Chicago,3,68933,1840003617
+Macy,Macy,Nebraska,31173,Thurston,42.1159,-96.3667,779,188.5,shape,false,false,America/Chicago,3,68039,1840004693
+Scribner,Scribner,Nebraska,31053,Dodge,41.6651,-96.6653,779,461.9,shape,false,true,America/Chicago,3,68057,1840000567
+Deshler,Deshler,Nebraska,31169,Thayer,40.1396,-97.7233,774,588.7,shape,false,true,America/Chicago,3,68340,1840007251
+Morrill,Morrill,Nebraska,31157,Scotts Bluff,41.964,-103.9249,773,490.7,shape,false,true,America/Denver,3,69358,1840011396
+Genoa,Genoa,Nebraska,31125,Nance,41.4462,-97.7322,761,370.6,shape,false,true,America/Chicago,3,68640,1840000639
+Cedar Bluffs,Cedar Bluffs,Nebraska,31155,Saunders,41.3972,-96.6097,757,755.3,shape,false,true,America/Chicago,3,68015,1840010273
+Elmwood,Elmwood,Nebraska,31025,Cass,40.8426,-96.2947,744,583.3,shape,false,true,America/Chicago,3,68349,1840011812
+Palmyra,Palmyra,Nebraska,31131,Otoe,40.7057,-96.3922,735,304.2,shape,false,true,America/Chicago,3,68418,1840011967
+Peru,Peru,Nebraska,31127,Nemaha,40.4786,-95.7313,727,533.8,shape,false,true,America/Chicago,3,68421,1840009427
+Humphrey,Humphrey,Nebraska,31141,Platte,41.6884,-97.4852,722,562.6,shape,false,true,America/Chicago,3,68642,1840007086
+Boys Town,Boys Town,Nebraska,31055,Douglas,41.2558,-96.1292,720,307.3,shape,false,true,America/Chicago,3,68010,1840011669
+McCool Junction,McCool Junction,Nebraska,31185,York,40.744,-97.6007,718,573.4,shape,false,true,America/Chicago,3,68401,1840011823
+Terrytown,Terrytown,Nebraska,31157,Scotts Bluff,41.8465,-103.6706,714,581.7,shape,false,true,America/Denver,3,69341,1840011397
+Ponca,Ponca,Nebraska,31051,Dixon,42.5649,-96.7092,713,356.1,shape,false,true,America/Chicago,3,68770,1840000422
+Overton,Overton,Nebraska,31047,Dawson,40.7405,-99.5374,706,504.5,shape,false,true,America/Chicago,3,68863,1840011829
+Juniata,Juniata,Nebraska,31001,Adams,40.5903,-98.5069,702,401.5,shape,false,true,America/Chicago,3,68955,1840012037
+Howells,Howells,Nebraska,31037,Colfax,41.7241,-97.0043,699,468.2,shape,false,true,America/Chicago,3,68641,1840011447
+Sterling,Sterling,Nebraska,31097,Johnson,40.4612,-96.3776,698,661.9,shape,false,true,America/Chicago,3,68443,1840012170
+Beemer,Beemer,Nebraska,31039,Cuming,41.9298,-96.8091,692,637.3,shape,false,true,America/Chicago,3,68716,1840011361
+Bertrand,Bertrand,Nebraska,31137,Phelps,40.5263,-99.6324,681,474.3,shape,false,true,America/Chicago,3,68927,1840012076
+Osmond,Osmond,Nebraska,31139,Pierce,42.3583,-97.599,678,328.6,shape,false,true,America/Chicago,3,68765,1840009134
+Shelby,Shelby,Nebraska,31143,Polk,41.194,-97.426,675,463.5,shape,false,true,America/Chicago,3,68662,1840011655
+Hershey,Hershey,Nebraska,31111,Lincoln,41.1602,-100.9985,668,337.9,shape,false,true,America/Chicago,3,69143,1840011649
+Clarkson,Clarkson,Nebraska,31037,Colfax,41.7234,-97.1215,663,323.5,shape,false,true,America/Chicago,3,68629,1840007085
+Hay Springs,Hay Springs,Nebraska,31161,Sheridan,42.6833,-102.6897,656,275.5,shape,false,true,America/Denver,3,69347,1840011029
+Glenwood,Glenwood,Nebraska,31019,Buffalo,40.7555,-99.081,637,102.4,shape,false,true,America/Chicago,4,68847 68845,1840042680
+Duncan,Duncan,Nebraska,31141,Platte,41.3904,-97.4928,633,522.5,shape,false,true,America/Chicago,3,68634,1840011453
+Fairmont,Fairmont,Nebraska,31059,Fillmore,40.6343,-97.5991,621,208.4,shape,false,true,America/Chicago,3,68354,1840012050
+Culbertson,Culbertson,Nebraska,31087,Hitchcock,40.2284,-100.8351,621,286.4,shape,false,true,America/Chicago,3,69024,1840012295
+Hemingford,Hemingford,Nebraska,31013,Box Butte,42.3214,-103.0754,620,352.1,shape,false,true,America/Denver,3,69348,1840011188
+Elgin,Elgin,Nebraska,31003,Antelope,41.9831,-98.0828,610,323.4,shape,false,true,America/Chicago,3,68636,1840008088
+Verdigre,Verdigre,Nebraska,31107,Knox,42.5974,-98.0353,609,429.4,shape,false,true,America/Chicago,3,68783,1840011067
+Wausa,Wausa,Nebraska,31107,Knox,42.4978,-97.5393,604,444.7,shape,false,true,America/Chicago,3,68786,1840011068
+Bassett,Bassett,Nebraska,31149,Rock,42.5826,-99.5367,602,523.8,shape,false,true,America/Chicago,3,68714,1840006922
+St. Edward,St. Edward,Nebraska,31011,Boone,41.5716,-97.8612,596,349.5,shape,false,true,America/Chicago,3,68660,1840009203
+Mead,Mead,Nebraska,31155,Saunders,41.2138,-96.4825,590,374.2,shape,false,true,America/Chicago,3,68041,1840011635
+Inglewood,Inglewood,Nebraska,31053,Dodge,41.416,-96.5025,585,331.9,shape,false,true,America/Chicago,3,68025,1840011457
+Cedar Rapids,Cedar Rapids,Nebraska,31011,Boone,41.5589,-98.1493,585,160.4,shape,false,true,America/Chicago,3,68627,1840010176
+Coleridge,Coleridge,Nebraska,31027,Cedar,42.5065,-97.2029,584,441.0,shape,false,true,America/Chicago,3,68727,1840011070
+Winside,Winside,Nebraska,31179,Wayne,42.1773,-97.1751,582,362.9,shape,false,true,America/Chicago,3,68790,1840011215
+Paxton,Paxton,Nebraska,31101,Keith,41.1235,-101.3522,577,215.9,shape,false,true,America/Denver,3,69155,1840011647
+Ansley,Ansley,Nebraska,31041,Custer,41.2863,-99.3825,576,309.8,shape,false,true,America/Chicago,3,68814,1840010211
+Adams,Adams,Nebraska,31067,Gage,40.4572,-96.5129,568,368.8,shape,false,true,America/Chicago,3,68301,1840010436
+Alda,Alda,Nebraska,31079,Hall,40.8666,-98.468,563,384.5,shape,false,true,America/Chicago,3,68810,1840010331
+Bancroft,Bancroft,Nebraska,31039,Cuming,42.0104,-96.5733,560,322.2,shape,false,true,America/Chicago,3,68004,1840011360
+Dorchester,Dorchester,Nebraska,31151,Saline,40.6477,-97.1153,547,419.7,shape,false,true,America/Chicago,3,68343,1840012056
+Wauneta,Wauneta,Nebraska,31029,Chase,40.4164,-101.3766,546,217.6,shape,false,true,America/Denver,3,69045,1840012047
+Greenwood,Greenwood,Nebraska,31025,Cass,40.9614,-96.4433,543,509.6,shape,false,true,America/Chicago,3,68366,1840011810
+Nickerson,Nickerson,Nebraska,31053,Dodge,41.5349,-96.4707,542,300.5,shape,false,true,America/Chicago,3,68044,1840011459
+Stuart,Stuart,Nebraska,31089,Holt,42.6008,-99.1405,536,151.4,shape,false,true,America/Chicago,3,68780,1840011048
+Exeter,Exeter,Nebraska,31059,Fillmore,40.6445,-97.4489,524,319.4,shape,false,true,America/Chicago,3,68351,1840012049
+Cortland,Cortland,Nebraska,31067,Gage,40.5059,-96.7063,521,386.1,shape,false,true,America/Chicago,3,68331,1840012162
+Elwood,Elwood,Nebraska,31073,Gosper,40.5897,-99.8616,519,363.8,shape,false,true,America/Chicago,3,68937,1840012042
+Callaway,Callaway,Nebraska,31041,Custer,41.2915,-99.9203,518,286.7,shape,false,true,America/Chicago,3,68825,1840010209
+Indianola,Indianola,Nebraska,31145,Red Willow,40.2346,-100.4198,517,160.0,shape,false,true,America/Chicago,3,69034,1840008370
+Edgar,Edgar,Nebraska,31035,Clay,40.3683,-97.971,513,250.8,shape,false,true,America/Chicago,3,68935,1840008335
+Bellwood,Bellwood,Nebraska,31023,Butler,41.3418,-97.2398,513,142.4,shape,false,true,America/Chicago,3,68624,1840011621
+Valparaiso,Valparaiso,Nebraska,31155,Saunders,41.0798,-96.833,513,351.5,shape,false,true,America/Chicago,3,68065,1840011638
+De Witt,De Witt,Nebraska,31151,Saline,40.3953,-96.9221,512,473.7,shape,false,true,America/Chicago,3,68341,1840012055
+Decatur,Decatur,Nebraska,31021,Burt,42.0058,-96.2497,509,192.5,shape,false,true,America/Chicago,3,68020,1840011390
+Beaver City,Beaver City,Nebraska,31065,Furnas,40.1383,-99.8276,500,195.1,shape,false,true,America/Chicago,3,68926,1840007249
+Sargent,Sargent,Nebraska,31041,Custer,41.6399,-99.3688,486,172.8,shape,false,true,America/Chicago,3,68874,1840009253
+Big Springs,Big Springs,Nebraska,31049,Deuel,41.0609,-102.0745,479,417.5,shape,false,true,America/Denver,3,69122,1840011731
+Walton,Walton,Nebraska,31109,Lancaster,40.796,-96.5658,474,52.8,shape,false,false,America/Chicago,3,68520 68461,1840024239
+Firth,Firth,Nebraska,31109,Lancaster,40.536,-96.6046,469,762.9,shape,false,true,America/Chicago,3,68358,1840011848
+Malcolm,Malcolm,Nebraska,31109,Lancaster,40.909,-96.8658,466,100.9,shape,false,true,America/Chicago,3,68402,1840011851
+Giltner,Giltner,Nebraska,31081,Hamilton,40.7749,-98.1535,463,461.5,shape,false,true,America/Chicago,3,68841,1840011734
+Murray,Murray,Nebraska,31025,Cass,40.9163,-95.9267,459,259.5,shape,false,true,America/Chicago,3,68409,1840011815
+Mullen,Mullen,Nebraska,31091,Hooker,42.0427,-101.0446,453,423.7,shape,false,true,America/Denver,3,69152,1840011359
+Cook,Cook,Nebraska,31097,Johnson,40.5105,-96.1619,450,448.5,shape,false,true,America/Chicago,3,68329,1840012167
+Allen,Allen,Nebraska,31051,Dixon,42.4144,-96.8431,444,381.5,shape,false,true,America/Chicago,3,68710,1840010093
+Trenton,Trenton,Nebraska,31087,Hitchcock,40.1747,-101.0136,442,293.0,shape,false,true,America/Chicago,3,69044,1840012298
+Brady,Brady,Nebraska,31111,Lincoln,41.0223,-100.3676,439,310.6,shape,false,true,America/Chicago,3,69123,1840011648
+Petersburg,Petersburg,Nebraska,31011,Boone,41.8536,-98.0811,433,346.5,shape,false,true,America/Chicago,3,68652,1840011425
+Hampton,Hampton,Nebraska,31081,Hamilton,40.8812,-97.8876,431,409.0,shape,false,true,America/Chicago,3,68843,1840011732
+Kennard,Kennard,Nebraska,31177,Washington,41.4747,-96.2037,429,285.0,shape,false,true,America/Chicago,3,68034,1840011527
+Leigh,Leigh,Nebraska,31037,Colfax,41.7023,-97.2398,429,276.7,shape,false,true,America/Chicago,3,68643,1840011446
+Hildreth,Hildreth,Nebraska,31061,Franklin,40.3378,-99.0458,427,288.3,shape,false,true,America/Chicago,3,68947,1840012265
+Greeley Center,Greeley Center,Nebraska,31077,Greeley,41.5483,-98.5305,421,258.3,shape,false,true,America/Chicago,3,68842,1840073804
+Chambers,Chambers,Nebraska,31089,Holt,42.2047,-98.7486,419,159.0,shape,false,true,America/Chicago,3,68725,1840010089
+Dodge,Dodge,Nebraska,31053,Dodge,41.7218,-96.8804,416,406.6,shape,false,true,America/Chicago,3,68633,1840011458
+Cedar Creek,Cedar Creek,Nebraska,31025,Cass,41.0451,-96.1016,412,278.8,shape,false,true,America/Chicago,3,68016,1840010326
+Nelson,Nelson,Nebraska,31129,Nuckolls,40.2012,-98.0687,409,193.6,shape,false,true,America/Chicago,3,68961,1840008367
+Eustis,Eustis,Nebraska,31063,Frontier,40.6645,-100.0296,409,373.4,shape,false,true,America/Chicago,3,69028,1840012032
+Sumner,Sumner,Nebraska,31047,Dawson,40.949,-99.5081,406,167.2,shape,false,true,America/Chicago,3,68878,1840011830
+Pleasanton,Pleasanton,Nebraska,31019,Buffalo,40.9698,-99.0876,406,439.6,shape,false,true,America/Chicago,3,68866,1840011832
+Bartley,Bartley,Nebraska,31145,Red Willow,40.2511,-100.3105,405,166.8,shape,false,true,America/Chicago,3,69020,1840012292
+Bradshaw,Bradshaw,Nebraska,31185,York,40.8835,-97.7468,397,210.0,shape,false,true,America/Chicago,3,68319,1840011820
+Lyman,Lyman,Nebraska,31157,Scotts Bluff,41.9177,-104.0373,395,120.9,shape,false,true,America/Denver,3,69352,1840011393
+Stapleton,Stapleton,Nebraska,31113,Logan,41.4802,-100.5125,393,377.0,shape,false,true,America/Chicago,3,69163,1840011474
+Homer,Homer,Nebraska,31043,Dakota,42.3225,-96.4912,389,309.0,shape,false,true,America/Chicago,3,68030,1840011102
+Silver Creek,Silver Creek,Nebraska,31121,Merrick,41.3152,-97.6652,384,212.3,shape,false,true,America/Chicago,3,68663,1840011658
+Ewing,Ewing,Nebraska,31089,Holt,42.2594,-98.3438,384,332.7,shape,false,true,America/Chicago,3,68735,1840011046
+Newcastle,Newcastle,Nebraska,31051,Dixon,42.6524,-96.874,384,185.4,shape,false,true,America/Chicago,3,68757,1840011099
+Benedict,Benedict,Nebraska,31185,York,41.0063,-97.6072,382,196.9,shape,false,true,America/Chicago,3,68316,1840011819
+Orchard,Orchard,Nebraska,31003,Antelope,42.3368,-98.2411,382,373.6,shape,false,true,America/Chicago,3,68764,1840011191
+Unadilla,Unadilla,Nebraska,31131,Otoe,40.6826,-96.2699,380,158.5,shape,false,true,America/Chicago,3,68454,1840011969
+Spalding,Spalding,Nebraska,31077,Greeley,41.6892,-98.3626,379,491.8,shape,false,true,America/Chicago,3,68665,1840011466
+Scotia,Scotia,Nebraska,31077,Greeley,41.4678,-98.7024,378,205.5,shape,false,true,America/Chicago,3,68875,1840011465
+Palmer,Palmer,Nebraska,31121,Merrick,41.2224,-98.2599,377,272.9,shape,false,true,America/Chicago,3,68864,1840011657
+Fairfield,Fairfield,Nebraska,31035,Clay,40.4323,-98.1033,375,201.3,shape,false,true,America/Chicago,3,68938,1840008336
+Shickley,Shickley,Nebraska,31059,Fillmore,40.4165,-97.7241,374,175.2,shape,false,true,America/Chicago,3,68436,1840012053
+Orleans,Orleans,Nebraska,31083,Harlan,40.1317,-99.4551,373,240.1,shape,false,true,America/Chicago,3,68966,1840012302
+Clarks,Clarks,Nebraska,31121,Merrick,41.2163,-97.8394,372,140.0,shape,false,true,America/Chicago,3,68628,1840010286
+Plymouth,Plymouth,Nebraska,31095,Jefferson,40.3024,-96.9886,371,398.9,shape,false,true,America/Chicago,3,68424,1840012289
+Loomis,Loomis,Nebraska,31137,Phelps,40.4783,-99.5075,371,157.6,shape,false,true,America/Chicago,3,68958,1840012077
+Brainard,Brainard,Nebraska,31023,Butler,41.1821,-97.0024,366,237.7,shape,false,true,America/Chicago,3,68626,1840011622
+Merna,Merna,Nebraska,31041,Custer,41.4852,-99.7611,364,262.4,shape,false,true,America/Chicago,3,68856,1840011471
+Butte,Butte,Nebraska,31015,Boyd,42.9125,-98.8479,362,297.2,shape,false,true,America/Chicago,3,68722,1840010078
+Herman,Herman,Nebraska,31177,Washington,41.6739,-96.2167,360,185.4,shape,false,true,America/Chicago,3,68029,1840011528
+Platte Center,Platte Center,Nebraska,31141,Platte,41.5374,-97.4886,358,370.0,shape,false,true,America/Chicago,3,68653,1840011455
+Stratton,Stratton,Nebraska,31087,Hitchcock,40.1503,-101.228,353,316.2,shape,false,true,America/Chicago,3,69043,1840012297
+Beaver Crossing,Beaver Crossing,Nebraska,31159,Seward,40.7782,-97.2825,353,208.0,shape,false,true,America/Chicago,3,68313,1840011836
+Dalton,Dalton,Nebraska,31033,Cheyenne,41.4083,-102.9708,353,157.7,shape,false,true,America/Denver,3,69131,1840011642
+Wilcox,Wilcox,Nebraska,31099,Kearney,40.3644,-99.1693,346,267.6,shape,false,true,America/Chicago,3,68982,1840012068
+Palisade,Palisade,Nebraska,31087,Hitchcock,40.3483,-101.1075,346,279.0,shape,false,true,America/Chicago,3,69040,1840012296
+Davenport,Davenport,Nebraska,31169,Thayer,40.3123,-97.8115,344,203.7,shape,false,true,America/Chicago,3,68335,1840012282
+Niobrara,Niobrara,Nebraska,31107,Knox,42.7499,-98.0317,344,182.4,shape,false,true,America/Chicago,3,68760,1840011064
+Prague,Prague,Nebraska,31155,Saunders,41.3094,-96.8082,342,249.6,shape,false,true,America/Chicago,3,68050,1840011633
+Rising City,Rising City,Nebraska,31023,Butler,41.198,-97.2972,337,348.9,shape,false,true,America/Chicago,3,68658,1840011626
+Polk,Polk,Nebraska,31143,Polk,41.0755,-97.7834,336,265.1,shape,false,true,America/Chicago,3,68654,1840011654
+Table Rock,Table Rock,Nebraska,31133,Pawnee,40.1783,-96.0887,334,219.7,shape,false,true,America/Chicago,3,68447,1840012341
+Hoskins,Hoskins,Nebraska,31179,Wayne,42.1126,-97.3045,333,356.0,shape,false,true,America/Chicago,3,68740,1840011214
+Arcadia,Arcadia,Nebraska,31175,Valley,41.4249,-99.1261,333,225.1,shape,false,true,America/Chicago,3,68815,1840010212
+Glenvil,Glenvil,Nebraska,31035,Clay,40.5025,-98.2545,329,428.8,shape,false,true,America/Chicago,3,68941,1840012061
+Snyder,Snyder,Nebraska,31053,Dodge,41.7045,-96.7869,328,261.0,shape,false,true,America/Chicago,3,68664,1840011461
+Dix,Dix,Nebraska,31105,Kimball,41.2342,-103.4867,320,159.3,shape,false,true,America/Denver,3,69133,1840011656
+Oakdale,Oakdale,Nebraska,31003,Antelope,42.0701,-97.9671,318,236.2,shape,false,true,America/Chicago,3,68761,1840011190
+Phillips,Phillips,Nebraska,31081,Hamilton,40.8977,-98.2142,317,269.4,shape,false,true,America/Chicago,3,68865,1840011736
+Spencer,Spencer,Nebraska,31015,Boyd,42.8753,-98.7003,316,204.1,shape,false,true,America/Chicago,3,68777,1840011036
+Campbell,Campbell,Nebraska,31061,Franklin,40.2963,-98.7316,316,295.2,shape,false,true,America/Chicago,3,68932,1840010470
+Potter,Potter,Nebraska,31033,Cheyenne,41.2244,-103.1905,316,84.8,shape,false,true,America/Denver,3,69162 69156,1840011643
+Monroe,Monroe,Nebraska,31141,Platte,41.4741,-97.5989,314,117.3,shape,false,true,America/Chicago,3,68647,1840011454
+Riverdale,Riverdale,Nebraska,31019,Buffalo,40.7839,-99.1604,313,275.4,shape,false,true,America/Chicago,3,68870,1840011833
+Staplehurst,Staplehurst,Nebraska,31159,Seward,40.9747,-97.1732,313,164.4,shape,false,true,America/Chicago,3,68439,1840011842
+Hadar,Hadar,Nebraska,31139,Pierce,42.1072,-97.451,309,301.1,shape,false,true,America/Chicago,3,68701 68738,1840011185
+Clatonia,Clatonia,Nebraska,31067,Gage,40.4654,-96.8512,304,135.6,shape,false,true,America/Chicago,3,68328,1840010435
+Woodland Hills,Woodland Hills,Nebraska,31131,Otoe,40.7511,-96.421,300,137.3,shape,false,true,America/Chicago,4,68347,1840039774
+Pilger,Pilger,Nebraska,31167,Stanton,42.0078,-97.0546,300,261.8,shape,false,true,America/Chicago,3,68768,1840011363
+Litchfield,Litchfield,Nebraska,31163,Sherman,41.1562,-99.1531,298,230.9,shape,false,true,America/Chicago,3,68852,1840011666
+St. Libory,St. Libory,Nebraska,31093,Howard,41.0822,-98.359,295,145.4,shape,false,false,America/Chicago,3,68872,1840024168
+Guide Rock,Guide Rock,Nebraska,31181,Webster,40.0737,-98.3288,293,225.5,shape,false,true,America/Chicago,3,68942,1840012262
+Holbrook,Holbrook,Nebraska,31065,Furnas,40.3047,-100.0099,293,189.1,shape,false,true,America/Chicago,3,68948,1840012276
+Long Pine,Long Pine,Nebraska,31017,Brown,42.5353,-99.7027,292,194.6,shape,false,true,America/Chicago,3,69217,1840009093
+Odell,Odell,Nebraska,31067,Gage,40.0503,-96.8016,290,206.0,shape,false,true,America/Chicago,3,68415,1840012164
+Uehling,Uehling,Nebraska,31053,Dodge,41.7348,-96.5058,289,198.0,shape,false,true,America/Chicago,3,68063,1840011462
+Brule,Brule,Nebraska,31101,Keith,41.0947,-101.8882,288,422.8,shape,false,true,America/Denver,3,69127,1840010283
+Wallace,Wallace,Nebraska,31111,Lincoln,40.8376,-101.1645,287,155.8,shape,false,true,America/Chicago,3,69169,1840011652
+Hayes Center,Hayes Center,Nebraska,31085,Hayes,40.511,-101.0204,284,243.8,shape,false,true,America/Chicago,3,69032,1840012045
+Chapman,Chapman,Nebraska,31121,Merrick,41.0233,-98.1593,279,241.3,shape,false,true,America/Chicago,3,68827,1840010285
+Gresham,Gresham,Nebraska,31185,York,41.0284,-97.4011,278,174.6,shape,false,true,America/Chicago,3,68367,1840011821
+Carroll,Carroll,Nebraska,31179,Wayne,42.2758,-97.1908,278,112.4,shape,false,true,America/Chicago,3,68723,1840010122
+Bruning,Bruning,Nebraska,31169,Thayer,40.3358,-97.5647,278,296.8,shape,false,true,America/Chicago,3,68322,1840010471
+Clearwater,Clearwater,Nebraska,31003,Antelope,42.1707,-98.1897,277,361.8,shape,false,true,America/Chicago,3,68726,1840010117
+Hallam,Hallam,Nebraska,31109,Lancaster,40.5364,-96.7869,274,343.7,shape,false,true,America/Chicago,3,68368,1840011845
+Otoe,Otoe,Nebraska,31131,Otoe,40.7243,-96.1207,268,186.7,shape,false,true,America/Chicago,3,68417,1840011966
+Gurley,Gurley,Nebraska,31033,Cheyenne,41.3214,-102.9745,266,217.9,shape,false,true,America/Denver,3,69141,1840011640
+Lindsay,Lindsay,Nebraska,31141,Platte,41.6991,-97.6939,264,215.1,shape,false,true,America/Chicago,3,68644,1840011450
+Lakeview,Lakeview,Nebraska,31141,Platte,41.4998,-97.3775,264,167.2,shape,false,true,America/Chicago,4,68601,1840042682
+Santee,Santee,Nebraska,31107,Knox,42.8386,-97.8495,262,179.3,shape,false,true,America/Chicago,3,68760,1840011063
+Garland,Garland,Nebraska,31159,Seward,40.9446,-96.9855,260,270.3,shape,false,true,America/Chicago,3,68360,1840011840
+Johnson,Johnson,Nebraska,31127,Nemaha,40.4106,-95.9996,260,251.8,shape,false,true,America/Chicago,3,68378,1840012146
+Pleasant Dale,Pleasant Dale,Nebraska,31159,Seward,40.791,-96.9329,259,100.2,shape,false,true,America/Chicago,3,68423,1840011841
+Maywood,Maywood,Nebraska,31063,Frontier,40.6587,-100.6223,258,157.1,shape,false,true,America/Chicago,3,69038,1840012033
+Jackson,Jackson,Nebraska,31043,Dakota,42.4507,-96.5787,258,221.2,shape,false,true,America/Chicago,3,68743,1840011101
+Roseland,Roseland,Nebraska,31001,Adams,40.4697,-98.5587,258,158.1,shape,false,true,America/Chicago,3,68973,1840012041
+Milligan,Milligan,Nebraska,31059,Fillmore,40.5001,-97.3882,256,262.4,shape,false,true,America/Chicago,3,68406,1840012051
+Ashton,Ashton,Nebraska,31163,Sherman,41.2477,-98.795,256,167.0,shape,false,true,America/Chicago,3,68817,1840011665
+Raymond,Raymond,Nebraska,31109,Lancaster,40.9567,-96.7816,256,238.5,shape,false,true,America/Chicago,3,68428,1840011849
+Weston,Weston,Nebraska,31155,Saunders,41.1931,-96.7422,254,184.1,shape,false,true,America/Chicago,3,68070,1840011639
+Panama,Panama,Nebraska,31109,Lancaster,40.5998,-96.5111,253,231.7,shape,false,true,America/Chicago,3,68419,1840011852
+Dwight,Dwight,Nebraska,31023,Butler,41.0827,-97.0191,253,137.7,shape,false,true,America/Chicago,3,68635,1840011624
+Wolbach,Wolbach,Nebraska,31077,Greeley,41.4013,-98.394,248,139.6,shape,false,true,America/Chicago,3,68882,1840011464
+Marquette,Marquette,Nebraska,31081,Hamilton,41.0063,-98.0098,248,211.9,shape,false,true,America/Chicago,3,68854,1840011735
+Lodgepole,Lodgepole,Nebraska,31033,Cheyenne,41.1491,-102.639,248,200.6,shape,false,true,America/Denver,3,69149,1840011641
+Amherst,Amherst,Nebraska,31019,Buffalo,40.8383,-99.2696,247,352.6,shape,false,true,America/Chicago,3,68812,1840010332
+Diller,Diller,Nebraska,31095,Jefferson,40.1089,-96.9374,245,225.9,shape,false,true,America/Chicago,3,68342,1840012287
+Maxwell,Maxwell,Nebraska,31111,Lincoln,41.0772,-100.5262,245,204.2,shape,false,true,America/Chicago,3,69151,1840011650
+Bee,Bee,Nebraska,31159,Seward,41.0064,-97.0583,244,148.8,shape,false,true,America/Chicago,3,68314,1840011837
+Trumbull,Trumbull,Nebraska,31035,Clay,40.6801,-98.2734,244,218.4,shape,false,true,America/Chicago,3,68980,1840012064
+Goehner,Goehner,Nebraska,31159,Seward,40.8327,-97.2196,242,166.9,shape,false,true,America/Chicago,3,68364,1840011838
+Union,Union,Nebraska,31025,Cass,40.8144,-95.9215,242,333.2,shape,false,true,America/Chicago,3,68455,1840011818
+Harrison,Harrison,Nebraska,31165,Sioux,42.6879,-103.8826,241,184.6,shape,false,true,America/Denver,3,69346,1840011028
+Murdock,Murdock,Nebraska,31025,Cass,40.9261,-96.2809,240,261.0,shape,false,true,America/Chicago,3,68407,1840011814
+Douglas,Douglas,Nebraska,31131,Otoe,40.5932,-96.3882,237,199.7,shape,false,true,America/Chicago,3,68344,1840011964
+Dannebrog,Dannebrog,Nebraska,31093,Howard,41.1185,-98.5456,237,274.0,shape,false,true,America/Chicago,3,68831,1840011662
+Fordyce,Fordyce,Nebraska,31027,Cedar,42.6983,-97.3628,237,192.3,shape,false,true,America/Chicago,3,68736,1840011071
+Verdon,Verdon,Nebraska,31147,Richardson,40.149,-95.7111,235,125.2,shape,false,true,America/Chicago,3,68457,1840012349
+Rosalie,Rosalie,Nebraska,31173,Thurston,42.0574,-96.5128,233,165.0,shape,false,true,America/Chicago,3,68055,1840011218
+Chester,Chester,Nebraska,31169,Thayer,40.0101,-97.6181,229,151.0,shape,false,true,America/Chicago,3,68327,1840010474
+Shubert,Shubert,Nebraska,31147,Richardson,40.2359,-95.6837,226,110.9,shape,false,true,America/Chicago,3,68437,1840012347
+Yankee Hill,Yankee Hill,Nebraska,31109,Lancaster,40.7653,-96.7322,221,21.4,shape,false,false,America/Chicago,3,68522 68523 68502,1840033202
+Pickrell,Pickrell,Nebraska,31067,Gage,40.3781,-96.7295,221,317.5,shape,false,true,America/Chicago,3,68422,1840012165
+North Loup,North Loup,Nebraska,31175,Valley,41.4955,-98.7726,221,208.4,shape,false,true,America/Chicago,3,68859,1840011476
+Lawrence,Lawrence,Nebraska,31129,Nuckolls,40.2902,-98.2596,220,204.8,shape,false,true,America/Chicago,3,68957,1840012270
+Springview,Springview,Nebraska,31103,Keya Paha,42.8249,-99.7475,220,128.0,shape,false,true,America/Chicago,3,68778,1840011037
+Elba,Elba,Nebraska,31093,Howard,41.2854,-98.5693,218,215.2,shape,false,true,America/Chicago,3,68835,1840011663
+Hordville,Hordville,Nebraska,31081,Hamilton,41.0793,-97.8904,216,168.3,shape,false,true,America/Chicago,3,68846,1840011733
+Western,Western,Nebraska,31151,Saline,40.3931,-97.1984,213,169.1,shape,false,true,America/Chicago,3,68464,1840012059
+Wynot,Wynot,Nebraska,31027,Cedar,42.7399,-97.1697,211,137.7,shape,false,true,America/Chicago,3,68792,1840011075
+Lewellen,Lewellen,Nebraska,31069,Garden,41.3305,-102.1437,211,224.1,shape,false,true,America/Denver,3,69147,1840011391
+Manley,Manley,Nebraska,31025,Cass,40.9184,-96.1658,211,194.0,shape,false,true,America/Chicago,3,68403 68463,1840011813
+Washington,Washington,Nebraska,31177,Washington,41.3976,-96.2074,206,145.0,shape,false,true,America/Chicago,3,68068,1840011529
+Madrid,Madrid,Nebraska,31135,Perkins,40.8525,-101.5278,202,68.9,shape,false,true,America/Denver,3,69150,1840011870
+Dunbar,Dunbar,Nebraska,31131,Otoe,40.6686,-96.0309,201,191.2,shape,false,true,America/Chicago,3,68346,1840011965
+Blue Springs,Blue Springs,Nebraska,31067,Gage,40.1375,-96.6631,199,100.2,shape,false,true,America/Chicago,3,68318 68466,1840007234
+Hubbard,Hubbard,Nebraska,31043,Dakota,42.3859,-96.5915,199,149.0,shape,false,true,America/Chicago,3,68741,1840011103
+Center,Center,Nebraska,31107,Knox,42.609,-97.8761,199,79.9,shape,false,true,America/Chicago,3,68724,1840010090
+Thedford,Thedford,Nebraska,31171,Thomas,41.979,-100.5746,198,130.6,shape,false,true,America/Chicago,3,69166,1840011366
+Holstein,Holstein,Nebraska,31001,Adams,40.4652,-98.651,197,140.4,shape,false,true,America/Chicago,3,68950,1840012039
+Rockville,Rockville,Nebraska,31163,Sherman,41.1185,-98.8311,197,79.4,shape,false,true,America/Chicago,3,68871,1840011668
+Bladen,Bladen,Nebraska,31181,Webster,40.3232,-98.5961,197,210.5,shape,false,true,America/Chicago,3,68928,1840012261
+Talmage,Talmage,Nebraska,31131,Otoe,40.5315,-96.0237,197,241.4,shape,false,true,America/Chicago,3,68448,1840011968
+Meadow Grove,Meadow Grove,Nebraska,31119,Madison,42.029,-97.7361,197,350.3,shape,false,true,America/Chicago,3,68752,1840011362
+Stamford,Stamford,Nebraska,31083,Harlan,40.1313,-99.5945,195,158.8,shape,false,true,America/Chicago,3,68977,1840012303
+Endicott,Endicott,Nebraska,31095,Jefferson,40.0814,-97.0954,194,163.4,shape,false,true,America/Chicago,3,68350,1840012288
+Overland,Overland,Nebraska,31081,Hamilton,41.0809,-97.9783,194,83.7,shape,false,false,America/Chicago,3,68854,1840024206
+Howard City,Howard City,Nebraska,31093,Howard,41.0752,-98.7155,193,105.0,shape,false,true,America/Chicago,4,68820,1840073808
+Ulysses,Ulysses,Nebraska,31023,Butler,41.0721,-97.203,192,207.5,shape,false,true,America/Chicago,3,68669,1840011629
+Belgrade,Belgrade,Nebraska,31125,Nance,41.4709,-98.0678,190,147.9,shape,false,true,America/Chicago,3,68623,1840011589
+Nehawka,Nehawka,Nebraska,31025,Cass,40.8296,-95.9899,188,259.3,shape,false,true,America/Chicago,3,68413,1840011816
+Daykin,Daykin,Nebraska,31095,Jefferson,40.3217,-97.2983,188,122.1,shape,false,true,America/Chicago,3,68338,1840012286
+Avoca,Avoca,Nebraska,31025,Cass,40.7965,-96.1191,187,316.1,shape,false,true,America/Chicago,3,68307,1840011809
+Dawson,Dawson,Nebraska,31147,Richardson,40.1308,-95.8298,182,99.6,shape,false,true,America/Chicago,3,68337,1840012343
+Cody,Cody,Nebraska,31031,Cherry,42.9377,-101.2489,181,67.8,shape,false,true,America/Denver,3,69211,1840011039
+Carleton,Carleton,Nebraska,31169,Thayer,40.3033,-97.6816,178,86.7,shape,false,true,America/Chicago,3,68326,1840010473
+Farnam,Farnam,Nebraska,31047,Dawson,40.7065,-100.2155,173,99.2,shape,false,true,America/Chicago,3,69029,1840011828
+Funk,Funk,Nebraska,31137,Phelps,40.4631,-99.2507,172,171.8,shape,false,true,America/Chicago,3,68940,1840012078
+Ruskin,Ruskin,Nebraska,31129,Nuckolls,40.144,-97.867,172,158.8,shape,false,true,America/Chicago,3,68974,1840012271
+Concord,Concord,Nebraska,31051,Dixon,42.3839,-96.989,171,168.8,shape,false,true,America/Chicago,3,68728,1840011094
+Waco,Waco,Nebraska,31185,York,40.897,-97.4619,171,293.6,shape,false,true,America/Chicago,3,68460,1840011825
+Brunswick,Brunswick,Nebraska,31003,Antelope,42.3377,-97.9718,171,111.1,shape,false,true,America/Chicago,3,68720,1840010116
+Lynch,Lynch,Nebraska,31015,Boyd,42.8312,-98.4668,169,122.2,shape,false,true,America/Chicago,3,68746,1840011033
+Creston,Creston,Nebraska,31141,Platte,41.708,-97.3625,167,221.2,shape,false,true,America/Chicago,3,68631,1840011452
+Haigler,Haigler,Nebraska,31057,Dundy,40.0122,-101.9385,165,158.4,shape,false,true,America/Denver,3,69030,1840012274
+Cheney,Cheney,Nebraska,31109,Lancaster,40.7261,-96.5936,164,114.1,shape,false,false,America/Chicago,3,68526,1840151081
+Melbeta,Melbeta,Nebraska,31157,Scotts Bluff,41.7819,-103.5171,163,145.5,shape,false,true,America/Denver,3,69355,1840011395
+Oconto,Oconto,Nebraska,31041,Custer,41.1415,-99.7619,162,64.6,shape,false,true,America/Chicago,3,68860,1840011472
+Octavia,Octavia,Nebraska,31023,Butler,41.3474,-97.059,159,101.8,shape,false,true,America/Chicago,3,68632,1840011627
+Roca,Roca,Nebraska,31109,Lancaster,40.658,-96.6614,159,228.6,shape,false,true,America/Chicago,3,68430,1840011850
+Hardy,Hardy,Nebraska,31129,Nuckolls,40.0113,-97.924,158,100.5,shape,false,true,America/Chicago,3,68943,1840012269
+Edison,Edison,Nebraska,31065,Furnas,40.2792,-99.7758,157,136.9,shape,false,true,America/Chicago,3,68936,1840012277
+Naper,Naper,Nebraska,31015,Boyd,42.9642,-99.097,156,88.8,shape,false,true,America/Chicago,3,68755,1840011035
+Venango,Venango,Nebraska,31135,Perkins,40.7637,-102.0441,152,77.5,shape,false,true,America/Denver,3,69168,1840011871
+Denton,Denton,Nebraska,31109,Lancaster,40.7393,-96.8461,152,301.8,shape,false,true,America/Chicago,3,68339,1840011847
+Mason City,Mason City,Nebraska,31041,Custer,41.2222,-99.2988,152,123.2,shape,false,true,America/Chicago,3,68855,1840011470
+La Platte,La Platte,Nebraska,31153,Sarpy,41.0718,-95.9255,151,115.1,shape,false,false,America/Chicago,3,68123,1840024198
+Davey,Davey,Nebraska,31109,Lancaster,40.9838,-96.6692,149,240.8,shape,false,true,America/Chicago,3,68336,1840011846
+Bartlett,Bartlett,Nebraska,31183,Wheeler,41.8839,-98.5527,149,86.1,shape,false,true,America/Chicago,3,68622,1840011367
+Max,Max,Nebraska,31057,Dundy,40.1143,-101.4045,149,68.3,shape,false,false,America/Denver,3,69037 69021,1840024326
+Leshara,Leshara,Nebraska,31155,Saunders,41.3298,-96.4292,148,195.4,shape,false,true,America/Chicago,3,68064,1840011631
+Republican City,Republican City,Nebraska,31083,Harlan,40.0987,-99.2223,148,142.6,shape,false,true,America/Chicago,3,68971,1840012301
+Grafton,Grafton,Nebraska,31059,Fillmore,40.6298,-97.7146,148,141.4,shape,false,true,America/Chicago,3,68365,1840012048
+Taylor,Taylor,Nebraska,31115,Loup,41.7696,-99.3814,146,203.3,shape,false,true,America/Chicago,3,68879,1840011370
+Elsie,Elsie,Nebraska,31135,Perkins,40.8472,-101.3893,146,105.0,shape,false,true,America/Denver,3,69134,1840011869
+Sunol,Sunol,Nebraska,31033,Cheyenne,41.1539,-102.763,146,25.8,shape,false,false,America/Denver,3,69149,1840024157
+Swanton,Swanton,Nebraska,31151,Saline,40.3795,-97.0799,144,137.3,shape,false,true,America/Chicago,3,68445,1840012057
+Craig,Craig,Nebraska,31021,Burt,41.7852,-96.3624,143,192.3,shape,false,true,America/Chicago,3,68019,1840011389
+Du Bois,Du Bois,Nebraska,31133,Pawnee,40.0346,-96.0466,141,119.9,shape,false,true,America/Chicago,3,68345,1840012339
+Bushnell,Bushnell,Nebraska,31105,Kimball,41.2328,-103.8912,141,34.3,shape,false,true,America/Denver,3,69128,1840010284
+Stella,Stella,Nebraska,31147,Richardson,40.2323,-95.7736,139,115.9,shape,false,true,America/Chicago,3,68442,1840012348
+Brownville,Brownville,Nebraska,31127,Nemaha,40.3977,-95.6611,138,81.4,shape,false,true,America/Chicago,3,68321,1840010433
+Miller,Miller,Nebraska,31019,Buffalo,40.9276,-99.3901,137,75.3,shape,false,true,America/Chicago,3,68858,1840011834
+Ithaca,Ithaca,Nebraska,31155,Saunders,41.1594,-96.5394,137,194.9,shape,false,true,America/Chicago,3,68033,1840011630
+Naponee,Naponee,Nebraska,31061,Franklin,40.0747,-99.1386,135,43.1,shape,false,true,America/Chicago,3,68960,1840012267
+Rulo,Rulo,Nebraska,31147,Richardson,40.0518,-95.4301,134,82.4,shape,false,true,America/Chicago,3,68431,1840012345
+Page,Page,Nebraska,31089,Holt,42.4,-98.4177,130,84.9,shape,false,true,America/Chicago,3,68766,1840011047
+Odessa,Odessa,Nebraska,31019,Buffalo,40.6991,-99.2544,129,27.3,shape,false,false,America/Chicago,3,68845 68861,1840025537
+Tryon,Tryon,Nebraska,31117,McPherson,41.5584,-100.9536,129,41.9,shape,false,false,America/Chicago,3,69167,1840024136
+Inman,Inman,Nebraska,31089,Holt,42.3819,-98.5298,129,148.7,shape,false,true,America/Chicago,3,68742,1840011044
+Barneston,Barneston,Nebraska,31067,Gage,40.0488,-96.5735,127,86.2,shape,false,true,America/Chicago,3,68309,1840012160
+Hyannis,Hyannis,Nebraska,31075,Grant,42.0006,-101.7624,127,94.1,shape,false,true,America/Denver,3,69350,1840011358
+Princeton,Princeton,Nebraska,31109,Lancaster,40.576,-96.706,127,8.5,shape,false,false,America/Chicago,3,68404,1840033169
+Upland,Upland,Nebraska,31061,Franklin,40.3195,-98.9023,126,111.3,shape,false,true,America/Chicago,3,68981,1840012268
+Atlanta,Atlanta,Nebraska,31137,Phelps,40.3684,-99.4732,124,112.6,shape,false,true,America/Chicago,3,68923,1840012075
+Malmo,Malmo,Nebraska,31155,Saunders,41.2664,-96.7209,124,111.2,shape,false,true,America/Chicago,3,68040,1840011634
+Thurston,Thurston,Nebraska,31173,Thurston,42.1747,-96.7016,122,32.9,shape,false,true,America/Chicago,3,68062,1840011221
+Ohiowa,Ohiowa,Nebraska,31059,Fillmore,40.4136,-97.4524,120,133.1,shape,false,true,America/Chicago,3,68416,1840012052
+Ayr,Ayr,Nebraska,31001,Adams,40.4377,-98.4409,119,123.1,shape,false,true,America/Chicago,3,68925,1840012036
+Martell,Martell,Nebraska,31109,Lancaster,40.6389,-96.7589,119,65.0,shape,false,false,America/Chicago,3,68404,1840078532
+Belden,Belden,Nebraska,31027,Cedar,42.4116,-97.2077,118,112.0,shape,false,true,America/Chicago,3,68717,1840011069
+Linwood,Linwood,Nebraska,31023,Butler,41.4123,-96.9323,117,99.3,shape,false,true,America/Chicago,3,68036,1840011623
+Kilgore,Kilgore,Nebraska,31031,Cherry,42.9391,-100.9573,116,100.0,shape,false,true,America/Denver,3,69216,1840011038
+Colon,Colon,Nebraska,31155,Saunders,41.2981,-96.6069,115,144.6,shape,false,true,America/Chicago,3,68018,1840011632
+Broadwater,Broadwater,Nebraska,31123,Morrill,41.598,-102.8525,114,144.9,shape,false,true,America/Denver,3,69125,1840010163
+Elk Creek,Elk Creek,Nebraska,31097,Johnson,40.2883,-96.1269,111,169.2,shape,false,true,America/Chicago,3,68348,1840012169
+St. Helena,St. Helena,Nebraska,31027,Cedar,42.8106,-97.2489,111,96.5,shape,false,true,America/Chicago,3,68774,1840011072
+Anselmo,Anselmo,Nebraska,31041,Custer,41.6186,-99.8645,111,168.5,shape,false,true,America/Chicago,3,68813,1840010210
+Cordova,Cordova,Nebraska,31159,Seward,40.7164,-97.3516,110,131.0,shape,false,true,America/Chicago,3,68359 68330,1840011839
+Bloomington,Bloomington,Nebraska,31061,Franklin,40.0938,-99.0384,110,53.3,shape,false,true,America/Chicago,3,68929,1840012264
+Winslow,Winslow,Nebraska,31053,Dodge,41.6102,-96.5047,109,94.5,shape,false,true,America/Chicago,3,68072,1840011460
+Bruno,Bruno,Nebraska,31023,Butler,41.283,-96.9607,109,66.5,shape,false,true,America/Chicago,3,68014,1840010270
+Brock,Brock,Nebraska,31127,Nemaha,40.4804,-95.9601,107,102.2,shape,false,true,America/Chicago,3,68320,1840010432
+Alvo,Alvo,Nebraska,31025,Cass,40.8723,-96.3865,105,154.2,shape,false,true,America/Chicago,3,68304,1840010327
+Jansen,Jansen,Nebraska,31095,Jefferson,40.1839,-97.0848,101,92.9,shape,false,true,America/Chicago,3,68377,1840012285
+Riverton,Riverton,Nebraska,31061,Franklin,40.0897,-98.7597,101,99.3,shape,false,true,America/Chicago,3,68972,1840012266
+Steinauer,Steinauer,Nebraska,31133,Pawnee,40.2073,-96.2329,100,33.8,shape,false,true,America/Chicago,3,68441,1840012340
+Heartwell,Heartwell,Nebraska,31099,Kearney,40.5699,-98.7891,100,97.4,shape,false,true,America/Chicago,3,68945,1840012066
+Arthur,Arthur,Nebraska,31005,Arthur,41.5718,-101.6923,100,88.4,shape,false,true,America/Denver,3,69121,1840011463
+Alexandria,Alexandria,Nebraska,31169,Thayer,40.2475,-97.3878,100,95.5,shape,false,true,America/Chicago,3,68303,1840010475
+Nemaha,Nemaha,Nebraska,31127,Nemaha,40.3388,-95.676,99,89.5,shape,false,true,America/Chicago,3,68414,1840012148
+Comstock,Comstock,Nebraska,31041,Custer,41.5572,-99.243,99,28.7,shape,false,true,America/Chicago,3,68828,1840011469
+Roscoe,Roscoe,Nebraska,31101,Keith,41.1316,-101.5852,99,77.9,shape,false,false,America/Denver,3,69153,1840024163
+McLean,McLean,Nebraska,31139,Pierce,42.3861,-97.4682,99,50.6,shape,false,true,America/Chicago,3,68747,1840011187
+Eddyville,Eddyville,Nebraska,31047,Dawson,41.0124,-99.6241,98,94.3,shape,false,true,America/Chicago,3,68834,1840011827
+Smithfield,Smithfield,Nebraska,31073,Gosper,40.5733,-99.7409,96,52.6,shape,false,true,America/Chicago,3,68976,1840012043
+Merriman,Merriman,Nebraska,31031,Cherry,42.923,-101.6997,96,36.1,shape,false,true,America/Denver,3,69218,1840011041
+Tobias,Tobias,Nebraska,31151,Saline,40.4185,-97.3367,96,152.0,shape,false,true,America/Chicago,3,68453,1840012058
+Filley,Filley,Nebraska,31067,Gage,40.2851,-96.5339,95,119.5,shape,false,true,America/Chicago,3,68357,1840012163
+Rogers,Rogers,Nebraska,31037,Colfax,41.4643,-96.9159,94,106.8,shape,false,true,America/Chicago,3,68659,1840011449
+Wann,Wann,Nebraska,31155,Saunders,41.1394,-96.3632,93,24.1,shape,false,false,America/Chicago,3,68003,1840024155
+Loretto,Loretto,Nebraska,31011,Boone,41.7634,-98.0816,93,49.8,shape,false,false,America/Chicago,3,68620,1840025513
+Memphis,Memphis,Nebraska,31155,Saunders,41.0946,-96.4332,92,97.3,shape,false,true,America/Chicago,3,68042,1840011636
+South Bend,South Bend,Nebraska,31025,Cass,41.0022,-96.2474,92,237.8,shape,false,true,America/Chicago,3,68058,1840011817
+Sprague,Sprague,Nebraska,31109,Lancaster,40.6266,-96.7446,91,234.4,shape,false,true,America/Chicago,3,68438,1840011853
+Cushing,Cushing,Nebraska,31093,Howard,41.2949,-98.3693,91,34.8,shape,false,true,America/Chicago,3,68873,1840011661
+Ericson,Ericson,Nebraska,31183,Wheeler,41.7803,-98.6785,90,85.6,shape,false,true,America/Chicago,3,68637,1840011368
+Salem,Salem,Nebraska,31147,Richardson,40.0769,-95.7286,88,54.7,shape,false,true,America/Chicago,3,68433,1840012346
+Prosser,Prosser,Nebraska,31001,Adams,40.6877,-98.5777,88,88.8,shape,false,true,America/Chicago,3,68883,1840012040
+Bow Valley,Bow Valley,Nebraska,31027,Cedar,42.7154,-97.2521,86,90.7,shape,false,false,America/Chicago,3,68739,1840024091
+Dixon,Dixon,Nebraska,31051,Dixon,42.4155,-96.9948,84,74.8,shape,false,true,America/Chicago,3,68732,1840011095
+Belmar,Belmar,Nebraska,31101,Keith,41.3055,-101.9347,84,7.1,shape,false,false,America/Denver,3,69147,1840024159
+McGrew,McGrew,Nebraska,31157,Scotts Bluff,41.7477,-103.4177,83,108.1,shape,false,true,America/Denver,3,69334 69353,1840011394
+Martin,Martin,Nebraska,31101,Keith,41.2581,-101.7091,81,25.3,shape,false,false,America/Denver,3,69146,1840024162
+Wellfleet,Wellfleet,Nebraska,31111,Lincoln,40.7539,-100.7319,79,103.6,shape,false,true,America/Chicago,3,69170,1840011653
+Lebanon,Lebanon,Nebraska,31145,Red Willow,40.0487,-100.2761,78,60.7,shape,false,true,America/Chicago,3,69036,1840012293
+Burchard,Burchard,Nebraska,31133,Pawnee,40.1493,-96.3488,78,64.0,shape,false,true,America/Chicago,3,68323,1840010493
+Byron,Byron,Nebraska,31169,Thayer,40.0048,-97.7686,77,59.2,shape,false,true,America/Chicago,3,68325,1840010472
+Steele City,Steele City,Nebraska,31095,Jefferson,40.0367,-97.0232,76,63.1,shape,false,true,America/Chicago,3,68440,1840012291
+Melia,Melia,Nebraska,31153,Sarpy,41.0971,-96.2768,76,20.4,shape,false,false,America/Chicago,3,68028,1840078726
+Morse Bluff,Morse Bluff,Nebraska,31155,Saunders,41.431,-96.7666,75,112.4,shape,false,true,America/Chicago,3,68648,1840011637
+Berwyn,Berwyn,Nebraska,31041,Custer,41.3509,-99.5007,75,76.5,shape,false,true,America/Chicago,3,68814,1840011468
+Holmesville,Holmesville,Nebraska,31067,Gage,40.2009,-96.6584,73,29.7,shape,false,false,America/Chicago,3,68310,1840024304
+Martinsburg,Martinsburg,Nebraska,31051,Dixon,42.5084,-96.8314,72,47.9,shape,false,true,America/Chicago,3,68770,1840011097
+Farwell,Farwell,Nebraska,31093,Howard,41.2156,-98.628,72,144.9,shape,false,true,America/Chicago,3,68838,1840011664
+Harbine,Harbine,Nebraska,31095,Jefferson,40.1916,-96.9743,71,30.1,shape,false,true,America/Chicago,3,68377,1840012284
+King Lake,King Lake,Nebraska,31055,Douglas,41.3135,-96.3017,71,27.9,shape,false,false,America/Chicago,3,68064,1840024169
+Danbury,Danbury,Nebraska,31145,Red Willow,40.0376,-100.4051,69,118.2,shape,false,true,America/Chicago,3,69026,1840012294
+Huntley,Huntley,Nebraska,31083,Harlan,40.2105,-99.2901,69,16.7,shape,false,true,America/Chicago,3,68971,1840012299
+Wilsonville,Wilsonville,Nebraska,31065,Furnas,40.1119,-100.1066,69,102.6,shape,false,true,America/Chicago,3,69046,1840012279
+Reynolds,Reynolds,Nebraska,31095,Jefferson,40.0598,-97.3359,68,54.2,shape,false,true,America/Chicago,3,68429,1840012290
+Waterbury,Waterbury,Nebraska,31051,Dixon,42.4571,-96.7353,68,57.5,shape,false,true,America/Chicago,3,68785,1840011100
+Dunning,Dunning,Nebraska,31009,Blaine,41.8272,-100.1048,67,113.1,shape,false,true,America/Chicago,3,68833,1840011369
+Lorton,Lorton,Nebraska,31131,Otoe,40.5972,-96.0242,66,51.7,shape,false,true,America/Chicago,3,68382,1840011963
+Newport,Newport,Nebraska,31149,Rock,42.6002,-99.3283,66,78.3,shape,false,true,America/Chicago,3,68759,1840011077
+Bristow,Bristow,Nebraska,31015,Boyd,42.8408,-98.5834,64,26.6,shape,false,true,America/Chicago,3,68719,1840010077
+Hubbell,Hubbell,Nebraska,31169,Thayer,40.0088,-97.4966,64,72.3,shape,false,true,America/Chicago,3,68375,1840012281
+Royal,Royal,Nebraska,31003,Antelope,42.3329,-98.1252,62,13.8,shape,false,true,America/Chicago,3,68773,1840011189
+Maskell,Maskell,Nebraska,31051,Dixon,42.6904,-96.9809,62,55.0,shape,false,true,America/Chicago,3,68757 68751,1840011098
+Virginia,Virginia,Nebraska,31067,Gage,40.2458,-96.4988,62,62.3,shape,false,true,America/Chicago,3,68458,1840012166
+Whitney,Whitney,Nebraska,31045,Dawes,42.7837,-103.2567,62,79.8,shape,false,true,America/Denver,3,69367,1840011031
+Henry,Henry,Nebraska,31157,Scotts Bluff,41.998,-104.0461,61,104.6,shape,false,true,America/Denver,3,69358,1840011392
+Ong,Ong,Nebraska,31035,Clay,40.3983,-97.8392,60,65.5,shape,false,true,America/Chicago,3,68452,1840012063
+Belvidere,Belvidere,Nebraska,31169,Thayer,40.2546,-97.5577,59,48.9,shape,false,true,America/Chicago,3,68315,1840012280
+Harrisburg,Harrisburg,Nebraska,31007,Banner,41.5505,-103.7267,59,3.5,shape,false,false,America/Denver,3,69345,1840004835
+Abie,Abie,Nebraska,31023,Butler,41.3341,-96.9498,59,64.1,shape,false,true,America/Chicago,3,68001,1840010271
+Fontanelle,Fontanelle,Nebraska,31177,Washington,41.5383,-96.4271,58,66.9,shape,false,false,America/Chicago,3,68044,1840024138
+Clinton,Clinton,Nebraska,31161,Sheridan,42.7598,-102.3479,57,48.1,shape,false,true,America/Denver,3,69343,1840011030
+Lemoyne,Lemoyne,Nebraska,31101,Keith,41.2765,-101.8134,57,43.2,shape,false,false,America/Denver,3,69146,1840024161
+Archer,Archer,Nebraska,31121,Merrick,41.1665,-98.1386,53,20.4,shape,false,false,America/Chicago,3,68816,1840024167
+Magnet,Magnet,Nebraska,31027,Cedar,42.4561,-97.4692,52,79.9,shape,false,true,America/Chicago,3,68749,1840011073
+Aten,Aten,Nebraska,31027,Cedar,42.8368,-97.4409,52,11.8,shape,false,false,America/Chicago,3,68730,1840024090
+Richland,Richland,Nebraska,31037,Colfax,41.4367,-97.2152,50,100.1,shape,false,true,America/Chicago,3,68601,1840011448
+Primrose,Primrose,Nebraska,31011,Boone,41.6238,-98.2377,50,26.5,shape,false,true,America/Chicago,3,68655,1840011424
+Inavale,Inavale,Nebraska,31181,Webster,40.0923,-98.6484,50,56.8,shape,false,false,America/Chicago,3,68952,1840024325
+Hazard,Hazard,Nebraska,31163,Sherman,41.0916,-99.0773,49,62.7,shape,false,true,America/Chicago,3,68844,1840011667
+Saronville,Saronville,Nebraska,31035,Clay,40.603,-97.9387,48,59.1,shape,false,true,America/Chicago,3,68975,1840012062
+Liberty,Liberty,Nebraska,31067,Gage,40.0854,-96.4829,48,62.4,shape,false,true,America/Chicago,3,68381,1840012161
+Garrison,Garrison,Nebraska,31023,Butler,41.1755,-97.163,48,50.1,shape,false,true,America/Chicago,3,68632,1840011625
+Thayer,Thayer,Nebraska,31185,York,40.9702,-97.4968,47,61.2,shape,false,true,America/Chicago,3,68460,1840011824
+Julian,Julian,Nebraska,31127,Nemaha,40.5198,-95.8674,47,52.1,shape,false,true,America/Chicago,3,68379,1840012147
+Moorefield,Moorefield,Nebraska,31063,Frontier,40.6898,-100.4004,45,16.9,shape,false,true,America/Chicago,3,69039,1840012034
+Winnetoon,Winnetoon,Nebraska,31107,Knox,42.5135,-97.9601,44,88.0,shape,false,true,America/Chicago,3,68789,1840011065
+Elyria,Elyria,Nebraska,31175,Valley,41.6802,-99.0053,44,59.2,shape,false,true,America/Chicago,3,68837,1840011475
+Oak,Oak,Nebraska,31129,Nuckolls,40.2384,-97.9037,43,90.7,shape,false,true,America/Chicago,3,68964,1840012273
+Halsey,Halsey,Nebraska,31171,Thomas,41.9033,-100.2699,42,85.1,shape,false,true,America/Chicago,3,69142,1840011364
+Richfield,Richfield,Nebraska,31153,Sarpy,41.1108,-96.0763,40,10.2,shape,false,false,America/Chicago,3,68046 68059,1840024199
+Lewiston,Lewiston,Nebraska,31133,Pawnee,40.2429,-96.4074,39,77.4,shape,false,true,America/Chicago,3,68380,1840012338
+Verdel,Verdel,Nebraska,31107,Knox,42.8114,-98.1933,38,36.9,shape,false,true,America/Chicago,3,68760,1840011066
+Preston,Preston,Nebraska,31147,Richardson,40.0346,-95.5182,38,27.3,shape,false,true,America/Chicago,3,68355,1840012344
+Anoka,Anoka,Nebraska,31015,Boyd,42.946,-98.8285,37,25.5,shape,false,true,America/Chicago,3,68722,1840010079
+Deweese,Deweese,Nebraska,31035,Clay,40.3547,-98.1392,35,90.0,shape,false,true,America/Chicago,3,68934,1840012060
+Norman,Norman,Nebraska,31099,Kearney,40.479,-98.7922,35,44.6,shape,false,true,America/Chicago,3,68959,1840012067
+Hamlet,Hamlet,Nebraska,31085,Hayes,40.3845,-101.2345,35,47.4,shape,false,true,America/Chicago,3,69040,1840012044
+Surprise,Surprise,Nebraska,31023,Butler,41.1047,-97.3085,35,34.6,shape,false,true,America/Chicago,3,68667,1840011628
+Burr,Burr,Nebraska,31131,Otoe,40.536,-96.2997,34,76.0,shape,false,true,America/Chicago,3,68324,1840010374
+Brewster,Brewster,Nebraska,31009,Blaine,41.9384,-99.8651,34,22.6,shape,false,true,America/Chicago,3,68821,1840010150
+Foster,Foster,Nebraska,31139,Pierce,42.2747,-97.6651,34,29.9,shape,false,true,America/Chicago,3,68765,1840011186
+Beacon View,Beacon View,Nebraska,31153,Sarpy,41.0692,-96.3259,30,20.9,shape,false,false,America/Chicago,3,68028,1840078492
+Seneca,Seneca,Nebraska,31171,Thomas,42.044,-100.8321,30,11.9,shape,false,false,America/Denver,3,69161,1840011365
+Berea,Berea,Nebraska,31013,Box Butte,42.2123,-102.983,30,9.7,shape,false,false,America/Denver,3,69301,1840024099
+Cotesfield,Cotesfield,Nebraska,31093,Howard,41.3575,-98.6335,29,21.4,shape,false,true,America/Chicago,3,68835,1840011660
+Crab Orchard,Crab Orchard,Nebraska,31097,Johnson,40.3347,-96.4224,27,51.4,shape,false,true,America/Chicago,3,68332,1840012168
+Venice,Venice,Nebraska,31055,Douglas,41.239,-96.3526,26,21.2,shape,false,false,America/Chicago,3,68069,1840024170
+Gandy,Gandy,Nebraska,31113,Logan,41.4698,-100.4583,26,16.6,shape,false,true,America/Chicago,3,69163,1840011473
+Nora,Nora,Nebraska,31129,Nuckolls,40.1642,-97.9738,25,23.3,shape,false,true,America/Chicago,3,68961,1840012272
+Hendley,Hendley,Nebraska,31065,Furnas,40.1313,-99.9713,25,33.1,shape,false,true,America/Chicago,3,68926 68946,1840012275
+Sholes,Sholes,Nebraska,31179,Wayne,42.3348,-97.2946,25,11.9,shape,false,true,America/Chicago,3,68771,1840011216
+Cornlea,Cornlea,Nebraska,31141,Platte,41.68,-97.5669,25,33.5,shape,false,true,America/Chicago,3,68642,1840011451
+Linoma Beach,Linoma Beach,Nebraska,31153,Sarpy,41.0583,-96.3149,24,17.6,shape,false,false,America/Chicago,3,68028,1840078530
+Crookston,Crookston,Nebraska,31031,Cherry,42.9263,-100.7534,24,21.3,shape,false,true,America/Chicago,3,69212,1840011040
+Wood Lake,Wood Lake,Nebraska,31031,Cherry,42.6386,-100.2376,23,86.3,shape,false,true,America/Chicago,3,69221,1840011043
+Obert,Obert,Nebraska,31027,Cedar,42.6895,-97.0272,23,32.0,shape,false,true,America/Chicago,3,68757,1840011074
+Lushton,Lushton,Nebraska,31185,York,40.724,-97.7237,23,11.7,shape,false,true,America/Chicago,3,68371,1840011822
+Strang,Strang,Nebraska,31059,Fillmore,40.4149,-97.5872,22,37.2,shape,false,true,America/Chicago,3,68444,1840012054
+Barada,Barada,Nebraska,31147,Richardson,40.2185,-95.5777,21,28.5,shape,false,true,America/Chicago,3,68355,1840012342
+Keystone,Keystone,Nebraska,31101,Keith,41.2187,-101.5841,21,56.1,shape,false,false,America/Denver,3,69144,1840024160
+Emmet,Emmet,Nebraska,31089,Holt,42.4757,-98.8093,20,8.4,shape,false,true,America/Chicago,3,68734,1840011045
+Nenzel,Nenzel,Nebraska,31031,Cherry,42.9274,-101.1018,19,18.0,shape,false,true,America/Denver,3,69219,1840011042
+Gilead,Gilead,Nebraska,31169,Thayer,40.1461,-97.4151,18,53.1,shape,false,true,America/Chicago,3,68362,1840012283
+Westerville,Westerville,Nebraska,31041,Custer,41.3962,-99.3818,17,41.4,shape,false,false,America/Chicago,3,68881,1840024137
+Lindy,Lindy,Nebraska,31107,Knox,42.7351,-97.7499,17,6.6,shape,false,false,America/Chicago,3,68718,1840024089
+Lisco,Lisco,Nebraska,31069,Garden,41.4986,-102.6236,16,10.4,shape,false,false,America/Denver,3,69148,1840033155
+Tarnov,Tarnov,Nebraska,31141,Platte,41.6148,-97.5025,15,75.6,shape,false,true,America/Chicago,3,68642,1840011456
+Champion,Champion,Nebraska,31029,Chase,40.4706,-101.7468,15,132.6,shape,false,false,America/Denver,3,69023,1840024286
+Johnstown,Johnstown,Nebraska,31017,Brown,42.5721,-100.0563,14,10.1,shape,false,true,America/Chicago,3,69214,1840011076
+Poole,Poole,Nebraska,31019,Buffalo,40.987,-98.9655,14,2.0,shape,false,false,America/Chicago,3,68869,1840024237
+Inland,Inland,Nebraska,31035,Clay,40.5954,-98.2232,14,64.1,shape,false,false,America/Chicago,3,68954,1840024288
+Sarben,Sarben,Nebraska,31101,Keith,41.1662,-101.3043,13,30.3,shape,false,false,America/Denver,3,69155,1840024164
+Stockham,Stockham,Nebraska,31081,Hamilton,40.7164,-97.9434,12,33.1,shape,false,true,America/Chicago,3,68818,1840011737
+Tamora,Tamora,Nebraska,31159,Seward,40.8945,-97.2252,12,4.7,shape,false,false,America/Chicago,3,68434 68456,1840024238
+Bazile Mills,Bazile Mills,Nebraska,31107,Knox,42.5124,-97.9083,12,9.5,shape,false,true,America/Chicago,3,68729,1840011062
+Lorenzo,Lorenzo,Nebraska,31033,Cheyenne,41.0576,-103.0821,12,0.0,shape,false,false,America/Denver,3,69162,1840024156
+Gross,Gross,Nebraska,31015,Boyd,42.9461,-98.5697,11,3.0,shape,false,true,America/Chicago,3,68719,1840011032
+Kramer,Kramer,Nebraska,31109,Lancaster,40.5913,-96.8734,10,8.2,shape,false,false,America/Chicago,3,68333,1840033152
+Stockville,Stockville,Nebraska,31063,Frontier,40.5335,-100.3846,8,17.5,shape,false,true,America/Chicago,3,69039,1840012035
+Parks,Parks,Nebraska,31057,Dundy,40.0436,-101.7251,8,16.2,shape,false,false,America/Denver,3,69041,1840024327
+Lamar,Lamar,Nebraska,31029,Chase,40.5725,-101.9793,8,34.3,shape,false,true,America/Denver,3,69023,1840012046
+Brownlee,Brownlee,Nebraska,31031,Cherry,42.2893,-100.6241,7,12.5,shape,false,false,America/Chicago,3,69166,1840024064
+Ragan,Ragan,Nebraska,31083,Harlan,40.3108,-99.2896,7,25.9,shape,false,true,America/Chicago,3,68949,1840012300
+Emerald,Emerald,Nebraska,31109,Lancaster,40.8131,-96.8354,5,3.3,shape,false,false,America/Chicago,3,68528,1840078511
+Cowles,Cowles,Nebraska,31181,Webster,40.1714,-98.4491,4,2.8,shape,false,true,America/Chicago,3,68930,1840012263
+Monowi,Monowi,Nebraska,31015,Boyd,42.8307,-98.3296,1,1.8,shape,false,true,America/Chicago,3,68746,1840011034
+Agnew,Agnew,Nebraska,31109,Lancaster,41.0142,-96.8143,0,10.7,shape,false,false,America/Chicago,3,68428,1840033128
+Willow Island,Willow Island,Nebraska,31047,Dawson,40.89,-100.0707,0,12.0,shape,false,false,America/Chicago,3,69171 69138,1840024236
+White Clay,White Clay,Nebraska,31161,Sheridan,42.997,-102.555,0,15.4,shape,false,true,America/Denver,4,69365 69360,1840033182
+Prairie Home,Prairie Home,Nebraska,31109,Lancaster,40.862,-96.5245,0,19.8,shape,false,false,America/Chicago,3,68527,1840078560
+Enders,Enders,Nebraska,31029,Chase,40.4549,-101.5355,0,60.0,shape,false,false,America/Denver,3,69027,1840024287
+Burton,Burton,Nebraska,31103,Keya Paha,42.9119,-99.5918,0,5.9,shape,false,true,America/Chicago,3,68778,1840010080
+Ames,Ames,Nebraska,31053,Dodge,41.4491,-96.6263,0,9.8,shape,false,false,America/Chicago,3,68621,1840026263
+Raeville,Raeville,Nebraska,31011,Boone,41.8955,-98.0535,0,33.2,shape,false,false,America/Chicago,3,68652,1840025514

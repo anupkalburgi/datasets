@@ -1,0 +1,838 @@
+Oklahoma City,Oklahoma City,Oklahoma,40109,Oklahoma,35.4676,-97.5136,998806,433.6,shape,false,true,America/Chicago,2,73099 73119 73118 73114 73117 73116 73111 73110 73112 73020 73012 73013 73142 73141 73145 73149 73169 73078 73108 73109 73106 73107 74857 73139 73132 73131 73135 73134 73008 73097 73084 73105 73162 73103 73054 73151 73150 73159 73064 73104 73102 73179 73173 73170 73049 73160 73165 73127 73120 73121 73122 73128 73129 73101 73113 73124 73125 73126 73136 73137 73143 73144 73146 73147 73148 73152 73154 73155 73157 73163 73164 73167 73172 73178 73184 73189 73190 73194 73195,1840020428
+Tulsa,Tulsa,Oklahoma,40143,Tulsa,36.1283,-95.9042,731743,804.2,shape,false,true,America/Chicago,2,74137 74134 74132 74133 74130 74136 74135 74146 74145 74127 74126 74112 74114 74115 74119 74015 74106 74129 74128 74120 74171 74110 74116 74117 74107 74105 74103 74104 74108 74101 74121 74141 74147 74148 74149 74150 74152 74153 74155 74156 74158 74159 74169 74170 74172 74182 74186 74187 74192 74193,1840021672
+Norman,Norman,Oklahoma,40027,Cleveland,35.2335,-97.3471,127701,276.0,shape,false,true,America/Chicago,2,73019 73026 73072 73070 73071 74857 73069 73068,1840020451
+Broken Arrow,Broken Arrow,Oklahoma,40143,Tulsa,36.038,-95.7806,114237,700.6,shape,false,true,America/Chicago,2,74014 74011 74012 74013,1840019059
+Edmond,Edmond,Oklahoma,40109,Oklahoma,35.6689,-97.416,94503,432.1,shape,false,true,America/Chicago,3,73013 73007 73003 73034,1840020423
+Lawton,Lawton,Oklahoma,40031,Comanche,34.6175,-98.4202,91023,431.6,shape,false,true,America/Chicago,3,73503 73505 73501 73507 73502 73506,1840020477
+Moore,Moore,Oklahoma,40027,Cleveland,35.3293,-97.4757,62685,1095.6,shape,false,true,America/Chicago,3,73160 73153,1840020449
+Midwest City,Midwest City,Oklahoma,40109,Oklahoma,35.463,-97.371,58124,919.8,shape,false,true,America/Chicago,3,73110 73141 73130 73140 73196,1840020425
+Enid,Enid,Oklahoma,40047,Garfield,36.4063,-97.87,50961,266.1,shape,false,true,America/Chicago,3,73701 73703 73705 73702 73706,1840020373
+Stillwater,Stillwater,Oklahoma,40119,Payne,36.1317,-97.0742,48644,630.5,shape,false,true,America/Chicago,3,74078 74077 74075 74074 74076,1840021675
+Owasso,Owasso,Oklahoma,40143,Tulsa,36.2878,-95.8311,38134,866.3,shape,false,true,America/Chicago,3,74055,1840020385
+Bartlesville,Bartlesville,Oklahoma,40147,Washington,36.7365,-95.9456,37314,638.9,shape,false,true,America/Chicago,3,74006 74003 74004 74005,1840018977
+Muskogee,Muskogee,Oklahoma,40101,Muskogee,35.7432,-95.3567,36933,331.9,shape,false,true,America/Chicago,3,74403 74401 74402,1840020401
+Shawnee,Shawnee,Oklahoma,40125,Pottawatomie,35.3531,-96.9647,31391,313.9,shape,false,true,America/Chicago,3,74804 74801 74802,1840021785
+Bixby,Bixby,Oklahoma,40143,Tulsa,35.9454,-95.8776,28731,431.6,shape,false,true,America/Chicago,3,74008,1840019058
+Jenks,Jenks,Oklahoma,40143,Tulsa,35.9981,-95.9736,25872,583.8,shape,false,true,America/Chicago,3,74008 74037,1840019060
+Ardmore,Ardmore,Oklahoma,40019,Carter,34.1949,-97.1256,24784,192.0,shape,false,true,America/Chicago,3,73401 73402 73403,1840019258
+Ponca City,Ponca City,Oklahoma,40071,Kay,36.7235,-97.0677,24441,513.5,shape,false,true,America/Chicago,3,74601 74604 74602,1840020345
+Yukon,Yukon,Oklahoma,40017,Canadian,35.5201,-97.7639,24198,352.0,shape,false,true,America/Chicago,3,73099 73085,1840021740
+Duncan,Duncan,Oklahoma,40137,Stephens,34.5408,-97.9215,22759,204.6,shape,false,true,America/Chicago,3,73533 73055 73534,1840019253
+Sapulpa,Sapulpa,Oklahoma,40037,Creek,36.0091,-96.1003,22030,362.0,shape,false,true,America/Chicago,3,74131 74066 74067,1840021691
+Del City,Del City,Oklahoma,40109,Oklahoma,35.4483,-97.4408,21682,1113.5,shape,false,true,America/Chicago,3,73115 73117,1840019154
+Bethany,Bethany,Oklahoma,40109,Oklahoma,35.5071,-97.6418,20620,1522.8,shape,false,true,America/Chicago,3,73008,1840019153
+Mustang,Mustang,Oklahoma,40017,Canadian,35.3917,-97.7246,20518,661.1,shape,false,true,America/Chicago,3,73064,1840020421
+Sand Springs,Sand Springs,Oklahoma,40143,Tulsa,36.1353,-96.1283,19925,388.2,shape,false,true,America/Chicago,3,74107 74063,1840021671
+Claremore,Claremore,Oklahoma,40131,Rogers,36.3146,-95.6095,19724,507.4,shape,false,true,America/Chicago,3,74019 74017 74018,1840019049
+Durant,Durant,Oklahoma,40013,Bryan,33.9949,-96.3923,18759,260.9,shape,false,true,America/Chicago,3,74701,1840019280
+Altus,Altus,Oklahoma,40065,Jackson,34.6565,-99.3061,18711,396.7,shape,false,true,America/Chicago,3,73521 73523 73522,1840019202
+McAlester,McAlester,Oklahoma,40121,Pittsburg,34.9257,-95.7734,18110,392.8,shape,false,true,America/Chicago,3,74501 74502,1840020457
+El Reno,El Reno,Oklahoma,40017,Canadian,35.5429,-97.966,17474,84.8,shape,false,true,America/Chicago,3,73014 73022 73036,1840020420
+Ada,Ada,Oklahoma,40123,Pontotoc,34.7662,-96.6681,16537,317.0,shape,false,true,America/Chicago,3,74820 74821,1840019191
+Tahlequah,Tahlequah,Oklahoma,40021,Cherokee,35.9112,-94.977,16389,495.7,shape,false,true,America/Chicago,3,74464 74465,1840021700
+Chickasha,Chickasha,Oklahoma,40051,Grady,35.0409,-97.9474,16231,279.3,shape,false,true,America/Chicago,3,73018 73023,1840019169
+Glenpool,Glenpool,Oklahoma,40143,Tulsa,35.9488,-96.0052,13683,478.7,shape,false,true,America/Chicago,3,74047 74033,1840020384
+Miami,Miami,Oklahoma,40115,Ottawa,36.8878,-94.8711,12995,452.2,shape,false,true,America/Chicago,3,74354 74355,1840020346
+Guymon,Guymon,Oklahoma,40139,Texas,36.6903,-101.4774,12743,636.1,shape,false,true,America/Chicago,3,73942,1840020350
+Choctaw,Choctaw,Oklahoma,40109,Oklahoma,35.4802,-97.2666,12154,173.0,shape,false,true,America/Chicago,3,73020,1840019152
+Woodward,Woodward,Oklahoma,40153,Woodward,36.4247,-99.4058,12067,355.1,shape,false,true,America/Chicago,3,73801 73802,1840021636
+Weatherford,Weatherford,Oklahoma,40039,Custer,35.538,-98.6853,11999,605.0,shape,false,true,America/Chicago,3,73096,1840021725
+Newcastle,Newcastle,Oklahoma,40087,McClain,35.2401,-97.5995,11508,74.0,shape,false,true,America/Chicago,3,73072 73065,1840020453
+Elk City,Elk City,Oklahoma,40009,Beckham,35.3862,-99.4301,11494,278.6,shape,false,true,America/Chicago,3,73644 73648,1840020437
+Okmulgee,Okmulgee,Oklahoma,40111,Okmulgee,35.6134,-96.0068,11366,254.9,shape,false,true,America/Chicago,3,74447,1840020400
+Guthrie,Guthrie,Oklahoma,40083,Logan,35.8424,-97.4366,10872,233.4,shape,false,true,America/Chicago,3,73044,1840020390
+Warr Acres,Warr Acres,Oklahoma,40109,Oklahoma,35.5285,-97.6182,10424,1436.0,shape,false,true,America/Chicago,3,73132 73122 73123,1840021743
+Coweta,Coweta,Oklahoma,40145,Wagoner,35.9683,-95.6545,9903,361.2,shape,false,true,America/Chicago,3,74429 74014,1840019077
+Pryor Creek,Pryor Creek,Oklahoma,40097,Mayes,36.2996,-95.3107,9480,366.3,shape,false,true,America/Chicago,3,74361 74362,1840037410
+The Village,The Village,Oklahoma,40109,Oklahoma,35.5706,-97.5567,9479,1436.6,shape,false,true,America/Chicago,3,73120 73156,1840021742
+Poteau,Poteau,Oklahoma,40079,Le Flore,35.0282,-94.6346,8852,128.5,shape,false,true,America/Chicago,3,74953 74940,1840020445
+Blanchard,Blanchard,Oklahoma,40087,McClain,35.1524,-97.6602,8708,110.4,shape,false,true,America/Chicago,3,73010,1840019175
+Sallisaw,Sallisaw,Oklahoma,40135,Sequoyah,35.4606,-94.8072,8524,237.8,shape,false,true,America/Chicago,3,74955,1840021749
+Clinton,Clinton,Oklahoma,40039,Custer,35.5069,-98.9706,8499,329.9,shape,false,true,America/Chicago,3,73601,1840019108
+Skiatook,Skiatook,Oklahoma,40143,Tulsa,36.3699,-95.9856,8463,238.2,shape,false,true,America/Chicago,3,74070,1840022597
+Cushing,Cushing,Oklahoma,40119,Payne,35.9794,-96.7609,8336,423.8,shape,false,true,America/Chicago,3,74023,1840019062
+Collinsville,Collinsville,Oklahoma,40143,Tulsa,36.3723,-95.8609,8073,382.1,shape,false,true,America/Chicago,3,74021,1840019061
+Wagoner,Wagoner,Oklahoma,40145,Wagoner,35.9645,-95.3785,7813,301.3,shape,false,true,America/Chicago,3,74467,1840021696
+Catoosa,Catoosa,Oklahoma,40131,Rogers,36.1834,-95.768,7680,248.3,shape,false,true,America/Chicago,3,74015 74116,1840019048
+Piedmont,Piedmont,Oklahoma,40017,Canadian,35.6781,-97.7526,7629,67.9,shape,false,true,America/Chicago,3,73078,1840020422
+Tuttle,Tuttle,Oklahoma,40051,Grady,35.3068,-97.7564,7533,98.7,shape,false,true,America/Chicago,3,73089,1840021802
+Noble,Noble,Oklahoma,40027,Cleveland,35.1381,-97.3695,7168,216.9,shape,false,true,America/Chicago,3,73068,1840020450
+Seminole,Seminole,Oklahoma,40133,Seminole,35.2348,-96.6493,7144,201.3,shape,false,true,America/Chicago,3,74868 74884 74818,1840021776
+Grove,Grove,Oklahoma,40041,Delaware,36.5928,-94.7877,7012,285.0,shape,false,true,America/Chicago,3,74344 74345,1840020369
+Idabel,Idabel,Oklahoma,40089,McCurtain,33.904,-94.8285,6994,162.3,shape,false,true,America/Chicago,3,74745,1840019260
+Purcell,Purcell,Oklahoma,40087,McClain,35.0231,-97.3757,6632,168.5,shape,false,true,America/Chicago,3,73095 73080,1840020454
+Tecumseh,Tecumseh,Oklahoma,40125,Pottawatomie,35.2639,-96.9337,6326,162.6,shape,false,true,America/Chicago,3,74801 74873,1840021786
+Harrah,Harrah,Oklahoma,40109,Oklahoma,35.4786,-97.1873,6259,194.6,shape,false,true,America/Chicago,3,73020 73045,1840020424
+Blackwell,Blackwell,Oklahoma,40071,Kay,36.8013,-97.3009,6132,424.1,shape,false,true,America/Chicago,3,74631,1840018980
+Pauls Valley,Pauls Valley,Oklahoma,40049,Garvin,34.7231,-97.2281,6031,279.7,shape,false,true,America/Chicago,3,73075,1840020479
+Holdenville,Holdenville,Oklahoma,40063,Hughes,35.0838,-96.4017,5900,453.8,shape,false,true,America/Chicago,3,74848,1840020460
+Anadarko,Anadarko,Oklahoma,40015,Caddo,35.065,-98.2443,5723,311.0,shape,false,true,America/Chicago,3,73005,1840019159
+Henryetta,Henryetta,Oklahoma,40111,Okmulgee,35.4417,-95.9864,5639,318.0,shape,false,true,America/Chicago,3,74437,1840020398
+Sayre,Sayre,Oklahoma,40009,Beckham,35.2966,-99.6286,5459,391.3,shape,false,true,America/Chicago,3,73662,1840021774
+Verdigris,Verdigris,Oklahoma,40131,Rogers,36.2536,-95.66,5308,362.9,shape,false,true,America/Chicago,3,74019,1840022656
+Vinita,Vinita,Oklahoma,40035,Craig,36.6375,-95.1725,5207,347.2,shape,false,true,America/Chicago,3,74301,1840021599
+Hugo,Hugo,Oklahoma,40023,Choctaw,34.0118,-95.5115,5178,316.9,shape,false,true,America/Chicago,3,74743,1840020546
+Lone Grove,Lone Grove,Oklahoma,40019,Carter,34.1809,-97.2559,5026,78.1,shape,false,true,America/Chicago,3,73443 73401,1840020532
+Sulphur,Sulphur,Oklahoma,40099,Murray,34.4979,-96.9898,5025,283.2,shape,false,true,America/Chicago,3,73086,1840021891
+Alva,Alva,Oklahoma,40151,Woods,36.7895,-98.6649,5020,307.4,shape,false,true,America/Chicago,3,73717,1840018976
+Kingfisher,Kingfisher,Oklahoma,40073,Kingfisher,35.8444,-97.9386,4947,427.9,shape,false,true,America/Chicago,3,73750,1840020389
+Hinton,Hinton,Oklahoma,40015,Caddo,35.4895,-98.3575,4811,391.9,shape,false,true,America/Chicago,3,73047,1840021768
+Perry,Perry,Oklahoma,40103,Noble,36.2837,-97.3094,4526,256.3,shape,false,true,America/Chicago,3,73077,1840020371
+Marlow,Marlow,Oklahoma,40137,Stephens,34.6296,-97.9578,4417,241.8,shape,false,true,America/Chicago,3,73055,1840020526
+McLoud,McLoud,Oklahoma,40125,Pottawatomie,35.4081,-97.099,4394,94.1,shape,false,true,America/Chicago,3,74851 74804,1840022764
+Pocola,Pocola,Oklahoma,40079,Le Flore,35.2455,-94.4775,4297,54.7,shape,false,true,America/Chicago,3,74902,1840021795
+Bristow,Bristow,Oklahoma,40037,Creek,35.8336,-96.3944,4253,474.9,shape,false,true,America/Chicago,3,74010,1840019075
+Broken Bow,Broken Bow,Oklahoma,40089,McCurtain,34.0292,-94.7426,4222,265.0,shape,false,true,America/Chicago,3,74728,1840019259
+Slaughterville,Slaughterville,Oklahoma,40027,Cleveland,35.091,-97.2881,4187,41.8,shape,false,true,America/Chicago,3,73051 73068,1840022780
+Spencer,Spencer,Oklahoma,40109,Oklahoma,35.5108,-97.3715,3969,284.8,shape,false,true,America/Chicago,3,73141 73084,1840021741
+Madill,Madill,Oklahoma,40095,Marshall,34.0872,-96.7744,3929,343.4,shape,false,true,America/Chicago,3,73446,1840020543
+Nichols Hills,Nichols Hills,Oklahoma,40109,Oklahoma,35.5468,-97.5445,3854,754.5,shape,false,true,America/Chicago,3,73116 73120,1840020426
+Fort Gibson,Fort Gibson,Oklahoma,40101,Muskogee,35.7763,-95.2602,3810,110.1,shape,false,true,America/Chicago,3,74434,1840021721
+Stilwell,Stilwell,Oklahoma,40001,Adair,35.8145,-94.6317,3732,419.7,shape,false,true,America/Chicago,3,74960,1840021702
+Park Hill,Park Hill,Oklahoma,40021,Cherokee,35.8417,-94.9734,3587,55.8,shape,false,false,America/Chicago,3,74451 74464,1840019078
+Nowata,Nowata,Oklahoma,40105,Nowata,36.6985,-95.6372,3543,401.8,shape,false,true,America/Chicago,3,74048,1840020337
+Elgin,Elgin,Oklahoma,40031,Comanche,34.7849,-98.301,3498,361.5,shape,false,true,America/Chicago,3,73538,1840020476
+Frederick,Frederick,Oklahoma,40141,Tillman,34.3708,-99.0008,3486,272.1,shape,false,true,America/Chicago,3,73542,1840020527
+Roland,Roland,Oklahoma,40135,Sequoyah,35.4147,-94.5137,3409,439.1,shape,false,true,America/Chicago,3,74954,1840021750
+Hobart,Hobart,Oklahoma,40075,Kiowa,35.0246,-99.0875,3386,388.8,shape,false,true,America/Chicago,3,73651,1840020465
+Dewey,Dewey,Oklahoma,40147,Washington,36.7913,-95.9328,3379,484.1,shape,false,true,America/Chicago,3,74006 74029,1840018978
+Hominy,Hominy,Oklahoma,40113,Osage,36.4219,-96.393,3327,653.5,shape,false,true,America/Chicago,3,74035,1840020338
+Muldrow,Muldrow,Oklahoma,40135,Sequoyah,35.404,-94.5976,3294,300.0,shape,false,true,America/Chicago,3,74948,1840022738
+Mannford,Mannford,Oklahoma,40037,Creek,36.1306,-96.334,3275,167.7,shape,false,true,America/Chicago,3,74044,1840022699
+Perkins,Perkins,Oklahoma,40119,Payne,35.9785,-97.0301,3218,425.6,shape,false,true,America/Chicago,3,74059,1840020386
+Cleveland,Cleveland,Oklahoma,40117,Pawnee,36.3008,-96.4635,3213,462.2,shape,false,true,America/Chicago,3,74020,1840019050
+Atoka,Atoka,Oklahoma,40005,Atoka,34.386,-96.1317,3160,148.3,shape,false,true,America/Chicago,3,74525,1840019254
+Wewoka,Wewoka,Oklahoma,40133,Seminole,35.1441,-96.4968,3124,249.2,shape,false,true,America/Chicago,3,74884,1840021777
+Tishomingo,Tishomingo,Oklahoma,40069,Johnston,34.2388,-96.683,3110,228.3,shape,false,true,America/Chicago,3,73460,1840021904
+Okemah,Okemah,Oklahoma,40107,Okfuskee,35.4292,-96.2998,3078,383.1,shape,false,true,America/Chicago,3,74859,1840020429
+Bethel Acres,Bethel Acres,Oklahoma,40125,Pottawatomie,35.3048,-97.037,3066,41.9,shape,false,true,America/Chicago,3,74851 74801,1840020443
+Checotah,Checotah,Oklahoma,40091,McIntosh,35.482,-95.5224,3048,131.3,shape,false,true,America/Chicago,3,74426,1840019157
+Tonkawa,Tonkawa,Oklahoma,40071,Kay,36.6769,-97.3235,3027,269.3,shape,false,true,America/Chicago,3,74653,1840021614
+Heavener,Heavener,Oklahoma,40079,Le Flore,34.8919,-94.6075,3012,236.9,shape,false,true,America/Chicago,3,74937,1840020444
+Pawhuska,Pawhuska,Oklahoma,40113,Osage,36.6687,-96.3313,3009,314.5,shape,false,true,America/Chicago,3,74056,1840020339
+Cache,Cache,Oklahoma,40031,Comanche,34.6294,-98.6184,2974,315.0,shape,false,true,America/Chicago,3,73527,1840019203
+Jones,Jones,Oklahoma,40109,Oklahoma,35.5662,-97.2901,2925,82.6,shape,false,true,America/Chicago,3,73049,1840021746
+Turley,Turley,Oklahoma,40143,Tulsa,36.2472,-95.9655,2917,310.6,shape,false,false,America/Chicago,3,74130 74126,1840019057
+Jay,Jay,Oklahoma,40041,Delaware,36.4271,-94.7956,2900,336.0,shape,false,true,America/Chicago,3,74346,1840019046
+Calera,Calera,Oklahoma,40013,Bryan,33.9303,-96.4293,2896,211.1,shape,false,true,America/Chicago,3,74730 74702,1840022897
+Chandler,Chandler,Oklahoma,40081,Lincoln,35.7224,-96.8925,2886,116.1,shape,false,true,America/Chicago,3,74834,1840019106
+Lindsay,Lindsay,Oklahoma,40049,Garvin,34.8393,-97.6105,2863,477.3,shape,false,true,America/Chicago,3,73052,1840020478
+Wilburton,Wilburton,Oklahoma,40077,Latimer,34.9182,-95.3049,2828,351.3,shape,false,true,America/Chicago,3,74578,1840021832
+Davis,Davis,Oklahoma,40099,Murray,34.4575,-97.1566,2821,117.6,shape,false,true,America/Chicago,3,73030,1840019256
+Marietta,Marietta,Oklahoma,40085,Love,33.936,-97.1248,2820,421.6,shape,false,true,America/Chicago,3,73448,1840020561
+Longtown,Longtown,Oklahoma,40121,Pittsburg,35.2408,-95.5176,2807,41.5,shape,false,false,America/Chicago,3,74425 74432 74462,1840034462
+Eufaula,Eufaula,Oklahoma,40091,McIntosh,35.2923,-95.5863,2776,162.6,shape,false,true,America/Chicago,3,74432,1840020434
+Mangum,Mangum,Oklahoma,40055,Greer,34.8787,-99.5038,2775,636.5,shape,false,true,America/Chicago,3,73554,1840020466
+New Cordell,New Cordell,Oklahoma,40149,Washita,35.2968,-98.9838,2769,475.4,shape,false,true,America/Chicago,3,73632,1840037403
+Stroud,Stroud,Oklahoma,40081,Lincoln,35.7686,-96.6467,2748,91.2,shape,false,true,America/Chicago,3,74079 74028,1840021709
+Goldsby,Goldsby,Oklahoma,40087,McClain,35.1308,-97.4783,2744,40.4,shape,false,true,America/Chicago,3,73093 73072,1840021810
+Fairview,Fairview,Oklahoma,40093,Major,36.2705,-98.4769,2703,146.3,shape,false,true,America/Chicago,3,73737,1840020377
+Stigler,Stigler,Oklahoma,40061,Haskell,35.257,-95.1181,2687,384.1,shape,false,true,America/Chicago,3,74462,1840021790
+Hennessey,Hennessey,Oklahoma,40073,Kingfisher,36.1056,-97.8989,2669,278.0,shape,false,true,America/Chicago,3,73742,1840021680
+Watonga,Watonga,Oklahoma,40011,Blaine,35.8691,-98.4166,2651,271.6,shape,false,true,America/Chicago,3,73772,1840021684
+Nicoma Park,Nicoma Park,Oklahoma,40109,Oklahoma,35.4913,-97.3254,2542,292.1,shape,false,true,America/Chicago,3,73020 73141 73066,1840020427
+Healdton,Healdton,Oklahoma,40019,Carter,34.2335,-97.4867,2361,64.6,shape,false,true,America/Chicago,3,73438,1840020531
+Antlers,Antlers,Oklahoma,40127,Pushmataha,34.2329,-95.6229,2361,293.2,shape,false,true,America/Chicago,3,74523,1840019255
+Commerce,Commerce,Oklahoma,40115,Ottawa,36.9349,-94.8615,2302,384.4,shape,false,true,America/Chicago,3,74339 74354,1840018984
+Texanna,Texanna,Oklahoma,40091,McIntosh,35.3572,-95.5047,2293,22.3,shape,false,false,America/Chicago,3,74426 74432,1840019158
+Drumright,Drumright,Oklahoma,40037,Creek,35.9905,-96.5977,2285,119.4,shape,false,true,America/Chicago,3,74030,1840019076
+Kiefer,Kiefer,Oklahoma,40037,Creek,35.9442,-96.0529,2284,370.7,shape,false,true,America/Chicago,3,74041,1840021694
+Walters,Walters,Oklahoma,40033,Cotton,34.3612,-98.3568,2281,109.2,shape,false,true,America/Chicago,3,73572,1840021906
+Pink,Pink,Oklahoma,40125,Pottawatomie,35.2327,-97.1,2119,22.7,shape,false,true,America/Chicago,3,74852 74873,1840022765
+Spiro,Spiro,Oklahoma,40079,Le Flore,35.241,-94.6237,2095,344.5,shape,false,true,America/Chicago,3,74959,1840022774
+Chouteau,Chouteau,Oklahoma,40097,Mayes,36.1894,-95.3374,2071,237.9,shape,false,true,America/Chicago,3,74337,1840022667
+Burns Flat,Burns Flat,Oklahoma,40149,Washita,35.3547,-99.1751,2042,910.7,shape,false,true,America/Chicago,3,73624,1840021780
+Lexington,Lexington,Oklahoma,40027,Cleveland,35.0179,-97.3348,2037,326.2,shape,false,true,America/Chicago,3,73051,1840020448
+Oakhurst,Oakhurst,Oklahoma,40143,Tulsa,36.0825,-96.0643,2010,140.2,shape,false,false,America/Chicago,3,74050 74131 74107 74157,1840019074
+Krebs,Krebs,Oklahoma,40121,Pittsburg,34.9301,-95.7189,1994,158.9,shape,false,true,America/Chicago,3,74554 74501,1840020458
+Pawnee,Pawnee,Oklahoma,40117,Pawnee,36.3484,-96.8025,1929,237.3,shape,false,true,America/Chicago,3,74058,1840020376
+Chelsea,Chelsea,Oklahoma,40131,Rogers,36.5321,-95.4346,1914,415.8,shape,false,true,America/Chicago,3,74016,1840022654
+Newkirk,Newkirk,Oklahoma,40071,Kay,36.8817,-97.0553,1892,539.3,shape,false,true,America/Chicago,3,74647,1840020344
+Prague,Prague,Oklahoma,40081,Lincoln,35.499,-96.7001,1886,232.1,shape,false,true,America/Chicago,3,74864,1840020396
+Coalgate,Coalgate,Oklahoma,40029,Coal,34.5323,-96.2209,1886,401.0,shape,false,true,America/Chicago,3,74538,1840019248
+Inola,Inola,Oklahoma,40131,Rogers,36.1321,-95.5369,1879,108.6,shape,false,true,America/Chicago,3,74036,1840021644
+Arkoma,Arkoma,Oklahoma,40079,Le Flore,35.3374,-94.4438,1866,207.4,shape,false,true,America/Chicago,3,74901,1840020446
+Waurika,Waurika,Oklahoma,40067,Jefferson,34.183,-98.0245,1824,59.1,shape,false,true,America/Chicago,3,73573,1840021918
+Haskell,Haskell,Oklahoma,40101,Muskogee,35.8187,-95.6805,1824,140.0,shape,false,true,America/Chicago,3,74436,1840021722
+Oologah,Oologah,Oklahoma,40131,Rogers,36.4438,-95.7089,1783,414.2,shape,false,true,America/Chicago,3,74053,1840022653
+Wynnewood,Wynnewood,Oklahoma,40049,Garvin,34.6437,-97.1622,1767,439.0,shape,false,true,America/Chicago,3,73098,1840021855
+Hartshorne,Hartshorne,Oklahoma,40121,Pittsburg,34.8392,-95.5596,1754,208.2,shape,false,true,America/Chicago,3,74547,1840020456
+Kingston,Kingston,Oklahoma,40095,Marshall,34.0004,-96.7062,1726,303.8,shape,false,true,America/Chicago,3,73439,1840021925
+Langston,Langston,Oklahoma,40083,Logan,35.9308,-97.2807,1691,54.4,shape,false,true,America/Chicago,3,73027 73050,1840021683
+Westville,Westville,Oklahoma,40001,Adair,35.991,-94.5751,1672,390.6,shape,false,true,America/Chicago,3,74965,1840022706
+Comanche,Comanche,Oklahoma,40137,Stephens,34.3567,-97.9509,1635,149.0,shape,false,true,America/Chicago,3,73529,1840019252
+Justice,Justice,Oklahoma,40131,Rogers,36.2908,-95.5636,1630,70.9,shape,false,false,America/Chicago,3,74019,1840034642
+McCord,McCord,Oklahoma,40113,Osage,36.6797,-97.0346,1625,143.5,shape,false,false,America/Chicago,3,74604,1840034657
+Morris,Morris,Oklahoma,40111,Okmulgee,35.6153,-95.8617,1615,511.1,shape,false,true,America/Chicago,3,74447 74445,1840020399
+Wilson,Wilson,Oklahoma,40019,Carter,34.1684,-97.426,1611,110.2,shape,false,true,America/Chicago,3,73463,1840021899
+Carnegie,Carnegie,Oklahoma,40015,Caddo,35.103,-98.5996,1585,459.2,shape,false,true,America/Chicago,3,73015,1840022750
+Warner,Warner,Oklahoma,40101,Muskogee,35.4905,-95.3087,1574,328.5,shape,false,true,America/Chicago,3,74469,1840022724
+Hooker,Hooker,Oklahoma,40139,Texas,36.8613,-101.2162,1561,544.8,shape,false,true,America/Chicago,3,73945,1840020351
+Cherokee,Cherokee,Oklahoma,40003,Alfalfa,36.7507,-98.3577,1556,294.2,shape,false,true,America/Chicago,3,73728,1840018979
+Crescent,Crescent,Oklahoma,40083,Logan,35.9518,-97.5948,1552,557.9,shape,false,true,America/Chicago,3,73028,1840019073
+Hollis,Hollis,Oklahoma,40057,Harmon,34.6897,-99.9153,1552,403.6,shape,false,true,America/Chicago,3,73550,1840020470
+Beaver,Beaver,Oklahoma,40007,Beaver,36.815,-100.5236,1524,512.4,shape,false,true,America/Chicago,3,73932,1840020352
+Cleora,Cleora,Oklahoma,40041,Delaware,36.5738,-94.948,1508,49.1,shape,false,false,America/Chicago,3,74331,1840017696
+Minco,Minco,Oklahoma,40051,Grady,35.3175,-97.9517,1502,47.2,shape,false,true,America/Chicago,3,73059,1840020447
+Wetumka,Wetumka,Oklahoma,40063,Hughes,35.2412,-96.2385,1498,306.9,shape,false,true,America/Chicago,3,74883,1840021816
+Central High,Central High,Oklahoma,40137,Stephens,34.617,-98.0892,1480,10.8,shape,false,true,America/Chicago,3,73533 73055,1840022829
+Maysville,Maysville,Oklahoma,40087,McClain,34.8546,-97.3876,1479,371.4,shape,false,true,America/Chicago,3,73057,1840034465
+Granite,Granite,Oklahoma,40055,Greer,34.956,-99.3692,1473,168.7,shape,false,true,America/Chicago,3,73547,1840021828
+Byng,Byng,Oklahoma,40123,Pontotoc,34.8657,-96.6678,1473,87.2,shape,false,true,America/Chicago,3,74820,1840022811
+Helena,Helena,Oklahoma,40003,Alfalfa,36.5463,-98.2718,1459,1381.3,shape,false,true,America/Chicago,3,73741,1840021610
+Dickson,Dickson,Oklahoma,40019,Carter,34.1877,-96.9968,1445,40.0,shape,false,true,America/Chicago,3,73401,1840021900
+Bushyhead,Bushyhead,Oklahoma,40131,Rogers,36.4596,-95.5164,1444,37.4,shape,false,false,America/Chicago,3,74017 74016,1840034521
+Locust Grove,Locust Grove,Oklahoma,40097,Mayes,36.1982,-95.1689,1424,301.6,shape,false,true,America/Chicago,3,74352,1840021663
+Copeland,Copeland,Oklahoma,40041,Delaware,36.6571,-94.8204,1406,77.7,shape,false,false,America/Chicago,3,74331 74344,1840034532
+Norwood,Norwood,Oklahoma,40021,Cherokee,35.8491,-95.1493,1402,16.7,shape,false,false,America/Chicago,3,74441 74434,1840145078
+Okarche,Okarche,Oklahoma,40017,Canadian,35.7251,-97.9757,1383,242.7,shape,false,true,America/Chicago,3,73762,1840022687
+Vian,Vian,Oklahoma,40135,Sequoyah,35.5023,-94.9695,1371,395.5,shape,false,true,America/Chicago,3,74962,1840022740
+West Siloam Springs,West Siloam Springs,Oklahoma,40041,Delaware,36.1759,-94.5978,1368,137.6,shape,false,true,America/Chicago,3,74338 74964,1840022650
+Luther,Luther,Oklahoma,40109,Oklahoma,35.6682,-97.1905,1365,33.4,shape,false,true,America/Chicago,3,73054,1840021748
+Stratford,Stratford,Oklahoma,40049,Garvin,34.7952,-96.9603,1352,516.4,shape,false,true,America/Chicago,3,74872,1840022824
+Colbert,Colbert,Oklahoma,40013,Bryan,33.8579,-96.5059,1336,379.2,shape,false,true,America/Chicago,3,74733,1840022898
+Union City,Union City,Oklahoma,40017,Canadian,35.4015,-97.9047,1326,9.1,shape,false,true,America/Chicago,3,73090 73036,1840022732
+Snyder,Snyder,Oklahoma,40075,Kiowa,34.655,-98.9535,1322,423.5,shape,false,true,America/Chicago,3,73566,1840021824
+Cashion,Cashion,Oklahoma,40073,Kingfisher,35.8009,-97.6771,1319,390.6,shape,false,true,America/Chicago,3,73016,1840022688
+Thomas,Thomas,Oklahoma,40039,Custer,35.7452,-98.7451,1298,436.0,shape,false,true,America/Chicago,3,73669,1840021724
+Meeker,Meeker,Oklahoma,40081,Lincoln,35.4855,-96.8951,1292,169.5,shape,false,true,America/Chicago,3,74855,1840022711
+Latta,Latta,Oklahoma,40123,Pontotoc,34.7532,-96.7088,1286,197.1,shape,false,false,America/Chicago,3,74820,1840034458
+Kenwood,Kenwood,Oklahoma,40041,Delaware,36.3012,-94.9978,1279,11.0,shape,false,false,America/Chicago,3,74365 74364,1840024887
+Panama,Panama,Oklahoma,40079,Le Flore,35.1711,-94.669,1278,218.4,shape,false,true,America/Chicago,3,74951,1840022771
+Buffalo,Buffalo,Oklahoma,40059,Harper,36.8374,-99.6465,1273,441.5,shape,false,true,America/Chicago,3,73834,1840021619
+Salina,Salina,Oklahoma,40097,Mayes,36.2909,-95.1528,1266,455.5,shape,false,true,America/Chicago,3,74365,1840022668
+Rush Springs,Rush Springs,Oklahoma,40051,Grady,34.7788,-97.9572,1265,420.4,shape,false,true,America/Chicago,3,73082,1840021806
+Shattuck,Shattuck,Oklahoma,40045,Ellis,36.2649,-99.8774,1262,221.9,shape,false,true,America/Chicago,3,73858,1840022660
+Whitehorn Cove,Whitehorn Cove,Oklahoma,40145,Wagoner,35.9936,-95.2868,1234,66.8,shape,false,false,America/Chicago,3,74477 74467,1840147252
+Fairland,Fairland,Oklahoma,40115,Ottawa,36.7513,-94.8472,1234,425.6,shape,false,true,America/Chicago,3,74343,1840021618
+North Enid,North Enid,Oklahoma,40047,Garfield,36.4458,-97.8634,1214,200.1,shape,false,true,America/Chicago,3,73701,1840022657
+Geronimo,Geronimo,Oklahoma,40031,Comanche,34.4831,-98.3877,1191,308.5,shape,false,true,America/Chicago,3,73543,1840021853
+Woodall,Woodall,Oklahoma,40021,Cherokee,35.8246,-95.0823,1186,41.4,shape,false,false,America/Chicago,3,74434 74464,1840034656
+Yale,Yale,Oklahoma,40119,Payne,36.1151,-96.7011,1179,497.0,shape,false,true,America/Chicago,3,74085,1840021676
+Briggs,Briggs,Oklahoma,40021,Cherokee,35.9202,-94.8825,1175,53.7,shape,false,false,America/Chicago,3,74464,1840034515
+Fairfax,Fairfax,Oklahoma,40113,Osage,36.5699,-96.708,1172,590.9,shape,false,true,America/Chicago,3,74637,1840021592
+Konawa,Konawa,Oklahoma,40133,Seminole,34.9579,-96.7538,1169,343.7,shape,false,true,America/Chicago,3,74849,1840020439
+Oakland,Oakland,Oklahoma,40095,Marshall,34.096,-96.7996,1163,314.1,shape,false,true,America/Chicago,3,73446,1840022894
+Toppers,Toppers,Oklahoma,40145,Wagoner,35.9656,-95.3201,1156,192.7,shape,false,false,America/Chicago,3,74467,1840096528
+Fletcher,Fletcher,Oklahoma,40031,Comanche,34.8237,-98.2341,1148,230.4,shape,false,true,America/Chicago,3,73541,1840021852
+Boise City,Boise City,Oklahoma,40025,Cimarron,36.7313,-102.5095,1140,298.2,shape,false,true,America/Chicago,3,73933,1840019008
+Gore,Gore,Oklahoma,40135,Sequoyah,35.5418,-95.1129,1129,190.9,shape,false,true,America/Chicago,3,74435,1840021752
+Hydro,Hydro,Oklahoma,40015,Caddo,35.5483,-98.5795,1128,624.9,shape,false,true,America/Chicago,3,73048,1840021769
+Beggs,Beggs,Oklahoma,40111,Okmulgee,35.7768,-96.0282,1126,103.6,shape,false,true,America/Chicago,3,74421 74047,1840019107
+Boley,Boley,Oklahoma,40107,Okfuskee,35.4904,-96.4795,1108,265.1,shape,false,true,America/Chicago,3,74829,1840021753
+Moodys,Moodys,Oklahoma,40021,Cherokee,36.0325,-94.9559,1099,24.3,shape,false,false,America/Chicago,3,74464 74444,1840034564
+Mounds,Mounds,Oklahoma,40037,Creek,35.8792,-96.0678,1099,188.9,shape,false,true,America/Chicago,3,74047 74066,1840022700
+Cookson,Cookson,Oklahoma,40021,Cherokee,35.7155,-94.9199,1095,32.8,shape,false,false,America/Chicago,3,74427,1840096677
+Dibble,Dibble,Oklahoma,40087,McClain,35.0151,-97.6273,1093,56.5,shape,false,true,America/Chicago,3,73010 73031,1840021808
+Sperry,Sperry,Oklahoma,40143,Tulsa,36.2976,-95.9963,1088,237.2,shape,false,true,America/Chicago,3,74073,1840022678
+Waukomis,Waukomis,Oklahoma,40047,Garfield,36.2842,-97.9005,1087,141.1,shape,false,true,America/Chicago,3,73773,1840022659
+Kellyville,Kellyville,Oklahoma,40037,Creek,35.9528,-96.2003,1086,217.4,shape,false,true,America/Chicago,3,74039,1840021693
+Tyrone,Tyrone,Oklahoma,40139,Texas,36.9555,-101.068,1082,989.4,shape,false,true,America/Chicago,3,73951,1840022637
+Shady Point,Shady Point,Oklahoma,40079,Le Flore,35.1276,-94.6686,1075,162.1,shape,false,true,America/Chicago,3,74956,1840022773
+Weleetka,Weleetka,Oklahoma,40107,Okfuskee,35.3401,-96.136,1070,626.3,shape,false,true,America/Chicago,3,74880,1840022744
+Apache,Apache,Oklahoma,40015,Caddo,34.8937,-98.3584,1065,191.7,shape,false,true,America/Chicago,3,73006,1840021763
+Keys,Keys,Oklahoma,40021,Cherokee,35.8022,-94.9606,1063,42.1,shape,false,false,America/Chicago,3,74451,1840034457
+Goodwell,Goodwell,Oklahoma,40139,Texas,36.5948,-101.6224,1059,186.1,shape,false,true,America/Chicago,3,73939,1840021625
+Caddo,Caddo,Oklahoma,40013,Bryan,34.1256,-96.2636,1045,238.4,shape,false,true,America/Chicago,3,74729,1840022896
+Okeene,Okeene,Oklahoma,40011,Blaine,36.1171,-98.3167,1044,178.1,shape,false,true,America/Chicago,3,73763,1840022693
+Laverne,Laverne,Oklahoma,40059,Harper,36.7053,-99.8968,1035,533.8,shape,false,true,America/Chicago,3,73848,1840021621
+Mooreland,Mooreland,Oklahoma,40153,Woodward,36.4377,-99.2048,1028,450.0,shape,false,true,America/Chicago,3,73852,1840022645
+Bray,Bray,Oklahoma,40137,Stephens,34.616,-97.8207,1024,6.4,shape,false,true,America/Chicago,3,73055,1840021886
+Barnsdall,Barnsdall,Oklahoma,40113,Osage,36.5595,-96.1383,1019,400.0,shape,false,true,America/Chicago,3,74002,1840018975
+Grandview,Grandview,Oklahoma,40021,Cherokee,35.9635,-94.9979,1012,55.4,shape,false,true,America/Chicago,4,74464,1840040368
+Ninnekah,Ninnekah,Oklahoma,40051,Grady,34.964,-97.9447,989,37.5,shape,false,true,America/Chicago,3,73018 73067,1840022777
+Pickett,Pickett,Oklahoma,40123,Pontotoc,34.7795,-96.7755,988,118.1,shape,false,false,America/Chicago,3,74820,1840096490
+Pond Creek,Pond Creek,Oklahoma,40053,Grant,36.6679,-97.8024,980,445.7,shape,false,true,America/Chicago,3,73766,1840020343
+Sentinel,Sentinel,Oklahoma,40149,Washita,35.157,-99.1736,973,603.5,shape,false,true,America/Chicago,3,73664,1840022762
+Brushy,Brushy,Oklahoma,40135,Sequoyah,35.5578,-94.7434,973,14.4,shape,false,false,America/Chicago,3,74955,1840017831
+Flint Creek,Flint Creek,Oklahoma,40041,Delaware,36.1765,-94.7436,969,58.8,shape,false,false,America/Chicago,3,74347,1840034638
+Mannsville,Mannsville,Oklahoma,40069,Johnston,34.1854,-96.8981,966,122.9,shape,false,true,America/Chicago,3,73447 73401,1840022847
+Wister,Wister,Oklahoma,40079,Le Flore,34.9696,-94.7212,954,195.0,shape,false,true,America/Chicago,3,74966,1840022776
+Medford,Medford,Oklahoma,40053,Grant,36.8035,-97.7378,949,339.5,shape,false,true,America/Chicago,3,73759,1840020342
+Allen,Allen,Oklahoma,40123,Pontotoc,34.8776,-96.4129,930,382.0,shape,false,true,America/Chicago,3,74825,1840021836
+Texhoma,Texhoma,Oklahoma,40139,Texas,36.5054,-101.7872,929,559.5,shape,false,true,America/Chicago,3,73949,1840074975
+Grandfield,Grandfield,Oklahoma,40141,Tillman,34.2306,-98.6875,912,422.0,shape,false,true,America/Chicago,3,73546,1840020528
+Copan,Copan,Oklahoma,40147,Washington,36.9004,-95.9253,886,324.9,shape,false,true,America/Chicago,3,74022,1840022603
+Quinton,Quinton,Oklahoma,40121,Pittsburg,35.1265,-95.3664,886,382.7,shape,false,true,America/Chicago,3,74561,1840021813
+Forest Park,Forest Park,Oklahoma,40109,Oklahoma,35.5096,-97.4469,881,185.5,shape,false,true,America/Chicago,3,73121,1840021745
+Peggs,Peggs,Oklahoma,40021,Cherokee,36.0673,-95.0718,875,22.1,shape,false,false,America/Chicago,3,74441,1840024906
+Maud,Maud,Oklahoma,40125,Pottawatomie,35.1334,-96.778,872,320.8,shape,false,true,America/Chicago,3,74854,1840020441
+Talihina,Talihina,Oklahoma,40079,Le Flore,34.7523,-95.0409,870,338.8,shape,false,true,America/Chicago,3,74571,1840022775
+Burneyville,Burneyville,Oklahoma,40085,Love,33.9043,-97.2903,860,19.2,shape,false,false,America/Chicago,3,73430,1840034422
+Geary,Geary,Oklahoma,40017,Canadian,35.5923,-98.2911,853,79.5,shape,false,true,America/Chicago,3,73014 73040,1840020391
+Ringling,Ringling,Oklahoma,40067,Jefferson,34.1772,-97.5915,853,421.2,shape,false,true,America/Chicago,3,73456,1840021920
+Cole,Cole,Oklahoma,40087,McClain,35.0992,-97.5663,853,22.0,shape,false,true,America/Chicago,3,73010 73093,1840022784
+Quapaw,Quapaw,Oklahoma,40115,Ottawa,36.9497,-94.7805,851,336.6,shape,false,true,America/Chicago,3,74363,1840021617
+Keefton,Keefton,Oklahoma,40101,Muskogee,35.5772,-95.3065,845,16.6,shape,false,false,America/Chicago,4,74403,1840034456
+Temple,Temple,Oklahoma,40033,Cotton,34.273,-98.235,842,252.7,shape,false,true,America/Chicago,3,73568,1840022851
+Wickliffe,Wickliffe,Oklahoma,40097,Mayes,36.312,-95.1074,829,34.1,shape,false,true,America/Chicago,4,74365,1840074749
+Colcord,Colcord,Oklahoma,40041,Delaware,36.2647,-94.6923,827,130.2,shape,false,true,America/Chicago,3,74338,1840022649
+Ryan,Ryan,Oklahoma,40067,Jefferson,34.0213,-97.9541,824,334.1,shape,false,true,America/Chicago,3,73565,1840021921
+Cheyenne,Cheyenne,Oklahoma,40129,Roger Mills,35.6109,-99.6763,817,319.4,shape,false,true,America/Chicago,3,73628,1840022709
+Wayne,Wayne,Oklahoma,40087,McClain,34.917,-97.3166,811,249.6,shape,false,true,America/Chicago,3,73095,1840022786
+Taylor Ferry,Taylor Ferry,Oklahoma,40145,Wagoner,35.9391,-95.2989,811,49.8,shape,false,false,America/Chicago,3,74467,1840096525
+Valley Brook,Valley Brook,Oklahoma,40109,Oklahoma,35.4027,-97.4814,806,1039.7,shape,false,true,America/Chicago,3,73149,1840022734
+Oilton,Oilton,Oklahoma,40037,Creek,36.0827,-96.5815,806,275.3,shape,false,true,America/Chicago,3,74052,1840020392
+Seiling,Seiling,Oklahoma,40043,Dewey,36.1556,-98.9304,806,262.3,shape,false,true,America/Chicago,3,73663,1840021688
+Limestone,Limestone,Oklahoma,40131,Rogers,36.3143,-95.7477,802,98.5,shape,false,false,America/Chicago,3,74055 74019,1840034643
+Arapaho,Arapaho,Oklahoma,40039,Custer,35.5778,-98.9592,795,439.2,shape,false,true,America/Chicago,3,73620,1840021726
+Wellston,Wellston,Oklahoma,40081,Lincoln,35.686,-97.0615,794,187.4,shape,false,true,America/Chicago,3,74881,1840022716
+Afton,Afton,Oklahoma,40115,Ottawa,36.6965,-94.9575,779,144.5,shape,false,true,America/Chicago,3,74331,1840021616
+Rocky Point,Rocky Point,Oklahoma,40145,Wagoner,36.0261,-95.3216,773,222.2,shape,false,false,America/Chicago,3,74467,1840096500
+Rock Island,Rock Island,Oklahoma,40079,Le Flore,35.1831,-94.4811,772,24.5,shape,false,true,America/Chicago,3,74932,1840021796
+Kansas,Kansas,Oklahoma,40041,Delaware,36.2053,-94.7888,770,145.7,shape,false,true,America/Chicago,3,74347,1840021641
+Lost City,Lost City,Oklahoma,40021,Cherokee,36.0006,-95.1223,769,12.6,shape,false,false,America/Chicago,3,74441,1840034556
+Boswell,Boswell,Oklahoma,40023,Choctaw,34.0278,-95.8685,767,391.0,shape,false,true,America/Chicago,3,74727,1840021931
+Empire City,Empire City,Oklahoma,40137,Stephens,34.4803,-98.0552,761,31.5,shape,false,true,America/Chicago,3,73529 73533,1840021887
+Waynoka,Waynoka,Oklahoma,40151,Woods,36.5849,-98.8776,760,292.4,shape,false,true,America/Chicago,3,73860,1840021595
+Sunray,Sunray,Oklahoma,40137,Stephens,34.4112,-97.9602,758,167.5,shape,false,false,America/Chicago,3,73529,1840034497
+Springer,Springer,Oklahoma,40019,Carter,34.291,-97.1255,756,19.6,shape,false,true,America/Chicago,3,73401 73458,1840022845
+Johnson,Johnson,Oklahoma,40125,Pottawatomie,35.4064,-96.8444,752,64.9,shape,false,true,America/Chicago,3,74804,1840021789
+Howe,Howe,Oklahoma,40079,Le Flore,34.9496,-94.6403,752,195.2,shape,false,true,America/Chicago,3,74940,1840021799
+Adair,Adair,Oklahoma,40097,Mayes,36.4365,-95.2734,751,59.0,shape,false,true,America/Chicago,3,74330,1840021659
+Cumberland,Cumberland,Oklahoma,40095,Marshall,34.0609,-96.5925,749,227.1,shape,false,false,America/Chicago,3,73446,1840034437
+Pettit,Pettit,Oklahoma,40021,Cherokee,35.765,-94.9693,739,25.4,shape,false,false,America/Chicago,3,74451,1840019079
+Dewar,Dewar,Oklahoma,40111,Okmulgee,35.4581,-95.9483,739,282.0,shape,false,true,America/Chicago,3,74431,1840021714
+Sterling,Sterling,Oklahoma,40031,Comanche,34.7494,-98.1725,737,346.0,shape,false,true,America/Chicago,3,73567,1840022822
+Porum,Porum,Oklahoma,40101,Muskogee,35.3571,-95.2637,729,315.4,shape,false,true,America/Chicago,3,74455,1840021720
+Tipton,Tipton,Oklahoma,40141,Tillman,34.4879,-99.15,729,240.3,shape,false,true,America/Chicago,3,73570,1840022836
+Elmore City,Elmore City,Oklahoma,40049,Garvin,34.6282,-97.3918,728,286.7,shape,false,true,America/Chicago,3,73433,1840021856
+Cherry Tree,Cherry Tree,Oklahoma,40001,Adair,35.7454,-94.6428,726,24.4,shape,false,false,America/Chicago,3,74960,1840034527
+Cartwright,Cartwright,Oklahoma,40013,Bryan,33.8556,-96.561,723,117.7,shape,false,false,America/Chicago,3,74731,1840026981
+Valliant,Valliant,Oklahoma,40089,McCurtain,34.0058,-95.0861,720,144.1,shape,false,true,America/Chicago,3,74764,1840022854
+Erick,Erick,Oklahoma,40009,Beckham,35.2156,-99.8686,716,292.8,shape,false,true,America/Chicago,3,73645,1840020438
+Cyril,Cyril,Oklahoma,40015,Caddo,34.8985,-98.203,713,480.4,shape,false,true,America/Chicago,3,73029,1840021764
+Welling,Welling,Oklahoma,40021,Cherokee,35.8808,-94.8712,702,10.8,shape,false,false,America/Chicago,3,74471 74960 74464,1840019080
+Vici,Vici,Oklahoma,40043,Dewey,36.1488,-99.2994,700,622.6,shape,false,true,America/Chicago,3,73859,1840022698
+Morrison,Morrison,Oklahoma,40103,Noble,36.2927,-97.0276,699,193.5,shape,false,true,America/Chicago,3,73061,1840022652
+Ramona,Ramona,Oklahoma,40147,Washington,36.5367,-95.9264,697,328.0,shape,false,true,America/Chicago,3,74061,1840021601
+Remy,Remy,Oklahoma,40135,Sequoyah,35.4578,-94.4984,696,20.9,shape,false,false,America/Chicago,3,74954 74948,1840034582
+Roff,Roff,Oklahoma,40123,Pontotoc,34.6286,-96.8412,695,290.9,shape,false,true,America/Chicago,3,74865,1840021837
+Brent,Brent,Oklahoma,40135,Sequoyah,35.364,-94.788,693,23.9,shape,false,false,America/Chicago,3,74936 74955,1840034627
+South Coffeyville,South Coffeyville,Oklahoma,40105,Nowata,36.9921,-95.6219,691,361.6,shape,false,true,America/Chicago,3,74072,1840022594
+Kiowa,Kiowa,Oklahoma,40121,Pittsburg,34.723,-95.9025,687,213.5,shape,false,true,America/Chicago,3,74553,1840021815
+Davenport,Davenport,Oklahoma,40081,Lincoln,35.7094,-96.7645,686,254.0,shape,false,true,America/Chicago,3,74026,1840021711
+Garber,Garber,Oklahoma,40047,Garfield,36.4367,-97.581,664,506.2,shape,false,true,America/Chicago,3,73738,1840020374
+Paoli,Paoli,Oklahoma,40049,Garvin,34.8265,-97.2627,662,394.1,shape,false,true,America/Chicago,3,73074,1840022823
+Clayton,Clayton,Oklahoma,40127,Pushmataha,34.5856,-95.3561,662,152.1,shape,false,true,America/Chicago,3,74536,1840022834
+Olustee,Olustee,Oklahoma,40065,Jackson,34.5477,-99.4241,659,305.4,shape,false,true,America/Chicago,3,73560,1840022819
+Washington,Washington,Oklahoma,40087,McClain,35.0582,-97.4923,659,175.6,shape,false,true,America/Chicago,3,73093,1840022785
+Haileyville,Haileyville,Oklahoma,40121,Pittsburg,34.8542,-95.5784,656,245.0,shape,false,true,America/Chicago,3,74546,1840020455
+Sequoyah,Sequoyah,Oklahoma,40131,Rogers,36.3798,-95.5969,653,31.8,shape,false,false,America/Chicago,3,74017,1840034585
+Lahoma,Lahoma,Oklahoma,40047,Garfield,36.3874,-98.0908,652,329.1,shape,false,true,America/Chicago,3,73754,1840021652
+Redbird Smith,Redbird Smith,Oklahoma,40135,Sequoyah,35.5635,-95.0252,637,20.4,shape,false,false,America/Chicago,3,74962 74435,1840034647
+Alex,Alex,Oklahoma,40051,Grady,34.9228,-97.7763,633,36.8,shape,false,true,America/Chicago,3,73011 73002 73067,1840021803
+Welch,Welch,Oklahoma,40035,Craig,36.8743,-95.0946,616,463.8,shape,false,true,America/Chicago,3,74369,1840022601
+Ochelata,Ochelata,Oklahoma,40147,Washington,36.6021,-95.9725,612,361.7,shape,false,true,America/Chicago,3,74051,1840022602
+Mountain View,Mountain View,Oklahoma,40075,Kiowa,35.0995,-98.7497,604,409.8,shape,false,true,America/Chicago,3,73062,1840022800
+Corn,Corn,Oklahoma,40149,Washita,35.379,-98.7818,601,345.7,shape,false,true,America/Chicago,3,73024,1840022761
+Coyle,Coyle,Oklahoma,40083,Logan,35.9568,-97.2396,600,295.2,shape,false,true,America/Chicago,3,73027,1840021682
+Rocky Mountain,Rocky Mountain,Oklahoma,40001,Adair,35.796,-94.7718,598,15.1,shape,false,false,America/Chicago,3,74960,1840019081
+Agra,Agra,Oklahoma,40081,Lincoln,35.895,-96.8703,594,583.1,shape,false,true,America/Chicago,3,74824,1840021710
+Foyil,Foyil,Oklahoma,40131,Rogers,36.4306,-95.5219,583,271.9,shape,false,true,America/Chicago,3,74017 74031,1840021643
+Custer City,Custer City,Oklahoma,40039,Custer,35.6638,-98.8869,582,369.9,shape,false,true,America/Chicago,3,73639,1840021727
+Porter,Porter,Oklahoma,40145,Wagoner,35.8684,-95.5159,581,131.1,shape,false,true,America/Chicago,3,74454,1840021697
+Wright City,Wright City,Oklahoma,40089,McCurtain,34.0649,-95.0074,579,252.5,shape,false,true,America/Chicago,3,74766,1840022855
+Red Oak,Red Oak,Oklahoma,40077,Latimer,34.9515,-95.0791,574,189.4,shape,false,true,America/Chicago,3,74563,1840021833
+Langley,Langley,Oklahoma,40097,Mayes,36.4703,-95.0527,571,154.7,shape,false,true,America/Chicago,3,74350,1840021662
+Lyons Switch,Lyons Switch,Oklahoma,40001,Adair,35.7744,-94.7053,570,17.3,shape,false,true,America/Chicago,4,74960,1840073923
+Carlisle,Carlisle,Oklahoma,40135,Sequoyah,35.5042,-95.0323,567,8.3,shape,false,false,America/Chicago,3,74962 74435,1840034630
+Velma,Velma,Oklahoma,40137,Stephens,34.4546,-97.662,558,159.2,shape,false,true,America/Chicago,3,73491,1840022830
+Pin Oak Acres,Pin Oak Acres,Oklahoma,40097,Mayes,36.1226,-95.2889,557,38.3,shape,false,false,America/Chicago,3,74337,1840034577
+Blair,Blair,Oklahoma,40065,Jackson,34.7804,-99.3332,555,449.4,shape,false,true,America/Chicago,3,73526,1840021845
+Leedey,Leedey,Oklahoma,40043,Dewey,35.8681,-99.3449,553,474.4,shape,false,true,America/Chicago,3,73654,1840021690
+Zeb,Zeb,Oklahoma,40021,Cherokee,35.8066,-95.0437,553,24.6,shape,false,false,America/Chicago,3,74464,1840034601
+Fort Towson,Fort Towson,Oklahoma,40023,Choctaw,34.0243,-95.2973,548,37.6,shape,false,true,America/Chicago,3,74735 74756,1840021932
+Cement,Cement,Oklahoma,40015,Caddo,34.9363,-98.1362,536,427.7,shape,false,true,America/Chicago,3,73017,1840022751
+Fairfield,Fairfield,Oklahoma,40001,Adair,35.8407,-94.6061,535,41.6,shape,false,false,America/Chicago,3,74960,1840034637
+Savanna,Savanna,Oklahoma,40121,Pittsburg,34.8356,-95.8355,533,143.8,shape,false,true,America/Chicago,3,74565 74501,1840022789
+Arnett,Arnett,Oklahoma,40045,Ellis,36.1345,-99.7727,533,398.7,shape,false,true,America/Chicago,3,73832,1840020375
+Ketchum,Ketchum,Oklahoma,40035,Craig,36.5251,-95.0341,533,99.4,shape,false,true,America/Chicago,3,74301 74349,1840021600
+Ringwood,Ringwood,Oklahoma,40093,Major,36.3823,-98.2419,532,247.1,shape,false,true,America/Chicago,3,73768,1840021665
+Tryon,Tryon,Oklahoma,40081,Lincoln,35.8805,-96.9661,529,97.6,shape,false,true,America/Chicago,3,74875,1840022714
+Keota,Keota,Oklahoma,40061,Haskell,35.2569,-94.9226,525,482.6,shape,false,true,America/Chicago,3,74941,1840021791
+Winchester,Winchester,Oklahoma,40111,Okmulgee,35.7906,-95.9981,524,37.1,shape,false,true,America/Chicago,3,74421,1840022719
+Old Green,Old Green,Oklahoma,40001,Adair,35.9844,-94.6039,522,64.1,shape,false,true,America/Chicago,4,74965,1840040388
+Shady Grove,Shady Grove,Oklahoma,40021,Cherokee,35.9485,-95.0952,521,16.0,shape,false,false,America/Chicago,3,74441 74464,1840136191
+Canton,Canton,Oklahoma,40011,Blaine,36.055,-98.5884,520,383.6,shape,false,true,America/Chicago,3,73724,1840022694
+Carney,Carney,Oklahoma,40081,Lincoln,35.8062,-97.0155,518,117.3,shape,false,true,America/Chicago,3,74832,1840022712
+Bokchito,Bokchito,Oklahoma,40013,Bryan,34.0196,-96.1492,510,288.0,shape,false,true,America/Chicago,3,74726,1840021926
+Schulter,Schulter,Oklahoma,40111,Okmulgee,35.5113,-95.9566,510,232.0,shape,false,true,America/Chicago,3,74437 74460,1840022718
+Simms,Simms,Oklahoma,40101,Muskogee,35.3987,-95.1647,508,13.9,shape,false,false,America/Chicago,3,74455 74470,1840034660
+Wyandotte,Wyandotte,Oklahoma,40115,Ottawa,36.8019,-94.7244,506,143.7,shape,false,true,America/Chicago,3,74370,1840022613
+Verden,Verden,Oklahoma,40051,Grady,35.0833,-98.0863,500,496.9,shape,false,true,America/Chicago,3,73092,1840022779
+Cedar Valley,Cedar Valley,Oklahoma,40083,Logan,35.8694,-97.5272,500,96.4,shape,false,true,America/Chicago,3,73044,1840019072
+Asher,Asher,Oklahoma,40125,Pottawatomie,34.9884,-96.9254,499,250.9,shape,false,true,America/Chicago,3,74826,1840020442
+Akins,Akins,Oklahoma,40135,Sequoyah,35.5043,-94.67,499,14.2,shape,false,false,America/Chicago,3,74955,1840017830
+Fort Cobb,Fort Cobb,Oklahoma,40015,Caddo,35.1042,-98.4416,499,270.5,shape,false,true,America/Chicago,3,73038,1840021766
+Canute,Canute,Oklahoma,40149,Washita,35.4219,-99.2781,498,304.6,shape,false,true,America/Chicago,3,73626,1840022759
+Earlsboro,Earlsboro,Oklahoma,40125,Pottawatomie,35.3282,-96.8016,495,20.6,shape,false,true,America/Chicago,3,74804 74801 74840,1840021787
+Thackerville,Thackerville,Oklahoma,40085,Love,33.7936,-97.142,493,85.0,shape,false,true,America/Chicago,3,73448 73459,1840022908
+Ravia,Ravia,Oklahoma,40069,Johnston,34.2411,-96.7564,488,332.1,shape,false,true,America/Chicago,3,73455,1840021905
+Hulbert,Hulbert,Oklahoma,40021,Cherokee,35.9316,-95.1454,485,167.3,shape,false,true,America/Chicago,3,74441,1840021701
+Glencoe,Glencoe,Oklahoma,40119,Payne,36.2318,-96.9313,481,110.9,shape,false,true,America/Chicago,3,74032,1840021678
+Vera,Vera,Oklahoma,40147,Washington,36.4552,-95.9042,480,234.0,shape,false,true,America/Chicago,3,74082 74021 74061,1840022604
+Binger,Binger,Oklahoma,40015,Caddo,35.3097,-98.343,478,213.9,shape,false,true,America/Chicago,3,73009,1840020435
+Silo,Silo,Oklahoma,40013,Bryan,34.0356,-96.4744,468,347.3,shape,false,true,America/Chicago,3,74701,1840022899
+Whitefield,Whitefield,Oklahoma,40061,Haskell,35.2545,-95.2391,468,105.8,shape,false,true,America/Chicago,3,74472,1840022770
+Billings,Billings,Oklahoma,40103,Noble,36.5316,-97.4352,463,265.6,shape,false,true,America/Chicago,3,74630,1840020372
+Sportsmen Acres,Sportsmen Acres,Oklahoma,40097,Mayes,36.2458,-95.2517,460,473.9,shape,false,true,America/Chicago,3,74361,1840022670
+Eakly,Eakly,Oklahoma,40015,Caddo,35.3055,-98.556,460,333.1,shape,false,true,America/Chicago,3,73033,1840021765
+Wapanucka,Wapanucka,Oklahoma,40069,Johnston,34.3736,-96.4255,450,267.3,shape,false,true,America/Chicago,3,73461,1840022850
+Dustin,Dustin,Oklahoma,40063,Hughes,35.2714,-96.0281,447,266.9,shape,false,true,America/Chicago,3,74839,1840021817
+Bridge Creek,Bridge Creek,Oklahoma,40051,Grady,35.2382,-97.732,440,108.0,shape,false,true,America/Chicago,3,73010 73089,1840021801
+White Eagle,White Eagle,Oklahoma,40071,Kay,36.6268,-97.0812,440,28.9,shape,false,false,America/Chicago,3,74601,1840097241
+Stringtown,Stringtown,Oklahoma,40005,Atoka,34.4701,-96.0549,438,31.4,shape,false,true,America/Chicago,3,74569 74525,1840022832
+Lone Wolf,Lone Wolf,Oklahoma,40075,Kiowa,34.9904,-99.2456,437,324.4,shape,false,true,America/Chicago,3,73655,1840021827
+Bokoshe,Bokoshe,Oklahoma,40079,Le Flore,35.1904,-94.7903,436,307.8,shape,false,true,America/Chicago,3,74930,1840021793
+Calumet,Calumet,Oklahoma,40017,Canadian,35.6014,-98.1248,435,132.9,shape,false,true,America/Chicago,3,73014,1840022731
+Okay,Okay,Oklahoma,40145,Wagoner,35.8545,-95.3141,432,210.3,shape,false,true,America/Chicago,3,74446 74467,1840022703
+Chattanooga,Chattanooga,Oklahoma,40031,Comanche,34.4238,-98.654,432,318.5,shape,false,true,America/Chicago,3,73528,1840022821
+Gage,Gage,Oklahoma,40045,Ellis,36.3182,-99.7575,431,389.8,shape,false,true,America/Chicago,3,73843,1840021654
+Stonewall,Stonewall,Oklahoma,40123,Pontotoc,34.6499,-96.5268,428,347.7,shape,false,true,America/Chicago,3,74871,1840022812
+Tushka,Tushka,Oklahoma,40005,Atoka,34.3186,-96.1674,425,216.9,shape,false,true,America/Chicago,3,74525,1840022833
+Spavinaw,Spavinaw,Oklahoma,40097,Mayes,36.3937,-95.0502,423,394.6,shape,false,true,America/Chicago,3,74366,1840022669
+Sawyer,Sawyer,Oklahoma,40023,Choctaw,34.0206,-95.378,421,19.0,shape,false,true,America/Chicago,3,74756 74743,1840022900
+McCurtain,McCurtain,Oklahoma,40061,Haskell,35.1509,-94.9669,420,146.5,shape,false,true,America/Chicago,3,74944,1840022768
+Eldorado,Eldorado,Oklahoma,40065,Jackson,34.473,-99.6496,418,220.0,shape,false,true,America/Chicago,3,73537,1840021847
+Achille,Achille,Oklahoma,40013,Bryan,33.8346,-96.3901,414,358.8,shape,false,true,America/Chicago,3,74720,1840021927
+Drummond,Drummond,Oklahoma,40047,Garfield,36.3018,-98.0357,412,460.3,shape,false,true,America/Chicago,3,73735,1840021647
+Amber,Amber,Oklahoma,40051,Grady,35.1602,-97.882,412,40.3,shape,false,true,America/Chicago,3,73004,1840021804
+Calvin,Calvin,Oklahoma,40063,Hughes,34.9662,-96.2496,411,176.2,shape,false,true,America/Chicago,3,74531,1840022790
+Wauhillau,Wauhillau,Oklahoma,40001,Adair,35.8643,-94.7605,410,16.2,shape,false,false,America/Chicago,3,74960,1840034597
+Prue,Prue,Oklahoma,40113,Osage,36.2494,-96.2665,409,345.0,shape,false,true,America/Chicago,3,74060,1840021591
+Caney,Caney,Oklahoma,40021,Cherokee,35.8352,-94.8421,401,13.7,shape,false,false,America/Chicago,4,74471,1840153112
+Fargo,Fargo,Oklahoma,40045,Ellis,36.3743,-99.6221,400,265.0,shape,false,true,America/Chicago,3,73840,1840021653
+Eagletown,Eagletown,Oklahoma,40089,McCurtain,34.0417,-94.57,400,32.6,shape,false,false,America/Chicago,3,74734,1840026975
+Gregory,Gregory,Oklahoma,40131,Rogers,36.1697,-95.5741,395,50.7,shape,false,false,America/Chicago,3,74036,1840034640
+Depew,Depew,Oklahoma,40037,Creek,35.7969,-96.5302,395,149.8,shape,false,true,America/Chicago,3,74028,1840021692
+Shidler,Shidler,Oklahoma,40113,Osage,36.7806,-96.6599,394,203.9,shape,false,true,America/Chicago,3,74652,1840021590
+Crowder,Crowder,Oklahoma,40121,Pittsburg,35.1158,-95.6783,393,74.0,shape,false,true,America/Chicago,3,74430 74501,1840021812
+Webbers Falls,Webbers Falls,Oklahoma,40101,Muskogee,35.5105,-95.1601,393,36.2,shape,false,true,America/Chicago,3,74470,1840022725
+Covington,Covington,Oklahoma,40047,Garfield,36.3075,-97.5865,392,300.9,shape,false,true,America/Chicago,3,73730,1840021645
+Katie,Katie,Oklahoma,40049,Garvin,34.5832,-97.3389,391,7.4,shape,false,true,America/Chicago,3,73098 73433,1840021859
+Hammon,Hammon,Oklahoma,40129,Roger Mills,35.6323,-99.3832,391,206.2,shape,false,true,America/Chicago,3,73650,1840021706
+Baron,Baron,Oklahoma,40001,Adair,35.9308,-94.6089,390,25.6,shape,false,false,America/Chicago,3,74965,1840034509
+Long,Long,Oklahoma,40135,Sequoyah,35.4993,-94.547,390,19.8,shape,false,false,America/Chicago,3,74948,1840017832
+Evening Shade,Evening Shade,Oklahoma,40135,Sequoyah,35.6195,-94.9104,390,11.3,shape,false,false,America/Chicago,3,74962,1840034636
+Tupelo,Tupelo,Oklahoma,40029,Coal,34.6027,-96.4208,388,360.7,shape,false,true,America/Chicago,3,74572,1840021879
+Titanic,Titanic,Oklahoma,40001,Adair,35.8889,-94.7434,386,27.9,shape,false,false,America/Chicago,3,74960,1840024908
+Fort Coffee,Fort Coffee,Oklahoma,40079,Le Flore,35.2942,-94.5731,381,22.5,shape,false,true,America/Chicago,3,74959,1840021798
+Turpin,Turpin,Oklahoma,40007,Beaver,36.8705,-100.8825,377,145.7,shape,false,false,America/Chicago,3,73950,1840026905
+Paden,Paden,Oklahoma,40107,Okfuskee,35.508,-96.5674,375,328.5,shape,false,true,America/Chicago,3,74860,1840022741
+Hardesty,Hardesty,Oklahoma,40139,Texas,36.6148,-101.1936,373,199.3,shape,false,true,America/Chicago,3,73944,1840021626
+Bowlegs,Bowlegs,Oklahoma,40133,Seminole,35.1473,-96.6693,372,38.6,shape,false,true,America/Chicago,3,74868 74830,1840021775
+Bernice,Bernice,Oklahoma,40041,Delaware,36.6217,-94.9118,370,175.2,shape,false,true,America/Chicago,3,74331,1840020370
+Westport,Westport,Oklahoma,40117,Pawnee,36.1942,-96.3362,367,32.5,shape,false,true,America/Chicago,3,74020 74044,1840022664
+Randlett,Randlett,Oklahoma,40033,Cotton,34.1773,-98.4639,365,224.6,shape,false,true,America/Chicago,3,73562,1840021908
+Mead,Mead,Oklahoma,40013,Bryan,33.9979,-96.5187,363,39.2,shape,false,true,America/Chicago,3,73449,1840022895
+Mountain Park,Mountain Park,Oklahoma,40075,Kiowa,34.6988,-98.9524,363,186.0,shape,false,true,America/Chicago,3,73559,1840022799
+Cedar Lake,Cedar Lake,Oklahoma,40017,Canadian,35.4276,-98.193,360,160.5,shape,false,false,America/Chicago,3,73047,1840147577
+Cleo Springs,Cleo Springs,Oklahoma,40093,Major,36.4046,-98.4401,360,251.5,shape,false,true,America/Chicago,3,73729,1840022673
+Fanshawe,Fanshawe,Oklahoma,40079,Le Flore,34.9738,-94.8543,356,6.0,shape,false,true,America/Chicago,3,74935 74966,1840021797
+Gans,Gans,Oklahoma,40135,Sequoyah,35.3874,-94.6946,352,394.8,shape,false,true,America/Chicago,3,74936,1840021751
+Tribbey,Tribbey,Oklahoma,40125,Pottawatomie,35.1006,-97.0957,352,7.1,shape,false,true,America/Chicago,3,74852 74878,1840022766
+Lowrey,Lowrey,Oklahoma,40021,Cherokee,36.0974,-94.9291,348,8.5,shape,false,false,America/Chicago,3,74464,1840096905
+Nicut,Nicut,Oklahoma,40135,Sequoyah,35.5986,-94.5626,348,8.3,shape,false,false,America/Chicago,3,74955 74948,1840024948
+Chewey,Chewey,Oklahoma,40001,Adair,36.121,-94.7492,346,5.2,shape,false,false,America/Chicago,3,74964 74347,1840017750
+East Duke,East Duke,Oklahoma,40065,Jackson,34.6628,-99.5696,346,307.4,shape,false,true,America/Chicago,3,73532,1840037469
+Tonkawa Tribal Housing,Tonkawa Tribal Housing,Oklahoma,40071,Kay,36.6697,-97.2662,344,317.0,shape,false,false,America/Chicago,3,74653,1840153115
+Bell,Bell,Oklahoma,40001,Adair,35.7366,-94.5677,343,28.2,shape,false,false,America/Chicago,3,74960,1840034510
+Wakita,Wakita,Oklahoma,40053,Grant,36.8819,-97.9241,340,221.3,shape,false,true,America/Chicago,3,73771,1840022607
+Marshall,Marshall,Oklahoma,40083,Logan,36.1502,-97.6234,335,203.5,shape,false,true,America/Chicago,3,73056,1840022689
+Barber,Barber,Oklahoma,40021,Cherokee,35.7562,-94.8414,333,19.8,shape,false,false,America/Chicago,3,74931 74471,1840096591
+New Eucha,New Eucha,Oklahoma,40041,Delaware,36.3912,-94.8522,330,16.4,shape,false,true,America/Chicago,4,74346 74342,1840037117
+Delaware,Delaware,Oklahoma,40105,Nowata,36.779,-95.6425,329,322.5,shape,false,true,America/Chicago,3,74027,1840021587
+Bennington,Bennington,Oklahoma,40013,Bryan,34.0038,-96.0376,328,172.8,shape,false,true,America/Chicago,3,74723,1840020545
+Eldon,Eldon,Oklahoma,40021,Cherokee,35.9305,-94.8179,327,14.1,shape,false,false,America/Chicago,3,74960 74464,1840017748
+Terral,Terral,Oklahoma,40067,Jefferson,33.8966,-97.9383,326,295.6,shape,false,true,America/Chicago,3,73569,1840022886
+Fort Supply,Fort Supply,Oklahoma,40153,Woodward,36.5721,-99.5735,324,448.8,shape,false,true,America/Chicago,3,73841,1840021637
+Rattan,Rattan,Oklahoma,40127,Pushmataha,34.2005,-95.4131,323,31.5,shape,false,true,America/Chicago,3,74562 74523,1840021890
+Francis,Francis,Oklahoma,40123,Pontotoc,34.8745,-96.5926,323,223.1,shape,false,true,America/Chicago,3,74844,1840021839
+Sand Hill,Sand Hill,Oklahoma,40101,Muskogee,35.6343,-95.2012,321,16.3,shape,false,true,America/Chicago,4,74423,1840074625
+Medicine Park,Medicine Park,Oklahoma,40031,Comanche,34.7287,-98.4782,319,55.7,shape,false,true,America/Chicago,3,73557 73507,1840022820
+Twin Oaks,Twin Oaks,Oklahoma,40041,Delaware,36.1974,-94.8378,319,23.1,shape,false,false,America/Chicago,3,74347 74368,1840019045
+Ralston,Ralston,Oklahoma,40117,Pawnee,36.5035,-96.7373,318,266.1,shape,false,true,America/Chicago,3,74650,1840021656
+Kremlin,Kremlin,Oklahoma,40047,Garfield,36.5467,-97.8321,318,293.5,shape,false,true,America/Chicago,3,73753,1840021651
+Wynona,Wynona,Oklahoma,40113,Osage,36.5458,-96.3264,318,223.6,shape,false,true,America/Chicago,3,74084,1840022599
+Peavine,Peavine,Oklahoma,40001,Adair,35.8903,-94.6064,318,13.1,shape,false,false,America/Chicago,3,74960,1840034646
+Chance,Chance,Oklahoma,40001,Adair,36.0607,-94.6478,317,19.3,shape,false,false,America/Chicago,3,74965,1840096655
+Arpelar,Arpelar,Oklahoma,40121,Pittsburg,34.9356,-95.9589,315,54.6,shape,false,false,America/Chicago,3,74501,1840026952
+Lane,Lane,Oklahoma,40005,Atoka,34.2997,-95.9894,314,15.2,shape,false,false,America/Chicago,3,74555 74525,1840026970
+Carmen,Carmen,Oklahoma,40003,Alfalfa,36.5791,-98.4579,313,79.3,shape,false,true,America/Chicago,3,73726,1840022609
+Tenkiller,Tenkiller,Oklahoma,40021,Cherokee,35.7935,-94.8537,313,7.7,shape,false,false,America/Chicago,3,74931 74471,1840034655
+Fitzhugh,Fitzhugh,Oklahoma,40123,Pontotoc,34.6582,-96.7665,309,16.4,shape,false,true,America/Chicago,3,74865 74843,1840021838
+Taloga,Taloga,Oklahoma,40043,Dewey,36.0402,-98.964,303,226.7,shape,false,true,America/Chicago,3,73667,1840022697
+Dill City,Dill City,Oklahoma,40149,Washita,35.2816,-99.1336,302,201.9,shape,false,true,America/Chicago,3,73641,1840021781
+Marland,Marland,Oklahoma,40103,Noble,36.5611,-97.1529,298,244.0,shape,false,true,America/Chicago,3,74644,1840022651
+Notchietown,Notchietown,Oklahoma,40135,Sequoyah,35.5857,-95.0901,298,14.7,shape,false,false,America/Chicago,3,74435,1840034569
+Coleman,Coleman,Oklahoma,40069,Johnston,34.2635,-96.4194,297,30.0,shape,false,false,America/Chicago,3,73432,1840034430
+Snake Creek,Snake Creek,Oklahoma,40097,Mayes,36.1786,-95.0937,295,13.6,shape,false,false,America/Chicago,3,74352,1840034652
+Gracemont,Gracemont,Oklahoma,40015,Caddo,35.1879,-98.2591,292,186.6,shape,false,true,America/Chicago,3,73042,1840021767
+Jennings,Jennings,Oklahoma,40117,Pawnee,36.1823,-96.5692,291,203.6,shape,false,true,America/Chicago,3,74038,1840021658
+Ripley,Ripley,Oklahoma,40119,Payne,36.0158,-96.9039,290,236.4,shape,false,true,America/Chicago,3,74062,1840021677
+North Miami,North Miami,Oklahoma,40115,Ottawa,36.9202,-94.8797,290,338.4,shape,false,true,America/Chicago,3,74358 74354,1840022610
+Kaw City,Kaw City,Oklahoma,40071,Kay,36.7675,-96.8602,288,36.9,shape,false,true,America/Chicago,3,74641,1840018981
+Dover,Dover,Oklahoma,40073,Kingfisher,35.9816,-97.9108,288,333.0,shape,false,true,America/Chicago,3,73734,1840021679
+Indiahoma,Indiahoma,Oklahoma,40031,Comanche,34.6197,-98.7522,288,386.1,shape,false,true,America/Chicago,3,73552,1840021854
+Forgan,Forgan,Oklahoma,40007,Beaver,36.907,-100.5381,286,280.8,shape,false,true,America/Chicago,3,73938,1840021627
+Talala,Talala,Oklahoma,40131,Rogers,36.5295,-95.7011,283,243.9,shape,false,true,America/Chicago,3,74080,1840022655
+Cameron,Cameron,Oklahoma,40079,Le Flore,35.1374,-94.5393,283,73.2,shape,false,true,America/Chicago,3,74932,1840022772
+Haworth,Haworth,Oklahoma,40089,McCurtain,33.8405,-94.6571,283,68.3,shape,false,true,America/Chicago,3,74740,1840021910
+Mulhall,Mulhall,Oklahoma,40119,Payne,36.0913,-97.361,282,133.9,shape,false,true,America/Chicago,3,73073 73063,1840034469
+Mallard Bay,Mallard Bay,Oklahoma,40145,Wagoner,35.8623,-95.2638,281,51.4,shape,false,false,America/Chicago,3,74434,1840096451
+Canadian Shores,Canadian Shores,Oklahoma,40121,Pittsburg,35.1743,-95.7425,281,102.9,shape,false,false,America/Chicago,3,74501,1840096375
+Kinta,Kinta,Oklahoma,40061,Haskell,35.1194,-95.2378,279,171.4,shape,false,true,America/Chicago,3,74552,1840021792
+Gotebo,Gotebo,Oklahoma,40075,Kiowa,35.0712,-98.8743,278,136.1,shape,false,true,America/Chicago,3,73041,1840021826
+Goltry,Goltry,Oklahoma,40003,Alfalfa,36.5319,-98.151,277,267.4,shape,false,true,America/Chicago,3,73739,1840021609
+Oaks,Oaks,Oklahoma,40041,Delaware,36.1698,-94.8529,277,124.7,shape,false,true,America/Chicago,3,74359,1840022648
+Liberty,Liberty,Oklahoma,40135,Sequoyah,35.4656,-94.5442,274,45.6,shape,false,false,America/Chicago,3,74948,1840143127
+Bluejacket,Bluejacket,Oklahoma,40035,Craig,36.8003,-95.074,271,240.5,shape,false,true,America/Chicago,3,74333,1840021598
+Crescent Springs,Crescent Springs,Oklahoma,40083,Logan,35.8968,-97.6028,271,221.5,shape,false,false,America/Chicago,3,73028,1840096396
+Gideon,Gideon,Oklahoma,40021,Cherokee,35.9972,-95.028,270,16.5,shape,false,false,America/Chicago,3,74441 74464,1840034541
+Oktaha,Oktaha,Oklahoma,40101,Muskogee,35.5775,-95.4779,270,353.3,shape,false,true,America/Chicago,3,74450,1840022720
+Leach,Leach,Oklahoma,40041,Delaware,36.1979,-94.9099,270,18.1,shape,false,false,America/Chicago,3,74364,1840017697
+Little Ponderosa,Little Ponderosa,Oklahoma,40007,Beaver,36.9612,-100.8782,269,138.9,shape,false,false,America/Chicago,3,73950,1840141006
+Roosevelt,Roosevelt,Oklahoma,40075,Kiowa,34.8483,-99.0223,268,210.5,shape,false,true,America/Chicago,3,73564,1840021825
+Milburn,Milburn,Oklahoma,40069,Johnston,34.24,-96.552,268,220.5,shape,false,true,America/Chicago,3,73450,1840022848
+Lenapah,Lenapah,Oklahoma,40105,Nowata,36.8514,-95.6357,268,251.3,shape,false,true,America/Chicago,3,74042,1840021588
+Lamont,Lamont,Oklahoma,40053,Grant,36.6911,-97.5583,267,126.0,shape,false,true,America/Chicago,3,74643,1840021605
+Rocky,Rocky,Oklahoma,40149,Washita,35.1562,-99.0597,266,135.6,shape,false,true,America/Chicago,3,73661,1840021782
+Mill Creek,Mill Creek,Oklahoma,40069,Johnston,34.4022,-96.8249,262,288.3,shape,false,true,America/Chicago,3,74856,1840022849
+Steely Hollow,Steely Hollow,Oklahoma,40021,Cherokee,35.9877,-94.9456,258,20.9,shape,false,true,America/Chicago,4,74464,1840040405
+Watts,Watts,Oklahoma,40001,Adair,36.1073,-94.5718,257,186.5,shape,false,true,America/Chicago,3,74965 74964,1840022705
+Cedar Crest,Cedar Crest,Oklahoma,40097,Mayes,36.1232,-95.1732,257,13.6,shape,false,false,America/Chicago,3,74352,1840034424
+Dale,Dale,Oklahoma,40125,Pottawatomie,35.3842,-97.0434,257,133.8,shape,false,false,America/Chicago,3,74851,1840026950
+Foster,Foster,Oklahoma,40049,Garvin,34.6046,-97.4907,254,2.8,shape,false,true,America/Chicago,3,73434 73433 73039,1840021858
+Jet,Jet,Oklahoma,40003,Alfalfa,36.6665,-98.1815,251,45.0,shape,false,true,America/Chicago,3,73749,1840021611
+Adams,Adams,Oklahoma,40139,Texas,36.7546,-101.0752,249,190.5,shape,false,false,America/Chicago,3,73901,1840034402
+Belfonte,Belfonte,Oklahoma,40135,Sequoyah,35.5368,-94.5507,249,12.2,shape,false,false,America/Chicago,3,74948,1840034626
+Bessie,Bessie,Oklahoma,40149,Washita,35.3854,-98.9892,247,184.2,shape,false,true,America/Chicago,3,73622,1840020440
+Davidson,Davidson,Oklahoma,40141,Tillman,34.2418,-99.0783,247,198.1,shape,false,true,America/Chicago,3,73530,1840021894
+Grant,Grant,Oklahoma,40023,Choctaw,33.9387,-95.5156,247,50.8,shape,false,false,America/Chicago,3,74738 74743,1840026982
+Butler,Butler,Oklahoma,40039,Custer,35.6365,-99.1861,246,223.1,shape,false,true,America/Chicago,3,73625,1840021723
+Cromwell,Cromwell,Oklahoma,40133,Seminole,35.3525,-96.4557,245,159.6,shape,false,true,America/Chicago,3,74859 74837,1840021778
+Soper,Soper,Oklahoma,40023,Choctaw,34.0321,-95.6965,245,178.1,shape,false,true,America/Chicago,3,74759,1840022901
+Wanette,Wanette,Oklahoma,40125,Pottawatomie,34.9626,-97.0317,244,232.0,shape,false,true,America/Chicago,3,74878,1840022767
+River Bottom,River Bottom,Oklahoma,40101,Muskogee,35.6357,-95.2378,242,10.0,shape,false,true,America/Chicago,4,74423,1840074577
+Lehigh,Lehigh,Oklahoma,40029,Coal,34.4707,-96.2208,241,59.2,shape,false,true,America/Chicago,3,74556,1840020518
+Short,Short,Oklahoma,40135,Sequoyah,35.5664,-94.4936,241,8.6,shape,false,false,America/Chicago,3,74948,1840034651
+Avant,Avant,Oklahoma,40113,Osage,36.4888,-96.045,239,88.7,shape,false,true,America/Chicago,3,74002 74001 74070,1840020340
+Sand Point,Sand Point,Oklahoma,40013,Bryan,33.9651,-96.5639,239,99.3,shape,false,false,America/Chicago,3,73449,1840096505
+Kemp,Kemp,Oklahoma,40013,Bryan,33.7696,-96.3542,237,200.4,shape,false,true,America/Chicago,3,74747 74741,1840021929
+Grand Lake Towne,Grand Lake Towne,Oklahoma,40097,Mayes,36.5048,-95.0252,237,88.5,shape,false,true,America/Chicago,3,74349,1840021661
+Optima,Optima,Oklahoma,40139,Texas,36.7613,-101.3491,237,171.8,shape,false,true,America/Chicago,3,73945,1840022635
+Ames,Ames,Oklahoma,40093,Major,36.247,-98.1861,232,286.6,shape,false,true,America/Chicago,3,73718,1840021664
+Rose,Rose,Oklahoma,40097,Mayes,36.2123,-95.0381,230,9.8,shape,false,false,America/Chicago,3,74352 74365 74364,1840024900
+Manitou,Manitou,Oklahoma,40141,Tillman,34.5072,-98.9812,229,132.2,shape,false,true,America/Chicago,3,73555,1840022835
+Meno,Meno,Oklahoma,40093,Major,36.3882,-98.1779,226,305.1,shape,false,true,America/Chicago,3,73760,1840022672
+Greasy,Greasy,Oklahoma,40001,Adair,35.6698,-94.7003,225,8.7,shape,false,false,America/Chicago,3,74931,1840034543
+Byars,Byars,Oklahoma,40087,McClain,34.8724,-97.0542,222,56.0,shape,false,true,America/Chicago,3,74831,1840022783
+White Oak,White Oak,Oklahoma,40035,Craig,36.6098,-95.2762,221,14.4,shape,false,false,America/Chicago,3,74301,1840024818
+Red Rock,Red Rock,Oklahoma,40103,Noble,36.4601,-97.1796,216,300.5,shape,false,true,America/Chicago,3,74651,1840021642
+Dry Creek,Dry Creek,Oklahoma,40021,Cherokee,35.7275,-94.8704,215,9.6,shape,false,false,America/Chicago,3,74451 74931 74427,1840034633
+Dennis,Dennis,Oklahoma,40041,Delaware,36.5433,-94.8693,214,18.3,shape,false,false,America/Chicago,3,74346,1840034535
+Canadian,Canadian,Oklahoma,40121,Pittsburg,35.174,-95.6494,212,108.3,shape,false,true,America/Chicago,3,74425,1840022788
+Dougherty,Dougherty,Oklahoma,40099,Murray,34.4005,-97.0514,212,104.3,shape,false,true,America/Chicago,3,73032,1840021892
+Lebanon,Lebanon,Oklahoma,40095,Marshall,33.9737,-96.9177,212,26.5,shape,false,false,America/Chicago,3,73440,1840026978
+Millerton,Millerton,Oklahoma,40089,McCurtain,33.9857,-95.0196,210,50.1,shape,false,true,America/Chicago,3,74764 74736 74750,1840022852
+Stoney Point,Stoney Point,Oklahoma,40135,Sequoyah,35.5847,-94.6635,209,3.6,shape,false,false,America/Chicago,3,74955,1840034653
+Gene Autry,Gene Autry,Oklahoma,40019,Carter,34.3151,-97.0383,208,19.9,shape,false,true,America/Chicago,3,73401 73436,1840021902
+Hochatown,Hochatown,Oklahoma,40089,McCurtain,34.1482,-94.7465,206,17.1,shape,false,false,America/Chicago,3,74728,1840096429
+Cloud Creek,Cloud Creek,Oklahoma,40041,Delaware,36.2938,-94.7543,206,5.4,shape,false,false,America/Chicago,3,74338 74346,1840034631
+Aline,Aline,Oklahoma,40003,Alfalfa,36.5097,-98.4485,203,146.4,shape,false,true,America/Chicago,3,73716,1840021607
+Lamar,Lamar,Oklahoma,40063,Hughes,35.0942,-96.1241,200,6.4,shape,false,true,America/Chicago,3,74850,1840021820
+Braggs,Braggs,Oklahoma,40101,Muskogee,35.6634,-95.1984,199,257.7,shape,false,true,America/Chicago,3,74423 74439,1840021718
+Warwick,Warwick,Oklahoma,40081,Lincoln,35.6881,-97.0018,197,27.7,shape,false,true,America/Chicago,3,74881 74834,1840022715
+Preston,Preston,Oklahoma,40111,Okmulgee,35.7113,-95.9888,197,166.3,shape,false,false,America/Chicago,3,74456 74447,1840034481
+Alderson,Alderson,Oklahoma,40121,Pittsburg,34.9006,-95.6896,196,129.6,shape,false,true,America/Chicago,3,74522 74501,1840021811
+Tamaha,Tamaha,Oklahoma,40061,Haskell,35.4057,-95.0178,196,11.8,shape,false,true,America/Chicago,3,74462,1840022769
+Proctor,Proctor,Oklahoma,40001,Adair,35.9823,-94.7481,192,6.9,shape,false,false,America/Chicago,3,74457 74965,1840024907
+Leonard,Leonard,Oklahoma,40143,Tulsa,35.9228,-95.801,192,49.1,shape,false,false,America/Chicago,3,74008,1840034459
+Rocky Ford,Rocky Ford,Oklahoma,40021,Cherokee,36.1558,-94.911,191,10.6,shape,false,false,America/Chicago,3,74464 74364,1840034648
+Haywood,Haywood,Oklahoma,40121,Pittsburg,34.8919,-95.9518,190,35.3,shape,false,false,America/Chicago,3,74501,1840096426
+Keyes,Keyes,Oklahoma,40025,Cimarron,36.8076,-102.2517,186,129.3,shape,false,true,America/Chicago,3,73947,1840021624
+Honey Hill,Honey Hill,Oklahoma,40001,Adair,35.7694,-94.5716,183,24.2,shape,false,false,America/Chicago,3,74960,1840142970
+Burlington,Burlington,Oklahoma,40003,Alfalfa,36.9001,-98.4235,183,86.4,shape,false,true,America/Chicago,3,73722,1840021606
+Teresita,Teresita,Oklahoma,40021,Cherokee,36.123,-94.9803,183,7.3,shape,false,false,America/Chicago,3,74464 74364,1840034594
+Lake Ellsworth Addition,Lake Ellsworth Addition,Oklahoma,40031,Comanche,34.8368,-98.3213,183,316.0,shape,false,false,America/Chicago,3,73006,1840150761
+Reydon,Reydon,Oklahoma,40129,Roger Mills,35.6499,-99.9236,181,141.6,shape,false,true,America/Chicago,3,73660,1840021705
+Bug Tussle,Bug Tussle,Oklahoma,40121,Pittsburg,35.0293,-95.6836,181,23.9,shape,false,false,America/Chicago,3,74501,1840096372
+Clarita,Clarita,Oklahoma,40029,Coal,34.4825,-96.4367,179,8.7,shape,false,false,America/Chicago,3,74535 74538,1840034428
+Disney,Disney,Oklahoma,40097,Mayes,36.4769,-95.0195,178,55.5,shape,false,true,America/Chicago,3,74340,1840021660
+Big Cabin,Big Cabin,Oklahoma,40035,Craig,36.5423,-95.222,176,29.1,shape,false,true,America/Chicago,3,74332,1840020341
+Slick,Slick,Oklahoma,40037,Creek,35.7799,-96.28,174,8.7,shape,false,true,America/Chicago,3,74071 74010,1840022702
+Camargo,Camargo,Oklahoma,40043,Dewey,36.0179,-99.2885,174,171.5,shape,false,true,America/Chicago,3,73835,1840022696
+Zena,Zena,Oklahoma,40041,Delaware,36.5084,-94.8481,174,14.1,shape,false,false,America/Chicago,3,74346,1840034602
+Little Rock,Little Rock,Oklahoma,40097,Mayes,36.217,-95.0926,172,9.5,shape,false,false,America/Chicago,3,74352 74365 74364,1840141971
+Stuart,Stuart,Oklahoma,40063,Hughes,34.901,-96.0994,171,62.4,shape,false,true,America/Chicago,3,74570,1840022792
+Hanson,Hanson,Oklahoma,40135,Sequoyah,35.4376,-94.6958,171,21.3,shape,false,false,America/Chicago,3,74955,1840096803
+Dixon,Dixon,Oklahoma,40133,Seminole,35.161,-96.5184,168,111.0,shape,false,false,America/Chicago,3,74884,1840096399
+Freedom,Freedom,Oklahoma,40151,Woods,36.768,-99.1126,168,166.0,shape,false,true,America/Chicago,3,73842,1840021597
+Carter,Carter,Oklahoma,40009,Beckham,35.217,-99.5036,166,120.5,shape,false,true,America/Chicago,3,73627,1840022755
+Devol,Devol,Oklahoma,40033,Cotton,34.1954,-98.5882,166,128.8,shape,false,true,America/Chicago,3,73531,1840021907
+Breckenridge,Breckenridge,Oklahoma,40047,Garfield,36.4621,-97.7274,164,4.2,shape,false,false,America/Chicago,4,73701,1840034419
+Longdale,Longdale,Oklahoma,40011,Blaine,36.1338,-98.5512,163,159.2,shape,false,true,America/Chicago,3,73755,1840021687
+Willow,Willow,Oklahoma,40055,Greer,35.0515,-99.5098,163,117.7,shape,false,true,America/Chicago,3,73673,1840022802
+Pocasset,Pocasset,Oklahoma,40051,Grady,35.178,-97.9592,161,22.9,shape,false,true,America/Chicago,3,73004 73079,1840021805
+Cimarron City,Cimarron City,Oklahoma,40083,Logan,35.8887,-97.6023,161,36.9,shape,false,true,America/Chicago,3,73016 73028,1840022692
+Tiawah,Tiawah,Oklahoma,40131,Rogers,36.2483,-95.5362,159,14.9,shape,false,false,America/Chicago,3,74019 74036,1840019047
+Sportmans Shores,Sportmans Shores,Oklahoma,40097,Mayes,36.4645,-95.083,158,155.0,shape,false,false,America/Chicago,3,74301,1840151826
+Gowen,Gowen,Oklahoma,40077,Latimer,34.8781,-95.4742,157,17.2,shape,false,false,America/Chicago,3,74578 74545,1840034446
+Foss,Foss,Oklahoma,40149,Washita,35.45,-99.1707,157,82.3,shape,false,true,America/Chicago,3,73647,1840021783
+Ballou,Ballou,Oklahoma,40097,Mayes,36.1421,-95.1998,157,16.5,shape,false,false,America/Chicago,3,74352,1840034625
+Pittsburg,Pittsburg,Oklahoma,40121,Pittsburg,34.7116,-95.8502,156,126.2,shape,false,true,America/Chicago,3,74560,1840022787
+Garvin,Garvin,Oklahoma,40089,McCurtain,33.9561,-94.9357,154,31.3,shape,false,true,America/Chicago,3,74736 74745,1840021909
+Elm Grove,Elm Grove,Oklahoma,40001,Adair,35.7926,-94.5694,154,24.5,shape,false,true,America/Chicago,4,74960,1840040363
+Caney,Caney,Oklahoma,40005,Atoka,34.2357,-96.2173,153,78.2,shape,false,true,America/Chicago,3,74533,1840022831
+Marble City,Marble City,Oklahoma,40135,Sequoyah,35.5823,-94.8186,153,145.4,shape,false,true,America/Chicago,3,74945,1840022736
+Castle,Castle,Oklahoma,40107,Okfuskee,35.4717,-96.3921,152,38.0,shape,false,true,America/Chicago,3,74859,1840022742
+Tatums,Tatums,Oklahoma,40019,Carter,34.4779,-97.466,152,29.3,shape,false,true,America/Chicago,3,73487,1840022846
+Colony,Colony,Oklahoma,40149,Washita,35.3486,-98.6715,151,63.3,shape,false,true,America/Chicago,3,73021,1840022760
+Cayuga,Cayuga,Oklahoma,40041,Delaware,36.6252,-94.6542,150,8.2,shape,false,false,America/Chicago,3,74344,1840034525
+Norge,Norge,Oklahoma,40051,Grady,34.9888,-97.9941,149,171.9,shape,false,true,America/Chicago,3,73018,1840022778
+Le Flore,Le Flore,Oklahoma,40079,Le Flore,34.8981,-94.9772,148,43.5,shape,false,false,America/Chicago,4,74942,1840034610
+Woodlawn Park,Woodlawn Park,Oklahoma,40109,Oklahoma,35.5096,-97.6499,147,328.2,shape,false,true,America/Chicago,3,73008,1840022735
+Edgewater Park,Edgewater Park,Oklahoma,40031,Comanche,34.8247,-98.3752,147,128.1,shape,false,false,America/Chicago,3,73006,1840096406
+Kenefic,Kenefic,Oklahoma,40013,Bryan,34.15,-96.3644,146,56.6,shape,false,true,America/Chicago,3,74748 74729,1840021930
+Whitesboro,Whitesboro,Oklahoma,40079,Le Flore,34.6963,-94.8789,145,17.1,shape,false,false,America/Chicago,3,74949 74577,1840026951
+Boynton,Boynton,Oklahoma,40101,Muskogee,35.6495,-95.6535,145,133.3,shape,false,true,America/Chicago,3,74422,1840021717
+Bee,Bee,Oklahoma,40069,Johnston,34.125,-96.5687,145,43.0,shape,false,false,America/Chicago,3,74748,1840026974
+Hennepin,Hennepin,Oklahoma,40049,Garvin,34.5143,-97.349,144,34.8,shape,false,false,America/Chicago,3,73030 73433,1840034450
+Welty,Welty,Oklahoma,40107,Okfuskee,35.6257,-96.4195,143,23.3,shape,false,false,America/Chicago,3,74010 74833,1840034503
+Sweetwater,Sweetwater,Oklahoma,40009,Beckham,35.4222,-99.9116,143,3.5,shape,false,true,America/Chicago,3,73666,1840022756
+Oak Hill-Piney,Oak Hill-Piney,Oklahoma,40041,Delaware,36.3787,-94.7265,143,20.7,shape,false,false,America/Chicago,3,74346,1840150795
+Indianola,Indianola,Oklahoma,40121,Pittsburg,35.1637,-95.7761,141,127.3,shape,false,true,America/Chicago,3,74442,1840021814
+Enterprise,Enterprise,Oklahoma,40061,Haskell,35.2248,-95.3768,141,43.1,shape,false,false,America/Chicago,3,74561,1840140994
+Bradley,Bradley,Oklahoma,40051,Grady,34.878,-97.7088,139,106.6,shape,false,true,America/Chicago,3,73011,1840021800
+Box,Box,Oklahoma,40135,Sequoyah,35.5784,-94.9718,139,16.3,shape,false,false,America/Chicago,3,74962,1840024947
+Sharon,Sharon,Oklahoma,40153,Woodward,36.2755,-99.3381,138,146.8,shape,false,true,America/Chicago,3,73857,1840022647
+Murphy,Murphy,Oklahoma,40097,Mayes,36.1341,-95.2414,138,12.9,shape,false,false,America/Chicago,3,74352,1840034568
+Pump Back,Pump Back,Oklahoma,40097,Mayes,36.2707,-95.1178,138,25.7,shape,false,true,America/Chicago,4,74365,1840074573
+Manchester,Manchester,Oklahoma,40053,Grant,36.9945,-98.0351,137,84.6,shape,false,true,America/Chicago,3,73758,1840022605
+Christie,Christie,Oklahoma,40001,Adair,35.9709,-94.6542,135,5.4,shape,false,false,America/Chicago,3,74965,1840017749
+Hickory,Hickory,Oklahoma,40099,Murray,34.5569,-96.8584,135,98.8,shape,false,true,America/Chicago,3,74865,1840021893
+Johnson Prairie,Johnson Prairie,Oklahoma,40021,Cherokee,36.0791,-94.9759,135,10.7,shape,false,false,America/Chicago,4,74464,1840153111
+Middleberg,Middleberg,Oklahoma,40051,Grady,35.1067,-97.7341,133,33.4,shape,false,false,America/Chicago,3,73010,1840034467
+Braman,Braman,Oklahoma,40071,Kay,36.9236,-97.3358,132,106.6,shape,false,true,America/Chicago,3,74632,1840021613
+Grayson,Grayson,Oklahoma,40111,Okmulgee,35.5054,-95.8716,132,45.2,shape,false,true,America/Chicago,3,74437,1840021715
+Cornish,Cornish,Oklahoma,40067,Jefferson,34.1636,-97.5964,132,84.7,shape,false,true,America/Chicago,3,73456,1840022884
+Monroe,Monroe,Oklahoma,40079,Le Flore,34.9937,-94.5156,132,36.4,shape,false,false,America/Chicago,3,74953 74940 74947,1840034468
+Lequire,Lequire,Oklahoma,40061,Haskell,35.1098,-95.1065,131,16.1,shape,false,false,America/Chicago,3,74943 74944,1840034460
+West Peavine,West Peavine,Oklahoma,40001,Adair,35.9133,-94.6481,131,6.5,shape,false,false,America/Chicago,3,74960,1840034661
+Hunter,Hunter,Oklahoma,40047,Garfield,36.564,-97.6625,131,207.5,shape,false,true,America/Chicago,3,74640,1840021650
+Ingalls,Ingalls,Oklahoma,40119,Payne,36.1047,-96.8708,130,19.4,shape,false,false,America/Chicago,3,74074,1840096436
+Nescatunga,Nescatunga,Oklahoma,40003,Alfalfa,36.7543,-98.156,129,84.3,shape,false,false,America/Chicago,3,73749,1840034659
+Drowning Creek,Drowning Creek,Oklahoma,40041,Delaware,36.4778,-94.8942,129,56.1,shape,false,true,America/Chicago,4,74342,1840040360
+Yeager,Yeager,Oklahoma,40063,Hughes,35.1568,-96.3401,128,56.4,shape,false,true,America/Chicago,3,74848,1840022793
+Nash,Nash,Oklahoma,40053,Grant,36.6649,-98.0517,127,152.2,shape,false,true,America/Chicago,3,73761,1840022606
+Martha,Martha,Oklahoma,40065,Jackson,34.7262,-99.3867,127,71.3,shape,false,true,America/Chicago,3,73556,1840022818
+Bull Hollow,Bull Hollow,Oklahoma,40041,Delaware,36.3046,-94.9008,125,9.0,shape,false,false,America/Chicago,3,74338 74365,1840034629
+Connerville,Connerville,Oklahoma,40069,Johnston,34.4436,-96.6359,125,24.1,shape,false,false,America/Chicago,3,74836,1840034431
+Bridgeport,Bridgeport,Oklahoma,40015,Caddo,35.5476,-98.3775,125,89.9,shape,false,true,America/Chicago,3,73047,1840019160
+Wann,Wann,Oklahoma,40105,Nowata,36.9146,-95.8047,125,128.1,shape,false,true,America/Chicago,3,74083,1840022595
+Sparks,Sparks,Oklahoma,40081,Lincoln,35.6113,-96.8191,124,119.9,shape,false,true,America/Chicago,3,74869,1840022713
+Bearden,Bearden,Oklahoma,40107,Okfuskee,35.3569,-96.3851,124,6.3,shape,false,true,America/Chicago,3,74859,1840020430
+Fairmont,Fairmont,Oklahoma,40047,Garfield,36.356,-97.7055,124,141.3,shape,false,true,America/Chicago,3,73736,1840021648
+Bromide,Bromide,Oklahoma,40069,Johnston,34.4183,-96.4948,122,70.0,shape,false,true,America/Chicago,3,74530,1840021903
+Burbank,Burbank,Oklahoma,40113,Osage,36.6964,-96.7293,122,143.9,shape,false,true,America/Chicago,3,74633,1840021589
+Tullahassee,Tullahassee,Oklahoma,40145,Wagoner,35.8406,-95.4383,121,25.7,shape,false,true,America/Chicago,3,74454,1840022704
+Armstrong,Armstrong,Oklahoma,40013,Bryan,34.0528,-96.3448,119,180.4,shape,false,true,America/Chicago,3,74729,1840020544
+Lawtonka Acres,Lawtonka Acres,Oklahoma,40031,Comanche,34.7789,-98.5305,119,310.0,shape,false,false,America/Chicago,3,73507,1840097245
+Horntown,Horntown,Oklahoma,40063,Hughes,35.0869,-96.2476,119,11.6,shape,false,true,America/Chicago,3,74848,1840021819
+Dacoma,Dacoma,Oklahoma,40151,Woods,36.6596,-98.5635,119,87.8,shape,false,true,America/Chicago,3,73731,1840021596
+Greenville,Greenville,Oklahoma,40085,Love,34.0061,-97.124,119,36.1,shape,false,false,America/Chicago,3,73448,1840140998
+Wainwright,Wainwright,Oklahoma,40101,Muskogee,35.6134,-95.566,118,128.2,shape,false,true,America/Chicago,3,74468,1840022723
+Greenfield,Greenfield,Oklahoma,40011,Blaine,35.729,-98.3775,117,132.1,shape,false,true,America/Chicago,3,73043,1840021685
+Mazie,Mazie,Oklahoma,40097,Mayes,36.1425,-95.3303,117,19.8,shape,false,false,America/Chicago,3,74337,1840017706
+Spaulding,Spaulding,Oklahoma,40063,Hughes,35.0132,-96.4404,116,14.2,shape,false,true,America/Chicago,3,74848,1840022791
+Briartown,Briartown,Oklahoma,40101,Muskogee,35.2974,-95.2386,116,7.4,shape,false,false,America/Chicago,3,74455,1840034420
+Lucien,Lucien,Oklahoma,40103,Noble,36.2747,-97.4551,114,80.5,shape,false,false,America/Chicago,3,73757,1840026926
+Albany,Albany,Oklahoma,40013,Bryan,33.8769,-96.16,114,10.7,shape,false,false,America/Chicago,3,74726 74721,1840026979
+Moyers,Moyers,Oklahoma,40127,Pushmataha,34.3255,-95.6503,113,65.7,shape,false,false,America/Chicago,3,74557,1840034567
+Nardin,Nardin,Oklahoma,40071,Kay,36.8041,-97.4499,112,41.6,shape,false,false,America/Chicago,3,74646,1840026902
+Loyal,Loyal,Oklahoma,40073,Kingfisher,35.9727,-98.1182,112,103.6,shape,false,true,America/Chicago,3,73756,1840021681
+Lawrence Creek,Lawrence Creek,Oklahoma,40037,Creek,36.0838,-96.4267,112,62.3,shape,false,true,America/Chicago,3,74044,1840021695
+Narcissa,Narcissa,Oklahoma,40115,Ottawa,36.801,-94.9279,111,10.4,shape,false,false,America/Chicago,3,74354,1840018983
+Gould,Gould,Oklahoma,40057,Harmon,34.6692,-99.7736,110,116.0,shape,false,true,America/Chicago,3,73544,1840021835
+Pensacola,Pensacola,Oklahoma,40097,Mayes,36.4593,-95.1277,110,38.1,shape,false,true,America/Chicago,3,74301,1840022666
+Hastings,Hastings,Oklahoma,40067,Jefferson,34.2243,-98.1088,109,87.2,shape,false,true,America/Chicago,3,73548,1840021922
+Rentiesville,Rentiesville,Oklahoma,40091,McIntosh,35.5336,-95.4848,108,25.0,shape,false,true,America/Chicago,3,74459 74426,1840021760
+Orlando,Orlando,Oklahoma,40083,Logan,36.1355,-97.3654,106,104.5,shape,false,true,America/Chicago,3,73073,1840022691
+Arcadia,Arcadia,Oklahoma,40109,Oklahoma,35.6655,-97.3255,106,27.0,shape,false,true,America/Chicago,3,73007,1840021744
+Platter,Platter,Oklahoma,40013,Bryan,33.9066,-96.5338,106,24.5,shape,false,false,America/Chicago,3,74730 74753,1840034480
+Peoria,Peoria,Oklahoma,40115,Ottawa,36.9156,-94.6696,105,128.4,shape,false,true,America/Chicago,3,74363,1840022611
+Redbird,Redbird,Oklahoma,40145,Wagoner,35.8871,-95.5873,104,48.0,shape,false,true,America/Chicago,4,74458,1840074909
+Etowah,Etowah,Oklahoma,40027,Cleveland,35.129,-97.1641,104,20.2,shape,false,true,America/Chicago,3,73051 73068,1840021807
+Lakeside Village,Lakeside Village,Oklahoma,40031,Comanche,34.8003,-98.3809,102,32.0,shape,false,false,America/Chicago,3,73538,1840096444
+Brush Creek,Brush Creek,Oklahoma,40041,Delaware,36.4165,-94.7838,102,48.1,shape,false,false,America/Chicago,3,74346,1840034628
+Ratliff City,Ratliff City,Oklahoma,40019,Carter,34.4492,-97.5155,101,34.7,shape,false,true,America/Chicago,3,73481,1840021901
+Cottonwood,Cottonwood,Oklahoma,40029,Coal,34.554,-96.2038,101,59.1,shape,false,false,America/Chicago,3,74538,1840096392
+Panola,Panola,Oklahoma,40077,Latimer,34.9273,-95.2099,101,34.8,shape,false,false,America/Chicago,3,74563 74578 74559,1840034475
+Pumpkin Hollow,Pumpkin Hollow,Oklahoma,40021,Cherokee,36.0008,-94.837,99,2.6,shape,false,false,America/Chicago,5,74457 74464,1840153114
+Milfay,Milfay,Oklahoma,40037,Creek,35.7518,-96.5592,98,59.7,shape,false,false,America/Chicago,3,74046,1840096460
+Taft,Taft,Oklahoma,40101,Muskogee,35.7608,-95.5454,97,24.2,shape,false,true,America/Chicago,3,74463,1840022722
+Flute Springs,Flute Springs,Oklahoma,40135,Sequoyah,35.623,-94.8044,97,8.6,shape,false,false,America/Chicago,3,74931,1840034639
+Baker,Baker,Oklahoma,40139,Texas,36.8704,-101.0177,97,37.7,shape,false,false,America/Chicago,3,73950,1840034413
+Hoyt,Hoyt,Oklahoma,40061,Haskell,35.268,-95.3002,97,38.6,shape,false,false,America/Chicago,3,74472 74440,1840140999
+Smithville,Smithville,Oklahoma,40089,McCurtain,34.4689,-94.6461,97,34.3,shape,false,true,America/Chicago,3,74957,1840022853
+Addington,Addington,Oklahoma,40067,Jefferson,34.2431,-97.9661,95,68.3,shape,false,true,America/Chicago,3,73520,1840021919
+Hoffman,Hoffman,Oklahoma,40111,Okmulgee,35.4888,-95.8447,95,124.5,shape,false,true,America/Chicago,3,74437,1840021716
+Phillips,Phillips,Oklahoma,40029,Coal,34.5043,-96.2232,95,69.9,shape,false,true,America/Chicago,3,74538,1840022828
+Blackburn,Blackburn,Oklahoma,40117,Pawnee,36.3731,-96.5965,94,132.7,shape,false,true,America/Chicago,3,74058,1840021655
+Blue,Blue,Oklahoma,40013,Bryan,33.99,-96.2304,94,14.4,shape,false,false,America/Chicago,3,74701 74726,1840026980
+Sour John,Sour John,Oklahoma,40101,Muskogee,35.6206,-95.1432,92,6.3,shape,false,true,America/Chicago,5,74435,1840074410
+Deer Lick,Deer Lick,Oklahoma,40041,Delaware,36.4595,-94.7468,92,37.3,shape,false,true,America/Chicago,4,74346,1840040357
+Atwood,Atwood,Oklahoma,40063,Hughes,34.9549,-96.3367,91,64.3,shape,false,true,America/Chicago,3,74827,1840020461
+Gate,Gate,Oklahoma,40007,Beaver,36.8517,-100.0552,90,97.2,shape,false,true,America/Chicago,3,73844,1840021628
+Cowlington,Cowlington,Oklahoma,40079,Le Flore,35.3105,-94.7878,90,38.1,shape,false,true,America/Chicago,3,74941,1840021794
+Carrier,Carrier,Oklahoma,40047,Garfield,36.4786,-98.0172,89,28.0,shape,false,true,America/Chicago,3,73727,1840022658
+Council Hill,Council Hill,Oklahoma,40101,Muskogee,35.5558,-95.6525,88,118.8,shape,false,true,America/Chicago,3,74428,1840021719
+Lookeba,Lookeba,Oklahoma,40015,Caddo,35.363,-98.3638,88,141.9,shape,false,true,America/Chicago,3,73053,1840021770
+Osage,Osage,Oklahoma,40113,Osage,36.295,-96.4179,87,70.5,shape,false,true,America/Chicago,3,74054 74035,1840022596
+Kendrick,Kendrick,Oklahoma,40081,Lincoln,35.7853,-96.7755,86,131.7,shape,false,true,America/Chicago,3,74079,1840021713
+Leon,Leon,Oklahoma,40085,Love,33.8773,-97.4291,86,112.9,shape,false,true,America/Chicago,3,73441,1840021938
+Isabella,Isabella,Oklahoma,40093,Major,36.2354,-98.3354,86,11.1,shape,false,false,America/Chicago,3,73747,1840026929
+Headrick,Headrick,Oklahoma,40065,Jackson,34.627,-99.1373,86,104.3,shape,false,true,America/Chicago,3,73549,1840021850
+St. Louis,St. Louis,Oklahoma,40125,Pottawatomie,35.0812,-96.8598,85,3.5,shape,false,true,America/Chicago,3,74866 74826,1840021788
+Dotyville,Dotyville,Oklahoma,40115,Ottawa,36.8515,-94.9098,84,70.6,shape,false,false,America/Chicago,3,74354,1840018982
+Erin Springs,Erin Springs,Oklahoma,40049,Garvin,34.8112,-97.6056,83,136.0,shape,false,true,America/Chicago,3,73052,1840021857
+Summit,Summit,Oklahoma,40101,Muskogee,35.6694,-95.4208,83,32.8,shape,false,true,America/Chicago,3,74401,1840022721
+Paradise Hill,Paradise Hill,Oklahoma,40135,Sequoyah,35.6137,-95.0703,83,57.1,shape,false,true,America/Chicago,3,74435,1840022739
+Deer Creek,Deer Creek,Oklahoma,40053,Grant,36.8068,-97.5195,83,131.2,shape,false,true,America/Chicago,3,74636,1840021602
+Pontotoc,Pontotoc,Oklahoma,40069,Johnston,34.4888,-96.629,83,30.0,shape,false,false,America/Chicago,3,74871 74836,1840096491
+Hanna,Hanna,Oklahoma,40091,McIntosh,35.2022,-95.8896,83,203.6,shape,false,true,America/Chicago,3,74845,1840021761
+McBride,McBride,Oklahoma,40095,Marshall,33.9339,-96.6352,83,74.1,shape,false,false,America/Chicago,3,73439,1840034466
+Bowring,Bowring,Oklahoma,40113,Osage,36.879,-96.1202,82,97.2,shape,false,false,America/Chicago,3,74056,1840034418
+Gerty,Gerty,Oklahoma,40063,Hughes,34.8357,-96.2889,81,118.8,shape,false,true,America/Chicago,3,74531 74825,1840021818
+Washita,Washita,Oklahoma,40015,Caddo,35.1043,-98.3414,81,54.5,shape,false,false,America/Chicago,3,73005,1840096543
+Bache,Bache,Oklahoma,40121,Pittsburg,34.8942,-95.6506,81,22.2,shape,false,false,America/Chicago,3,74501,1840140982
+Bentley,Bentley,Oklahoma,40005,Atoka,34.2174,-96.0797,80,9.7,shape,false,false,America/Chicago,3,74525,1840096364
+Earl,Earl,Oklahoma,40069,Johnston,34.2033,-96.8893,79,22.5,shape,false,false,America/Chicago,3,73447,1840096403
+Olive,Olive,Oklahoma,40037,Creek,36.0225,-96.4766,79,23.3,shape,false,false,America/Chicago,3,74030,1840096479
+Kildare,Kildare,Oklahoma,40071,Kay,36.8085,-97.0499,78,38.5,shape,false,true,America/Chicago,3,74604,1840021615
+Felt,Felt,Oklahoma,40025,Cimarron,36.5633,-102.795,78,57.3,shape,false,false,America/Chicago,3,73937,1840026903
+Hillsdale,Hillsdale,Oklahoma,40047,Garfield,36.5632,-97.9927,77,110.3,shape,false,true,America/Chicago,3,73743,1840021649
+Fair Oaks,Fair Oaks,Oklahoma,40131,Rogers,36.1611,-95.691,76,5.2,shape,false,true,America/Chicago,3,74015,1840021699
+Blanco,Blanco,Oklahoma,40121,Pittsburg,34.7507,-95.7736,76,44.8,shape,false,false,America/Chicago,3,74528 74501,1840034416
+Cave Spring,Cave Spring,Oklahoma,40001,Adair,35.7292,-94.7577,76,6.0,shape,false,false,America/Chicago,5,74931,1840153113
+Chester,Chester,Oklahoma,40093,Major,36.2165,-98.9208,74,7.2,shape,false,false,America/Chicago,3,73838,1840026928
+Hallett,Hallett,Oklahoma,40117,Pawnee,36.2319,-96.5679,73,30.6,shape,false,true,America/Chicago,3,74038 74034,1840021657
+Pinhook Corner,Pinhook Corner,Oklahoma,40135,Sequoyah,35.5314,-94.8911,71,2.9,shape,false,false,America/Chicago,3,74962,1840034479
+Little City,Little City,Oklahoma,40095,Marshall,34.084,-96.616,71,68.7,shape,false,false,America/Chicago,3,73446,1840096449
+Caney Ridge,Caney Ridge,Oklahoma,40021,Cherokee,35.7637,-94.8828,71,158.7,shape,false,false,America/Chicago,3,74471,1840096376
+Bison,Bison,Oklahoma,40047,Garfield,36.196,-97.8979,71,25.9,shape,false,false,America/Chicago,3,73720,1840026927
+Loco,Loco,Oklahoma,40137,Stephens,34.3297,-97.6807,70,150.4,shape,false,true,America/Chicago,3,73442,1840021888
+Lima,Lima,Oklahoma,40133,Seminole,35.1737,-96.5983,69,56.4,shape,false,true,America/Chicago,3,74884,1840021779
+Sycamore,Sycamore,Oklahoma,40041,Delaware,36.399,-94.7149,68,8.8,shape,false,false,America/Chicago,3,74346,1840034591
+Mehan,Mehan,Oklahoma,40119,Payne,36.0457,-96.9401,68,41.7,shape,false,false,America/Chicago,3,74074,1840096456
+Mulberry,Mulberry,Oklahoma,40001,Adair,35.8631,-94.7014,66,27.3,shape,false,true,America/Chicago,4,74960,1840040387
+Albion,Albion,Oklahoma,40127,Pushmataha,34.6622,-95.0993,66,98.5,shape,false,true,America/Chicago,3,74521,1840021889
+Maramec,Maramec,Oklahoma,40117,Pawnee,36.2419,-96.6805,66,91.0,shape,false,true,America/Chicago,3,74045,1840022661
+Tuskahoma,Tuskahoma,Oklahoma,40127,Pushmataha,34.6272,-95.2779,64,10.9,shape,false,false,America/Chicago,3,74574,1840026971
+Strang,Strang,Oklahoma,40097,Mayes,36.4123,-95.1347,64,39.5,shape,false,true,America/Chicago,3,74367,1840022671
+Sasakwa,Sasakwa,Oklahoma,40133,Seminole,34.9468,-96.5253,64,130.4,shape,false,true,America/Chicago,3,74867,1840022758
+Faxon,Faxon,Oklahoma,40031,Comanche,34.4603,-98.5794,64,106.1,shape,false,true,America/Chicago,3,73540,1840021851
+New Alluwe,New Alluwe,Oklahoma,40105,Nowata,36.6101,-95.4888,64,129.5,shape,false,true,America/Chicago,4,74016,1840074958
+Oak Grove,Oak Grove,Oklahoma,40117,Pawnee,36.2056,-96.3384,64,41.2,shape,false,true,America/Chicago,3,74020,1840034623
+Lone Chimney,Lone Chimney,Oklahoma,40117,Pawnee,36.2326,-96.7929,61,5.7,shape,false,true,America/Chicago,5,74058 74032,1840001954
+Oakwood,Oakwood,Oklahoma,40043,Dewey,35.9316,-98.7031,61,71.9,shape,false,true,America/Chicago,3,73658,1840022695
+Nelagoney,Nelagoney,Oklahoma,40113,Osage,36.626,-96.244,61,58.8,shape,false,false,America/Chicago,3,74056,1840034471
+Hendrix,Hendrix,Oklahoma,40013,Bryan,33.7753,-96.4072,60,67.5,shape,false,true,America/Chicago,3,74741,1840021928
+Smith Village,Smith Village,Oklahoma,40109,Oklahoma,35.4508,-97.457,60,2118.6,shape,false,true,America/Chicago,2,73115,1840022733
+Moffett,Moffett,Oklahoma,40135,Sequoyah,35.4059,-94.4552,56,22.1,shape,false,true,America/Chicago,3,74954 74948 74946,1840022737
+Fay,Fay,Oklahoma,40043,Dewey,35.8161,-98.6587,56,43.2,shape,false,false,America/Chicago,3,73646,1840034441
+Hitchita,Hitchita,Oklahoma,40091,McIntosh,35.5199,-95.7517,55,83.6,shape,false,true,America/Chicago,3,74438,1840021762
+Vanoss,Vanoss,Oklahoma,40123,Pontotoc,34.7578,-96.8712,54,17.2,shape,false,false,America/Chicago,3,74820,1840034500
+Centrahoma,Centrahoma,Oklahoma,40029,Coal,34.6104,-96.3437,54,78.9,shape,false,true,America/Chicago,3,74534,1840019247
+Blackgum,Blackgum,Oklahoma,40135,Sequoyah,35.6112,-94.99,54,48.6,shape,false,false,America/Chicago,3,74962,1840024946
+Lake Aluma,Lake Aluma,Oklahoma,40109,Oklahoma,35.5334,-97.4484,53,54.7,shape,false,true,America/Chicago,3,73121,1840021747
+Fox,Fox,Oklahoma,40019,Carter,34.3601,-97.4928,53,35.7,shape,false,false,America/Chicago,3,73435,1840034444
+Emet,Emet,Oklahoma,40069,Johnston,34.2063,-96.5421,51,45.3,shape,false,false,America/Chicago,3,73450,1840096407
+Renfrow,Renfrow,Oklahoma,40053,Grant,36.9247,-97.6572,51,2.7,shape,false,true,America/Chicago,3,73759,1840021603
+Hodgen,Hodgen,Oklahoma,40079,Le Flore,34.8406,-94.6339,50,25.6,shape,false,false,America/Chicago,3,74937 74939,1840097210
+Skedee,Skedee,Oklahoma,40117,Pawnee,36.3805,-96.7039,49,82.6,shape,false,true,America/Chicago,3,74058,1840022662
+Brooksville,Brooksville,Oklahoma,40125,Pottawatomie,35.2097,-96.9611,49,6.4,shape,false,true,America/Chicago,3,74873,1840021784
+Lovell,Lovell,Oklahoma,40083,Logan,36.056,-97.6365,49,64.6,shape,false,false,America/Chicago,3,73028,1840034463
+Wardville,Wardville,Oklahoma,40005,Atoka,34.655,-96.0309,48,18.9,shape,false,false,America/Chicago,3,74576,1840034502
+Webb City,Webb City,Oklahoma,40113,Osage,36.8074,-96.7119,48,60.2,shape,false,true,America/Chicago,3,74652,1840022598
+Whippoorwill,Whippoorwill,Oklahoma,40113,Osage,36.9123,-96.1288,47,153.2,shape,false,false,America/Chicago,3,74056,1840096549
+Swink,Swink,Oklahoma,40023,Choctaw,34.0169,-95.2018,47,59.2,shape,false,false,America/Chicago,3,74761,1840026983
+Fittstown,Fittstown,Oklahoma,40123,Pontotoc,34.6091,-96.6405,47,16.9,shape,false,false,America/Chicago,3,74842,1840034443
+Putnam,Putnam,Oklahoma,40043,Dewey,35.8559,-98.9682,46,44.4,shape,false,true,America/Chicago,3,73659,1840021689
+Strong City,Strong City,Oklahoma,40129,Roger Mills,35.6698,-99.6005,46,35.7,shape,false,true,America/Chicago,3,73628,1840022710
+Ashland,Ashland,Oklahoma,40121,Pittsburg,34.7668,-96.0706,46,74.8,shape,false,true,America/Chicago,3,74570,1840020459
+Dripping Springs,Dripping Springs,Oklahoma,40041,Delaware,36.1709,-94.6852,46,12.5,shape,false,false,America/Chicago,3,74338,1840034632
+Terlton,Terlton,Oklahoma,40117,Pawnee,36.1876,-96.4918,46,68.1,shape,false,true,America/Chicago,3,74081,1840022663
+Nashoba,Nashoba,Oklahoma,40127,Pushmataha,34.4816,-95.2143,45,35.1,shape,false,false,America/Chicago,3,74558,1840034470
+Badger Lee,Badger Lee,Oklahoma,40135,Sequoyah,35.4727,-94.8147,45,24.6,shape,false,true,America/Chicago,4,74955,1840040352
+Clearview,Clearview,Oklahoma,40107,Okfuskee,35.3987,-96.1876,44,56.9,shape,false,true,America/Chicago,3,74880,1840022743
+Sugden,Sugden,Oklahoma,40067,Jefferson,34.0826,-97.9788,43,39.8,shape,false,true,America/Chicago,3,73573,1840022885
+Carlton Landing,Carlton Landing,Oklahoma,40121,Pittsburg,35.2129,-95.5578,43,10.6,shape,false,true,America/Chicago,3,74432,1840018081
+Utica,Utica,Oklahoma,40013,Bryan,33.9051,-96.2214,42,35.3,shape,false,false,America/Chicago,3,74726,1840096536
+Dodge,Dodge,Oklahoma,40041,Delaware,36.5789,-94.6385,42,2.5,shape,false,false,America/Chicago,3,74344,1840034536
+Twin Lakes,Twin Lakes,Oklahoma,40083,Logan,35.8679,-97.6653,41,40.2,shape,false,false,America/Chicago,3,73028,1840096531
+Hollister,Hollister,Oklahoma,40141,Tillman,34.3408,-98.8712,41,33.9,shape,false,true,America/Chicago,3,73551,1840021895
+Shamrock,Shamrock,Oklahoma,40037,Creek,35.9114,-96.5772,41,78.9,shape,false,true,America/Chicago,3,74068,1840022701
+Reagan,Reagan,Oklahoma,40069,Johnston,34.3488,-96.7193,40,17.4,shape,false,false,America/Chicago,3,73460,1840096497
+Grainola,Grainola,Oklahoma,40113,Osage,36.9379,-96.6488,40,22.1,shape,false,true,America/Chicago,3,74652,1840021594
+Elmer,Elmer,Oklahoma,40065,Jackson,34.4808,-99.3521,40,36.6,shape,false,true,America/Chicago,3,73539,1840021848
+Peckham,Peckham,Oklahoma,40071,Kay,36.8866,-97.1781,40,29.9,shape,false,false,America/Chicago,3,74647,1840034477
+Golden,Golden,Oklahoma,40089,McCurtain,34.0312,-94.8978,40,19.1,shape,false,false,America/Chicago,3,74737,1840034445
+May,May,Oklahoma,40059,Harper,36.6167,-99.7485,39,13.3,shape,false,true,America/Chicago,3,73851,1840022614
+Scipio,Scipio,Oklahoma,40121,Pittsburg,35.0513,-95.9556,38,21.2,shape,false,false,America/Chicago,3,74501,1840034489
+Durham,Durham,Oklahoma,40129,Roger Mills,35.8427,-99.9264,37,0.1,shape,false,false,America/Chicago,3,73642,1840097202
+Elohim City,Elohim City,Oklahoma,40001,Adair,35.6455,-94.5151,37,15.5,shape,false,false,America/Chicago,3,74948,1840142637
+White Water,White Water,Oklahoma,40041,Delaware,36.5017,-94.7289,37,11.9,shape,false,true,America/Chicago,4,74346,1840040406
+Bunch,Bunch,Oklahoma,40001,Adair,35.6821,-94.746,37,1.5,shape,false,false,America/Chicago,3,74931,1840096626
+Iron Post,Iron Post,Oklahoma,40097,Mayes,36.1558,-95.1353,36,5.2,shape,false,false,America/Chicago,3,74352,1840034641
+Zion,Zion,Oklahoma,40001,Adair,35.7892,-94.6377,36,13.6,shape,false,false,America/Chicago,3,74960,1840034603
+Etta,Etta,Oklahoma,40021,Cherokee,35.8329,-94.9035,36,3.6,shape,false,false,America/Chicago,3,74471,1840151847
+Fallis,Fallis,Oklahoma,40081,Lincoln,35.7493,-97.1182,35,21.5,shape,false,true,America/Chicago,3,74881,1840021712
+Dwight Mission,Dwight Mission,Oklahoma,40135,Sequoyah,35.5581,-94.851,35,2.8,shape,false,false,America/Chicago,3,74962,1840034635
+Douglas,Douglas,Oklahoma,40047,Garfield,36.2605,-97.6666,32,6.4,shape,false,true,America/Chicago,3,73733,1840021646
+Homestead,Homestead,Oklahoma,40011,Blaine,36.15,-98.3969,32,16.3,shape,false,false,America/Chicago,3,73763,1840034451
+Watova,Watova,Oklahoma,40105,Nowata,36.6197,-95.6604,31,20.9,shape,false,false,America/Chicago,3,74048,1840034596
+Rosston,Rosston,Oklahoma,40059,Harper,36.8129,-99.9326,31,31.7,shape,false,true,America/Chicago,3,73855,1840021620
+IXL,IXL,Oklahoma,40107,Okfuskee,35.5227,-96.3882,30,2.9,shape,false,true,America/Chicago,3,74833,1840021754
+Rosedale,Rosedale,Oklahoma,40087,McClain,34.9188,-97.1848,29,129.1,shape,false,true,America/Chicago,3,74831,1840021809
+Hough,Hough,Oklahoma,40139,Texas,36.872,-101.5747,28,12.5,shape,false,false,America/Chicago,3,73942,1840034548
+New Woodville,New Woodville,Oklahoma,40095,Marshall,33.9688,-96.6548,28,201.3,shape,false,true,America/Chicago,3,73439,1840022893
+Mutual,Mutual,Oklahoma,40153,Woodward,36.2305,-99.168,27,57.9,shape,false,true,America/Chicago,3,73853,1840022646
+Meridian,Meridian,Oklahoma,40083,Logan,35.8442,-97.2456,26,60.2,shape,false,true,America/Chicago,3,73058,1840022690
+Amorita,Amorita,Oklahoma,40003,Alfalfa,36.924,-98.2936,24,22.7,shape,false,true,America/Chicago,3,73719,1840021608
+Piney,Piney,Oklahoma,40001,Adair,35.8875,-94.5537,23,2.0,shape,false,false,America/Chicago,3,74960,1840034578
+Stidham,Stidham,Oklahoma,40091,McIntosh,35.3686,-95.7008,23,30.5,shape,false,true,America/Chicago,3,74432,1840022749
+Macomb,Macomb,Oklahoma,40125,Pottawatomie,35.1479,-97.0086,18,11.2,shape,false,true,America/Chicago,3,74852 74873,1840022763
+Hitchcock,Hitchcock,Oklahoma,40011,Blaine,35.9676,-98.3497,17,78.1,shape,false,true,America/Chicago,3,73744,1840021686
+Eagle City,Eagle City,Oklahoma,40011,Blaine,35.9338,-98.59,16,9.2,shape,false,false,America/Chicago,3,73724,1840034439
+Old Eucha,Old Eucha,Oklahoma,40041,Delaware,36.3551,-94.9379,16,2.0,shape,false,false,America/Chicago,3,74342,1840034645
+Valley Park,Valley Park,Oklahoma,40131,Rogers,36.2828,-95.7362,14,2.5,shape,false,true,America/Chicago,3,74019,1840034621
+Bryant,Bryant,Oklahoma,40111,Okmulgee,35.3923,-96.0624,14,21.6,shape,false,false,America/Chicago,3,74880,1840096371
+Friendship,Friendship,Oklahoma,40065,Jackson,34.6978,-99.2287,13,24.0,shape,false,true,America/Chicago,3,73521,1840021849
+Quay,Quay,Oklahoma,40117,Pawnee,36.1596,-96.7089,13,46.1,shape,false,false,America/Chicago,4,74085,1840096495
+Foraker,Foraker,Oklahoma,40113,Osage,36.8728,-96.5693,13,20.4,shape,false,true,America/Chicago,3,74652,1840021593
+Avard,Avard,Oklahoma,40151,Woods,36.6973,-98.7893,13,27.9,shape,false,true,America/Chicago,3,73717,1840034411
+Sumner,Sumner,Oklahoma,40103,Noble,36.3182,-97.1179,12,34.1,shape,false,false,America/Chicago,3,73077,1840034590
+Texola,Texola,Oklahoma,40009,Beckham,35.2225,-99.993,11,6.9,shape,false,true,America/Chicago,3,73668,1840022757
+Byron,Byron,Oklahoma,40003,Alfalfa,36.9014,-98.2944,11,37.8,shape,false,true,America/Chicago,3,73722,1840022608
+Jefferson,Jefferson,Oklahoma,40053,Grant,36.7203,-97.7909,11,8.4,shape,false,true,America/Chicago,3,73759,1840021604
+Knowles,Knowles,Oklahoma,40007,Beaver,36.8729,-100.1924,11,11.8,shape,false,true,America/Chicago,3,73844,1840021629
+Lambert,Lambert,Oklahoma,40003,Alfalfa,36.6832,-98.4237,7,1.8,shape,false,true,America/Chicago,3,73728,1840021612
+Cooperton,Cooperton,Oklahoma,40075,Kiowa,34.8665,-98.8759,5,3.7,shape,false,true,America/Chicago,3,73564,1840022801
+Hopeton,Hopeton,Oklahoma,40151,Woods,36.6882,-98.662,5,3.9,shape,false,false,America/Chicago,3,73746,1840034453
+Loveland,Loveland,Oklahoma,40141,Tillman,34.3046,-98.7708,5,15.3,shape,false,true,America/Chicago,3,73546 73553,1840021896
+Lotsee,Lotsee,Oklahoma,40143,Tulsa,36.1334,-96.2091,5,19.9,shape,false,true,America/Chicago,3,74063,1840021674
+Duchess Landing,Duchess Landing,Oklahoma,40091,McIntosh,35.3985,-95.4165,0,6.5,shape,false,false,America/Chicago,3,74426,1840034634
+Finley,Finley,Oklahoma,40127,Pushmataha,34.3276,-95.498,0,26.7,shape,false,false,America/Chicago,3,74543,1840034442
+Hoot Owl,Hoot Owl,Oklahoma,40097,Mayes,36.36,-95.1214,0,19.3,shape,false,true,America/Chicago,3,74366,1840034622
+Clarksville,Clarksville,Oklahoma,40145,Wagoner,35.824,-95.5141,0,22.9,shape,false,false,America/Chicago,3,74454,1840096385
+Selman,Selman,Oklahoma,40059,Harper,36.8014,-99.4894,0,12.1,shape,false,false,America/Chicago,3,73834,1840034490
+Quinlan,Quinlan,Oklahoma,40153,Woodward,36.4562,-99.0457,0,38.0,shape,false,false,America/Chicago,3,73852,1840034482
+Tagg Flats,Tagg Flats,Oklahoma,40041,Delaware,36.3387,-94.9037,0,1.3,shape,false,false,America/Chicago,3,74338,1840034654
+Pershing,Pershing,Oklahoma,40113,Osage,36.5901,-96.2731,0,23.6,shape,false,false,America/Chicago,3,74002,1840096487
+Capron,Capron,Oklahoma,40151,Woods,36.8966,-98.5776,0,33.2,shape,false,true,America/Chicago,3,73717,1840022600
+Kenton,Kenton,Oklahoma,40025,Cimarron,36.9064,-102.9653,0,9.9,shape,false,false,America/Chicago,3,73946,1840026904
+Mule Barn,Mule Barn,Oklahoma,40117,Pawnee,36.217,-96.312,0,47.8,point,false,false,America/Chicago,4,74020,1840097262
+Seward,Seward,Oklahoma,40083,Logan,35.7966,-97.4871,0,58.7,shape,false,false,America/Chicago,3,73044,1840034491
+Adamson,Adamson,Oklahoma,40121,Pittsburg,34.9243,-95.5474,0,49.6,shape,false,false,America/Chicago,3,74547,1840096353

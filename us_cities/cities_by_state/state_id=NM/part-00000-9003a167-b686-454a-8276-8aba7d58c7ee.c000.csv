@@ -1,0 +1,519 @@
+Albuquerque,Albuquerque,New Mexico,35001,Bernalillo,35.1054,-106.6465,769986,1159.8,shape,false,true,America/Denver,2,87123 87112 87113 87110 87111 87114 87109 87108 87101 87102 87105 87104 87107 87106 87120 87119 87125 87131 87153 87154 87158 87181 87184 87187 87190 87191 87192 87194 87196 87197 87198 87199,1840019176
+Las Cruces,Las Cruces,New Mexico,35013,Doña Ana,32.3265,-106.7893,140915,558.4,shape,false,true,America/Denver,2,88012 88011 88005 88007 88001 87654 88006 88013,1840020683
+Rio Rancho,Rio Rancho,New Mexico,35043,Sandoval,35.2873,-106.6982,104351,389.8,shape,false,true,America/Denver,2,87121 87124 87144 87174,1840020387
+Santa Fe,Santa Fe,New Mexico,35049,Santa Fe,35.6619,-105.9819,93165,647.7,shape,false,true,America/Denver,2,87505 87507 87501 87502 87503 87509,1840021707
+Roswell,Roswell,New Mexico,35005,Chaves,33.373,-104.5294,48035,624.1,shape,false,true,America/Denver,3,88203 88201,1840020549
+Farmington,Farmington,New Mexico,35045,San Juan,36.7555,-108.1823,46457,520.5,shape,false,true,America/Denver,3,87401 87402,1840020349
+Hobbs,Hobbs,New Mexico,35025,Lea,32.7281,-103.16,39782,581.7,shape,false,true,America/Denver,3,88240 88244,1840020616
+Clovis,Clovis,New Mexico,35009,Curry,34.4376,-103.1923,38453,628.4,shape,false,true,America/Denver,3,88101 88102,1840019195
+South Valley,South Valley,New Mexico,35001,Bernalillo,35.0093,-106.6819,37601,500.3,shape,false,false,America/Denver,3,87105 87195,1840033724
+Carlsbad,Carlsbad,New Mexico,35015,Eddy,32.401,-104.2388,31755,389.0,shape,false,true,America/Denver,3,88220 88221,1840019444
+Alamogordo,Alamogordo,New Mexico,35035,Otero,32.8837,-105.9625,30996,554.8,shape,false,true,America/Denver,3,88310,1840019403
+Gallup,Gallup,New Mexico,35031,McKinley,35.5182,-108.7431,21672,414.4,shape,false,true,America/Denver,3,87301,1840020395
+Los Lunas,Los Lunas,New Mexico,35061,Valencia,34.8115,-106.7803,17452,330.9,shape,false,true,America/Denver,3,87031,1840022814
+Sunland Park,Sunland Park,New Mexico,35013,Doña Ana,31.8201,-106.5958,16773,439.4,shape,false,true,America/Denver,3,88063 88008 79922,1840033664
+Chaparral,Chaparral,New Mexico,35013,Doña Ana,32.0442,-106.406,15290,100.0,shape,false,false,America/Denver,3,88081,1840018050
+Deming,Deming,New Mexico,35029,Luna,32.2631,-107.7525,14756,340.8,shape,false,true,America/Denver,3,88030 88031,1840019458
+Los Alamos,Los Alamos,New Mexico,35028,Los Alamos,35.8927,-106.2862,13460,467.9,shape,false,false,America/Denver,3,87544 87545,1840017779
+Las Vegas,Las Vegas,New Mexico,35047,San Miguel,35.6011,-105.2206,13194,590.8,shape,false,true,America/Denver,3,87701,1840020397
+Artesia,Artesia,New Mexico,35015,Eddy,32.8497,-104.4268,12632,430.5,shape,false,true,America/Denver,3,88210 88211,1840019443
+Portales,Portales,New Mexico,35041,Roosevelt,34.1754,-103.3565,12085,582.7,shape,false,true,America/Denver,3,88130,1840020529
+Lovington,Lovington,New Mexico,35025,Lea,32.9128,-103.3276,11495,395.9,shape,false,true,America/Denver,3,88260,1840020617
+North Valley,North Valley,New Mexico,35001,Bernalillo,35.1736,-106.6231,11256,625.6,shape,false,false,America/Denver,3,87113 87114 87107,1840033721
+Española,Espanola,New Mexico,35039,Rio Arriba,36.0044,-106.0686,10473,491.8,shape,false,true,America/Denver,3,87532 87533,1840020348
+Silver City,Silver City,New Mexico,35017,Grant,32.7783,-108.2699,9650,368.2,shape,false,true,America/Denver,3,88061 88062,1840023009
+Bernalillo,Bernalillo,New Mexico,35043,Sandoval,35.3127,-106.5537,9286,677.5,shape,false,true,America/Denver,3,87004,1840020388
+Grants,Grants,New Mexico,35006,Cibola,35.1538,-107.8335,9177,237.6,shape,false,true,America/Denver,3,87020,1840020452
+Anthony,Anthony,New Mexico,35013,Doña Ana,32.0131,-106.5984,8708,1245.9,shape,false,false,America/Denver,3,88021,1840018049
+Socorro,Socorro,New Mexico,35053,Socorro,34.0543,-106.9065,8605,229.9,shape,false,true,America/Denver,3,87801,1840021898
+Corrales,Corrales,New Mexico,35043,Sandoval,35.2366,-106.6191,8495,304.0,shape,false,true,America/Denver,3,87048 87103,1840022681
+Shiprock,Shiprock,New Mexico,35045,San Juan,36.7924,-108.7005,8275,236.5,shape,false,false,America/Denver,3,87420,1840018988
+Ruidoso,Ruidoso,New Mexico,35027,Lincoln,33.3646,-105.6434,7696,184.2,shape,false,true,America/Denver,3,88312 88345 88355,1840022873
+Bloomfield,Bloomfield,New Mexico,35045,San Juan,36.7401,-107.9734,7430,154.7,shape,false,true,America/Denver,3,87413,1840018994
+Belen,Belen,New Mexico,35061,Valencia,34.7115,-106.7986,7367,149.3,shape,false,true,America/Denver,3,87002 87031,1840019194
+Zuni Pueblo,Zuni Pueblo,New Mexico,35031,McKinley,35.0693,-108.8558,6789,207.7,shape,false,false,America/Denver,3,87327,1840019095
+Taos,Taos,New Mexico,35055,Taos,36.3871,-105.5803,6458,412.9,shape,false,true,America/Denver,3,87571,1840022638
+Santa Teresa,Santa Teresa,New Mexico,35013,Doña Ana,31.8701,-106.6714,6396,279.0,shape,false,false,America/Denver,3,88021 88008,1840019414
+Aztec,Aztec,New Mexico,35045,San Juan,36.8225,-107.971,6214,140.6,shape,false,true,America/Denver,3,87410,1840018993
+Edgewood,Edgewood,New Mexico,35049,Santa Fe,35.1318,-106.2151,6113,41.6,shape,false,true,America/Denver,4,87047 87015,1840074899
+Raton,Raton,New Mexico,35007,Colfax,36.8849,-104.4396,6046,293.2,shape,false,true,America/Denver,3,87740,1840020353
+Truth or Consequences,Truth or Consequences,New Mexico,35051,Sierra,33.1864,-107.2589,6030,83.2,shape,false,true,America/Denver,3,87901 87935,1840021995
+Los Ranchos de Albuquerque,Los Ranchos de Albuquerque,New Mexico,35001,Bernalillo,35.1625,-106.6482,5894,511.2,shape,false,true,America/Denver,3,87114 87107,1840022795
+North Hobbs,North Hobbs,New Mexico,35025,Lea,32.7731,-103.125,5863,86.9,shape,false,true,America/Denver,4,88240 88242 88241,1840043200
+White Rock,White Rock,New Mexico,35028,Los Alamos,35.8075,-106.2067,5592,305.5,shape,false,false,America/Denver,3,87544 87547,1840019105
+Eldorado at Santa Fe,Eldorado at Santa Fe,New Mexico,35049,Santa Fe,35.5273,-105.934,5471,101.6,shape,false,false,America/Denver,3,87508 87540,1840033719
+Tucumcari,Tucumcari,New Mexico,35037,Quay,35.17,-103.7046,5206,211.4,shape,false,true,America/Denver,3,88401,1840021739
+El Cerro Mission,El Cerro Mission,New Mexico,35061,Valencia,34.7688,-106.6447,4999,328.1,shape,false,true,America/Denver,3,87031,1840043409
+Rio Communities,Rio Communities,New Mexico,35061,Valencia,34.6459,-106.7164,4913,246.6,shape,false,true,America/Denver,3,87002,1840033728
+Lee Acres,Lee Acres,New Mexico,35045,San Juan,36.7031,-108.0648,4858,181.7,shape,false,false,America/Denver,3,87401 87413,1840033565
+Los Chaves,Los Chaves,New Mexico,35061,Valencia,34.7334,-106.7611,4840,163.3,shape,false,false,America/Denver,3,87002 87031,1840017903
+Crouch Mesa,Crouch Mesa,New Mexico,35045,San Juan,36.748,-108.0853,4834,90.3,shape,false,false,America/Denver,3,87401 87410,1840146270
+Meadow Lake,Meadow Lake,New Mexico,35061,Valencia,34.8024,-106.5701,4745,158.7,shape,false,false,America/Denver,3,87031,1840019192
+Paradise Hills,Paradise Hills,New Mexico,35001,Bernalillo,35.1981,-106.7023,4441,1676.7,shape,false,false,America/Denver,3,87114 87193,1840024971
+Holloman AFB,Holloman AFB,New Mexico,35035,Otero,32.8483,-106.0998,4182,128.6,shape,true,true,America/Denver,4,88330,1840037076
+Placitas,Placitas,New Mexico,35043,Sandoval,35.3226,-106.4437,4066,53.3,shape,false,false,America/Denver,3,87043,1840019064
+Bosque Farms,Bosque Farms,New Mexico,35061,Valencia,34.8539,-106.7011,4001,392.6,shape,false,true,America/Denver,3,87068,1840022813
+La Cienega,La Cienega,New Mexico,35049,Santa Fe,35.5794,-106.113,3948,130.7,shape,false,false,America/Denver,3,87507,1840017774
+Kirtland AFB,Kirtland AFB,New Mexico,35001,Bernalillo,35.0497,-106.5599,3837,271.9,shape,true,false,America/Denver,3,87116,1840153132
+Vado,Vado,New Mexico,35013,Doña Ana,32.1278,-106.6571,3386,439.0,shape,false,false,America/Denver,3,88072 88048,1840019416
+Peralta,Peralta,New Mexico,35061,Valencia,34.8283,-106.6859,3379,293.6,shape,false,true,America/Denver,3,87042,1840022815
+El Cerro,El Cerro,New Mexico,35061,Valencia,34.7807,-106.6955,3244,295.0,shape,false,false,America/Denver,3,87031,1840024994
+Sandia Heights,Sandia Heights,New Mexico,35001,Bernalillo,35.1747,-106.4884,3205,656.1,shape,false,false,America/Denver,3,87122,1840033723
+Eunice,Eunice,New Mexico,35025,Lea,32.4461,-103.1986,3020,284.8,shape,false,true,America/Denver,3,88231,1840020615
+Chimayo,Chimayo,New Mexico,35049,Santa Fe,35.9981,-105.9413,2955,147.5,shape,false,false,America/Denver,3,87522,1840017667
+Clayton,Clayton,New Mexico,35059,Union,36.4426,-103.1574,2825,140.4,shape,false,true,America/Denver,3,88415,1840022631
+Crownpoint,Crownpoint,New Mexico,35031,McKinley,35.7173,-108.1432,2823,16.1,shape,false,false,America/Denver,3,87313,1840017763
+University Park,University Park,New Mexico,35013,Doña Ana,32.2767,-106.7462,2744,690.4,shape,false,false,America/Denver,3,88001 88003,1840019415
+Santa Rosa,Santa Rosa,New Mexico,35019,Guadalupe,34.9361,-104.6769,2741,211.7,shape,false,true,America/Denver,3,88435,1840021821
+Cannon AFB,Cannon AFB,New Mexico,35009,Curry,34.3885,-103.3185,2682,176.6,shape,true,true,America/Denver,4,88101 88103,1840073903
+Ruidoso Downs,Ruidoso Downs,New Mexico,35027,Lincoln,33.3311,-105.5969,2635,268.5,shape,false,true,America/Denver,3,88346,1840020534
+Tularosa,Tularosa,New Mexico,35035,Otero,33.0753,-106.0175,2590,354.7,shape,false,true,America/Denver,3,88352,1840023002
+Center Point,Center Point,New Mexico,35045,San Juan,36.872,-107.9551,2576,108.2,shape,false,false,America/Denver,3,87410,1840150460
+Agua Fria,Agua Fria,New Mexico,35049,Santa Fe,35.6615,-106.0149,2523,401.9,shape,false,false,America/Denver,3,87507,1840017766
+La Mesilla,La Mesilla,New Mexico,35039,Rio Arriba,35.9461,-106.0719,2456,212.9,shape,false,false,America/Denver,3,87532,1840024835
+West Hammond,West Hammond,New Mexico,35045,San Juan,36.6807,-108.0433,2410,102.2,shape,false,true,America/Denver,4,87413,1840040220
+Milan,Milan,New Mexico,35006,Cibola,35.1949,-107.8946,2375,211.3,shape,false,true,America/Denver,3,87020 87021,1840022781
+Thoreau,Thoreau,New Mexico,35031,McKinley,35.4251,-108.2012,2361,23.1,shape,false,false,America/Denver,3,87323,1840019096
+Flora Vista,Flora Vista,New Mexico,35045,San Juan,36.804,-108.0876,2346,182.9,shape,false,false,America/Denver,3,87415,1840017670
+Pojoaque,Pojoaque,New Mexico,35049,Santa Fe,35.8962,-106.0105,2336,206.5,shape,false,false,America/Denver,3,87506,1840019101
+San Rafael,San Rafael,New Mexico,35006,Cibola,35.101,-107.8899,2322,56.9,shape,false,false,America/Denver,3,87020 87051,1840024968
+Ranchos de Taos,Ranchos de Taos,New Mexico,35055,Taos,36.3619,-105.6016,2313,253.2,shape,false,false,America/Denver,3,87557 87571,1840019011
+Dulce,Dulce,New Mexico,35039,Rio Arriba,36.9399,-107.0049,2261,68.1,shape,false,false,America/Denver,3,87528,1840018985
+Jal,Jal,New Mexico,35025,Lea,32.1148,-103.19,2258,180.8,shape,false,true,America/Denver,3,88252,1840019342
+San Ysidro,San Ysidro,New Mexico,35013,Doña Ana,32.3568,-106.8129,2205,321.9,shape,false,false,America/Denver,3,88007,1840148458
+Questa,Questa,New Mexico,35055,Taos,36.7114,-105.5935,2179,118.9,shape,false,true,America/Denver,3,87556,1840022639
+Nambe,Nambe,New Mexico,35049,Santa Fe,35.8984,-105.9667,2165,96.1,shape,false,false,America/Denver,3,87506,1840024915
+Moriarty,Moriarty,New Mexico,35057,Torrance,35.0034,-106.0444,2154,119.9,shape,false,true,America/Denver,3,87035,1840020469
+Bayard,Bayard,New Mexico,35017,Grant,32.7579,-108.1337,2152,874.0,shape,false,true,America/Denver,3,88023,1840019408
+Boles Acres,Boles Acres,New Mexico,35035,Otero,32.8198,-105.978,2137,67.4,shape,false,false,America/Denver,3,88311 88310,1840018038
+Lordsburg,Lordsburg,New Mexico,35023,Hidalgo,32.3438,-108.7021,2114,96.9,shape,false,true,America/Denver,3,88045,1840020740
+Navajo,Navajo,New Mexico,35031,McKinley,35.9024,-109.0321,2071,354.9,shape,false,false,America/Denver,3,87328,1840019088
+Jemez Pueblo,Jemez Pueblo,New Mexico,35043,Sandoval,35.6066,-106.7333,2070,390.9,shape,false,false,America/Denver,3,87024,1840033696
+La Plata,La Plata,New Mexico,35045,San Juan,36.8952,-108.2003,2063,35.9,shape,false,false,America/Denver,3,87401 87418,1840024850
+Santo Domingo Pueblo,Santo Domingo Pueblo,New Mexico,35043,Sandoval,35.5175,-106.367,2021,382.8,shape,false,false,America/Denver,3,87052,1840019069
+Valencia,Valencia,New Mexico,35061,Valencia,34.8053,-106.6868,2012,391.6,shape,false,false,America/Denver,3,87031,1840019193
+Tres Arroyos,Tres Arroyos,New Mexico,35049,Santa Fe,35.6799,-106.0398,1980,82.8,shape,false,false,America/Denver,3,87507 87506,1840152656
+Angustura,Angustura,New Mexico,35045,San Juan,36.7138,-107.9154,1884,152.5,shape,false,false,America/Denver,3,87413,1840144412
+Arroyo Seco,Arroyo Seco,New Mexico,35055,Taos,36.5215,-105.5861,1858,105.1,shape,false,false,America/Denver,3,87529 87514,1840026909
+La Luz,La Luz,New Mexico,35035,Otero,32.9698,-105.9388,1858,67.1,shape,false,false,America/Denver,3,88310 88337,1840018039
+Picacho Hills,Picacho Hills,New Mexico,35013,Doña Ana,32.3158,-106.8785,1822,217.1,shape,false,false,America/Denver,3,88007,1840145146
+Las Maravillas,Las Maravillas,New Mexico,35061,Valencia,34.734,-106.669,1796,686.9,shape,false,false,America/Denver,3,87031,1840033726
+Little Walnut Village,Little Walnut Village,New Mexico,35017,Grant,32.8257,-108.2811,1745,115.0,shape,false,false,America/Denver,3,88061,1840082302
+Santa Clara,Santa Clara,New Mexico,35017,Grant,32.7801,-108.1493,1744,338.4,shape,false,true,America/Denver,3,88022 88041 88026 88036,1840023010
+El Valle de Arroyo Seco,El Valle de Arroyo Seco,New Mexico,35049,Santa Fe,35.9526,-106.026,1744,131.2,shape,false,false,America/Denver,3,87532,1840033711
+Keeler Farm,Keeler Farm,New Mexico,35029,Luna,32.3161,-107.7602,1716,58.2,shape,false,true,America/Denver,4,88030,1840040084
+Jarales,Jarales,New Mexico,35061,Valencia,34.6147,-106.7631,1690,74.9,shape,false,false,America/Denver,3,87002 87023,1840017904
+Hatch,Hatch,New Mexico,35013,Doña Ana,32.6663,-107.1644,1673,215.0,shape,false,true,America/Denver,3,87937,1840023025
+Radium Springs,Radium Springs,New Mexico,35013,Doña Ana,32.4783,-106.9031,1657,107.2,shape,false,false,America/Denver,3,88007,1840019411
+Mesilla,Mesilla,New Mexico,35013,Doña Ana,32.2693,-106.8091,1647,112.0,shape,false,true,America/Denver,3,88046 88005,1840023024
+High Rolls,High Rolls,New Mexico,35035,Otero,32.9388,-105.8214,1611,40.4,shape,false,false,America/Denver,3,88325,1840025059
+Estancia,Estancia,New Mexico,35057,Torrance,34.7667,-106.0301,1591,99.6,shape,false,true,America/Denver,3,87016,1840021834
+South River,South River,New Mexico,35045,San Juan,36.7892,-108.06,1584,71.7,shape,false,false,America/Denver,3,87410,1840153136
+Elephant Butte,Elephant Butte,New Mexico,35051,Sierra,33.1806,-107.2269,1573,145.3,shape,false,true,America/Denver,3,87935,1840020627
+Hurley,Hurley,New Mexico,35017,Grant,32.6982,-108.1321,1561,590.8,shape,false,true,America/Denver,3,88043,1840022035
+Talpa,Talpa,New Mexico,35055,Taos,36.3421,-105.5923,1559,459.2,shape,false,false,America/Denver,3,87557,1840026912
+Barton,Barton,New Mexico,35001,Bernalillo,35.0653,-106.2569,1538,64.9,shape,false,false,America/Denver,3,87015 87059,1840082269
+Upper Fruitland,Upper Fruitland,New Mexico,35045,San Juan,36.7204,-108.3236,1533,77.3,shape,false,false,America/Denver,3,87401 87416,1840033717
+Las Campanas,Las Campanas,New Mexico,35049,Santa Fe,35.7159,-106.0582,1521,56.3,shape,false,false,America/Denver,3,87506,1840152180
+El Rancho,El Rancho,New Mexico,35049,Santa Fe,35.8928,-106.0856,1513,278.3,shape,false,false,America/Denver,3,87506,1840017769
+Tano Road,Tano Road,New Mexico,35049,Santa Fe,35.7374,-105.9819,1506,50.4,shape,false,false,America/Denver,3,87506,1840152653
+La Villita,La Villita,New Mexico,35039,Rio Arriba,36.1001,-106.0515,1504,427.8,shape,false,false,America/Denver,3,87511,1840024836
+Gamerco,Gamerco,New Mexico,35031,McKinley,35.5699,-108.7641,1489,600.7,shape,false,false,America/Denver,3,87301 87317,1840033546
+Rio Rancho Estates,Rio Rancho Estates,New Mexico,35043,Sandoval,35.3004,-106.7985,1473,8.3,shape,false,false,America/Denver,3,87124 87144,1840148974
+Thunder Mountain,Thunder Mountain,New Mexico,35049,Santa Fe,35.1009,-106.2278,1462,127.7,shape,false,false,America/Denver,3,87015,1840152654
+White Sands,White Sands,New Mexico,35013,Doña Ana,32.3804,-106.4791,1449,132.4,shape,true,true,America/Denver,4,88002,1840019417
+San Felipe Pueblo,San Felipe Pueblo,New Mexico,35043,Sandoval,35.4338,-106.425,1430,46.1,shape,false,false,America/Denver,3,87001,1840033699
+Taos Pueblo,Taos Pueblo,New Mexico,35055,Taos,36.4657,-105.5634,1422,35.2,shape,false,false,America/Denver,3,87571,1840019014
+Loving,Loving,New Mexico,35015,Eddy,32.2862,-104.0976,1413,452.3,shape,false,true,America/Denver,3,88256,1840023033
+Sandia Knolls,Sandia Knolls,New Mexico,35001,Bernalillo,35.1604,-106.2987,1410,194.3,shape,false,false,America/Denver,3,87047,1840033703
+Church Rock,Church Rock,New Mexico,35031,McKinley,35.5692,-108.573,1395,29.4,shape,false,false,America/Denver,3,87311,1840017762
+Capitan,Capitan,New Mexico,35027,Lincoln,33.5393,-105.5983,1381,163.6,shape,false,true,America/Denver,3,88316,1840022871
+Paraje,Paraje,New Mexico,35006,Cibola,35.0444,-107.4681,1362,94.3,shape,false,false,America/Denver,3,87007,1840019172
+Doña Ana,Dona Ana,New Mexico,35013,Doña Ana,32.394,-106.8177,1344,812.5,shape,false,false,America/Denver,3,88007,1840019409
+Waterflow,Waterflow,New Mexico,35045,San Juan,36.7568,-108.4673,1325,63.1,shape,false,false,America/Denver,3,87421 87416,1840024853
+Columbus,Columbus,New Mexico,35029,Luna,31.8271,-107.6422,1281,106.0,shape,false,true,America/Denver,3,88029,1840023048
+Atoka,Atoka,New Mexico,35015,Eddy,32.7783,-104.3931,1280,73.1,shape,false,false,America/Denver,3,88210,1840025093
+La Huerta,La Huerta,New Mexico,35015,Eddy,32.4489,-104.2225,1274,322.9,shape,false,false,America/Denver,3,88220,1840018082
+Mesita,Mesita,New Mexico,35006,Cibola,35.0026,-107.3122,1270,65.6,shape,false,false,America/Denver,3,87026,1840019170
+Black Rock,Black Rock,New Mexico,35031,McKinley,35.0835,-108.7975,1259,278.4,shape,false,false,America/Denver,3,87327,1840017764
+Berino,Berino,New Mexico,35013,Doña Ana,32.069,-106.6221,1250,513.6,shape,false,false,America/Denver,3,88021 88024 88048,1840025080
+Ponderosa Pine,Ponderosa Pine,New Mexico,35001,Bernalillo,34.972,-106.3369,1246,59.6,shape,false,false,America/Denver,3,87059,1840024972
+Fort Sumner,Fort Sumner,New Mexico,35011,De Baca,34.479,-104.2332,1206,140.5,shape,false,true,America/Denver,3,88119,1840022827
+Indian Hills,Indian Hills,New Mexico,35057,Torrance,34.9832,-106.1398,1197,80.9,shape,false,true,America/Denver,4,87035,1840040012
+Spencerville,Spencerville,New Mexico,35045,San Juan,36.8244,-108.0563,1174,86.3,shape,false,false,America/Denver,3,87410 87415,1840024852
+Ohkay Owingeh,Ohkay Owingeh,New Mexico,35039,Rio Arriba,36.044,-106.0565,1173,118.0,shape,false,false,America/Denver,3,87566,1840136422
+Skyline-Ganipa,Skyline-Ganipa,New Mexico,35006,Cibola,35.0361,-107.6162,1132,56.0,shape,false,true,America/Denver,4,87034,1840074409
+Tesuque,Tesuque,New Mexico,35049,Santa Fe,35.7487,-105.9209,1123,76.6,shape,false,false,America/Denver,3,87506 87501,1840019104
+Iyanbito,Iyanbito,New Mexico,35031,McKinley,35.516,-108.4878,1119,45.3,shape,false,false,America/Denver,3,87316,1840082355
+El Duende,El Duende,New Mexico,35039,Rio Arriba,36.0738,-106.1269,1113,292.6,shape,false,false,America/Denver,3,87537,1840024830
+Alamo,Alamo,New Mexico,35053,Socorro,34.4184,-107.5125,1081,10.7,shape,false,false,America/Denver,3,87825,1840017932
+Mountainair,Mountainair,New Mexico,35057,Torrance,34.5212,-106.2392,1071,261.6,shape,false,true,America/Denver,3,87036,1840022806
+Livingston Wheeler,Livingston Wheeler,New Mexico,35015,Eddy,32.3944,-104.1981,1070,250.0,shape,false,true,America/Denver,3,88220,1840040137
+Algodones,Algodones,New Mexico,35043,Sandoval,35.3804,-106.4731,1063,56.2,shape,false,false,America/Denver,3,87001,1840017742
+Arenas Valley,Arenas Valley,New Mexico,35017,Grant,32.7765,-108.203,1060,100.6,shape,false,false,America/Denver,3,88022 88061,1840025065
+Dixon,Dixon,New Mexico,35039,Rio Arriba,36.1886,-105.8784,1049,35.1,shape,false,false,America/Denver,3,87527,1840024829
+La Puebla,La Puebla,New Mexico,35049,Santa Fe,35.9882,-106.0005,1036,141.0,shape,false,false,America/Denver,3,87567 87532,1840017775
+Carrizozo,Carrizozo,New Mexico,35027,Lincoln,33.6433,-105.8411,1035,47.8,shape,false,true,America/Denver,3,88301,1840022870
+Dexter,Dexter,New Mexico,35005,Chaves,33.1954,-104.3687,1025,542.6,shape,false,true,America/Denver,3,88230,1840021933
+Tome,Tome,New Mexico,35061,Valencia,34.739,-106.7251,1013,70.8,shape,false,false,America/Denver,3,87031 87060,1840026966
+Santa Ana Pueblo,Santa Ana Pueblo,New Mexico,35043,Sandoval,35.3495,-106.5202,1006,52.5,shape,false,true,America/Denver,4,87004 87043,1840019068
+Rock Springs,Rock Springs,New Mexico,35031,McKinley,35.6188,-108.8345,999,30.6,shape,false,false,America/Denver,3,87375,1840033715
+Cañoncito,Canoncito,New Mexico,35049,Santa Fe,35.5388,-105.8391,984,38.3,shape,false,false,America/Denver,3,87505 87508,1840144229
+El Rito,El Rito,New Mexico,35039,Rio Arriba,36.338,-106.1844,975,91.6,shape,false,false,America/Denver,3,87530,1840024831
+Angel Fire,Angel Fire,New Mexico,35007,Colfax,36.3821,-105.2718,963,12.9,shape,false,true,America/Denver,3,87710,1840022641
+Twin Lakes,Twin Lakes,New Mexico,35031,McKinley,35.6833,-108.7709,959,41.1,shape,false,false,America/Denver,3,87375,1840019093
+Santa Clara Pueblo,Santa Clara Pueblo,New Mexico,35039,Rio Arriba,35.9726,-106.0927,957,183.0,shape,false,false,America/Denver,3,87532,1840018986
+Logan,Logan,New Mexico,35037,Quay,35.3576,-103.4426,942,34.3,shape,false,true,America/Denver,3,88426,1840022729
+Fairacres,Fairacres,New Mexico,35013,Doña Ana,32.3047,-106.8367,937,171.6,shape,false,false,America/Denver,3,88005 88007,1840025082
+Cedar Hill,Cedar Hill,New Mexico,35045,San Juan,36.9424,-107.8862,931,38.2,shape,false,false,America/Denver,3,87410,1840024848
+Springer,Springer,New Mexico,35007,Colfax,36.3623,-104.5997,927,162.4,shape,false,true,America/Denver,3,87747,1840022640
+Cedar Crest,Cedar Crest,New Mexico,35001,Bernalillo,35.1114,-106.3802,919,113.5,shape,false,false,America/Denver,3,87008,1840017876
+Hernandez,Hernandez,New Mexico,35039,Rio Arriba,36.0567,-106.1185,902,205.4,shape,false,false,America/Denver,3,87537,1840024833
+Zia Pueblo,Zia Pueblo,New Mexico,35043,Sandoval,35.52,-106.7149,899,12.8,shape,false,false,America/Denver,3,87053,1840019071
+Mescalero,Mescalero,New Mexico,35035,Otero,33.1448,-105.7897,891,19.2,shape,false,false,America/Denver,3,88340,1840019401
+Cedar Grove,Cedar Grove,New Mexico,35049,Santa Fe,35.1788,-106.1728,886,26.8,shape,false,false,America/Denver,3,87015 87056,1840017768
+Pecos,Pecos,New Mexico,35047,San Miguel,35.5757,-105.6784,885,192.5,shape,false,true,America/Denver,3,87552,1840022717
+Texico,Texico,New Mexico,35009,Curry,34.3897,-103.0513,873,407.6,shape,false,true,America/Denver,3,88135,1840021840
+La Union,La Union,New Mexico,35013,Doña Ana,31.9508,-106.6622,869,81.0,shape,false,false,America/Denver,3,88021,1840025085
+Cloudcroft,Cloudcroft,New Mexico,35035,Otero,32.9532,-105.7326,862,203.4,shape,false,true,America/Denver,3,88317,1840023001
+San Jose,San Jose,New Mexico,35039,Rio Arriba,36.0367,-106.1004,845,180.3,shape,false,false,America/Denver,3,87532,1840138591
+Salem,Salem,New Mexico,35013,Doña Ana,32.7121,-107.2056,844,249.1,shape,false,false,America/Denver,3,87941,1840019413
+Chamita,Chamita,New Mexico,35039,Rio Arriba,36.0706,-106.0974,841,84.3,shape,false,false,America/Denver,3,87566,1840024825
+Cimarron,Cimarron,New Mexico,35007,Colfax,36.5083,-104.9104,816,148.8,shape,false,true,America/Denver,3,87714,1840022642
+Ventura,Ventura,New Mexico,35029,Luna,32.2438,-107.6832,808,57.1,shape,false,true,America/Denver,4,88030,1840040219
+Chama,Chama,New Mexico,35039,Rio Arriba,36.8931,-106.5843,801,107.4,shape,false,true,America/Denver,3,87520,1840022615
+Williamsburg,Williamsburg,New Mexico,35051,Sierra,33.1158,-107.2951,800,635.6,shape,false,true,America/Denver,3,87901 87942,1840022975
+Valle Vista,Valle Vista,New Mexico,35049,Santa Fe,35.5841,-106.0584,796,621.4,shape,false,false,America/Denver,3,87508,1840141891
+Tatum,Tatum,New Mexico,35025,Lea,33.2553,-103.3112,794,193.4,shape,false,true,America/Denver,3,88267,1840022962
+Mora,Mora,New Mexico,35033,Mora,35.9634,-105.3312,793,38.1,shape,false,false,America/Denver,3,87732 87715,1840026931
+Magdalena,Magdalena,New Mexico,35053,Socorro,34.1095,-107.2319,791,49.1,shape,false,true,America/Denver,3,87825,1840022840
+Adelino,Adelino,New Mexico,35061,Valencia,34.7064,-106.7318,790,102.2,shape,false,false,America/Denver,3,87031,1840024992
+Sunlit Hills,Sunlit Hills,New Mexico,35049,Santa Fe,35.5957,-105.921,785,80.8,shape,false,false,America/Denver,3,87508,1840152651
+San Antonito,San Antonito,New Mexico,35001,Bernalillo,35.1574,-106.3475,772,121.9,shape,false,false,America/Denver,3,87008 87047,1840138585
+Pinedale,Pinedale,New Mexico,35031,McKinley,35.6078,-108.4225,755,28.3,shape,false,false,America/Denver,3,87311,1840033600
+Santa Fe Foothills,Santa Fe Foothills,New Mexico,35049,Santa Fe,35.6279,-105.898,747,34.8,shape,false,false,America/Denver,4,87505,1840153125
+Isleta,Isleta,New Mexico,35001,Bernalillo,34.9042,-106.6992,745,393.7,shape,false,false,America/Denver,4,87105 87022,1840033658
+Sunshine,Sunshine,New Mexico,35029,Luna,32.1344,-107.7838,734,16.1,shape,false,false,America/Denver,3,88030,1840025107
+Los Luceros,Los Luceros,New Mexico,35039,Rio Arriba,36.1151,-106.0371,731,172.2,shape,false,false,America/Denver,3,87511,1840024837
+Hagerman,Hagerman,New Mexico,35005,Chaves,33.1146,-104.3284,730,207.9,shape,false,true,America/Denver,3,88232,1840021934
+Acomita Lake,Acomita Lake,New Mexico,35006,Cibola,35.0658,-107.6165,728,71.8,shape,false,false,America/Denver,3,87034,1840033718
+San Ildefonso Pueblo,San Ildefonso Pueblo,New Mexico,35049,Santa Fe,35.8955,-106.1225,722,63.1,shape,false,false,America/Denver,3,87506,1840033706
+Chamberino,Chamberino,New Mexico,35013,Doña Ana,32.0364,-106.6776,720,90.9,shape,false,false,America/Denver,3,88021 88027,1840025081
+Tyrone,Tyrone,New Mexico,35017,Grant,32.7099,-108.3028,716,460.1,shape,false,false,America/Denver,3,88065,1840025078
+North Light Plant,North Light Plant,New Mexico,35045,San Juan,36.867,-108.033,716,127.9,shape,false,true,America/Denver,4,87410,1840040159
+Yah-ta-hey,Yah-ta-hey,New Mexico,35031,McKinley,35.6291,-108.7927,709,79.7,shape,false,false,America/Denver,3,87375,1840019094
+Tortugas,Tortugas,New Mexico,35013,Doña Ana,32.2697,-106.7546,708,2033.8,shape,false,false,America/Denver,2,88001,1840082799
+Peñasco,Penasco,New Mexico,35055,Taos,36.1703,-105.6908,708,224.8,shape,false,false,America/Denver,3,87553,1840019009
+La Cueva,La Cueva,New Mexico,35049,Santa Fe,35.5776,-105.7339,694,34.9,shape,false,false,America/Denver,3,87535,1840153128
+Prewitt,Prewitt,New Mexico,35031,McKinley,35.3682,-108.0748,689,19.2,shape,false,false,America/Denver,3,87045,1840033625
+Peña Blanca,Pena Blanca,New Mexico,35043,Sandoval,35.5709,-106.3319,688,38.6,shape,false,false,America/Denver,3,87041,1840019063
+Tohatchi,Tohatchi,New Mexico,35031,McKinley,35.8423,-108.7503,684,40.8,shape,false,false,America/Denver,3,87325,1840019091
+Williams Acres,Williams Acres,New Mexico,35031,McKinley,35.4969,-108.8699,682,326.5,shape,false,false,America/Denver,3,87301 87319,1840149348
+Sedillo,Sedillo,New Mexico,35001,Bernalillo,35.0906,-106.2869,656,92.2,shape,false,false,America/Denver,3,87059,1840024975
+La Hacienda,La Hacienda,New Mexico,35029,Luna,32.206,-107.725,656,187.2,shape,false,true,America/Denver,4,88030,1840040085
+Laguna,Laguna,New Mexico,35006,Cibola,35.0473,-107.4031,655,26.5,shape,false,false,America/Denver,3,87038 87026,1840017871
+La Mesa,La Mesa,New Mexico,35013,Doña Ana,32.1244,-106.709,650,105.7,shape,false,false,America/Denver,3,88044,1840025084
+Midway,Midway,New Mexico,35005,Chaves,33.2958,-104.4518,645,100.2,shape,false,false,America/Denver,3,88230,1840026984
+Cañada de los Alamos,Canada de los Alamos,New Mexico,35049,Santa Fe,35.5927,-105.8597,631,66.2,shape,false,false,America/Denver,3,87505,1840017767
+Happy Valley,Happy Valley,New Mexico,35015,Eddy,32.4236,-104.2903,629,113.2,shape,false,true,America/Denver,4,88220,1840040078
+Napi Headquarters,Napi Headquarters,New Mexico,35045,San Juan,36.6505,-108.2145,628,54.5,shape,false,true,America/Denver,4,87401,1840074474
+Carnuel,Carnuel,New Mexico,35001,Bernalillo,35.0609,-106.4587,626,45.5,shape,false,false,America/Denver,3,87123,1840033707
+Rio Lucio,Rio Lucio,New Mexico,35055,Taos,36.1922,-105.72,621,228.0,shape,false,false,America/Denver,3,87553,1840019012
+Paa-Ko,Paa-Ko,New Mexico,35001,Bernalillo,35.1998,-106.3337,620,41.2,shape,false,false,America/Denver,3,87047,1840146212
+White Cliffs,White Cliffs,New Mexico,35031,McKinley,35.5491,-108.6644,610,549.4,shape,false,false,America/Denver,3,87311,1840142663
+Mesquite,Mesquite,New Mexico,35013,Doña Ana,32.167,-106.6885,597,281.5,shape,false,false,America/Denver,3,88048,1840019410
+Butterfield Park,Butterfield Park,New Mexico,35013,Doña Ana,32.4052,-106.6457,596,511.6,shape,false,false,America/Denver,3,88011,1840141740
+San Miguel,San Miguel,New Mexico,35013,Doña Ana,32.1535,-106.7269,594,100.1,shape,false,false,America/Denver,3,88044,1840025089
+Canova,Canova,New Mexico,35039,Rio Arriba,36.1649,-105.9857,589,269.1,shape,false,false,America/Denver,3,87582,1840024823
+Mimbres,Mimbres,New Mexico,35017,Grant,32.8398,-107.9606,586,64.9,shape,false,false,America/Denver,3,88049 88041,1840025073
+Brimhall Nizhoni,Brimhall Nizhoni,New Mexico,35031,McKinley,35.7785,-108.6322,585,13.9,shape,false,false,America/Denver,3,87310,1840033710
+Monterey Park,Monterey Park,New Mexico,35061,Valencia,34.7511,-106.653,584,85.3,shape,false,false,America/Denver,3,87031,1840033727
+Rowe,Rowe,New Mexico,35047,San Miguel,35.4922,-105.6715,582,36.8,shape,false,false,America/Denver,3,87562,1840026937
+Cedro,Cedro,New Mexico,35001,Bernalillo,35.018,-106.3508,577,41.3,shape,false,false,America/Denver,3,87059 87176,1840024970
+McCartys Village,McCartys Village,New Mexico,35006,Cibola,35.0614,-107.6634,574,69.1,shape,false,true,America/Denver,4,87034,1840042455
+Morningside,Morningside,New Mexico,35015,Eddy,32.861,-104.3971,573,438.9,shape,false,true,America/Denver,3,88210,1840040157
+Polvadera,Polvadera,New Mexico,35053,Socorro,34.202,-106.9172,573,228.2,shape,false,false,America/Denver,3,87828,1840025015
+Glorieta,Glorieta,New Mexico,35049,Santa Fe,35.584,-105.7629,549,27.7,shape,false,false,America/Denver,3,87535,1840017772
+Cuba,Cuba,New Mexico,35043,Sandoval,36.0146,-106.968,547,64.7,shape,false,true,America/Denver,3,87013,1840022682
+Kirtland,Kirtland,New Mexico,35045,San Juan,36.7502,-108.3588,546,122.4,shape,false,true,America/Denver,3,87417,1840017671
+Conejo,Conejo,New Mexico,35049,Santa Fe,35.6287,-105.9423,541,109.7,shape,false,false,America/Denver,4,87508,1840153124
+Tijeras,Tijeras,New Mexico,35001,Bernalillo,35.0884,-106.3761,539,183.8,shape,false,true,America/Denver,3,87059,1840022796
+Lemitar,Lemitar,New Mexico,35053,Socorro,34.1551,-106.9122,533,150.1,shape,false,false,America/Denver,3,87823 87801,1840033685
+Lake Arthur,Lake Arthur,New Mexico,35005,Chaves,32.9994,-104.3637,527,382.4,shape,false,true,America/Denver,3,88253,1840021935
+Sundance,Sundance,New Mexico,35031,McKinley,35.5105,-108.6397,526,58.4,shape,false,false,America/Denver,3,87322 87311,1840144308
+Seboyeta,Seboyeta,New Mexico,35006,Cibola,35.2001,-107.3861,516,74.6,shape,false,false,America/Denver,3,87014,1840024969
+Pueblo of Sandia Village,Pueblo of Sandia Village,New Mexico,35043,Sandoval,35.2536,-106.5706,515,175.4,shape,false,false,America/Denver,3,87004,1840033713
+Red River,Red River,New Mexico,35055,Taos,36.7041,-105.4064,512,194.7,shape,false,true,America/Denver,3,87558,1840021630
+Cuyamungue,Cuyamungue,New Mexico,35049,Santa Fe,35.8648,-106.0096,512,169.5,shape,false,false,America/Denver,3,87506,1840019099
+McIntosh,McIntosh,New Mexico,35057,Torrance,34.8819,-106.0559,502,8.3,shape,false,false,America/Denver,3,87032 87035 87016,1840026965
+Sausal,Sausal,New Mexico,35061,Valencia,34.6803,-106.7589,497,85.4,shape,false,true,America/Denver,4,87002,1840040215
+Vaughn,Vaughn,New Mexico,35019,Guadalupe,34.6072,-105.2126,496,34.2,shape,false,true,America/Denver,3,88353,1840022797
+Tecolotito,Tecolotito,New Mexico,35047,San Miguel,35.2307,-105.1631,496,266.5,shape,false,false,America/Denver,3,87711,1840024927
+Wagon Mound,Wagon Mound,New Mexico,35033,Mora,36.0048,-104.7091,491,187.4,shape,false,true,America/Denver,3,87752,1840022679
+Cochiti,Cochiti,New Mexico,35043,Sandoval,35.6104,-106.3501,484,239.9,shape,false,false,America/Denver,3,87072,1840017741
+Maxwell,Maxwell,New Mexico,35007,Colfax,36.5411,-104.5431,482,392.2,shape,false,true,America/Denver,3,87728,1840022644
+Paguate,Paguate,New Mexico,35006,Cibola,35.1473,-107.3814,481,38.1,shape,false,false,America/Denver,3,87040,1840019171
+Tesuque Pueblo,Tesuque Pueblo,New Mexico,35049,Santa Fe,35.809,-105.9752,481,84.5,shape,false,false,America/Denver,3,87506 87504,1840033708
+Melrose,Melrose,New Mexico,35009,Curry,34.4289,-103.6296,473,108.1,shape,false,true,America/Denver,3,88124,1840022817
+Peak Place,Peak Place,New Mexico,35049,Santa Fe,35.7911,-105.9432,473,139.8,shape,false,true,America/Denver,4,87506,1840040161
+Pecan Park,Pecan Park,New Mexico,35029,Luna,32.2704,-107.674,471,22.2,shape,false,true,America/Denver,4,88030,1840040168
+Cochiti Lake,Cochiti Lake,New Mexico,35043,Sandoval,35.6478,-106.3425,466,144.7,shape,false,false,America/Denver,3,87083,1840024904
+Totah Vista,Totah Vista,New Mexico,35045,San Juan,36.7113,-108.2035,456,307.6,shape,false,false,America/Denver,3,87401,1840143888
+San Pablo,San Pablo,New Mexico,35013,Doña Ana,32.2507,-106.7626,449,142.5,shape,false,false,America/Denver,3,88005,1840025090
+Ojo Encino,Ojo Encino,New Mexico,35031,McKinley,35.9525,-107.3445,445,263.6,shape,false,false,America/Denver,3,87013,1840145459
+Nenahnezad,Nenahnezad,New Mexico,35045,San Juan,36.7354,-108.4252,438,48.2,shape,false,false,America/Denver,3,87416,1840033725
+Newcomb,Newcomb,New Mexico,35045,San Juan,36.2852,-108.7116,435,17.4,shape,false,false,America/Denver,3,87455,1840018991
+Cuartelez,Cuartelez,New Mexico,35049,Santa Fe,35.9929,-106.0196,433,122.3,shape,false,true,America/Denver,4,87567,1840074353
+Villanueva,Villanueva,New Mexico,35047,San Miguel,35.2659,-105.3602,433,23.0,shape,false,false,America/Denver,3,87583 87560,1840024928
+Blanco,Blanco,New Mexico,35045,San Juan,36.7406,-107.806,427,26.8,shape,false,false,America/Denver,3,87413 87412,1840024847
+Pueblitos,Pueblitos,New Mexico,35061,Valencia,34.6109,-106.7818,422,76.6,shape,false,false,America/Denver,3,87002,1840024996
+Hyde Park,Hyde Park,New Mexico,35049,Santa Fe,35.7112,-105.8866,420,76.4,shape,false,false,America/Denver,3,87501,1840152182
+Costilla,Costilla,New Mexico,35055,Taos,36.9786,-105.5353,414,52.8,shape,false,false,America/Denver,3,87524,1840026910
+Ojo Amarillo,Ojo Amarillo,New Mexico,35045,San Juan,36.6942,-108.3704,413,81.2,shape,false,false,America/Denver,3,87416,1840033722
+Jaconita,Jaconita,New Mexico,35049,Santa Fe,35.8857,-106.0611,413,236.6,shape,false,false,America/Denver,3,87506,1840017773
+Sandia Park,Sandia Park,New Mexico,35001,Bernalillo,35.1649,-106.3657,411,218.9,shape,false,false,America/Denver,3,87008 87047,1840024974
+Highland Meadows,Highland Meadows,New Mexico,35061,Valencia,34.94,-107.1656,411,22.9,shape,false,true,America/Denver,4,87026,1840040081
+Tierra Amarilla,Tierra Amarilla,New Mexico,35039,Rio Arriba,36.7061,-106.5599,405,58.2,shape,false,false,America/Denver,3,87575,1840024843
+La Madera,La Madera,New Mexico,35043,Sandoval,35.2345,-106.334,403,11.9,shape,false,false,America/Denver,3,87047,1840153122
+Cotton City,Cotton City,New Mexico,35023,Hidalgo,32.1104,-108.8801,402,6.0,shape,false,false,America/Denver,3,88020,1840025101
+Seama,Seama,New Mexico,35006,Cibola,35.0429,-107.5272,392,23.3,shape,false,false,America/Denver,3,87007,1840019174
+Pinehill,Pinehill,New Mexico,35006,Cibola,34.8922,-108.4224,391,42.7,shape,false,false,America/Denver,3,87321 87357,1840019173
+Puerto de Luna,Puerto de Luna,New Mexico,35019,Guadalupe,34.8297,-104.6222,391,10.6,shape,false,false,America/Denver,3,88435,1840033662
+Ramah,Ramah,New Mexico,35031,McKinley,35.1263,-108.5063,391,12.3,shape,false,false,America/Denver,3,87321,1840019090
+Rodey,Rodey,New Mexico,35013,Doña Ana,32.6538,-107.1358,390,269.4,shape,false,false,America/Denver,3,87937,1840025088
+Fort Wingate,Fort Wingate,New Mexico,35031,McKinley,35.4708,-108.5439,378,72.4,shape,false,false,America/Denver,3,87316,1840027843
+Reserve,Reserve,New Mexico,35003,Catron,33.709,-108.7614,369,255.7,shape,false,true,America/Denver,3,87830,1840022841
+Vadito,Vadito,New Mexico,35055,Taos,36.1929,-105.6755,362,162.2,shape,false,false,America/Denver,3,87579,1840019013
+Sheep Springs,Sheep Springs,New Mexico,35045,San Juan,36.1593,-108.6905,362,27.3,shape,false,false,America/Denver,3,87364,1840018987
+La Jara,La Jara,New Mexico,35043,Sandoval,36.1055,-106.9419,361,9.8,shape,false,false,America/Denver,3,87027,1840017744
+Cuyamungue Grant,Cuyamungue Grant,New Mexico,35049,Santa Fe,35.8464,-105.9948,361,54.7,shape,false,true,America/Denver,4,87506,1840040001
+Willard,Willard,New Mexico,35057,Torrance,34.5948,-106.0325,360,150.7,shape,false,true,America/Denver,3,87063,1840022808
+Jacona,Jacona,New Mexico,35049,Santa Fe,35.8887,-106.0386,360,164.1,shape,false,false,America/Denver,3,87506,1840024914
+Chamisal,Chamisal,New Mexico,35055,Taos,36.1725,-105.7459,358,84.2,shape,false,false,America/Denver,3,87521,1840017678
+Lobo Canyon,Lobo Canyon,New Mexico,35006,Cibola,35.2238,-107.7209,357,32.1,shape,false,false,America/Denver,3,87020,1840145148
+Turley,Turley,New Mexico,35045,San Juan,36.7366,-107.79,354,29.5,shape,false,false,America/Denver,3,87412,1840033596
+Jemez Springs,Jemez Springs,New Mexico,35043,Sandoval,35.7732,-106.6909,352,28.3,shape,false,true,America/Denver,3,87025,1840022683
+Homer C Jones,Homer C Jones,New Mexico,35031,McKinley,35.3078,-108.0966,349,54.2,shape,false,false,America/Denver,3,87045,1840143701
+Fruitland,Fruitland,New Mexico,35045,San Juan,36.7432,-108.3951,344,67.8,shape,false,false,America/Denver,4,87416 87417,1840033591
+East Pecos,East Pecos,New Mexico,35047,San Miguel,35.5765,-105.65,344,36.9,shape,false,false,America/Denver,3,87552,1840026936
+Naschitti,Naschitti,New Mexico,35045,San Juan,36.0626,-108.68,343,52.9,shape,false,false,America/Denver,3,87364 87325,1840018990
+Timberlake,Timberlake,New Mexico,35031,McKinley,35.2012,-108.4843,341,11.2,shape,false,false,America/Denver,3,87321,1840151822
+Lybrook,Lybrook,New Mexico,35039,Rio Arriba,36.229,-107.5549,340,33.8,shape,false,false,America/Denver,3,87037 87018,1840082456
+Ribera,Ribera,New Mexico,35047,San Miguel,35.37,-105.4441,330,50.6,shape,false,false,America/Denver,3,87560,1840024923
+Navajo Dam,Navajo Dam,New Mexico,35045,San Juan,36.8339,-107.646,330,10.6,shape,false,false,America/Denver,3,87419,1840024851
+Cañon,Canon,New Mexico,35043,Sandoval,35.6718,-106.7527,325,7.8,shape,false,false,America/Denver,3,87024,1840024903
+Truchas,Truchas,New Mexico,35039,Rio Arriba,36.0338,-105.8095,320,17.8,shape,false,false,America/Denver,3,87578,1840024844
+Nageezi,Nageezi,New Mexico,35045,San Juan,36.2488,-107.7471,319,8.7,shape,false,false,America/Denver,3,87037,1840018989
+Sagar,Sagar,New Mexico,35031,McKinley,35.2474,-108.767,316,65.3,shape,false,false,America/Denver,4,87326,1840153130
+Glen Acres,Glen Acres,New Mexico,35023,Hidalgo,32.375,-108.7162,306,119.6,shape,false,true,America/Denver,4,88045,1840040038
+Rosedale,Rosedale,New Mexico,35017,Grant,32.7694,-108.2417,302,66.0,shape,false,true,America/Denver,4,88061,1840040211
+Ensenada,Ensenada,New Mexico,35039,Rio Arriba,36.731,-106.5368,294,77.9,shape,false,false,America/Denver,3,87575,1840024832
+Las Palomas,Las Palomas,New Mexico,35051,Sierra,33.0589,-107.2983,288,69.4,shape,false,false,America/Denver,3,87942,1840025050
+Velarde,Velarde,New Mexico,35039,Rio Arriba,36.1608,-105.9659,287,43.4,shape,false,false,America/Denver,3,87582,1840024845
+Madrid,Madrid,New Mexico,35049,Santa Fe,35.4033,-106.1537,287,79.7,shape,false,false,America/Denver,3,87010,1840017770
+Chupadero,Chupadero,New Mexico,35049,Santa Fe,35.8144,-105.9198,285,60.9,shape,false,false,America/Denver,3,87506 87574,1840017765
+Crystal,Crystal,New Mexico,35045,San Juan,36.029,-108.9898,285,24.2,shape,false,false,America/Denver,3,87328,1840017668
+Ojo Sarco,Ojo Sarco,New Mexico,35039,Rio Arriba,36.125,-105.7846,281,31.8,shape,false,false,America/Denver,3,87521 87527,1840033697
+Cruzville,Cruzville,New Mexico,35003,Catron,33.81,-108.6684,279,42.2,shape,false,false,America/Denver,3,87830,1840025022
+Roy,Roy,New Mexico,35021,Harding,35.9451,-104.1963,278,52.5,shape,false,true,America/Denver,3,87743,1840022686
+Sanostee,Sanostee,New Mexico,35045,San Juan,36.4329,-108.873,276,23.5,shape,false,false,America/Denver,3,87461,1840018992
+Becenti,Becenti,New Mexico,35031,McKinley,35.8123,-108.1708,275,113.2,shape,false,false,America/Denver,3,87313,1840153119
+Gallina,Gallina,New Mexico,35039,Rio Arriba,36.2295,-106.8205,270,16.6,shape,false,false,America/Denver,3,87017,1840138478
+Rincon,Rincon,New Mexico,35013,Doña Ana,32.6726,-107.0759,267,97.7,shape,false,false,America/Denver,3,87940,1840019412
+Nadine,Nadine,New Mexico,35025,Lea,32.6231,-103.1078,265,9.0,shape,false,false,America/Denver,3,88240,1840025041
+San Lorenzo,San Lorenzo,New Mexico,35017,Grant,32.8086,-107.9221,260,57.5,shape,false,false,America/Denver,3,88041,1840025077
+Hanover,Hanover,New Mexico,35017,Grant,32.8149,-108.0897,260,71.8,shape,false,false,America/Denver,3,88041,1840025072
+Casa Colorada,Casa Colorada,New Mexico,35061,Valencia,34.5534,-106.742,259,18.1,shape,false,false,America/Denver,3,87002,1840017902
+Quemado,Quemado,New Mexico,35003,Catron,34.3414,-108.506,250,53.9,shape,false,false,America/Denver,3,87829,1840025028
+Eagle Nest,Eagle Nest,New Mexico,35007,Colfax,36.5496,-105.2591,249,21.4,shape,false,true,America/Denver,3,87718,1840022643
+Pleasanton,Pleasanton,New Mexico,35003,Catron,33.2759,-108.8792,248,62.9,shape,false,false,America/Denver,3,88039,1840025027
+Soham,Soham,New Mexico,35047,San Miguel,35.4168,-105.4985,242,60.4,shape,false,false,America/Denver,3,87565,1840024925
+Beclabito,Beclabito,New Mexico,35045,San Juan,36.8335,-109.004,238,12.2,shape,false,false,America/Denver,3,87420,1840017669
+Twin Forks,Twin Forks,New Mexico,35035,Otero,32.9463,-105.6374,237,22.2,shape,false,true,America/Denver,4,88317 88339,1840040217
+Alcalde,Alcalde,New Mexico,35039,Rio Arriba,36.0854,-106.0575,235,175.8,shape,false,false,America/Denver,3,87511,1840017666
+San Pedro,San Pedro,New Mexico,35049,Santa Fe,35.228,-106.1848,232,9.2,shape,false,false,America/Denver,3,87047,1840024916
+Torreon,Torreon,New Mexico,35057,Torrance,34.7242,-106.3008,232,10.8,shape,false,false,America/Denver,3,87061 87016,1840144654
+Encinal,Encinal,New Mexico,35006,Cibola,35.1112,-107.4651,230,29.9,shape,false,false,America/Denver,3,87038,1840017870
+North Acomita Village,North Acomita Village,New Mexico,35006,Cibola,35.0673,-107.5649,229,22.8,shape,false,false,America/Denver,3,87034 87014,1840033720
+Jamestown,Jamestown,New Mexico,35031,McKinley,35.4692,-108.4396,229,32.4,shape,false,false,America/Denver,3,87347,1840145458
+Arroyo Hondo,Arroyo Hondo,New Mexico,35049,Santa Fe,35.6103,-105.945,229,27.9,shape,false,false,America/Denver,3,87508,1840153123
+Elida,Elida,New Mexico,35041,Roosevelt,33.9469,-103.6531,225,85.0,shape,false,true,America/Denver,3,88116,1840021897
+Broadview,Broadview,New Mexico,35006,Cibola,35.2257,-107.8761,225,23.1,shape,false,false,America/Denver,3,87020 87021,1840146215
+Pajarito Mesa,Pajarito Mesa,New Mexico,35001,Bernalillo,34.9855,-106.7817,225,4.1,shape,false,true,America/Denver,4,87121,1840040160
+Bluewater,Bluewater,New Mexico,35031,McKinley,35.3243,-108.206,224,7.4,shape,false,false,America/Denver,3,87323,1840141739
+Chili,Chili,New Mexico,35039,Rio Arriba,36.1027,-106.1529,220,25.9,shape,false,false,America/Denver,3,87537,1840024826
+Santa Cruz,Santa Cruz,New Mexico,35049,Santa Fe,35.9939,-106.0359,219,136.3,shape,false,false,America/Denver,3,87567 87532,1840019103
+Pueblo Pintado,Pueblo Pintado,New Mexico,35031,McKinley,35.9614,-107.6224,217,2.7,shape,false,false,America/Denver,3,87013,1840019089
+Nakaibito,Nakaibito,New Mexico,35031,McKinley,35.7826,-108.8039,215,11.9,shape,false,false,America/Denver,3,87320,1840019087
+La Madera,La Madera,New Mexico,35039,Rio Arriba,36.3808,-106.042,214,18.6,shape,false,false,America/Denver,3,87539,1840024834
+North San Ysidro,North San Ysidro,New Mexico,35047,San Miguel,35.4747,-105.5661,214,35.9,shape,false,false,America/Denver,3,87538,1840024921
+Chical,Chical,New Mexico,35061,Valencia,34.8658,-106.6671,212,101.0,shape,false,false,America/Denver,3,87068,1840024993
+Rio Chiquito,Rio Chiquito,New Mexico,35049,Santa Fe,35.9949,-105.9069,211,75.8,shape,false,false,America/Denver,3,87522,1840136596
+Causey,Causey,New Mexico,35041,Roosevelt,33.8607,-103.1066,203,20.9,shape,false,true,America/Denver,3,88132 88113,1840022837
+Mount Taylor,Mount Taylor,New Mexico,35006,Cibola,35.1241,-107.8075,199,40.3,shape,false,false,America/Denver,4,87020,1840153120
+Crestview,Crestview,New Mexico,35031,McKinley,35.4878,-108.8574,193,57.2,shape,false,false,America/Denver,4,87301 87319,1840153129
+Virden,Virden,New Mexico,35023,Hidalgo,32.689,-109.0015,192,97.5,shape,false,true,America/Denver,3,88045,1840023041
+Rio en Medio,Rio en Medio,New Mexico,35049,Santa Fe,35.8221,-105.901,190,110.6,shape,false,false,America/Denver,3,87506,1840033714
+Gila,Gila,New Mexico,35017,Grant,32.9485,-108.5762,189,7.8,shape,false,false,America/Denver,3,88028 88038,1840025070
+Anton Chico,Anton Chico,New Mexico,35019,Guadalupe,35.1948,-105.1439,188,40.6,shape,false,false,America/Denver,3,87711,1840024976
+San Jon,San Jon,New Mexico,35037,Quay,35.1113,-103.3364,188,24.8,shape,false,true,America/Denver,3,88434,1840022730
+Bent,Bent,New Mexico,35035,Otero,33.1473,-105.8589,186,11.7,shape,false,false,America/Denver,3,88314,1840025058
+Pinos Altos,Pinos Altos,New Mexico,35017,Grant,32.8665,-108.2221,185,94.4,shape,false,false,America/Denver,3,88053,1840025075
+Malaga,Malaga,New Mexico,35015,Eddy,32.2227,-104.0692,183,23.8,shape,false,false,America/Denver,3,88263,1840025096
+Tajique,Tajique,New Mexico,35057,Torrance,34.7601,-106.301,180,25.7,shape,false,false,America/Denver,3,87061 87016,1840019190
+Cordova,Cordova,New Mexico,35039,Rio Arriba,36.0128,-105.8566,180,41.8,shape,false,false,America/Denver,3,87523,1840024827
+Pie Town,Pie Town,New Mexico,35003,Catron,34.34,-108.1708,178,1.2,shape,false,false,America/Denver,3,87827,1840025026
+Galisteo,Galisteo,New Mexico,35049,Santa Fe,35.3984,-105.9571,177,20.3,shape,false,false,America/Denver,3,87540,1840017771
+Hillsboro,Hillsboro,New Mexico,35051,Sierra,32.9219,-107.5773,175,31.7,shape,false,false,America/Denver,3,88042,1840025047
+Madrone,Madrone,New Mexico,35061,Valencia,34.5792,-106.7285,174,21.8,shape,false,false,America/Denver,3,87002,1840024995
+Haystack,Haystack,New Mexico,35031,McKinley,35.3612,-107.934,174,15.8,shape,false,false,America/Denver,4,87045,1840153131
+Alamillo,Alamillo,New Mexico,35053,Socorro,34.2519,-106.9158,173,55.6,shape,false,false,America/Denver,3,87831,1840025008
+White Signal,White Signal,New Mexico,35017,Grant,32.5724,-108.3512,172,10.3,shape,false,false,America/Denver,3,88061,1840025079
+Medanales,Medanales,New Mexico,35039,Rio Arriba,36.1765,-106.1777,170,20.8,shape,false,false,America/Denver,3,87548,1840033620
+San Luis,San Luis,New Mexico,35043,Sandoval,35.7009,-107.0431,165,7.7,shape,false,false,America/Denver,3,87053,1840024905
+Cliff,Cliff,New Mexico,35017,Grant,32.966,-108.6176,165,6.2,shape,false,false,America/Denver,3,88028,1840025067
+Ponderosa,Ponderosa,New Mexico,35043,Sandoval,35.6555,-106.6544,160,6.8,shape,false,false,America/Denver,3,87044,1840019065
+Abeytas,Abeytas,New Mexico,35053,Socorro,34.4652,-106.8137,159,49.8,shape,false,false,America/Denver,3,87006,1840025007
+Sena,Sena,New Mexico,35047,San Miguel,35.3036,-105.3913,158,28.7,shape,false,false,America/Denver,3,87560,1840024924
+Grady,Grady,New Mexico,35009,Curry,34.8217,-103.3157,153,85.7,shape,false,true,America/Denver,3,88120,1840022816
+Golden Acres,Golden Acres,New Mexico,35006,Cibola,35.2112,-107.9182,149,62.8,shape,false,false,America/Denver,3,87020,1840145149
+Conchas Dam,Conchas Dam,New Mexico,35047,San Miguel,35.3623,-104.2042,147,6.8,shape,false,true,America/Denver,4,88416,1840043001
+Casas Adobes,Casas Adobes,New Mexico,35017,Grant,32.8095,-107.9391,146,60.8,shape,false,false,America/Denver,3,88049 88041,1840150855
+Nara Visa,Nara Visa,New Mexico,35037,Quay,35.6068,-103.1043,146,8.0,shape,false,false,America/Denver,3,88430,1840024944
+La Joya,La Joya,New Mexico,35053,Socorro,34.345,-106.8466,143,58.9,shape,false,false,America/Denver,3,87028,1840025011
+Aragon,Aragon,New Mexico,35003,Catron,33.8899,-108.5201,142,6.5,shape,false,false,America/Denver,3,87820,1840025021
+Continental Divide,Continental Divide,New Mexico,35031,McKinley,35.4329,-108.3358,141,22.4,shape,false,false,America/Denver,3,87312,1840147690
+Lindrith,Lindrith,New Mexico,35039,Rio Arriba,36.3173,-107.0459,140,14.8,shape,false,false,America/Denver,3,87029,1840082591
+Tse Bonito,Tse Bonito,New Mexico,35031,McKinley,35.6466,-109.007,140,7.9,shape,false,false,America/Denver,3,86515,1840019092
+Canjilon,Canjilon,New Mexico,35039,Rio Arriba,36.484,-106.4334,138,16.6,shape,false,false,America/Denver,3,87515,1840024821
+La Tierra,La Tierra,New Mexico,35049,Santa Fe,35.7473,-106.0308,132,5.2,shape,false,false,America/Denver,3,87506,1840152181
+Monument,Monument,New Mexico,35025,Lea,32.6243,-103.2776,129,9.4,shape,false,false,America/Denver,3,88265,1840026991
+Arroyo Hondo,Arroyo Hondo,New Mexico,35055,Taos,36.5346,-105.6665,127,29.8,shape,false,false,America/Denver,3,87513,1840026908
+Catalpa Canyon,Catalpa Canyon,New Mexico,35031,McKinley,35.4942,-108.7206,126,6.9,shape,false,false,America/Denver,4,87301 87305,1840153126
+South Acomita Village,South Acomita Village,New Mexico,35006,Cibola,35.0533,-107.5722,125,41.3,shape,false,true,America/Denver,4,87034,1840042456
+Sombrillo,Sombrillo,New Mexico,35049,Santa Fe,35.9802,-106.0352,120,48.9,shape,false,false,America/Denver,3,87532,1840019100
+La Cueva,La Cueva,New Mexico,35043,Sandoval,35.8694,-106.6485,120,28.2,shape,false,false,America/Denver,3,87025,1840138523
+Lamy,Lamy,New Mexico,35049,Santa Fe,35.4854,-105.8863,118,17.6,shape,false,false,America/Denver,3,87540,1840017776
+Timberon,Timberon,New Mexico,35035,Otero,32.636,-105.6925,116,2.2,shape,false,false,America/Denver,3,88350,1840019402
+Oasis,Oasis,New Mexico,35051,Sierra,32.9277,-107.3164,116,21.4,shape,false,false,America/Denver,3,87931,1840025051
+Fence Lake,Fence Lake,New Mexico,35006,Cibola,34.6534,-108.6738,115,14.8,shape,false,false,America/Denver,3,87315,1840024964
+Animas,Animas,New Mexico,35023,Hidalgo,31.9449,-108.8065,109,2.7,shape,false,false,America/Denver,3,88020,1840025100
+Borrego Pass,Borrego Pass,New Mexico,35031,McKinley,35.5664,-108.0165,107,3.1,shape,false,false,America/Denver,3,87323 87045,1840147688
+Hope,Hope,New Mexico,35015,Eddy,32.8159,-104.7371,105,33.1,shape,false,true,America/Denver,3,88250,1840023032
+Ute Park,Ute Park,New Mexico,35007,Colfax,36.5467,-105.1038,104,11.8,shape,false,false,America/Denver,3,87749,1840026913
+Des Moines,Des Moines,New Mexico,35059,Union,36.7614,-103.8342,103,45.7,shape,false,true,America/Denver,3,88418,1840022632
+Nogal,Nogal,New Mexico,35027,Lincoln,33.5382,-105.7119,103,5.2,shape,false,false,America/Denver,3,88341,1840025029
+Los Cerrillos,Los Cerrillos,New Mexico,35049,Santa Fe,35.4272,-106.1212,100,11.5,shape,false,true,America/Denver,4,87010,1840073920
+Lake Valley,Lake Valley,New Mexico,35045,San Juan,36.0901,-108.1642,98,4.5,shape,false,false,America/Denver,3,87499,1840024849
+Organ,Organ,New Mexico,35013,Doña Ana,32.4251,-106.6025,98,43.9,shape,false,false,America/Denver,3,88052,1840025086
+Luna,Luna,New Mexico,35003,Catron,33.8181,-108.9435,96,6.7,shape,false,false,America/Denver,3,87824,1840025025
+Lyden,Lyden,New Mexico,35039,Rio Arriba,36.1537,-106.0147,95,16.4,shape,false,false,America/Denver,3,87582,1840024840
+Pulpotio Bareas,Pulpotio Bareas,New Mexico,35029,Luna,32.2179,-107.7728,93,69.6,shape,false,true,America/Denver,4,88030,1840040182
+Kingston,Kingston,New Mexico,35051,Sierra,32.9173,-107.7097,93,7.7,shape,false,false,America/Denver,3,88042,1840025049
+North Hurley,North Hurley,New Mexico,35017,Grant,32.7198,-108.1285,91,23.0,shape,false,false,America/Denver,3,88043,1840025074
+Las Nutrias,Las Nutrias,New Mexico,35053,Socorro,34.4699,-106.7708,90,36.0,shape,false,false,America/Denver,3,87062,1840025012
+Corona,Corona,New Mexico,35027,Lincoln,34.2501,-105.597,90,33.9,shape,false,true,America/Denver,3,88318,1840022872
+Weed,Weed,New Mexico,35035,Otero,32.8025,-105.5248,88,3.8,shape,false,false,America/Denver,3,88347 88354,1840025064
+Floyd,Floyd,New Mexico,35041,Roosevelt,34.2288,-103.5526,87,10.9,shape,false,true,America/Denver,3,88130 88118,1840022839
+Valencia,Valencia,New Mexico,35049,Santa Fe,35.578,-105.7908,86,21.4,shape,false,false,America/Denver,3,87535,1840153134
+San Cristobal,San Cristobal,New Mexico,35055,Taos,36.6101,-105.6319,84,4.7,shape,false,false,America/Denver,3,87564,1840026911
+Cañones,Canones,New Mexico,35039,Rio Arriba,36.1768,-106.4244,82,7.7,shape,false,false,America/Denver,3,87516,1840024822
+Lumberton,Lumberton,New Mexico,35039,Rio Arriba,36.9328,-106.9352,81,65.4,shape,false,false,America/Denver,3,87528,1840024839
+Lake Sumner,Lake Sumner,New Mexico,35011,De Baca,34.6186,-104.3801,79,0.1,shape,false,false,America/Denver,3,88119,1840033712
+La Boca,La Boca,New Mexico,35045,San Juan,36.9945,-107.6065,77,53.4,shape,false,false,America/Denver,3,87419,1840143889
+Garfield,Garfield,New Mexico,35013,Doña Ana,32.7569,-107.2665,77,38.2,shape,false,false,America/Denver,3,87936,1840025083
+Encantado,Encantado,New Mexico,35049,Santa Fe,35.7934,-105.9111,77,11.1,shape,false,false,America/Denver,4,87506,1840153127
+Cubero,Cubero,New Mexico,35006,Cibola,35.0904,-107.5261,75,3.0,shape,false,false,America/Denver,3,87014,1840024963
+Picuris Pueblo,Picuris Pueblo,New Mexico,35055,Taos,36.1995,-105.7133,75,63.4,shape,false,false,America/Denver,3,87553,1840019010
+Capulin,Capulin,New Mexico,35059,Union,36.7445,-103.9958,74,19.3,shape,false,false,America/Denver,3,88414 88418,1840024854
+Loco Hills,Loco Hills,New Mexico,35015,Eddy,32.8197,-103.9783,72,32.4,shape,false,false,America/Denver,3,88255,1840025095
+Candy Kitchen,Candy Kitchen,New Mexico,35006,Cibola,34.912,-108.4929,72,5.3,shape,false,false,America/Denver,3,87321,1840146214
+Caballo,Caballo,New Mexico,35051,Sierra,32.9806,-107.3075,72,28.4,shape,false,false,America/Denver,3,87931,1840025046
+Regina,Regina,New Mexico,35043,Sandoval,36.1947,-106.9453,71,3.8,shape,false,false,America/Denver,3,87046,1840019066
+San Antonio,San Antonio,New Mexico,35053,Socorro,33.9161,-106.87,70,59.8,shape,false,false,America/Denver,3,87801 87832,1840025017
+Mountain View,Mountain View,New Mexico,35006,Cibola,35.0046,-108.3979,67,12.5,shape,false,false,America/Denver,3,87321,1840153135
+Taos Ski Valley,Taos Ski Valley,New Mexico,35055,Taos,36.5901,-105.437,64,8.7,shape,false,true,America/Denver,3,87525,1840033551
+Dora,Dora,New Mexico,35041,Roosevelt,33.9334,-103.3369,63,9.4,shape,false,true,America/Denver,3,88130 88115,1840022838
+Escudilla Bonita,Escudilla Bonita,New Mexico,35003,Catron,34.1122,-109.0231,61,1.9,shape,false,true,America/Denver,5,87829,1840040018
+Windmill,Windmill,New Mexico,35023,Hidalgo,31.9769,-108.6315,60,16.0,shape,false,false,America/Denver,3,88020,1840025104
+El Morro Valley,El Morro Valley,New Mexico,35006,Cibola,35.0362,-108.3225,60,2.3,shape,false,false,America/Denver,3,87321,1840153133
+Hot Springs Landing,Hot Springs Landing,New Mexico,35051,Sierra,33.2047,-107.21,59,50.6,shape,false,false,America/Denver,3,87935,1840025048
+Watrous,Watrous,New Mexico,35033,Mora,35.79,-104.9821,59,40.0,shape,false,false,America/Denver,3,87753,1840026932
+House,House,New Mexico,35037,Quay,34.6492,-103.9038,57,24.1,shape,false,true,America/Denver,3,88121,1840022728
+Vanderwagen,Vanderwagen,New Mexico,35031,McKinley,35.2714,-108.7517,57,11.0,shape,false,false,America/Denver,4,87326,1840082475
+Pueblito,Pueblito,New Mexico,35039,Rio Arriba,36.0727,-106.0811,57,36.1,shape,false,false,America/Denver,3,87566,1840024841
+Glenwood,Glenwood,New Mexico,35003,Catron,33.3188,-108.8811,54,13.5,shape,false,false,America/Denver,3,88039,1840025024
+Youngsville,Youngsville,New Mexico,35039,Rio Arriba,36.1928,-106.566,52,22.6,shape,false,false,America/Denver,3,87064,1840024846
+Rodeo,Rodeo,New Mexico,35023,Hidalgo,31.8396,-109.0265,50,2.4,shape,false,false,America/Denver,3,88056,1840025103
+Chamizal,Chamizal,New Mexico,35053,Socorro,34.2182,-106.9152,50,43.7,shape,false,false,America/Denver,3,87828,1840025009
+Lake Roberts,Lake Roberts,New Mexico,35017,Grant,33.0313,-108.1689,49,42.6,shape,false,true,America/Denver,4,88049,1840040111
+Manzano Springs,Manzano Springs,New Mexico,35057,Torrance,34.9614,-106.2328,49,8.3,shape,false,false,America/Denver,3,87015,1840033694
+Folsom,Folsom,New Mexico,35059,Union,36.8478,-103.9176,48,28.5,shape,false,true,America/Denver,3,88419,1840022633
+Luis Lopez,Luis Lopez,New Mexico,35053,Socorro,33.9904,-106.8878,48,34.4,shape,false,false,America/Denver,3,87801,1840025014
+Playas,Playas,New Mexico,35023,Hidalgo,31.9125,-108.5363,48,9.9,shape,false,false,America/Denver,3,88009,1840025102
+Ojo Caliente,Ojo Caliente,New Mexico,35055,Taos,36.3146,-106.0374,47,6.9,shape,false,false,America/Denver,5,87549,1840146231
+Punta de Agua,Punta de Agua,New Mexico,35057,Torrance,34.6016,-106.2922,46,12.9,shape,false,false,America/Denver,3,87036,1840082763
+Stanley,Stanley,New Mexico,35049,Santa Fe,35.1542,-105.9764,44,2.8,shape,false,false,America/Denver,3,87056,1840033504
+City of the Sun,City of the Sun,New Mexico,35029,Luna,31.8466,-107.6504,42,36.2,shape,false,true,America/Denver,4,88029,1840039998
+Manuelito,Manuelito,New Mexico,35031,McKinley,35.4387,-108.9946,41,1.9,shape,false,false,America/Denver,5,87319,1840033598
+Grenville,Grenville,New Mexico,35059,Union,36.5906,-103.6147,40,7.4,shape,false,true,America/Denver,3,88424,1840022634
+Anzac Village,Anzac Village,New Mexico,35006,Cibola,35.0624,-107.7416,38,15.0,shape,false,true,America/Denver,4,87034,1840042447
+Buckhorn,Buckhorn,New Mexico,35017,Grant,33.0315,-108.6944,36,3.0,shape,false,false,America/Denver,3,88025,1840025066
+Encino,Encino,New Mexico,35057,Torrance,34.6518,-105.4586,35,6.8,shape,false,true,America/Denver,3,88321,1840022807
+San Acacia,San Acacia,New Mexico,35053,Socorro,34.255,-106.9023,35,19.4,shape,false,false,America/Denver,3,87831,1840025016
+Rivers,Rivers,New Mexico,35003,Catron,33.6757,-108.7768,35,6.0,shape,false,true,America/Denver,5,87830,1840040195
+Faywood,Faywood,New Mexico,35017,Grant,32.6247,-107.8723,35,25.7,shape,false,true,America/Denver,4,88034,1840040031
+Rancho Grande,Rancho Grande,New Mexico,35003,Catron,33.6826,-108.8581,33,30.1,shape,false,true,America/Denver,4,87830,1840040190
+Winston,Winston,New Mexico,35051,Sierra,33.346,-107.6488,32,29.5,shape,false,false,America/Denver,3,87943,1840025052
+Cobre,Cobre,New Mexico,35017,Grant,32.7804,-108.1106,32,49.2,shape,false,false,America/Denver,3,88023,1840025068
+Coyote,Coyote,New Mexico,35039,Rio Arriba,36.1615,-106.6067,32,3.0,shape,false,false,America/Denver,3,87064 87012,1840138493
+Veguita,Veguita,New Mexico,35053,Socorro,34.5146,-106.7679,31,14.3,shape,false,false,America/Denver,3,87062,1840025019
+Mayhill,Mayhill,New Mexico,35035,Otero,32.8961,-105.496,29,1.2,shape,false,false,America/Denver,3,88339,1840025060
+Seton Village,Seton Village,New Mexico,35049,Santa Fe,35.5999,-105.9334,29,75.4,shape,false,false,America/Denver,3,87508,1840082767
+Bluewater Village,Bluewater Village,New Mexico,35006,Cibola,35.2464,-107.9676,25,2.7,shape,false,true,America/Denver,5,87005 87020,1840039992
+Mosquero,Mosquero,New Mexico,35021,Harding,35.7743,-103.9544,24,9.3,shape,false,true,America/Denver,3,87733 87746,1840022685
+Deer Canyon,Deer Canyon,New Mexico,35057,Torrance,34.4436,-106.2607,24,1.2,shape,false,false,America/Denver,3,87036,1840143567
+Tecolote,Tecolote,New Mexico,35047,San Miguel,35.4604,-105.2842,24,1.6,shape,false,false,America/Denver,3,87701,1840138606
+Lake Roberts Heights,Lake Roberts Heights,New Mexico,35017,Grant,33.0271,-108.1381,23,11.6,shape,false,true,America/Denver,4,88049,1840040127
+San Mateo,San Mateo,New Mexico,35006,Cibola,35.3381,-107.645,21,2.9,shape,false,false,America/Denver,3,87020,1840024967
+Golden,Golden,New Mexico,35049,Santa Fe,35.2637,-106.223,21,1.2,shape,false,false,America/Denver,3,87047,1840024913
+Los Ojos,Los Ojos,New Mexico,35039,Rio Arriba,36.7361,-106.5669,19,5.3,shape,false,false,America/Denver,3,87551,1840024838
+Redrock,Redrock,New Mexico,35017,Grant,32.6885,-108.7406,18,11.6,shape,false,false,America/Denver,3,88055,1840033627
+Duran,Duran,New Mexico,35057,Torrance,34.4636,-105.3807,18,1.5,shape,false,false,America/Denver,3,88318,1840024989
+Trout Valley,Trout Valley,New Mexico,35017,Grant,33.0363,-108.1893,18,15.9,shape,false,true,America/Denver,4,88049,1840040216
+Chilili,Chilili,New Mexico,35001,Bernalillo,34.8974,-106.2332,17,6.6,shape,false,false,America/Denver,3,87059,1840017877
+Escondida,Escondida,New Mexico,35053,Socorro,34.1012,-106.8974,17,52.2,shape,false,false,America/Denver,3,87801,1840025010
+La Bajada,La Bajada,New Mexico,35049,Santa Fe,35.5565,-106.2436,16,15.5,shape,false,false,America/Denver,3,87507,1840082836
+Hachita,Hachita,New Mexico,35017,Grant,31.9153,-108.3253,15,13.1,shape,false,false,America/Denver,3,88040,1840025071
+Datil,Datil,New Mexico,35003,Catron,34.1423,-107.8424,13,2.7,shape,false,false,America/Denver,3,87821,1840025023
+Apache Creek,Apache Creek,New Mexico,35003,Catron,33.8486,-108.6141,12,0.4,shape,false,false,America/Denver,3,87820 87830,1840025020
+Pinehaven,Pinehaven,New Mexico,35031,McKinley,35.3357,-108.671,7,4.5,shape,false,false,America/Denver,3,87305,1840082634
+Mogollon,Mogollon,New Mexico,35003,Catron,33.4034,-108.7992,6,1.3,shape,false,false,America/Denver,3,88039,1840082610
+San Fidel,San Fidel,New Mexico,35006,Cibola,35.1025,-107.5975,4,1.5,shape,false,false,America/Denver,3,87049,1840024966
+Pastura,Pastura,New Mexico,35019,Guadalupe,34.7851,-104.9421,3,5.3,shape,false,false,America/Denver,3,88435,1840024979
+Stoneridge,Stoneridge,New Mexico,35006,Cibola,35.3019,-108.1034,2,78.3,shape,false,false,America/Denver,3,87045,1840145147
+Purty Rock,Purty Rock,New Mexico,35031,McKinley,35.4903,-108.8954,2,122.9,shape,false,false,America/Denver,4,87319,1840153121
+McGaffey,McGaffey,New Mexico,35031,McKinley,35.372,-108.5207,0,0.1,shape,false,false,America/Denver,3,87316,1840082608
+Mountain View,Mountain View,New Mexico,35029,Luna,32.2288,-107.7462,0,145.2,shape,false,false,America/Denver,3,88030,1840033665
+Llano del Medio,Llano del Medio,New Mexico,35019,Guadalupe,35.1881,-105.1163,0,20.3,shape,false,false,America/Denver,3,87711 87724,1840033659
+Middle Frisco,Middle Frisco,New Mexico,35003,Catron,33.6949,-108.7639,0,45.8,shape,false,true,America/Denver,4,87830,1840040152
+Moquino,Moquino,New Mexico,35006,Cibola,35.17,-107.364,0,2.8,shape,false,false,America/Denver,3,87014,1840024965
+Bibo,Bibo,New Mexico,35006,Cibola,35.1732,-107.4034,0,4.9,shape,false,false,America/Denver,3,87014,1840024962
+Cundiyo,Cundiyo,New Mexico,35049,Santa Fe,35.961,-105.901,0,18.4,shape,false,false,America/Denver,3,87522,1840019098
+Lower Frisco,Lower Frisco,New Mexico,35003,Catron,33.6515,-108.7895,0,16.1,shape,false,true,America/Denver,4,87830,1840040145
+Manzano,Manzano,New Mexico,35057,Torrance,34.6437,-106.3671,0,2.4,shape,false,false,America/Denver,3,87061,1840017890
+Whites City,Whites City,New Mexico,35015,Eddy,32.1767,-104.3739,0,0.0,shape,false,false,America/Denver,3,88220 88268,1840025097
+Arrey,Arrey,New Mexico,35051,Sierra,32.8472,-107.3204,0,104.1,shape,false,false,America/Denver,3,87930,1840025045
+Alma,Alma,New Mexico,35003,Catron,33.3817,-108.8995,0,7.6,shape,false,false,America/Denver,3,88039,1840082481
+Pinon,Pinon,New Mexico,35035,Otero,32.6182,-105.3867,0,1.9,shape,false,false,America/Denver,3,88344,1840033624
+Brazos,Brazos,New Mexico,35039,Rio Arriba,36.7528,-106.5598,0,47.2,shape,false,false,America/Denver,3,87551,1840024820
+Gila Hot Springs,Gila Hot Springs,New Mexico,35017,Grant,33.1902,-108.2045,0,8.6,shape,false,false,America/Denver,3,88049,1840082548
+Sacramento,Sacramento,New Mexico,35035,Otero,32.7917,-105.5723,0,2.2,shape,false,false,America/Denver,3,88347,1840025063
+Pueblo,Pueblo,New Mexico,35047,San Miguel,35.3273,-105.4354,0,12.5,shape,false,true,America/Denver,4,87560,1840040180
+Abiquiu,Abiquiu,New Mexico,35039,Rio Arriba,36.2017,-106.3238,0,139.6,shape,false,false,America/Denver,3,87510,1840024819
+Orogrande,Orogrande,New Mexico,35035,Otero,32.3874,-106.1003,0,1.6,shape,false,false,America/Denver,3,88342,1840025061
+Homestead,Homestead,New Mexico,35003,Catron,34.1488,-107.882,0,14.0,shape,false,true,America/Denver,4,87821,1840040082
+Old Town,Old Town,New Mexico,35029,Luna,32.5125,-107.9232,0,0.8,shape,false,false,America/Denver,3,88030,1840150857
+Black Hat,Black Hat,New Mexico,35031,McKinley,35.6311,-108.9641,0,0.4,shape,false,false,America/Denver,3,86515,1840150858
+Red Rock Ranch,Red Rock Ranch,New Mexico,35031,McKinley,35.4242,-108.0262,0,13.9,shape,false,false,America/Denver,3,87045,1840151823
+Newkirk,Newkirk,New Mexico,35019,Guadalupe,35.0635,-104.2715,0,0.0,shape,false,false,America/Denver,3,88417,1840024978

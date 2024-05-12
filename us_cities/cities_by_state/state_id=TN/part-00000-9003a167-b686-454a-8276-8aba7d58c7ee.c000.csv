@@ -1,0 +1,501 @@
+Nashville,Nashville,Tennessee,47037,Davidson,36.1715,-86.7842,1177657,555.4,shape,false,true,America/Chicago,1,37027 37138 37076 37072 37203 37206 37201 37080 37218 37219 37216 37217 37214 37215 37212 37213 37210 37211 37189 37232 37238 37209 37208 37205 37204 37207 37115 37013 37228 37221 37220 37143 37011 37116 37202 37222 37224 37227 37229 37230 37234 37235 37236 37240 37241 37242 37243 37244 37246 37250,1840036155
+Memphis,Memphis,Tennessee,47157,Shelby,35.1087,-89.9663,1037998,824.8,shape,false,true,America/Chicago,1,38120 38127 38126 38107 38106 38105 38104 38103 38109 38108 38152 38132 38141 38112 38114 38111 38113 38115 38116 38117 38118 38119 38018 38016 38133 38131 38134 38128 38122 38125 37501 37544 38088 38101 38124 38130 38136 38137 38145 38148 38150 38151 38157 38159 38161 38163 38166 38168 38173 38174 38175 38177 38181 38182 38184 38186 38187 38188 38190 38193 38194 38197,1840015457
+Knoxville,Knoxville,Tennessee,47093,Knox,35.9692,-83.9496,615829,750.3,shape,false,true,America/New_York,2,37909 37902 37924 37920 37921 37922 37923 37929 37919 37918 37915 37914 37917 37916 37912 37901 37927 37928 37939 37950 37995 37996 37997,1840014486
+Chattanooga,Chattanooga,Tennessee,47065,Hamilton,35.066,-85.2481,406849,491.7,shape,false,true,America/New_York,2,37415 37416 37410 37411 37419 37409 37421 37408 37403 37402 37407 37405 37406 37404 37343 37450 37351 37401 37414 37424,1840014569
+Clarksville,Clarksville,Tennessee,47125,Montgomery,36.5692,-87.3413,210551,650.9,shape,false,true,America/Chicago,2,42223 37043 37042 37040 37041 37044,1840014421
+Murfreesboro,Murfreesboro,Tennessee,47149,Rutherford,35.849,-86.4121,184763,926.1,shape,false,true,America/Chicago,2,37132 37130 37129 37128 37127 37131 37133,1840014495
+Johnson City,Johnson City,Tennessee,47179,Washington,36.3406,-82.3806,131718,628.5,shape,false,true,America/New_York,2,37614 37615 37601 37604 37602 37605 37684,1840014462
+Kingsport,Kingsport,Tennessee,47163,Sullivan,36.5224,-82.5454,101323,406.7,shape,false,true,America/New_York,2,37665 37664 37663 37660 37662 37669,1840014425
+Franklin,Franklin,Tennessee,47187,Williamson,35.92,-86.8516,83630,725.3,shape,false,true,America/Chicago,3,37069 37064 37067 37065 37068,1840013380
+Cleveland,Cleveland,Tennessee,47011,Bradley,35.1817,-84.8707,72870,597.0,shape,false,true,America/New_York,3,37312 37311 37320,1840014603
+Jackson,Jackson,Tennessee,47113,Madison,35.6538,-88.8354,72836,446.9,shape,false,true,America/Chicago,3,38305 38301 38303 38314,1840014528
+Spring Hill,Spring Hill,Tennessee,47119,Maury,35.7437,-86.9116,70531,681.0,shape,false,true,America/Chicago,3,37174 37179,1840015386
+Bristol,Bristol,Tennessee,47163,Sullivan,36.5572,-82.2154,68083,322.7,shape,false,true,America/New_York,3,37620 37621 37625,1840013301
+Morristown,Morristown,Tennessee,47063,Hamblen,36.2043,-83.3001,66220,426.6,shape,false,true,America/New_York,3,37813 37814 37815,1840014467
+Hendersonville,Hendersonville,Tennessee,47165,Sumner,36.3063,-86.5997,61589,750.7,shape,false,true,America/Chicago,3,37075 37077,1840014419
+Bartlett,Bartlett,Tennessee,47157,Shelby,35.2337,-89.8195,57481,687.2,shape,false,true,America/Chicago,3,38002 38135 38133 38134 38029,1840013472
+Smyrna,Smyrna,Tennessee,47149,Rutherford,35.9687,-86.5264,53760,612.1,shape,false,true,America/Chicago,3,37167,1840017758
+Collierville,Collierville,Tennessee,47157,Shelby,35.047,-89.6987,51170,543.1,shape,false,true,America/Chicago,3,38017 38139 38027,1840016403
+Gallatin,Gallatin,Tennessee,47165,Sumner,36.3782,-86.4698,44947,506.4,shape,false,true,America/Chicago,3,37066,1840013295
+Brentwood,Brentwood,Tennessee,47187,Williamson,35.9918,-86.7758,44830,417.4,shape,false,true,America/Chicago,3,37027 37024,1840013381
+Columbia,Columbia,Tennessee,47119,Maury,35.6238,-87.0484,42474,485.7,shape,false,true,America/Chicago,3,38401 38402,1840014518
+Germantown,Germantown,Tennessee,47157,Shelby,35.0829,-89.7824,41094,793.9,shape,false,true,America/Chicago,3,38138 38139 38183,1840013473
+Lebanon,Lebanon,Tennessee,47189,Wilson,36.204,-86.3481,39562,381.2,shape,false,true,America/Chicago,3,37087 37090 37071 37088 37136,1840014466
+Mount Juliet,Mount Juliet,Tennessee,47189,Wilson,36.199,-86.5115,39525,592.5,shape,false,true,America/Chicago,3,37122 37121,1840014465
+La Vergne,La Vergne,Tennessee,47149,Rutherford,36.02,-86.5586,38553,602.3,shape,false,true,America/Chicago,3,37086 37089,1840014496
+Cookeville,Cookeville,Tennessee,47141,Putnam,36.1482,-85.5109,34967,377.4,shape,false,true,America/Chicago,3,38503 38501 38506 38505 38502,1840014470
+Maryville,Maryville,Tennessee,47009,Blount,35.7468,-83.9789,31876,712.8,shape,false,true,America/New_York,3,37804 37803 37801 37802,1840015380
+Oak Ridge,Oak Ridge,Tennessee,47001,Anderson,35.9639,-84.2938,31535,142.8,shape,false,true,America/New_York,3,37830 37831,1840014473
+Farragut,Farragut,Tennessee,47093,Knox,35.8731,-84.1821,23795,575.0,shape,false,true,America/New_York,3,37934,1840016171
+Shelbyville,Shelbyville,Tennessee,47003,Bedford,35.4987,-86.4517,23676,495.8,shape,false,true,America/Chicago,3,37160 37161 37162,1840015412
+East Ridge,East Ridge,Tennessee,47065,Hamilton,34.9973,-85.2285,22040,1027.5,shape,false,true,America/New_York,3,37412,1840013452
+Tullahoma,Tullahoma,Tennessee,47031,Coffee,35.3721,-86.2172,21107,347.7,shape,false,true,America/Chicago,3,37388,1840015410
+Springfield,Springfield,Tennessee,47147,Robertson,36.4949,-86.8711,18775,544.4,shape,false,true,America/Chicago,3,37172,1840015273
+Sevierville,Sevierville,Tennessee,47155,Sevier,35.8872,-83.5678,17986,287.9,shape,false,true,America/New_York,3,37862 37876 37764,1840015359
+Goodlettsville,Goodlettsville,Tennessee,47165,Sumner,36.333,-86.7026,17500,468.9,shape,false,true,America/Chicago,3,37072 37070,1840013345
+Dyersburg,Dyersburg,Tennessee,47045,Dyer,36.0465,-89.3777,16170,360.5,shape,false,true,America/Chicago,3,38024 38025,1840013372
+Seymour,Seymour,Tennessee,47155,Sevier,35.8783,-83.7669,16081,387.6,shape,false,false,America/New_York,3,37865,1840013386
+Dickson,Dickson,Tennessee,47043,Dickson,36.0637,-87.3665,16051,304.9,shape,false,true,America/Chicago,3,37055 37056,1840014468
+Greeneville,Greeneville,Tennessee,47059,Greene,36.168,-82.8197,15458,351.2,shape,false,true,America/New_York,3,37745 37743 37744,1840016099
+Nolensville,Nolensville,Tennessee,47187,Williamson,35.9572,-86.6719,14444,534.0,shape,false,true,America/Chicago,3,37135,1840016219
+Elizabethton,Elizabethton,Tennessee,47019,Carter,36.3367,-82.237,14375,581.1,shape,false,true,America/New_York,3,37643 37682 37644,1840013314
+Arlington,Arlington,Tennessee,47157,Shelby,35.2594,-89.668,14342,239.2,shape,false,true,America/Chicago,3,38002 38028,1840015458
+Athens,Athens,Tennessee,47107,McMinn,35.4573,-84.6045,14091,350.8,shape,false,true,America/New_York,3,37303 37371,1840013429
+Powell,Powell,Tennessee,47093,Knox,36.0358,-84.0296,13991,632.5,shape,false,false,America/New_York,3,37849,1840036085
+Lakeland,Lakeland,Tennessee,47157,Shelby,35.2585,-89.7308,13811,227.3,shape,false,true,America/Chicago,3,38002,1840014594
+McMinnville,McMinnville,Tennessee,47177,Warren,35.6864,-85.7812,13756,480.2,shape,false,true,America/Chicago,3,37110 37111,1840015385
+White House,White House,Tennessee,47147,Robertson,36.4648,-86.6666,13305,447.3,shape,false,true,America/Chicago,3,37188,1840015274
+Portland,Portland,Tennessee,47165,Sumner,36.5921,-86.5239,13177,343.7,shape,false,true,America/Chicago,3,37148,1840014418
+Soddy-Daisy,Soddy-Daisy,Tennessee,47065,Hamilton,35.2571,-85.1739,13091,218.1,shape,false,true,America/New_York,3,37343 37379 37384,1840035990
+Lewisburg,Lewisburg,Tennessee,47117,Marshall,35.451,-86.7901,12376,340.2,shape,false,true,America/Chicago,3,37091,1840014544
+Manchester,Manchester,Tennessee,47031,Coffee,35.463,-86.0774,12325,310.6,shape,false,true,America/Chicago,3,37355 37349,1840015409
+Crossville,Crossville,Tennessee,47035,Cumberland,35.9526,-85.0295,12099,228.5,shape,false,true,America/Chicago,3,38571 38555,1840014489
+Red Bank,Red Bank,Tennessee,47065,Hamilton,35.1117,-85.2962,11919,701.7,shape,false,true,America/New_York,3,37415 37405,1840014571
+Middle Valley,Middle Valley,Tennessee,47065,Hamilton,35.1877,-85.1959,11619,459.5,shape,false,false,America/New_York,3,37343,1840013450
+Hartsville,Hartsville,Tennessee,47169,Trousdale,36.3921,-86.1568,11596,39.2,shape,false,true,America/Chicago,3,37022 37074 37057 37031,1840073881
+Lawrenceburg,Lawrenceburg,Tennessee,47099,Lawrence,35.2497,-87.3325,11592,353.4,shape,false,true,America/Chicago,3,38464,1840014568
+Alcoa,Alcoa,Tennessee,47009,Blount,35.8076,-83.9753,11095,285.6,shape,false,true,America/New_York,3,37701 37777 37804,1840013404
+Union City,Union City,Tennessee,47131,Obion,36.4267,-89.0474,11068,352.9,shape,false,true,America/Chicago,3,38261 38281,1840015280
+Collegedale,Collegedale,Tennessee,47065,Hamilton,35.0526,-85.0488,11001,353.0,shape,false,true,America/New_York,3,37302 37363 37315,1840014570
+Martin,Martin,Tennessee,47183,Weakley,36.3385,-88.8513,10823,336.9,shape,false,true,America/Chicago,3,38237 38238,1840015282
+Millington,Millington,Tennessee,47157,Shelby,35.335,-89.8991,10558,181.9,shape,false,true,America/Chicago,3,38053 38054 38055 38083,1840014593
+Paris,Paris,Tennessee,47079,Henry,36.2933,-88.3065,10311,308.4,shape,false,true,America/Chicago,3,38242,1840014438
+Lenoir City,Lenoir City,Tennessee,47105,Loudon,35.8111,-84.2818,10291,460.6,shape,false,true,America/New_York,3,37772 37771,1840014514
+Atoka,Atoka,Tennessee,47167,Tipton,35.4239,-89.7861,10070,320.5,shape,false,true,America/Chicago,3,38004 38071,1840015416
+Clinton,Clinton,Tennessee,47001,Anderson,36.0981,-84.1283,10060,334.1,shape,false,true,America/New_York,3,37716 37717,1840014471
+Halls,Halls,Tennessee,47093,Knox,36.0817,-83.9344,9955,435.4,shape,false,false,America/New_York,3,37918 37938,1840153102
+Brownsville,Brownsville,Tennessee,47075,Haywood,35.589,-89.2578,9739,381.4,shape,false,true,America/Chicago,3,38012,1840013413
+Fairview,Fairview,Tennessee,47187,Williamson,35.9815,-87.1291,9519,205.0,shape,false,true,America/Chicago,3,37062,1840013379
+Winchester,Winchester,Tennessee,47051,Franklin,35.1898,-86.1075,9450,340.2,shape,false,true,America/Chicago,3,37398,1840015466
+Fairfield Glade,Fairfield Glade,Tennessee,47035,Cumberland,36.0028,-84.8711,9257,155.4,shape,false,false,America/Chicago,3,38558,1840013067
+Oakland,Oakland,Tennessee,47047,Fayette,35.2256,-89.5372,9139,338.6,shape,false,true,America/Chicago,3,38060 38028,1840016407
+Bloomingdale,Bloomingdale,Tennessee,47163,Sullivan,36.5793,-82.5096,8946,349.6,shape,false,false,America/New_York,3,37660,1840013297
+Signal Mountain,Signal Mountain,Tennessee,47065,Hamilton,35.1448,-85.3457,8833,407.5,shape,false,true,America/Chicago,3,37377 37422,1840017859
+Covington,Covington,Tennessee,47167,Tipton,35.566,-89.6482,8644,293.5,shape,false,true,America/Chicago,3,38019,1840014547
+Jefferson City,Jefferson City,Tennessee,47089,Jefferson,36.1201,-83.4829,8391,464.4,shape,false,true,America/New_York,3,37760,1840014485
+Harrison,Harrison,Tennessee,47065,Hamilton,35.1271,-85.1453,8313,476.0,shape,false,false,America/New_York,3,37416 37341,1840013449
+Pulaski,Pulaski,Tennessee,47055,Giles,35.1933,-87.035,8301,427.0,shape,false,true,America/Chicago,3,38478,1840014575
+Milan,Milan,Tennessee,47053,Gibson,35.9126,-88.7554,8165,353.0,shape,false,true,America/Chicago,3,38358,1840014483
+Lexington,Lexington,Tennessee,47077,Henderson,35.6618,-88.3944,7927,261.4,shape,false,true,America/Chicago,3,38351,1840014527
+Humboldt,Humboldt,Tennessee,47053,Gibson,35.8271,-88.9058,7851,292.2,shape,false,true,America/Chicago,3,38343,1840014484
+Ripley,Ripley,Tennessee,47097,Lauderdale,35.7449,-89.5358,7794,233.8,shape,false,true,America/Chicago,3,38063,1840014509
+Thompson's Station,Thompson's Station,Tennessee,47187,Williamson,35.8106,-86.9003,7426,125.8,shape,false,true,America/Chicago,3,37064 37179,1840016218
+La Follette,La Follette,Tennessee,47013,Campbell,36.3718,-84.1256,7349,577.4,shape,false,true,America/New_York,3,37766,1840036150
+Savannah,Savannah,Tennessee,47071,Hardin,35.221,-88.236,7206,407.9,shape,false,true,America/Chicago,3,38372,1840015453
+South Cleveland,South Cleveland,Tennessee,47011,Bradley,35.1096,-84.9097,7188,197.3,shape,false,false,America/New_York,3,37311 37323,1840036101
+Dayton,Dayton,Tennessee,47143,Rhea,35.4912,-85.012,7139,324.1,shape,false,true,America/New_York,3,37321,1840014525
+Fayetteville,Fayetteville,Tennessee,47103,Lincoln,35.149,-86.5634,7026,282.0,shape,false,true,America/Chicago,3,37334,1840013476
+Church Hill,Church Hill,Tennessee,47073,Hawkins,36.5204,-82.7151,7016,287.1,shape,false,true,America/New_York,3,37642,1840014428
+Greenbrier,Greenbrier,Tennessee,47147,Robertson,36.4243,-86.7975,6954,369.8,shape,false,true,America/Chicago,3,37073,1840016014
+Newport,Newport,Tennessee,47029,Cocke,35.9617,-83.1976,6850,478.0,shape,false,true,America/New_York,3,37821 37822,1840014487
+Green Hill,Green Hill,Tennessee,47189,Wilson,36.2349,-86.5733,6773,752.5,shape,false,false,America/Chicago,3,37138,1840013350
+Lynchburg,Lynchburg,Tennessee,47127,Moore,35.2846,-86.3587,6558,19.6,shape,false,true,America/Chicago,4,37334 37359 37352 37388,1840036144
+Munford,Munford,Tennessee,47167,Tipton,35.4434,-89.8147,6357,259.0,shape,false,true,America/Chicago,3,38058,1840014548
+Pigeon Forge,Pigeon Forge,Tennessee,47155,Sevier,35.7977,-83.5623,6345,177.3,shape,false,true,America/New_York,3,37863 37862 37868,1840014500
+Henderson,Henderson,Tennessee,47023,Chester,35.4446,-88.6531,6326,312.9,shape,false,true,America/Chicago,3,38340,1840014550
+Sweetwater,Sweetwater,Tennessee,47123,Monroe,35.6029,-84.4716,6310,275.7,shape,false,true,America/New_York,3,37874,1840015415
+Tellico Village,Tellico Village,Tennessee,47105,Loudon,35.6984,-84.2641,6224,322.3,shape,false,true,America/New_York,3,37774,1840040591
+Loudon,Loudon,Tennessee,47105,Loudon,35.7414,-84.3701,6069,185.3,shape,false,true,America/New_York,3,37774,1840016254
+Erwin,Erwin,Tennessee,47171,Unicoi,36.1456,-82.4115,6026,563.9,shape,false,true,America/New_York,3,37650,1840016130
+Harriman,Harriman,Tennessee,47145,Roane,35.9307,-84.5602,6000,220.7,shape,false,true,America/New_York,3,37748,1840013385
+Kingston,Kingston,Tennessee,47145,Roane,35.8713,-84.4959,5987,317.1,shape,false,true,America/New_York,3,37763,1840014499
+Jonesborough,Jonesborough,Tennessee,47179,Washington,36.2959,-82.4766,5891,427.2,shape,false,true,America/New_York,3,37659,1840016092
+Millersville,Millersville,Tennessee,47165,Sumner,36.3969,-86.7111,5818,162.7,shape,false,true,America/Chicago,3,37072,1840014416
+McKenzie,McKenzie,Tennessee,47017,Carroll,36.1372,-88.5077,5608,340.0,shape,false,true,America/Chicago,3,38201,1840015346
+Lafayette,Lafayette,Tennessee,47111,Macon,36.5241,-86.0304,5555,404.8,shape,false,true,America/Chicago,3,37083,1840014423
+Mount Carmel,Mount Carmel,Tennessee,47073,Hawkins,36.562,-82.6618,5486,318.9,shape,false,true,America/New_York,3,37645,1840016025
+Rockwood,Rockwood,Tennessee,47145,Roane,35.8692,-84.6731,5468,263.4,shape,false,true,America/New_York,3,37854,1840014498
+Dunlap,Dunlap,Tennessee,47153,Sequatchie,35.3675,-85.3899,5443,194.5,shape,false,true,America/Chicago,3,37327,1840013437
+Eagleton Village,Eagleton Village,Tennessee,47009,Blount,35.7882,-83.9363,5328,677.8,shape,false,false,America/New_York,3,37804,1840013068
+Ashland City,Ashland City,Tennessee,47021,Cheatham,36.2607,-87.0412,5213,188.7,shape,false,true,America/Chicago,3,37015,1840015304
+Bolivar,Bolivar,Tennessee,47069,Hardeman,35.2645,-89.0118,5197,247.3,shape,false,true,America/Chicago,3,38008,1840013465
+Medina,Medina,Tennessee,47053,Gibson,35.8152,-88.7901,5121,493.0,shape,false,true,America/Chicago,3,38355,1840015340
+Madisonville,Madisonville,Tennessee,47123,Monroe,35.5232,-84.363,5120,329.2,shape,false,true,America/New_York,3,37354,1840015414
+Smithville,Smithville,Tennessee,47041,DeKalb,35.9584,-85.8211,5059,333.7,shape,false,true,America/Chicago,3,37166,1840015350
+Sparta,Sparta,Tennessee,47185,White,35.9347,-85.4726,4950,284.3,shape,false,true,America/Chicago,3,38583,1840015354
+Pleasant View,Pleasant View,Tennessee,47021,Cheatham,36.3893,-87.0455,4945,152.5,shape,false,true,America/Chicago,3,37015 37146,1840014461
+Forest Hills,Forest Hills,Tennessee,47037,Davidson,36.0652,-86.8403,4922,205.8,shape,false,true,America/Chicago,3,37027 37215,1840013344
+Mount Pleasant,Mount Pleasant,Tennessee,47119,Maury,35.5483,-87.1872,4781,146.8,shape,false,true,America/Chicago,3,38401 38474,1840014519
+Oak Hill,Oak Hill,Tennessee,47037,Davidson,36.0735,-86.7856,4764,234.5,shape,false,true,America/Chicago,3,37204 37220,1840014464
+Christiana,Christiana,Tennessee,47149,Rutherford,35.7193,-86.4129,4759,207.5,shape,false,false,America/Chicago,3,37037 37128,1840036020
+Whiteville,Whiteville,Tennessee,47069,Hardeman,35.318,-89.1498,4734,693.3,shape,false,true,America/Chicago,3,38075,1840016388
+Rogersville,Rogersville,Tennessee,47073,Hawkins,36.4081,-83.0043,4630,475.6,shape,false,true,America/New_York,3,37857,1840017699
+Lake Tansi,Lake Tansi,Tennessee,47035,Cumberland,35.8701,-85.0614,4551,199.1,shape,false,false,America/Chicago,3,38572,1840013375
+Coopertown,Coopertown,Tennessee,47147,Robertson,36.4142,-86.9658,4536,55.4,shape,false,true,America/Chicago,3,37073 37172 37146,1840016013
+Selmer,Selmer,Tennessee,47109,McNairy,35.1708,-88.5955,4444,179.7,shape,false,true,America/Chicago,3,38375,1840017869
+Oak Grove,Oak Grove,Tennessee,47179,Washington,36.4222,-82.4293,4422,376.8,shape,false,false,America/New_York,3,37615,1840013335
+Huntingdon,Huntingdon,Tennessee,47017,Carroll,36.0052,-88.4181,4384,143.0,shape,false,true,America/Chicago,3,38344,1840016180
+Shackle Island,Shackle Island,Tennessee,47165,Sumner,36.3775,-86.6168,4375,304.2,shape,false,false,America/Chicago,3,37075,1840024896
+Harrogate,Harrogate,Tennessee,47025,Claiborne,36.5752,-83.6462,4371,232.3,shape,false,true,America/New_York,3,37752 37867,1840013303
+Louisville,Louisville,Tennessee,47009,Blount,35.8247,-84.0552,4359,112.8,shape,false,true,America/New_York,3,37777,1840015379
+Waverly,Waverly,Tennessee,47085,Humphreys,36.0939,-87.7847,4284,189.8,shape,false,true,America/Chicago,3,37185,1840015331
+Trenton,Trenton,Tennessee,47053,Gibson,35.9689,-88.945,4202,201.9,shape,false,true,America/Chicago,3,38382,1840015343
+Apison,Apison,Tennessee,47065,Hamilton,35.0104,-85.0142,4199,100.2,shape,false,false,America/New_York,3,37302,1840024958
+Spurgeon,Spurgeon,Tennessee,47179,Washington,36.443,-82.4621,4006,378.4,shape,false,false,America/New_York,3,37615 37663,1840013334
+Karns,Karns,Tennessee,47093,Knox,35.9778,-84.1091,3985,515.4,shape,false,false,America/New_York,3,37931,1840036056
+Algood,Algood,Tennessee,47141,Putnam,36.2,-85.4468,3944,372.4,shape,false,true,America/Chicago,3,38506,1840015317
+Livingston,Livingston,Tennessee,47133,Overton,36.3875,-85.3265,3921,232.6,shape,false,true,America/Chicago,3,38570,1840016059
+White Bluff,White Bluff,Tennessee,47043,Dickson,36.1005,-87.2117,3879,234.3,shape,false,true,America/Chicago,3,37187,1840016106
+Tiptonville,Tiptonville,Tennessee,47095,Lake,36.3871,-89.4712,3832,446.3,shape,false,true,America/Chicago,3,38079,1840016072
+Unicoi,Unicoi,Tennessee,47171,Unicoi,36.2217,-82.3292,3802,90.7,shape,false,true,America/New_York,3,37692,1840016131
+Oneida,Oneida,Tennessee,47151,Scott,36.5171,-84.5108,3799,156.3,shape,false,true,America/New_York,3,37841 37892,1840016019
+Wildwood Lake,Wildwood Lake,Tennessee,47011,Bradley,35.0893,-84.8512,3758,120.8,shape,false,false,America/New_York,3,37323,1840036154
+Hohenwald,Hohenwald,Tennessee,47101,Lewis,35.5515,-87.5539,3734,273.7,shape,false,true,America/Chicago,3,38462,1840014546
+Oliver Springs,Oliver Springs,Tennessee,47001,Anderson,36.0399,-84.3285,3727,249.2,shape,false,true,America/New_York,3,37840,1840016221
+Camden,Camden,Tennessee,47005,Benton,36.0663,-88.1047,3670,249.6,shape,false,true,America/Chicago,3,38320,1840013349
+Gatlinburg,Gatlinburg,Tennessee,47155,Sevier,35.725,-83.4938,3636,134.8,shape,false,true,America/New_York,3,37738,1840013387
+Etowah,Etowah,Tennessee,47107,McMinn,35.3381,-84.5282,3614,493.8,shape,false,true,America/New_York,3,37331,1840013430
+Jasper,Jasper,Tennessee,47115,Marion,35.0663,-85.6227,3592,140.9,shape,false,true,America/Chicago,3,37347,1840016428
+Centerville,Centerville,Tennessee,47081,Hickman,35.8042,-87.4577,3515,126.1,shape,false,true,America/Chicago,3,37033,1840016240
+Park City,Park City,Tennessee,47103,Lincoln,35.0782,-86.5834,3471,245.3,shape,false,false,America/Chicago,3,37334,1840024961
+Somerville,Somerville,Tennessee,47047,Fayette,35.2352,-89.3869,3385,96.3,shape,false,true,America/Chicago,3,38068,1840017868
+Dandridge,Dandridge,Tennessee,47089,Jefferson,36.0284,-83.4308,3351,214.9,shape,false,true,America/New_York,3,37725,1840016168
+Newbern,Newbern,Tennessee,47045,Dyer,36.1169,-89.2713,3321,282.8,shape,false,true,America/Chicago,3,38059,1840016161
+Blountville,Blountville,Tennessee,47163,Sullivan,36.533,-82.329,3265,255.5,shape,false,false,America/New_York,3,37617,1840013298
+Tusculum,Tusculum,Tennessee,47059,Greene,36.175,-82.7454,3261,259.0,shape,false,true,America/New_York,3,37616 37745,1840015307
+South Pittsburg,South Pittsburg,Tennessee,47115,Marion,35.0111,-85.7183,3068,144.1,shape,false,true,America/Chicago,3,37380,1840015471
+Sale Creek,Sale Creek,Tennessee,47065,Hamilton,35.3894,-85.0874,3065,39.3,shape,false,false,America/New_York,3,37373 37304,1840024960
+Dresden,Dresden,Tennessee,47183,Weakley,36.279,-88.694,2983,193.9,shape,false,true,America/Chicago,3,38225,1840016070
+Bean Station,Bean Station,Tennessee,47057,Grainger,36.3323,-83.2852,2963,191.0,shape,false,true,America/New_York,3,37708 37811,1840013342
+Strawberry Plains,Strawberry Plains,Tennessee,47089,Jefferson,36.0632,-83.6594,2960,272.9,shape,false,false,America/New_York,3,37871,1840036103
+Belle Meade,Belle Meade,Tennessee,47037,Davidson,36.0994,-86.8562,2933,368.9,shape,false,true,America/Chicago,3,37215 37205,1840013346
+Sewanee,Sewanee,Tennessee,47051,Franklin,35.1975,-85.9213,2922,290.3,shape,false,false,America/Chicago,3,37375 37383,1840013478
+Coalfield,Coalfield,Tennessee,47129,Morgan,36.0219,-84.4414,2905,45.4,shape,false,false,America/New_York,3,37719 37840 37748,1840025774
+Brighton,Brighton,Tennessee,47167,Tipton,35.4813,-89.7353,2878,366.0,shape,false,true,America/Chicago,3,38011,1840015417
+Kingston Springs,Kingston Springs,Tennessee,47021,Cheatham,36.0842,-87.1039,2798,107.5,shape,false,true,America/Chicago,3,37082,1840016090
+New Tazewell,New Tazewell,Tennessee,47025,Claiborne,36.4381,-83.6053,2780,211.8,shape,false,true,America/New_York,3,37825 37824,1840016022
+Jacksboro,Jacksboro,Tennessee,47013,Campbell,36.3351,-84.1928,2775,415.1,shape,false,true,America/New_York,3,37757,1840016023
+Monterey,Monterey,Tennessee,47141,Putnam,36.1447,-85.2643,2751,350.8,shape,false,true,America/Chicago,3,38574,1840016108
+Mascot,Mascot,Tennessee,47093,Knox,36.0673,-83.7649,2715,150.5,shape,false,false,America/New_York,3,37924 37806,1840013374
+Westmoreland,Westmoreland,Tennessee,47165,Sumner,36.562,-86.246,2711,241.2,shape,false,true,America/Chicago,3,37186,1840016015
+Woodbury,Woodbury,Tennessee,47015,Cannon,35.8247,-86.0723,2704,527.9,shape,false,true,America/Chicago,3,37190,1840016243
+Bells,Bells,Tennessee,47033,Crockett,35.7203,-89.0859,2675,435.6,shape,false,true,America/Chicago,3,38006,1840013394
+Colonial Heights,Colonial Heights,Tennessee,47163,Sullivan,36.4853,-82.5069,2667,269.8,shape,false,false,America/New_York,3,37663,1840013063
+Decherd,Decherd,Tennessee,47051,Franklin,35.2156,-86.0757,2667,214.7,shape,false,true,America/Chicago,3,37398 37324,1840014601
+Walnut Hill,Walnut Hill,Tennessee,47163,Sullivan,36.5679,-82.2655,2648,249.2,shape,false,false,America/New_York,3,37620,1840013299
+Clifton,Clifton,Tennessee,47181,Wayne,35.3792,-87.9927,2622,182.0,shape,false,true,America/Chicago,3,38425,1840014562
+Hopewell,Hopewell,Tennessee,47011,Bradley,35.2388,-84.9139,2619,142.1,shape,false,false,America/New_York,3,37312,1840013479
+Pikeville,Pikeville,Tennessee,47007,Bledsoe,35.6027,-85.1984,2541,401.7,shape,false,true,America/Chicago,3,37367,1840014532
+White Pine,White Pine,Tennessee,47089,Jefferson,36.1087,-83.297,2527,339.7,shape,false,true,America/New_York,3,37890,1840016169
+Dyer,Dyer,Tennessee,47053,Gibson,36.071,-88.9921,2498,336.9,shape,false,true,America/Chicago,3,38330,1840013371
+Blaine,Blaine,Tennessee,47057,Grainger,36.1478,-83.6939,2496,101.3,shape,false,true,America/New_York,3,37709,1840013343
+Mosheim,Mosheim,Tennessee,47059,Greene,36.1955,-82.9655,2492,153.4,shape,false,true,America/New_York,3,37711 37743 37818,1840016098
+Maynardville,Maynardville,Tennessee,47173,Union,36.247,-83.8057,2455,175.7,shape,false,true,America/New_York,3,37807,1840015305
+Carthage,Carthage,Tennessee,47159,Smith,36.2566,-85.943,2454,326.5,shape,false,true,America/Chicago,3,37030,1840016096
+Parsons,Parsons,Tennessee,47039,Decatur,35.6513,-88.1231,2452,234.0,shape,false,true,America/Chicago,3,38363,1840014520
+Alamo,Alamo,Tennessee,47033,Crockett,35.783,-89.1168,2405,422.9,shape,false,true,America/Chicago,3,38001,1840015368
+Mountain City,Mountain City,Tennessee,47091,Johnson,36.4696,-81.8049,2396,274.5,shape,false,true,America/New_York,3,37683,1840016016
+Waynesboro,Waynesboro,Tennessee,47181,Wayne,35.3235,-87.7593,2379,214.4,shape,false,true,America/Chicago,3,38485,1840015439
+Ridgetop,Ridgetop,Tennessee,47147,Robertson,36.4044,-86.7681,2376,303.2,shape,false,true,America/Chicago,3,37072 37073 37152,1840014415
+Plainview,Plainview,Tennessee,47173,Union,36.1807,-83.7933,2357,142.9,shape,false,true,America/New_York,4,37779 37721,1840073879
+Piperton,Piperton,Tennessee,47047,Fayette,35.0512,-89.6091,2350,33.4,shape,false,true,America/Chicago,3,38066 38017,1840014596
+Adamsville,Adamsville,Tennessee,47109,McNairy,35.2564,-88.3862,2334,128.0,shape,false,true,America/Chicago,3,38310,1840015462
+Surgoinsville,Surgoinsville,Tennessee,47073,Hawkins,36.4745,-82.8593,2316,156.1,shape,false,true,America/New_York,3,37857 37873,1840016026
+Greenfield,Greenfield,Tennessee,47183,Weakley,36.16,-88.8036,2297,255.0,shape,false,true,America/Chicago,3,38230,1840013316
+Spring City,Spring City,Tennessee,47143,Rhea,35.6881,-84.8622,2294,320.5,shape,false,true,America/New_York,3,37381,1840017789
+South Fulton,South Fulton,Tennessee,47131,Obion,36.4931,-88.8835,2285,260.8,shape,false,true,America/Chicago,3,38257,1840015279
+Bluff City,Bluff City,Tennessee,47163,Sullivan,36.4589,-82.2768,2261,499.7,shape,false,true,America/New_York,3,37618 37686,1840013300
+Tazewell,Tazewell,Tennessee,47025,Claiborne,36.4625,-83.5669,2207,196.3,shape,false,true,America/New_York,3,37879,1840016021
+Caryville,Caryville,Tennessee,47013,Campbell,36.3252,-84.2199,2181,151.5,shape,false,true,America/New_York,3,37714 37847 37757,1840016024
+Pegram,Pegram,Tennessee,47021,Cheatham,36.1037,-87.0565,2167,115.4,shape,false,true,America/Chicago,3,37143,1840016091
+East Cleveland,East Cleveland,Tennessee,47011,Bradley,35.1524,-84.8541,2146,657.3,shape,false,false,America/New_York,3,37311,1840036031
+Lookout Mountain,Lookout Mountain,Tennessee,47065,Hamilton,34.9944,-85.3516,2128,611.8,shape,false,true,America/New_York,3,37350,1840016374
+Jamestown,Jamestown,Tennessee,47049,Fentress,36.4319,-84.9341,2126,263.6,shape,false,true,America/Chicago,3,38556,1840014429
+Hunter,Hunter,Tennessee,47019,Carter,36.3978,-82.1511,2121,128.0,shape,false,false,America/New_York,3,37643,1840013311
+Pine Crest,Pine Crest,Tennessee,47019,Carter,36.2965,-82.3106,2082,416.7,shape,false,false,America/New_York,3,37601,1840036143
+Lakesite,Lakesite,Tennessee,47065,Hamilton,35.2027,-85.1413,2056,456.2,shape,false,true,America/New_York,3,37343 37379,1840014573
+Valley Forge,Valley Forge,Tennessee,47019,Carter,36.3043,-82.1948,2042,249.3,shape,false,false,America/New_York,3,37643,1840109146
+Gladeville,Gladeville,Tennessee,47189,Wilson,36.1158,-86.4316,2034,173.4,shape,false,false,America/Chicago,3,37122,1840036043
+Estill Springs,Estill Springs,Tennessee,47051,Franklin,35.2755,-86.14,2022,183.7,shape,false,true,America/Chicago,3,37330,1840016420
+Falling Water,Falling Water,Tennessee,47065,Hamilton,35.1959,-85.2594,2022,155.8,shape,false,false,America/New_York,3,37343,1840024959
+Rural Hill,Rural Hill,Tennessee,47189,Wilson,36.1157,-86.5145,2016,191.7,shape,false,false,America/Chicago,3,37076 37122,1840013351
+Tracy City,Tracy City,Tennessee,47061,Grundy,35.262,-85.7515,2008,166.5,shape,false,true,America/Chicago,3,37387,1840016344
+Charlotte,Charlotte,Tennessee,47043,Dickson,36.1861,-87.3389,1997,190.0,shape,false,true,America/Chicago,3,37036,1840016104
+Dover,Dover,Tennessee,47161,Stewart,36.4818,-87.8438,1985,198.8,shape,false,true,America/Chicago,3,37058,1840013293
+Crump,Crump,Tennessee,47071,Hardin,35.2315,-88.3381,1946,59.3,shape,false,true,America/Chicago,3,38310 38327,1840014588
+Unionville,Unionville,Tennessee,47003,Bedford,35.6117,-86.5739,1943,83.1,shape,false,false,America/Chicago,3,37160 37180,1840024945
+Central,Central,Tennessee,47019,Carter,36.3289,-82.294,1942,212.9,shape,false,false,America/New_York,3,37601,1840013312
+Troy,Troy,Tennessee,47131,Obion,36.342,-89.1583,1941,555.2,shape,false,true,America/Chicago,3,38260,1840016068
+Halls,Halls,Tennessee,47097,Lauderdale,35.8795,-89.405,1919,201.2,shape,false,true,America/Chicago,3,38040,1840016246
+Biltmore,Biltmore,Tennessee,47019,Carter,36.3675,-82.2243,1917,288.4,shape,false,false,America/New_York,3,37643,1840112341
+Monteagle,Monteagle,Tennessee,47061,Grundy,35.2367,-85.8513,1915,81.8,shape,false,true,America/Chicago,3,37375 37356,1840016430
+Mowbray Mountain,Mowbray Mountain,Tennessee,47065,Hamilton,35.2751,-85.2225,1902,36.3,shape,false,true,America/New_York,4,37379,1840040578
+Huntsville,Huntsville,Tennessee,47151,Scott,36.4112,-84.5056,1889,87.9,shape,false,true,America/New_York,3,37756 37755,1840016017
+Berry Hill,Berry Hill,Tennessee,47037,Davidson,36.1196,-86.7673,1863,794.2,shape,false,true,America/Chicago,3,37211 37204,1840013347
+Rocky Top,Rocky Top,Tennessee,47001,Anderson,36.225,-84.1548,1845,440.0,shape,false,true,America/New_York,3,37769 37714,1840016109
+New Johnsonville,New Johnsonville,Tennessee,47085,Humphreys,36.0163,-87.9696,1844,138.4,shape,false,true,America/Chicago,3,37134,1840014480
+Decatur,Decatur,Tennessee,47121,Meigs,35.529,-84.7933,1840,187.2,shape,false,true,America/New_York,3,37322,1840016301
+Cowan,Cowan,Tennessee,47051,Franklin,35.1629,-86.0142,1827,339.5,shape,false,true,America/Chicago,3,37318,1840014600
+Cross Plains,Cross Plains,Tennessee,47147,Robertson,36.5412,-86.6765,1824,81.0,shape,false,true,America/Chicago,3,37049,1840014413
+McEwen,McEwen,Tennessee,47085,Humphreys,36.1099,-87.6355,1820,381.3,shape,false,true,America/Chicago,3,37101,1840015330
+Loretto,Loretto,Tennessee,47099,Lawrence,35.0792,-87.4401,1811,184.9,shape,false,true,America/Chicago,3,38469,1840015440
+Jellico,Jellico,Tennessee,47013,Campbell,36.5651,-84.1355,1808,112.3,shape,false,true,America/New_York,4,37847 37762,1840036119
+Walden,Walden,Tennessee,47065,Hamilton,35.1635,-85.3098,1802,197.0,shape,false,true,America/New_York,3,37377,1840016375
+Ridgely,Ridgely,Tennessee,47095,Lake,36.2632,-89.4806,1798,350.0,shape,false,true,America/Chicago,3,38080,1840017710
+New Market,New Market,Tennessee,47089,Jefferson,36.1096,-83.5493,1786,162.9,shape,false,true,America/New_York,3,37820,1840016170
+Celina,Celina,Tennessee,47027,Clay,36.5469,-85.5043,1767,370.1,shape,false,true,America/Chicago,3,38551,1840014424
+Cornersville,Cornersville,Tennessee,47117,Marshall,35.3634,-86.8584,1756,122.1,shape,false,true,America/Chicago,3,37047,1840016307
+Three Way,Three Way,Tennessee,47113,Madison,35.772,-88.8572,1755,150.9,shape,false,true,America/Chicago,3,38343,1840036153
+Fairmount,Fairmount,Tennessee,47065,Hamilton,35.1865,-85.3303,1747,161.0,shape,false,false,America/Chicago,3,37377,1840013075
+Vonore,Vonore,Tennessee,47123,Monroe,35.5977,-84.2364,1730,75.8,shape,false,true,America/New_York,3,37885 37801,1840016312
+New Union,New Union,Tennessee,47031,Coffee,35.534,-86.0832,1728,173.7,shape,false,false,America/Chicago,3,37355,1840025812
+Burns,Burns,Tennessee,47043,Dickson,36.0508,-87.2984,1702,194.4,shape,false,true,America/Chicago,3,37029 37055,1840015316
+South Carthage,South Carthage,Tennessee,47159,Smith,36.2414,-85.9575,1698,255.8,shape,false,true,America/Chicago,3,37030,1840017721
+Powells Crossroads,Powells Crossroads,Tennessee,47115,Marion,35.1849,-85.4848,1686,132.9,shape,false,true,America/Chicago,3,37397,1840017872
+Bon Aqua Junction,Bon Aqua Junction,Tennessee,47081,Hickman,35.9281,-87.3124,1677,137.5,shape,false,false,America/Chicago,3,37098,1840024918
+Whitwell,Whitwell,Tennessee,47115,Marion,35.1918,-85.5212,1652,181.8,shape,false,true,America/Chicago,3,37397,1840015472
+Englewood,Englewood,Tennessee,47107,McMinn,35.4228,-84.4883,1645,332.5,shape,false,true,America/New_York,3,37329,1840016317
+Watertown,Watertown,Tennessee,47189,Wilson,36.1007,-86.1394,1637,440.1,shape,false,true,America/Chicago,3,37184,1840015315
+Rockvale,Rockvale,Tennessee,47149,Rutherford,35.7669,-86.521,1631,144.1,shape,false,false,America/Chicago,3,37153,1840036091
+Chapel Hill,Chapel Hill,Tennessee,47117,Marshall,35.6283,-86.697,1626,167.4,shape,false,true,America/Chicago,3,37034,1840016306
+Norris,Norris,Tennessee,47001,Anderson,36.2137,-84.0629,1592,73.8,shape,false,true,America/New_York,3,37705 37828,1840014472
+Sneedville,Sneedville,Tennessee,47067,Hancock,36.5366,-83.2098,1590,267.3,shape,false,true,America/New_York,3,37869,1840017698
+Gruetli-Laager,Gruetli-Laager,Tennessee,47061,Grundy,35.3726,-85.6375,1585,48.3,shape,false,true,America/Chicago,3,37339,1840013441
+Lone Oak,Lone Oak,Tennessee,47153,Sequatchie,35.2007,-85.3685,1584,94.5,shape,false,false,America/Chicago,3,37377,1840025820
+Benton,Benton,Tennessee,47139,Polk,35.1749,-84.6516,1584,201.7,shape,false,true,America/New_York,3,37307,1840015475
+Banner Hill,Banner Hill,Tennessee,47171,Unicoi,36.1223,-82.4203,1571,433.7,shape,false,false,America/New_York,3,37650,1840013353
+Rutledge,Rutledge,Tennessee,47057,Grainger,36.2757,-83.5311,1550,108.2,shape,false,true,America/New_York,3,37861,1840017722
+Graysville,Graysville,Tennessee,47143,Rhea,35.4494,-85.0762,1548,507.5,shape,false,true,America/New_York,3,37338 37321,1840016286
+Baxter,Baxter,Tennessee,47141,Putnam,36.1536,-85.6348,1477,181.3,shape,false,true,America/Chicago,3,38544,1840015318
+Greenback,Greenback,Tennessee,47105,Loudon,35.6487,-84.1725,1472,68.4,shape,false,true,America/New_York,3,37742,1840013401
+Spencer,Spencer,Tennessee,47175,Van Buren,35.7393,-85.456,1469,86.5,shape,false,true,America/Chicago,3,38585,1840017790
+Linden,Linden,Tennessee,47135,Perry,35.6123,-87.8429,1469,564.6,shape,false,true,America/Chicago,3,37096,1840016273
+Gordonsville,Gordonsville,Tennessee,47159,Smith,36.1817,-85.9324,1469,79.8,shape,false,true,America/Chicago,3,38563,1840016097
+Erin,Erin,Tennessee,47083,Houston,36.316,-87.7025,1460,144.7,shape,false,true,America/Chicago,3,37061,1840013348
+Sullivan Gardens,Sullivan Gardens,Tennessee,47163,Sullivan,36.4877,-82.5912,1439,222.6,shape,false,false,America/New_York,3,37660,1840109063
+Kimball,Kimball,Tennessee,47115,Marion,35.0469,-85.674,1438,104.5,shape,false,true,America/Chicago,3,37347 37380,1840016429
+Hampton,Hampton,Tennessee,47019,Carter,36.2772,-82.1728,1419,125.7,shape,false,false,America/New_York,3,37658,1840036048
+Kenton,Kenton,Tennessee,47053,Gibson,36.2021,-89.0155,1413,216.5,shape,false,true,America/Chicago,3,38233,1840016067
+Tennessee Ridge,Tennessee Ridge,Tennessee,47083,Houston,36.3194,-87.7631,1400,144.2,shape,false,true,America/Chicago,3,37061 37178,1840016102
+Ardmore,Ardmore,Tennessee,47055,Giles,35.0031,-86.8548,1354,111.3,shape,false,true,America/Chicago,3,38449,1840013453
+Red Boiling Springs,Red Boiling Springs,Tennessee,47111,Macon,36.5301,-85.8481,1347,297.2,shape,false,true,America/Chicago,3,37150,1840014422
+Wartburg,Wartburg,Tennessee,47129,Morgan,36.1038,-84.5859,1330,455.6,shape,false,true,America/New_York,3,37887,1840015313
+Henning,Henning,Tennessee,47097,Lauderdale,35.682,-89.577,1320,206.6,shape,false,true,America/Chicago,3,38063 38041,1840015373
+Olivet,Olivet,Tennessee,47071,Hardin,35.2048,-88.1939,1314,85.1,shape,false,false,America/Chicago,3,38372,1840025828
+Bruceton,Bruceton,Tennessee,47017,Carroll,36.0349,-88.2466,1311,300.9,shape,false,true,America/Chicago,3,38317,1840015348
+Winfield,Winfield,Tennessee,47151,Scott,36.564,-84.4455,1306,74.2,shape,false,true,America/New_York,3,37892,1840016018
+Gray,Gray,Tennessee,47179,Washington,36.4219,-82.4767,1276,331.5,shape,false,false,America/New_York,3,37615,1840013333
+Tellico Plains,Tellico Plains,Tennessee,47123,Monroe,35.3665,-84.2982,1275,252.2,shape,false,true,America/New_York,3,37385,1840016311
+Byrdstown,Byrdstown,Tennessee,47137,Pickett,36.5737,-85.1342,1275,330.9,shape,false,true,America/Chicago,3,38549,1840015275
+Midtown,Midtown,Tennessee,47145,Roane,35.8813,-84.5715,1260,108.4,shape,false,false,America/New_York,3,37748,1840013384
+Atwood,Atwood,Tennessee,47017,Carroll,35.9747,-88.6689,1229,273.7,shape,false,true,America/Chicago,3,38220,1840015347
+Collinwood,Collinwood,Tennessee,47181,Wayne,35.1746,-87.7442,1224,169.9,shape,false,true,America/Chicago,3,38450,1840014563
+Mason,Mason,Tennessee,47167,Tipton,35.4128,-89.5412,1221,238.0,shape,false,true,America/Chicago,3,38049,1840016315
+Rutherford,Rutherford,Tennessee,47053,Gibson,36.1249,-88.992,1221,204.7,shape,false,true,America/Chicago,3,38369,1840017740
+Huntland,Huntland,Tennessee,47051,Franklin,35.0579,-86.2689,1218,308.5,shape,false,true,America/Chicago,3,37345,1840016419
+Scotts Hill,Scotts Hill,Tennessee,47077,Henderson,35.5188,-88.2527,1200,126.4,shape,false,true,America/Chicago,3,38374,1840017792
+Gleason,Gleason,Tennessee,47183,Weakley,36.2174,-88.6107,1196,205.9,shape,false,true,America/Chicago,3,38229,1840016071
+Allardt,Allardt,Tennessee,47049,Fentress,36.3811,-84.8814,1191,122.0,shape,false,true,America/Chicago,3,38556,1840013304
+Rossville,Rossville,Tennessee,47047,Fayette,35.0324,-89.5612,1185,83.9,shape,false,true,America/Chicago,3,38066,1840017867
+Fincastle,Fincastle,Tennessee,47013,Campbell,36.4038,-84.048,1170,123.7,shape,false,false,America/New_York,3,37766,1840025757
+Sharon,Sharon,Tennessee,47183,Weakley,36.2349,-88.8252,1168,355.1,shape,false,true,America/Chicago,3,38255,1840017709
+Alexandria,Alexandria,Tennessee,47041,DeKalb,36.0791,-86.0382,1160,221.2,shape,false,true,America/Chicago,3,37012,1840015349
+Trezevant,Trezevant,Tennessee,47017,Carroll,36.011,-88.6206,1142,310.3,shape,false,true,America/Chicago,3,38258,1840016183
+Bradford,Bradford,Tennessee,47053,Gibson,36.0737,-88.8163,1132,246.9,shape,false,true,America/Chicago,3,38316,1840015342
+Friendsville,Friendsville,Tennessee,47009,Blount,35.7563,-84.1319,1097,149.2,shape,false,true,America/New_York,3,37737,1840013405
+Gainesboro,Gainesboro,Tennessee,47087,Jackson,36.3617,-85.6496,1086,269.4,shape,false,true,America/Chicago,3,38562,1840016060
+Lakewood Park,Lakewood Park,Tennessee,47031,Coffee,35.6481,-86.1357,1070,72.0,shape,false,true,America/Chicago,4,37026 37355 37018,1840040577
+Obion,Obion,Tennessee,47131,Obion,36.2647,-89.1948,1066,319.1,shape,false,true,America/Chicago,3,38240,1840016069
+Wildwood,Wildwood,Tennessee,47009,Blount,35.7999,-83.8685,1064,165.2,shape,false,false,America/New_York,3,37804,1840025791
+Lyles,Lyles,Tennessee,47081,Hickman,35.9195,-87.345,1060,156.3,shape,false,false,America/Chicago,3,37098,1840024919
+Orlinda,Orlinda,Tennessee,47147,Robertson,36.5938,-86.7015,1056,61.9,shape,false,true,America/Chicago,3,37049 37148 37141,1840014414
+Embreeville,Embreeville,Tennessee,47179,Washington,36.1767,-82.4494,998,286.8,shape,false,false,America/New_York,3,37650,1840112380
+Telford,Telford,Tennessee,47179,Washington,36.2534,-82.5478,992,155.2,shape,false,false,America/New_York,3,37690,1840025772
+Fall Branch,Fall Branch,Tennessee,47179,Washington,36.4161,-82.6242,984,84.1,shape,false,false,America/New_York,3,37656,1840013064
+Roan Mountain,Roan Mountain,Tennessee,47019,Carter,36.1866,-82.0706,984,57.3,shape,false,false,America/New_York,3,37687,1840013313
+Eagleville,Eagleville,Tennessee,47149,Rutherford,35.7391,-86.6528,982,131.4,shape,false,true,America/Chicago,3,37060,1840013378
+Clarksburg,Clarksburg,Tennessee,47017,Carroll,35.8705,-88.3937,975,151.1,shape,false,true,America/Chicago,3,38390 38344,1840016182
+Riceville,Riceville,Tennessee,47107,McMinn,35.3895,-84.6989,964,171.0,shape,false,false,America/New_York,3,37370,1840025814
+Lobelville,Lobelville,Tennessee,47135,Perry,35.7508,-87.7958,949,97.7,shape,false,true,America/Chicago,3,37097,1840015387
+Coalmont,Coalmont,Tennessee,47061,Grundy,35.3458,-85.7113,921,58.7,shape,false,true,America/Chicago,3,37313 37387,1840014556
+Ridgeside,Ridgeside,Tennessee,47065,Hamilton,35.0349,-85.247,919,1160.9,shape,false,true,America/New_York,3,37411,1840014572
+Luttrell,Luttrell,Tennessee,47173,Union,36.2096,-83.7485,917,90.1,shape,false,true,America/New_York,3,37779,1840016095
+Decaturville,Decaturville,Tennessee,47039,Decatur,35.5819,-88.1195,916,214.1,shape,false,true,America/Chicago,3,38329,1840016272
+Philadelphia,Philadelphia,Tennessee,47105,Loudon,35.6791,-84.3999,916,227.4,shape,false,true,America/New_York,3,37846,1840014513
+Altamont,Altamont,Tennessee,47061,Grundy,35.4325,-85.7433,904,17.6,shape,false,true,America/Chicago,3,37301 37305,1840015431
+Mooresburg,Mooresburg,Tennessee,47073,Hawkins,36.3531,-83.2362,903,92.1,shape,false,false,America/New_York,3,37811,1840025758
+Bethel Springs,Bethel Springs,Tennessee,47109,McNairy,35.2342,-88.6131,901,155.8,shape,false,true,America/Chicago,3,38315,1840015463
+Fowlkes,Fowlkes,Tennessee,47045,Dyer,35.972,-89.388,897,165.5,shape,false,false,America/Chicago,3,38024,1840036041
+Flat Top Mountain,Flat Top Mountain,Tennessee,47065,Hamilton,35.3319,-85.2,891,19.9,shape,false,true,America/New_York,4,37379,1840040576
+Palmer,Palmer,Tennessee,47061,Grundy,35.3576,-85.5656,882,69.1,shape,false,true,America/Chicago,3,37365,1840016345
+Sunbright,Sunbright,Tennessee,47129,Morgan,36.2428,-84.6798,880,96.3,shape,false,true,America/New_York,3,37872,1840015312
+Bulls Gap,Bulls Gap,Tennessee,47073,Hawkins,36.2615,-83.0788,875,277.3,shape,false,true,America/New_York,3,37711,1840015276
+Crab Orchard,Crab Orchard,Tennessee,47035,Cumberland,35.9066,-84.8847,868,30.6,shape,false,true,America/Chicago,3,37723,1840014488
+Russellville,Russellville,Tennessee,47063,Hamblen,36.258,-83.1966,850,315.9,shape,false,false,America/New_York,3,37860 37891,1840036094
+Rockford,Rockford,Tennessee,47009,Blount,35.8328,-83.9358,849,103.0,shape,false,true,America/New_York,3,37853 37804,1840014517
+Maury City,Maury City,Tennessee,47033,Crockett,35.8145,-89.2239,844,289.4,shape,false,true,America/Chicago,3,38050 38001,1840016235
+Orebank,Orebank,Tennessee,47163,Sullivan,36.556,-82.4642,842,369.1,shape,false,false,America/New_York,3,37664,1840110323
+New Hope,New Hope,Tennessee,47115,Marion,35.0044,-85.6598,839,31.3,shape,false,true,America/Chicago,3,37380,1840014604
+Eastview,Eastview,Tennessee,47109,McNairy,35.0877,-88.5518,835,63.0,shape,false,true,America/Chicago,3,38367 38375,1840016410
+Chesterfield,Chesterfield,Tennessee,47077,Henderson,35.6468,-88.27,834,41.9,shape,false,false,America/Chicago,3,38351,1840025795
+John Sevier,John Sevier,Tennessee,47093,Knox,36.038,-83.8257,833,422.8,shape,false,false,America/New_York,3,37924,1840109961
+Moscow,Moscow,Tennessee,47047,Fayette,35.0611,-89.3893,832,251.7,shape,false,true,America/Chicago,3,38057,1840014595
+Puryear,Puryear,Tennessee,47079,Henry,36.4413,-88.3324,820,334.3,shape,false,true,America/Chicago,3,38251,1840014439
+Dodson Branch,Dodson Branch,Tennessee,47087,Jackson,36.3149,-85.5322,812,28.2,shape,false,false,America/Chicago,3,38501,1840025768
+Grimsley,Grimsley,Tennessee,47049,Fentress,36.2761,-84.997,795,28.2,shape,false,false,America/Chicago,3,38565 38556,1840025760
+St. Joseph,St. Joseph,Tennessee,47099,Lawrence,35.0331,-87.5007,785,80.5,shape,false,true,America/Chicago,3,38481,1840015441
+Hollow Rock,Hollow Rock,Tennessee,47017,Carroll,36.0355,-88.274,777,177.4,shape,false,true,America/Chicago,3,38342,1840016179
+Middleton,Middleton,Tennessee,47069,Hardeman,35.0593,-88.8902,772,142.6,shape,false,true,America/Chicago,3,38052,1840014584
+Delano,Delano,Tennessee,47139,Polk,35.2545,-84.5579,741,74.7,shape,false,false,America/New_York,3,37325,1840036138
+Saltillo,Saltillo,Tennessee,47071,Hardin,35.3821,-88.2396,730,91.8,shape,false,true,America/Chicago,3,38370,1840017863
+Morrison,Morrison,Tennessee,47177,Warren,35.6048,-85.9117,717,92.6,shape,false,true,America/Chicago,3,37357,1840016269
+Watauga,Watauga,Tennessee,47019,Carter,36.3687,-82.2919,714,315.8,shape,false,true,America/New_York,3,37694,1840015278
+Minor Hill,Minor Hill,Tennessee,47055,Giles,35.0424,-87.1654,707,146.7,shape,false,true,America/Chicago,3,38473 38460,1840014574
+Niota,Niota,Tennessee,47107,McMinn,35.5171,-84.5499,705,118.4,shape,false,true,America/New_York,3,37826,1840014549
+Gates,Gates,Tennessee,47097,Lauderdale,35.8406,-89.4081,693,379.5,shape,false,true,America/Chicago,3,38037,1840016245
+Adams,Adams,Tennessee,47147,Robertson,36.5828,-87.0651,674,108.9,shape,false,true,America/Chicago,3,37010,1840013294
+Friendship,Friendship,Tennessee,47033,Crockett,35.9084,-89.2414,672,196.8,shape,false,true,America/Chicago,3,38034,1840013393
+Clarkrange,Clarkrange,Tennessee,47049,Fentress,36.1857,-85.0096,664,25.2,shape,false,false,America/Chicago,3,38553,1840025759
+Gallaway,Gallaway,Tennessee,47047,Fayette,35.3272,-89.608,664,48.4,shape,false,true,America/Chicago,3,38036 38002 38049,1840013474
+Walnut Grove,Walnut Grove,Tennessee,47165,Sumner,36.489,-86.6057,660,52.9,shape,false,false,America/Chicago,3,37048,1840024897
+Wartrace,Wartrace,Tennessee,47003,Bedford,35.5253,-86.3301,656,289.1,shape,false,true,America/Chicago,3,37183,1840016309
+Charleston,Charleston,Tennessee,47011,Bradley,35.2862,-84.7611,641,238.5,shape,false,true,America/New_York,3,37310,1840014602
+McDonald,McDonald,Tennessee,47011,Bradley,35.1088,-84.9853,638,168.2,shape,false,false,America/New_York,3,37353,1840110132
+Cosby,Cosby,Tennessee,47029,Cocke,35.7952,-83.2457,632,44.1,shape,false,false,America/New_York,3,37722,1840112370
+Bell Buckle,Bell Buckle,Tennessee,47003,Bedford,35.5908,-86.3538,621,470.5,shape,false,true,America/Chicago,3,37020,1840015411
+Baneberry,Baneberry,Tennessee,47089,Jefferson,36.0465,-83.2782,620,134.4,shape,false,true,America/New_York,3,37890,1840013373
+Castalian Springs,Castalian Springs,Tennessee,47165,Sumner,36.4012,-86.3067,620,41.1,shape,false,false,America/Chicago,3,37031,1840024890
+Trimble,Trimble,Tennessee,47045,Dyer,36.202,-89.1879,610,364.3,shape,false,true,America/Chicago,3,38259,1840016160
+Vanleer,Vanleer,Tennessee,47043,Dickson,36.2358,-87.4446,605,113.9,shape,false,true,America/Chicago,3,37181,1840016105
+Parker's Crossroads,Parker's Crossroads,Tennessee,47077,Henderson,35.7894,-88.3905,598,61.0,shape,false,true,America/Chicago,4,38390 38388,1840036097
+Finley,Finley,Tennessee,47045,Dyer,36.0357,-89.4799,595,176.1,shape,false,false,America/Chicago,3,38030 38024,1840109682
+Big Sandy,Big Sandy,Tennessee,47005,Benton,36.2327,-88.085,593,364.7,shape,false,true,America/Chicago,3,38221,1840015314
+Pleasant Hill,Pleasant Hill,Tennessee,47035,Cumberland,35.9767,-85.1996,589,139.5,shape,false,true,America/Chicago,3,38578 38572 38571 38583,1840016173
+Stanton,Stanton,Tennessee,47075,Haywood,35.4613,-89.4012,586,438.4,shape,false,true,America/Chicago,3,38069,1840016287
+Townsend,Townsend,Tennessee,47009,Blount,35.6763,-83.7529,583,113.0,shape,false,true,America/New_York,3,37882,1840015381
+Summertown,Summertown,Tennessee,47099,Lawrence,35.4344,-87.3084,581,111.6,shape,false,false,America/Chicago,3,38483,1840025826
+Doyle,Doyle,Tennessee,47185,White,35.8553,-85.512,579,180.9,shape,false,true,America/Chicago,3,38583 38559,1840016192
+Henry,Henry,Tennessee,47079,Henry,36.2011,-88.4114,575,172.8,shape,false,true,America/Chicago,3,38231,1840015283
+Ethridge,Ethridge,Tennessee,47099,Lawrence,35.3218,-87.3013,572,191.6,shape,false,true,America/Chicago,3,38456,1840016373
+Woodland Mills,Woodland Mills,Tennessee,47131,Obion,36.4766,-89.1104,569,172.7,shape,false,true,America/Chicago,3,38261,1840015281
+Petersburg,Petersburg,Tennessee,47103,Lincoln,35.3173,-86.6407,556,212.9,shape,false,true,America/Chicago,3,37144,1840016413
+Gibson,Gibson,Tennessee,47053,Gibson,35.8743,-88.8437,553,349.5,shape,false,true,America/Chicago,3,38338 38343,1840016159
+Calhoun,Calhoun,Tennessee,47107,McMinn,35.2993,-84.7472,545,177.2,shape,false,true,America/New_York,3,37309,1840015419
+Beersheba Springs,Beersheba Springs,Tennessee,47061,Grundy,35.459,-85.6689,538,43.3,shape,false,true,America/Chicago,3,37305,1840015432
+Michie,Michie,Tennessee,47109,McNairy,35.0604,-88.4257,530,36.4,shape,false,true,America/Chicago,3,38357,1840016408
+Williston,Williston,Tennessee,47047,Fayette,35.1585,-89.3754,530,124.0,shape,false,true,America/Chicago,3,38068 38076,1840015461
+Kahite,Kahite,Tennessee,47123,Monroe,35.569,-84.2358,529,157.2,shape,false,false,America/New_York,3,37885,1840141819
+Pittman Center,Pittman Center,Tennessee,47155,Sevier,35.7595,-83.3886,520,33.4,shape,false,true,America/New_York,3,37738 37876,1840016222
+Lenox,Lenox,Tennessee,47045,Dyer,36.0876,-89.4972,515,78.9,shape,false,false,America/Chicago,3,38024 38047,1840036058
+Gilt Edge,Gilt Edge,Tennessee,47167,Tipton,35.5336,-89.8303,513,73.1,shape,false,true,America/Chicago,3,38015,1840013428
+Ducktown,Ducktown,Tennessee,47139,Polk,35.036,-84.3848,511,74.7,shape,false,true,America/New_York,3,37317 37326,1840013488
+Petros,Petros,Tennessee,47129,Morgan,36.1028,-84.4504,502,49.2,shape,false,false,America/New_York,3,37845,1840025775
+Hornbeak,Hornbeak,Tennessee,47131,Obion,36.3352,-89.2983,502,184.4,shape,false,true,America/Chicago,3,38232,1840016066
+Fairgarden,Fairgarden,Tennessee,47155,Sevier,35.8982,-83.4119,501,111.7,shape,false,true,America/New_York,4,37876,1840036036
+Baileyton,Baileyton,Tennessee,47059,Greene,36.3304,-82.8292,499,118.8,shape,false,true,America/New_York,3,37745,1840015306
+Elkton,Elkton,Tennessee,47055,Giles,35.0627,-86.8957,496,96.2,shape,false,true,America/Chicago,3,38477 38449 38455,1840013454
+Sequatchie,Sequatchie,Tennessee,47115,Marion,35.1115,-85.5965,493,183.9,shape,false,false,America/Chicago,3,37374,1840110886
+Wrigley,Wrigley,Tennessee,47081,Hickman,35.8997,-87.3536,475,191.9,shape,false,false,America/Chicago,3,37098,1840024920
+Griffith Creek,Griffith Creek,Tennessee,47115,Marion,35.2761,-85.5361,464,58.0,shape,false,false,America/Chicago,3,37397,1840109804
+Beech Bluff,Beech Bluff,Tennessee,47113,Madison,35.6047,-88.6292,463,40.7,shape,false,false,America/Chicago,3,38313,1840036113
+Ooltewah,Ooltewah,Tennessee,47065,Hamilton,35.0723,-85.0545,462,288.6,shape,false,false,America/New_York,3,37363,1840013451
+Bon Air,Bon Air,Tennessee,47185,White,35.9359,-85.3644,437,85.6,shape,false,false,America/Chicago,3,38583,1840036115
+Sardis,Sardis,Tennessee,47077,Henderson,35.4424,-88.2913,434,67.0,shape,false,true,America/Chicago,3,38371,1840017791
+Flintville,Flintville,Tennessee,47103,Lincoln,35.0602,-86.4164,430,31.2,shape,false,false,America/Chicago,3,37335,1840025830
+Grand Junction,Grand Junction,Tennessee,47069,Hardeman,35.05,-89.1889,430,139.9,shape,false,true,America/Chicago,3,38039,1840013464
+Walland,Walland,Tennessee,47009,Blount,35.732,-83.8069,422,106.9,shape,false,false,America/New_York,3,37886,1840025790
+Pinson,Pinson,Tennessee,47113,Madison,35.4818,-88.7306,419,39.8,shape,false,false,America/Chicago,3,38366,1840036083
+Pelham,Pelham,Tennessee,47061,Grundy,35.3342,-85.8703,419,9.7,shape,false,false,America/Chicago,3,37366,1840025821
+Darden,Darden,Tennessee,47077,Henderson,35.6384,-88.2261,416,19.1,shape,false,false,America/Chicago,3,38351 38328,1840025796
+Bowman,Bowman,Tennessee,47035,Cumberland,36.0586,-85.0305,411,69.3,shape,false,false,America/Chicago,3,38571,1840025787
+Copperhill,Copperhill,Tennessee,47139,Polk,34.9952,-84.3749,401,87.5,shape,false,true,America/New_York,3,37317,1840014611
+Stantonville,Stantonville,Tennessee,47109,McNairy,35.1569,-88.4302,400,137.0,shape,false,true,America/Chicago,3,38379,1840016412
+Counce,Counce,Tennessee,47071,Hardin,35.0404,-88.2717,396,101.0,shape,false,false,America/Chicago,3,38326,1840036026
+Ramer,Ramer,Tennessee,47109,McNairy,35.0718,-88.6147,386,83.2,shape,false,true,America/Chicago,3,38367,1840014597
+Guys,Guys,Tennessee,47109,McNairy,35.0191,-88.5427,385,13.1,shape,false,true,America/Chicago,3,38367 38339,1840016411
+Finger,Finger,Tennessee,47109,McNairy,35.357,-88.6169,385,94.7,shape,false,true,America/Chicago,3,38334,1840013475
+Lynnville,Lynnville,Tennessee,47055,Giles,35.3782,-87.0054,382,285.3,shape,false,true,America/Chicago,3,38472,1840016376
+Liberty,Liberty,Tennessee,47041,DeKalb,36.0046,-85.9779,380,127.1,shape,false,true,America/Chicago,3,37095,1840016184
+Cumberland Gap,Cumberland Gap,Tennessee,47025,Claiborne,36.5974,-83.6658,376,524.3,shape,false,true,America/New_York,3,37724,1840016020
+Toone,Toone,Tennessee,47069,Hardeman,35.3565,-88.9542,373,133.9,shape,false,true,America/Chicago,3,38381,1840016387
+Cumberland City,Cumberland City,Tennessee,47161,Stewart,36.3828,-87.6403,363,28.0,shape,false,true,America/Chicago,3,37050,1840016012
+Gadsden,Gadsden,Tennessee,47033,Crockett,35.7768,-88.9861,359,123.7,shape,false,true,America/Chicago,3,38337 38343,1840016236
+Cedar Hill,Cedar Hill,Tennessee,47147,Robertson,36.5512,-87.001,357,221.2,shape,false,true,America/Chicago,3,37032,1840014412
+Hickman,Hickman,Tennessee,47159,Smith,36.1451,-85.9413,357,90.5,shape,false,false,America/Chicago,3,38567,1840109858
+Dowelltown,Dowelltown,Tennessee,47041,DeKalb,36.0125,-85.9426,355,182.2,shape,false,true,America/Chicago,3,37059,1840016185
+Auburntown,Auburntown,Tennessee,47015,Cannon,35.9511,-86.0969,355,237.2,shape,false,true,America/Chicago,3,37016,1840015371
+Parrottsville,Parrottsville,Tennessee,47029,Cocke,36.0082,-83.0916,351,182.9,shape,false,true,America/New_York,3,37843,1840016172
+Cottontown,Cottontown,Tennessee,47165,Sumner,36.449,-86.5336,345,38.0,shape,false,false,America/Chicago,3,37066 37048,1840024891
+Briceville,Briceville,Tennessee,47001,Anderson,36.1777,-84.1837,329,263.2,shape,false,false,America/New_York,3,37710,1840036013
+Burlison,Burlison,Tennessee,47167,Tipton,35.5569,-89.7847,321,118.0,shape,false,true,America/Chicago,3,38015,1840015418
+Hornsby,Hornsby,Tennessee,47069,Hardeman,35.2285,-88.8293,313,114.9,shape,false,true,America/Chicago,3,38008 38044,1840016386
+Hillsboro,Hillsboro,Tennessee,47031,Coffee,35.4085,-85.9639,311,29.2,shape,false,false,America/Chicago,3,37342,1840025811
+Yorkville,Yorkville,Tennessee,47053,Gibson,36.0976,-89.1183,311,92.4,shape,false,true,America/Chicago,3,38059 38330 38389,1840015341
+Hilham,Hilham,Tennessee,47133,Overton,36.41,-85.4421,302,33.0,shape,false,false,America/Chicago,3,38568 38570,1840109884
+McLemoresville,McLemoresville,Tennessee,47017,Carroll,35.9863,-88.58,301,52.7,shape,false,true,America/Chicago,3,38235 38344,1840016181
+Braden,Braden,Tennessee,47047,Fayette,35.3685,-89.5718,293,30.8,shape,false,true,America/Chicago,3,38049,1840015460
+Blanche,Blanche,Tennessee,47103,Lincoln,35.0437,-86.7532,287,18.8,shape,false,false,America/Chicago,3,38488,1840110690
+Nixon,Nixon,Tennessee,47071,Hardin,35.1148,-88.2583,286,62.6,shape,false,false,America/Chicago,3,38372,1840036075
+Mayland,Mayland,Tennessee,47035,Cumberland,36.0459,-85.2069,285,68.0,shape,false,false,America/Chicago,3,38571 38574,1840139311
+Garland,Garland,Tennessee,47167,Tipton,35.5823,-89.7525,284,201.7,shape,false,true,America/Chicago,3,38019,1840016316
+Centertown,Centertown,Tennessee,47177,Warren,35.7251,-85.9197,277,115.7,shape,false,true,America/Chicago,3,37110,1840016270
+Bethpage,Bethpage,Tennessee,47165,Sumner,36.4843,-86.3085,276,80.2,shape,false,false,America/Chicago,3,37022,1840024888
+Andersonville,Andersonville,Tennessee,47001,Anderson,36.197,-84.033,274,65.4,shape,false,false,America/New_York,3,37705,1840025777
+Statesville,Statesville,Tennessee,47189,Wilson,36.0198,-86.1206,272,119.6,shape,false,false,America/Chicago,3,37184,1840036102
+Norene,Norene,Tennessee,47189,Wilson,36.0541,-86.2382,266,60.1,shape,false,false,America/Chicago,3,37090 37184,1840110272
+Fairfield,Fairfield,Tennessee,47165,Sumner,36.6208,-86.3425,266,103.6,shape,false,false,America/Chicago,3,37186,1840024892
+New Deal,New Deal,Tennessee,47165,Sumner,36.5139,-86.5629,263,53.6,shape,false,false,America/Chicago,3,37048 37148,1840024894
+Milledgeville,Milledgeville,Tennessee,47023,Chester,35.3776,-88.366,252,60.5,shape,false,true,America/Chicago,3,38332 38359,1840016409
+Butler,Butler,Tennessee,47091,Johnson,36.3562,-82.0347,251,127.1,shape,false,false,America/New_York,3,37640,1840110711
+Big Rock,Big Rock,Tennessee,47161,Stewart,36.5767,-87.7579,250,56.1,shape,false,false,America/Chicago,3,37023,1840036114
+Medon,Medon,Tennessee,47113,Madison,35.4556,-88.8636,248,96.4,shape,false,true,America/Chicago,3,38356,1840015394
+Westpoint,Westpoint,Tennessee,47099,Lawrence,35.1349,-87.5377,246,106.1,shape,false,false,America/Chicago,3,38486,1840036110
+Leoma,Leoma,Tennessee,47099,Lawrence,35.1582,-87.3464,240,48.8,shape,false,false,America/Chicago,3,38468,1840036059
+Saulsbury,Saulsbury,Tennessee,47069,Hardeman,35.0488,-89.0884,239,152.5,shape,false,true,America/Chicago,3,38067,1840017860
+Pocahontas,Pocahontas,Tennessee,47069,Hardeman,35.0547,-88.8019,233,43.8,shape,false,false,America/Chicago,3,38061,1840110397
+Oakdale,Oakdale,Tennessee,47129,Morgan,35.9895,-84.5573,230,101.6,shape,false,true,America/New_York,3,37748 37829,1840016101
+Samburg,Samburg,Tennessee,47131,Obion,36.3823,-89.3533,219,178.6,shape,false,true,America/Chicago,3,38232,1840017708
+Ocoee,Ocoee,Tennessee,47139,Polk,35.1235,-84.7167,214,88.6,shape,false,false,America/New_York,3,37361,1840036135
+Morris Chapel,Morris Chapel,Tennessee,47071,Hardin,35.3139,-88.3558,209,30.8,shape,false,false,America/Chicago,3,38361,1840110205
+Rives,Rives,Tennessee,47131,Obion,36.356,-89.0495,204,200.4,shape,false,true,America/Chicago,3,38253,1840017707
+Taft,Taft,Tennessee,47103,Lincoln,35.0261,-86.7176,201,21.6,shape,false,false,America/Chicago,3,38488,1840035995
+Randolph,Randolph,Tennessee,47167,Tipton,35.5195,-89.8825,188,50.2,shape,false,false,America/Chicago,3,38023 38015,1840110445
+Iron City,Iron City,Tennessee,47099,Lawrence,35.0227,-87.5855,187,104.5,shape,false,true,America/Chicago,3,38463,1840036055
+Whiteside,Whiteside,Tennessee,47115,Marion,34.9946,-85.4868,174,17.0,shape,false,false,America/New_York,3,37419 37396,1840110881
+Walterhill,Walterhill,Tennessee,47149,Rutherford,35.9573,-86.3679,171,22.0,shape,false,false,America/Chicago,3,37130 37085 37129,1840013377
+Conasauga,Conasauga,Tennessee,47139,Polk,35.0052,-84.7276,167,96.2,shape,false,false,America/New_York,3,37362 37316,1840036121
+Wildersville,Wildersville,Tennessee,47077,Henderson,35.7766,-88.3561,165,37.8,shape,false,false,America/Chicago,3,38388 38351,1840036001
+Enville,Enville,Tennessee,47023,Chester,35.3911,-88.4303,157,42.0,shape,false,true,America/Chicago,3,38332,1840016325
+Elgin,Elgin,Tennessee,47151,Scott,36.3285,-84.6091,157,31.2,shape,false,false,America/New_York,3,37852 37732 37872,1840025755
+Slayden,Slayden,Tennessee,47043,Dickson,36.2913,-87.4656,157,39.5,shape,false,true,America/Chicago,3,37165 37051,1840017723
+Shiloh,Shiloh,Tennessee,47071,Hardin,35.1104,-88.3638,150,38.7,shape,false,false,America/Chicago,3,38376,1840145551
+Mitchellville,Mitchellville,Tennessee,47165,Sumner,36.6344,-86.54,148,106.4,shape,false,true,America/Chicago,3,37148 37119,1840014417
+Luray,Luray,Tennessee,47077,Henderson,35.6017,-88.5703,142,16.8,shape,false,false,America/Chicago,3,38313,1840110094
+Palmersville,Palmersville,Tennessee,47183,Weakley,36.4084,-88.5842,142,19.1,shape,false,false,America/Chicago,3,38241,1840036081
+Graball,Graball,Tennessee,47165,Sumner,36.4838,-86.4396,142,27.3,shape,false,false,America/Chicago,3,37066 37148,1840024893
+Helenwood,Helenwood,Tennessee,47151,Scott,36.4227,-84.5429,140,26.9,shape,false,false,America/New_York,3,37755,1840013302
+Hickory Valley,Hickory Valley,Tennessee,47069,Hardeman,35.155,-89.126,139,102.7,shape,false,true,America/Chicago,3,38042,1840015449
+Huron,Huron,Tennessee,47077,Henderson,35.5935,-88.5361,132,51.3,shape,false,false,America/Chicago,3,38345,1840109930
+Bransford,Bransford,Tennessee,47165,Sumner,36.5133,-86.2853,131,12.6,shape,false,false,America/Chicago,3,37022,1840024889
+Normandy,Normandy,Tennessee,47003,Bedford,35.4523,-86.2582,121,115.3,shape,false,true,America/Chicago,3,37360,1840016310
+Greenvale,Greenvale,Tennessee,47189,Wilson,36.0055,-86.2012,120,19.1,shape,false,false,America/Chicago,3,37184,1840110892
+Chewalla,Chewalla,Tennessee,47109,McNairy,35.0209,-88.6426,117,33.7,shape,false,false,America/Chicago,3,38367,1840036019
+Farner,Farner,Tennessee,47139,Polk,35.1543,-84.3191,114,30.1,shape,false,false,America/New_York,3,37333,1840036139
+Yuma,Yuma,Tennessee,47017,Carroll,35.8438,-88.3372,114,30.4,shape,false,false,America/Chicago,3,38390,1840110657
+Dukedom,Dukedom,Tennessee,47183,Weakley,36.4949,-88.7163,110,22.8,shape,false,false,America/Chicago,3,38226 38237,1840144197
+Robbins,Robbins,Tennessee,47151,Scott,36.3536,-84.5839,109,24.1,shape,false,false,America/New_York,3,37852,1840025756
+Viola,Viola,Tennessee,47177,Warren,35.5387,-85.8604,105,83.5,shape,false,true,America/Chicago,3,37394 37357,1840016271
+Holladay,Holladay,Tennessee,47005,Benton,35.872,-88.1449,99,25.9,shape,false,false,America/Chicago,3,38341,1840036052
+Eva,Eva,Tennessee,47005,Benton,36.0687,-88.0081,97,18.8,shape,false,false,America/Chicago,3,38333,1840025776
+Prospect,Prospect,Tennessee,47055,Giles,35.0219,-86.999,93,25.7,shape,false,false,America/Chicago,3,38477,1840142423
+Dellrose,Dellrose,Tennessee,47103,Lincoln,35.1159,-86.8036,90,15.3,shape,false,false,America/Chicago,3,38453,1840110768
+Silerton,Silerton,Tennessee,47069,Hardeman,35.3424,-88.8098,85,49.1,shape,false,true,America/Chicago,3,38340,1840017861
+Buchanan,Buchanan,Tennessee,47079,Henry,36.434,-88.2027,74,27.1,shape,false,false,America/Chicago,3,38222,1840144146
+Bogota,Bogota,Tennessee,47045,Dyer,36.162,-89.439,74,11.8,shape,false,false,America/Chicago,3,38080 38007,1840036011
+Essary Springs,Essary Springs,Tennessee,47069,Hardeman,35.0113,-88.8025,73,6.8,shape,false,false,America/Chicago,3,38061,1840109651
+Belvidere,Belvidere,Tennessee,47051,Franklin,35.1281,-86.1881,72,58.4,shape,false,false,America/Chicago,3,37306,1840036009
+La Grange,La Grange,Tennessee,47047,Fayette,35.0476,-89.2409,68,13.1,shape,false,true,America/Chicago,3,38039 38057 38046,1840016406
+Tuckers Crossroads,Tuckers Crossroads,Tennessee,47189,Wilson,36.2066,-86.1676,67,9.1,shape,false,false,America/Chicago,3,37090,1840110621
+Frankewing,Frankewing,Tennessee,47055,Giles,35.1943,-86.857,64,26.2,shape,false,false,America/Chicago,3,38478 38459,1840036042
+Miston,Miston,Tennessee,47045,Dyer,36.1604,-89.494,61,17.0,shape,false,false,America/Chicago,3,38080,1840110183
+Cottage Grove,Cottage Grove,Tennessee,47079,Henry,36.3783,-88.4786,57,123.1,shape,false,true,America/Chicago,3,38224,1840016073
+Lavinia,Lavinia,Tennessee,47017,Carroll,35.8508,-88.6527,56,15.4,shape,false,false,America/Chicago,3,38348,1840110037
+Mercer,Mercer,Tennessee,47113,Madison,35.4745,-89.0394,51,11.3,shape,false,false,America/Chicago,3,38392,1840036070
+Coker Creek,Coker Creek,Tennessee,47123,Monroe,35.2632,-84.2882,45,9.1,shape,false,false,America/New_York,3,37385,1840111404
+Orme,Orme,Tennessee,47115,Marion,35.0147,-85.8048,43,4.0,shape,false,true,America/Chicago,3,37380,1840016431
+Dancyville,Dancyville,Tennessee,47075,Haywood,35.4067,-89.297,32,8.5,shape,false,false,America/Chicago,3,38069,1840109567
+Childers Hill,Childers Hill,Tennessee,47071,Hardin,35.0816,-88.3267,20,6.4,shape,false,false,America/Chicago,3,38357 38326,1840109489
+Whitlock,Whitlock,Tennessee,47079,Henry,36.3707,-88.3612,18,9.1,shape,false,false,America/Chicago,3,38242,1840109214
+Wynnburg,Wynnburg,Tennessee,47095,Lake,36.3301,-89.4686,15,5.0,shape,false,false,America/Chicago,3,38080 38077,1840036002
+Sherwood,Sherwood,Tennessee,47051,Franklin,35.0749,-85.9259,9,3.8,shape,false,false,America/Chicago,3,37376,1840036099
+Jacks Creek,Jacks Creek,Tennessee,47023,Chester,35.4691,-88.5146,0,31.3,shape,false,false,America/Chicago,3,38347,1840109948

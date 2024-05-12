@@ -1,0 +1,738 @@
+Wichita,Wichita,Kansas,20173,Sedgwick,37.6895,-97.3443,509003,938.6,shape,false,true,America/Chicago,2,67230 67235 67260 67217 67216 67215 67214 67213 67212 67211 67210 67219 67218 67223 67220 67226 67202 67203 67204 67205 67206 67207 67208 67209 67201 67275 67276 67277 67278,1840001686
+Overland Park,Overland Park,Kansas,20091,Johnson,38.887,-94.687,196676,1009.4,shape,false,true,America/Chicago,2,66214 66210 66211 66212 66213 66221 66223 66209 66202 66207 66204 66013 66251 66085 66224 66201 66225 66276 66282 66283,1840003834
+Kansas City,Kansas City,Kansas,20209,Wyandotte,39.1235,-94.7443,155438,481.1,shape,false,true,America/Chicago,2,66101 66102 66103 66104 66105 66106 66109 66160 66112 66111 66115 66118 66110 66117 66119,1840001626
+Topeka,Topeka,Kansas,20177,Shawnee,39.0346,-95.6955,148185,792.2,shape,false,true,America/Chicago,2,66621 66622 66609 66608 66607 66606 66605 66604 66603 66619 66611 66612 66614 66616 66601 66624 66625 66626 66629 66636 66647 66667 66675 66683 66699,1840001621
+Olathe,Olathe,Kansas,20091,Johnson,38.8833,-94.82,142114,878.6,shape,false,true,America/Chicago,2,66062 66061 66051 66063,1840003833
+Lawrence,Lawrence,Kansas,20045,Douglas,38.9597,-95.2642,96061,1075.1,shape,false,true,America/Chicago,3,66045 66044 66047 66046 66049,1840001632
+Shawnee,Shawnee,Kansas,20091,Johnson,39.0158,-94.8076,67671,622.5,shape,false,true,America/Chicago,3,66214 66217 66218 66227 66216 66203 66226 66286,1840001641
+Lenexa,Lenexa,Kansas,20091,Johnson,38.9609,-94.8018,57497,651.6,shape,false,true,America/Chicago,3,66214 66215 66219 66227 66220 66216 66250,1840001639
+Manhattan,Manhattan,Kansas,20161,Riley,39.1886,-96.6048,54287,1048.6,shape,false,true,America/Chicago,3,66506 66502 66503 66505,1840001589
+Salina,Salina,Kansas,20169,Saline,38.8136,-97.6143,46734,692.0,shape,false,true,America/Chicago,3,67401 67402,1840001647
+Hutchinson,Hutchinson,Kansas,20155,Reno,38.0671,-97.9081,39995,628.3,shape,false,true,America/Chicago,3,67502 67501,1840001673
+Leavenworth,Leavenworth,Kansas,20103,Leavenworth,39.3239,-94.924,37193,589.7,shape,false,true,America/Chicago,3,66027 66048,1840001591
+Leawood,Leawood,Kansas,20091,Johnson,38.9075,-94.6258,33784,863.5,shape,false,true,America/Chicago,3,66211 66209 66206 66224,1840001638
+Garden City,Garden City,Kansas,20055,Finney,37.9753,-100.8527,27933,988.4,shape,false,true,America/Chicago,3,67846,1840001669
+Dodge City,Dodge City,Kansas,20057,Ford,37.7611,-100.0182,27721,726.1,shape,false,true,America/Chicago,3,67801,1840001684
+Derby,Derby,Kansas,20173,Sedgwick,37.5571,-97.2551,25551,947.5,shape,false,true,America/Chicago,3,67037,1840007569
+Emporia,Emporia,Kansas,20111,Lyon,38.4028,-96.1932,24118,756.2,shape,false,true,America/Chicago,3,66801,1840001652
+Gardner,Gardner,Kansas,20091,Johnson,38.8122,-94.9275,23488,742.4,shape,false,true,America/Chicago,3,66030,1840001636
+Prairie Village,Prairie Village,Kansas,20091,Johnson,38.9874,-94.6362,22922,1425.0,shape,false,true,America/Chicago,3,66208 66207,1840001644
+Junction City,Junction City,Kansas,20061,Geary,39.0277,-96.8508,22738,760.4,shape,false,true,America/Chicago,3,66441,1840001620
+Hays,Hays,Kansas,20051,Ellis,38.8821,-99.3221,21111,943.1,shape,false,true,America/Chicago,3,67601,1840001628
+Pittsburg,Pittsburg,Kansas,20037,Crawford,37.4129,-94.6985,20610,606.1,shape,false,true,America/Chicago,3,66762,1840001697
+Liberal,Liberal,Kansas,20175,Seward,37.0466,-100.9295,19099,613.5,shape,false,true,America/Chicago,3,67901 67905,1840001704
+Newton,Newton,Kansas,20079,Harvey,38.0368,-97.3449,18527,484.0,shape,false,true,America/Chicago,3,67114,1840003846
+Andover,Andover,Kansas,20015,Butler,37.6873,-97.1352,15460,573.4,shape,false,true,America/Chicago,3,67002,1840007546
+Great Bend,Great Bend,Kansas,20009,Barton,38.3593,-98.8015,14725,541.6,shape,false,true,America/Chicago,3,67530,1840001656
+McPherson,McPherson,Kansas,20113,McPherson,38.3714,-97.6605,13955,723.6,shape,false,true,America/Chicago,3,67460,1840001659
+El Dorado,El Dorado,Kansas,20015,Butler,37.821,-96.8613,12882,542.4,shape,false,true,America/Chicago,3,67042,1840001676
+Ottawa,Ottawa,Kansas,20059,Franklin,38.5996,-95.2636,12615,471.9,shape,false,true,America/Chicago,3,66067,1840003840
+Arkansas City,Arkansas City,Kansas,20035,Cowley,37.0726,-97.0385,11997,497.2,shape,false,true,America/Chicago,3,67005,1840001700
+Winfield,Winfield,Kansas,20035,Cowley,37.274,-96.95,11804,409.0,shape,false,true,America/Chicago,3,67156 67019,1840001701
+Lansing,Lansing,Kansas,20103,Leavenworth,39.2428,-94.8972,11254,353.3,shape,false,true,America/Chicago,3,66043 66048,1840001590
+Merriam,Merriam,Kansas,20091,Johnson,39.0186,-94.6933,11070,990.0,shape,false,true,America/Chicago,3,66203 66202 66204,1840003830
+Haysville,Haysville,Kansas,20173,Sedgwick,37.5648,-97.3527,10891,896.6,shape,false,true,America/Chicago,3,67060 67217,1840007568
+Atchison,Atchison,Kansas,20005,Atchison,39.5625,-95.1367,10834,522.0,shape,false,true,America/Chicago,3,66002,1840001543
+Mission,Mission,Kansas,20091,Johnson,39.027,-94.6568,9894,1432.0,shape,false,true,America/Chicago,3,66202 66205 66222 66285,1840003831
+Parsons,Parsons,Kansas,20099,Labette,37.3405,-95.2958,9564,347.3,shape,false,true,America/Chicago,3,67335 67357,1840001712
+Augusta,Augusta,Kansas,20015,Butler,37.6955,-96.9919,9253,842.2,shape,false,true,America/Chicago,3,67002 67010,1840001675
+Coffeyville,Coffeyville,Kansas,20125,Montgomery,37.0519,-95.618,8842,360.5,shape,false,true,America/Chicago,3,67337,1840001707
+Chanute,Chanute,Kansas,20133,Neosho,37.6695,-95.4621,8713,473.8,shape,false,true,America/Chicago,3,66720,1840001694
+Fort Riley,Fort Riley,Kansas,20161,Riley,39.1064,-96.8117,8623,519.3,shape,true,true,America/Chicago,3,66442,1840073757
+Independence,Independence,Kansas,20125,Montgomery,37.2119,-95.7327,8556,430.7,shape,false,true,America/Chicago,3,67301,1840001708
+Valley Center,Valley Center,Kansas,20173,Sedgwick,37.8332,-97.3646,8448,459.0,shape,false,true,America/Chicago,3,67147,1840010848
+Spring Hill,Spring Hill,Kansas,20091,Johnson,38.7565,-94.8201,8279,341.9,shape,false,true,America/Chicago,3,66083,1840001642
+Bonner Springs,Bonner Springs,Kansas,20209,Wyandotte,39.0817,-94.8776,7770,192.0,shape,false,true,America/Chicago,3,66012,1840001624
+Wellington,Wellington,Kansas,20191,Sumner,37.2625,-97.426,7710,390.8,shape,false,true,America/Chicago,3,67103 67152,1840001703
+Park City,Park City,Kansas,20173,Sedgwick,37.8101,-97.3256,7703,296.1,shape,false,true,America/Chicago,3,67219 67147,1840009870
+Fort Scott,Fort Scott,Kansas,20011,Bourbon,37.8283,-94.7038,7569,523.5,shape,false,true,America/Chicago,3,66701,1840001683
+Basehor,Basehor,Kansas,20103,Leavenworth,39.1332,-94.9333,7004,377.8,shape,false,true,America/Chicago,3,66007,1840007373
+Roeland Park,Roeland Park,Kansas,20091,Johnson,39.0359,-94.6374,6848,1631.8,shape,false,true,America/Chicago,3,66205,1840001640
+Pratt,Pratt,Kansas,20151,Pratt,37.6765,-98.7451,6588,329.8,shape,false,true,America/Chicago,3,67124,1840001687
+Abilene,Abilene,Kansas,20041,Dickinson,38.923,-97.2252,6489,526.1,shape,false,true,America/Chicago,3,67410,1840001629
+De Soto,De Soto,Kansas,20091,Johnson,38.9688,-94.9549,6248,214.3,shape,false,true,America/Chicago,3,66018,1840001633
+Maize,Maize,Kansas,20173,Sedgwick,37.7749,-97.462,6071,239.2,shape,false,true,America/Chicago,3,67101 67223,1840009869
+Eudora,Eudora,Kansas,20045,Douglas,38.9345,-95.0956,6025,792.0,shape,false,true,America/Chicago,3,66025,1840008558
+Mulvane,Mulvane,Kansas,20173,Sedgwick,37.4789,-97.2724,6003,549.3,shape,false,true,America/Chicago,3,67110 67120,1840008748
+Ulysses,Ulysses,Kansas,20067,Grant,37.5774,-101.3546,5834,697.8,shape,false,true,America/Chicago,3,67880,1840010856
+Paola,Paola,Kansas,20121,Miami,38.5788,-94.8617,5742,418.4,shape,false,true,America/Chicago,3,66071,1840001654
+Tonganoxie,Tonganoxie,Kansas,20103,Leavenworth,39.1088,-95.0811,5484,520.8,shape,false,true,America/Chicago,3,66086,1840010661
+Colby,Colby,Kansas,20193,Thomas,39.3848,-101.0452,5403,582.6,shape,false,true,America/Chicago,3,67701,1840001553
+Iola,Iola,Kansas,20001,Allen,37.9274,-95.4006,5395,466.5,shape,false,true,America/Chicago,3,66749,1840001681
+Goddard,Goddard,Kansas,20173,Sedgwick,37.6652,-97.5617,5119,387.6,shape,false,true,America/Chicago,3,67052,1840008705
+Concordia,Concordia,Kansas,20029,Cloud,39.5669,-97.6467,5080,435.5,shape,false,true,America/Chicago,3,66901,1840001541
+Louisburg,Louisburg,Kansas,20121,Miami,38.6202,-94.677,4940,390.9,shape,false,true,America/Chicago,3,66053,1840001653
+Baldwin City,Baldwin City,Kansas,20045,Douglas,38.7782,-95.188,4845,695.7,shape,false,true,America/Chicago,3,66006,1840007415
+Edwardsville,Edwardsville,Kansas,20209,Wyandotte,39.0765,-94.8166,4744,202.7,shape,false,true,America/Chicago,3,66111 66113,1840001625
+Rose Hill,Rose Hill,Kansas,20015,Butler,37.5702,-97.1361,4357,745.8,shape,false,true,America/Chicago,3,67133,1840009856
+Osawatomie,Osawatomie,Kansas,20121,Miami,38.5063,-94.9486,4256,312.9,shape,false,true,America/Chicago,3,66064,1840003841
+Russell,Russell,Kansas,20167,Russell,38.8874,-98.8514,4238,336.9,shape,false,true,America/Chicago,3,67665,1840001631
+Wamego,Wamego,Kansas,20149,Pottawatomie,39.2054,-96.3099,4190,644.2,shape,false,true,America/Chicago,3,66547,1840010634
+Fairway,Fairway,Kansas,20091,Johnson,39.0245,-94.6287,4162,1423.6,shape,false,true,America/Chicago,3,66205,1840001635
+Clay Center,Clay Center,Kansas,20027,Clay,39.3812,-97.1276,4154,502.7,shape,false,true,America/Chicago,3,67432,1840001554
+Hugoton,Hugoton,Kansas,20189,Stevens,37.1745,-101.3447,4134,767.4,shape,false,true,America/Chicago,3,67951,1840007618
+Scott City,Scott City,Kansas,20171,Scott,38.4789,-100.9031,4121,586.5,shape,false,true,America/Chicago,3,67871,1840009647
+Baxter Springs,Baxter Springs,Kansas,20021,Cherokee,37.0195,-94.7351,3901,478.3,shape,false,true,America/Chicago,3,66713,1840001714
+Goodland,Goodland,Kansas,20181,Sherman,39.3489,-101.7143,3813,327.1,shape,false,true,America/Denver,3,67735,1840001552
+Lindsborg,Lindsborg,Kansas,20113,McPherson,38.5774,-97.6738,3762,792.3,shape,false,true,America/Chicago,3,67456,1840001658
+Hesston,Hesston,Kansas,20079,Harvey,38.1401,-97.427,3703,401.1,shape,false,true,America/Chicago,3,67062,1840007534
+Lyons,Lyons,Kansas,20159,Rice,38.3462,-98.2045,3596,536.9,shape,false,true,America/Chicago,3,67554,1840001662
+Mission Hills,Mission Hills,Kansas,20091,Johnson,39.0141,-94.6172,3567,676.0,shape,false,true,America/Chicago,3,66208,1840003832
+Marysville,Marysville,Kansas,20117,Marshall,39.8432,-96.6387,3414,288.9,shape,false,true,America/Chicago,3,66508,1840003768
+Holton,Holton,Kansas,20085,Jackson,39.4699,-95.7319,3386,488.5,shape,false,true,America/Chicago,3,66436,1840001542
+Frontenac,Frontenac,Kansas,20037,Crawford,37.4581,-94.7012,3384,245.6,shape,false,true,America/Chicago,3,66763 66762,1840001695
+Hiawatha,Hiawatha,Kansas,20013,Brown,39.8519,-95.538,3246,483.7,shape,false,true,America/Chicago,3,66434,1840000726
+Garnett,Garnett,Kansas,20003,Anderson,38.2845,-95.2408,3219,403.2,shape,false,true,America/Chicago,3,66032,1840001666
+Larned,Larned,Kansas,20145,Pawnee,38.1833,-99.1012,3167,507.4,shape,false,true,America/Chicago,3,67550,1840001667
+Beloit,Beloit,Kansas,20123,Mitchell,39.4645,-98.1082,3083,303.9,shape,false,true,America/Chicago,3,67420,1840001588
+Ellsworth,Ellsworth,Kansas,20053,Ellsworth,38.7327,-98.2285,3081,497.1,shape,false,true,America/Chicago,3,67439,1840001649
+Kingman,Kingman,Kansas,20095,Kingman,37.648,-98.1167,3051,328.0,shape,false,true,America/Chicago,3,67068,1840001692
+Oaklawn-Sunview,Oaklawn-Sunview,Kansas,20173,Sedgwick,37.6084,-97.2984,2984,2146.4,shape,false,true,America/Chicago,2,67216,1840035328
+Kechi,Kechi,Kansas,20173,Sedgwick,37.8234,-97.2891,2949,188.9,shape,false,true,America/Chicago,3,67067 67147,1840008707
+Columbus,Columbus,Kansas,20021,Cherokee,37.1716,-94.844,2922,463.7,shape,false,true,America/Chicago,3,66725,1840001715
+Osage City,Osage City,Kansas,20139,Osage,38.6337,-95.8218,2854,350.0,shape,false,true,America/Chicago,3,66523,1840003836
+South Hutchinson,South Hutchinson,Kansas,20155,Reno,38.0278,-97.9429,2820,383.0,shape,false,true,America/Chicago,3,67505 67504,1840009762
+Galena,Galena,Kansas,20021,Cherokee,37.0751,-94.6354,2764,231.8,shape,false,true,America/Chicago,3,66739,1840001716
+Hillsboro,Hillsboro,Kansas,20115,Marion,38.3527,-97.1992,2744,434.2,shape,false,true,America/Chicago,3,67063,1840001661
+Norton,Norton,Kansas,20137,Norton,39.8362,-99.8916,2729,552.1,shape,false,true,America/Chicago,3,67654,1840003767
+Hoisington,Hoisington,Kansas,20009,Barton,38.5181,-98.7774,2675,890.5,shape,false,true,America/Chicago,3,67544,1840001657
+St. Marys,St. Marys,Kansas,20149,Pottawatomie,39.1942,-96.0643,2661,871.8,shape,false,true,America/Chicago,3,66536,1840009589
+Girard,Girard,Kansas,20037,Crawford,37.5094,-94.8456,2639,436.5,shape,false,true,America/Chicago,3,66743,1840001696
+Burlington,Burlington,Kansas,20031,Coffey,38.1931,-95.7452,2617,448.9,shape,false,true,America/Chicago,3,66839,1840001664
+Clearwater,Clearwater,Kansas,20173,Sedgwick,37.5096,-97.4975,2544,500.8,shape,false,true,America/Chicago,3,67026,1840007563
+Sterling,Sterling,Kansas,20159,Rice,38.2094,-98.2064,2507,540.4,shape,false,true,America/Chicago,3,67579,1840001663
+Council Grove,Council Grove,Kansas,20127,Morris,38.6617,-96.4909,2452,443.3,shape,false,true,America/Chicago,3,66846,1840001648
+Holcomb,Holcomb,Kansas,20055,Finney,37.9859,-100.9936,2395,747.8,shape,false,true,America/Chicago,3,67851,1840007523
+Cheney,Cheney,Kansas,20173,Sedgwick,37.6353,-97.7797,2380,396.4,shape,false,true,America/Chicago,3,67025,1840007565
+Sabetha,Sabetha,Kansas,20131,Nemaha,39.913,-95.7913,2349,272.3,shape,false,true,America/Chicago,3,66534,1840000728
+Anthony,Anthony,Kansas,20077,Harper,37.1588,-98.0418,2290,274.4,shape,false,true,America/Chicago,3,67003,1840001709
+Halstead,Halstead,Kansas,20079,Harvey,37.9999,-97.5102,2243,640.9,shape,false,true,America/Chicago,3,67056,1840001671
+Eureka,Eureka,Kansas,20073,Greenwood,37.8261,-96.289,2239,377.5,shape,false,true,America/Chicago,3,67045,1840001672
+Neodesha,Neodesha,Kansas,20205,Wilson,37.4241,-95.6848,2236,614.6,shape,false,true,America/Chicago,3,66757,1840003853
+Ellinwood,Ellinwood,Kansas,20009,Barton,38.3574,-98.5837,2225,650.1,shape,false,true,America/Chicago,3,67526,1840001655
+Phillipsburg,Phillipsburg,Kansas,20147,Phillips,39.7512,-99.321,2204,501.9,shape,false,true,America/Chicago,3,67661,1840000725
+Fredonia,Fredonia,Kansas,20205,Wilson,37.5327,-95.822,2121,335.7,shape,false,true,America/Chicago,3,66736,1840001693
+Ellis,Ellis,Kansas,20051,Ellis,38.9346,-99.5568,2117,493.3,shape,false,true,America/Chicago,3,67637,1840001627
+North Newton,North Newton,Kansas,20079,Harvey,38.0766,-97.3475,2105,891.4,shape,false,true,America/Chicago,3,67117,1840008675
+Cherryvale,Cherryvale,Kansas,20125,Montgomery,37.269,-95.5536,2104,405.3,shape,false,true,America/Chicago,3,67335,1840001706
+Belleville,Belleville,Kansas,20157,Republic,39.8245,-97.6337,2096,393.7,shape,false,true,America/Chicago,3,66935,1840000723
+Herington,Herington,Kansas,20127,Morris,38.6862,-96.8669,2074,165.9,shape,false,true,America/Chicago,3,67449,1840001630
+Lakin,Lakin,Kansas,20093,Kearny,37.94,-101.2585,2066,843.3,shape,false,true,America/Chicago,3,67860,1840008668
+Minneapolis,Minneapolis,Kansas,20143,Ottawa,39.1243,-97.6997,2065,434.9,shape,false,true,America/Chicago,3,67467,1840003824
+Oakley,Oakley,Kansas,20109,Logan,39.1233,-100.8449,2063,414.3,shape,false,true,America/Chicago,3,67748,1840008471
+Seneca,Seneca,Kansas,20131,Nemaha,39.838,-96.0696,2045,441.5,shape,false,true,America/Chicago,3,66538,1840000729
+McConnell AFB,McConnell AFB,Kansas,20173,Sedgwick,37.625,-97.26,2032,189.2,shape,true,true,America/Chicago,4,67210 67221,1840039354
+Wellsville,Wellsville,Kansas,20059,Franklin,38.7175,-95.0778,2022,454.1,shape,false,true,America/Chicago,3,66092,1840010767
+Humboldt,Humboldt,Kansas,20001,Allen,37.8125,-95.4363,1941,490.8,shape,false,true,America/Chicago,3,66748,1840001680
+Edgerton,Edgerton,Kansas,20091,Johnson,38.7717,-94.9706,1894,85.9,shape,false,true,America/Chicago,3,66021 66030,1840001634
+Plainville,Plainville,Kansas,20163,Rooks,39.2341,-99.3009,1889,609.7,shape,false,true,America/Chicago,3,67663,1840009576
+Moundridge,Moundridge,Kansas,20113,McPherson,38.2021,-97.515,1854,456.3,shape,false,true,America/Chicago,3,67107,1840008636
+Marion,Marion,Kansas,20115,Marion,38.3547,-97.0082,1837,257.1,shape,false,true,America/Chicago,3,66861,1840003843
+Cimarron,Cimarron,Kansas,20069,Gray,37.8097,-100.3453,1830,613.3,shape,false,true,America/Chicago,3,67835,1840007558
+Westwood,Westwood,Kansas,20091,Johnson,39.0394,-94.6156,1829,1717.2,shape,false,true,America/Chicago,3,66205,1840001643
+WaKeeney,WaKeeney,Kansas,20195,Trego,39.0234,-99.8815,1801,389.9,shape,false,true,America/Chicago,3,67672,1840010705
+Oswego,Oswego,Kansas,20099,Labette,37.1674,-95.1123,1791,287.5,shape,false,true,America/Chicago,3,67356,1840003857
+Grandview Plaza,Grandview Plaza,Kansas,20061,Geary,39.0327,-96.793,1791,816.8,shape,false,true,America/Chicago,3,66441,1840008543
+Pleasanton,Pleasanton,Kansas,20107,Linn,38.179,-94.7053,1724,319.6,shape,false,true,America/Chicago,3,66075,1840009748
+Horton,Horton,Kansas,20013,Brown,39.6635,-95.5326,1704,371.2,shape,false,true,America/Chicago,3,66439,1840000727
+Towanda,Towanda,Kansas,20015,Butler,37.7954,-96.9963,1673,706.4,shape,false,true,America/Chicago,3,67144,1840010836
+Oberlin,Oberlin,Kansas,20039,Decatur,39.823,-100.5308,1629,329.3,shape,false,true,America/Chicago,3,67749,1840003766
+Hill City,Hill City,Kansas,20065,Graham,39.367,-99.846,1593,612.7,shape,false,true,America/Chicago,3,67642,1840007352
+Douglass,Douglass,Kansas,20015,Butler,37.5169,-97.0105,1587,577.0,shape,false,true,America/Chicago,3,67039,1840007548
+Stockton,Stockton,Kansas,20163,Rooks,39.4251,-99.2764,1567,365.5,shape,false,true,America/Chicago,3,67669,1840009574
+Conway Springs,Conway Springs,Kansas,20191,Sumner,37.3899,-97.643,1560,610.4,shape,false,true,America/Chicago,3,67031,1840007608
+Caney,Caney,Kansas,20125,Montgomery,37.014,-95.9315,1543,440.5,shape,false,true,America/Chicago,3,67333,1840001705
+Elkhart,Elkhart,Kansas,20129,Morton,37.0038,-101.8944,1542,289.9,shape,false,true,America/Chicago,3,67950,1840008759
+Smith Center,Smith Center,Kansas,20183,Smith,39.774,-98.7831,1539,483.5,shape,false,true,America/Chicago,3,66967,1840009501
+Leoti,Leoti,Kansas,20203,Wichita,38.4834,-101.3579,1536,450.7,shape,false,true,America/Chicago,3,67861,1840008624
+Ogden,Ogden,Kansas,20161,Riley,39.1128,-96.7028,1529,352.8,shape,false,true,America/Chicago,3,66517,1840008479
+Colwich,Colwich,Kansas,20173,Sedgwick,37.7818,-97.5363,1513,437.4,shape,false,true,America/Chicago,3,67030,1840007564
+Osborne,Osborne,Kansas,20141,Osborne,39.4404,-98.6994,1512,379.4,shape,false,true,America/Chicago,3,67473,1840003806
+Syracuse,Syracuse,Kansas,20075,Hamilton,37.962,-101.7782,1511,142.3,shape,false,true,America/Denver,3,67878,1840009756
+Wathena,Wathena,Kansas,20043,Doniphan,39.7602,-94.9396,1499,247.1,shape,false,true,America/Chicago,3,66090,1840010556
+Yates Center,Yates Center,Kansas,20207,Woodson,37.8668,-95.7539,1488,227.2,shape,false,true,America/Chicago,3,66783,1840001679
+Sedgwick,Sedgwick,Kansas,20079,Harvey,37.918,-97.4201,1465,346.2,shape,false,true,America/Chicago,3,67135,1840009759
+Silver Lake,Silver Lake,Kansas,20177,Shawnee,39.0994,-95.8563,1446,992.1,shape,false,true,America/Chicago,3,66539,1840009685
+Belle Plaine,Belle Plaine,Kansas,20191,Sumner,37.3934,-97.2795,1445,671.9,shape,false,true,America/Chicago,3,67013,1840007610
+La Cygne,La Cygne,Kansas,20107,Linn,38.3479,-94.7613,1427,360.6,shape,false,true,America/Chicago,3,66040,1840008666
+Haven,Haven,Kansas,20155,Reno,37.9016,-97.7831,1421,706.3,shape,false,true,America/Chicago,3,67543,1840007540
+Inman,Inman,Kansas,20113,McPherson,38.2323,-97.7715,1417,682.9,shape,false,true,America/Chicago,3,67546,1840008637
+Erie,Erie,Kansas,20133,Neosho,37.5717,-95.2418,1396,425.5,shape,false,true,America/Chicago,3,66733,1840008722
+Carbondale,Carbondale,Kansas,20139,Osage,38.8192,-95.6932,1396,737.3,shape,false,true,America/Chicago,3,66414,1840007459
+Sublette,Sublette,Kansas,20081,Haskell,37.4822,-100.8466,1385,509.2,shape,false,true,America/Chicago,3,67877,1840009881
+Medicine Lodge,Medicine Lodge,Kansas,20007,Barber,37.2851,-98.5812,1377,443.6,shape,false,true,America/Chicago,3,67104,1840008754
+Kinsley,Kinsley,Kansas,20047,Edwards,37.9224,-99.4114,1371,408.6,shape,false,true,America/Chicago,3,67547,1840001677
+Meade,Meade,Kansas,20119,Meade,37.2836,-100.343,1348,355.6,shape,false,true,America/Chicago,3,67864,1840008751
+Buhler,Buhler,Kansas,20155,Reno,38.1384,-97.7704,1343,724.2,shape,false,true,America/Chicago,3,67522,1840007537
+Johnson City,Johnson City,Kansas,20187,Stanton,37.5703,-101.7447,1318,237.5,shape,false,true,America/Chicago,3,67855,1840073794
+Hoxie,Hoxie,Kansas,20179,Sheridan,39.3558,-100.4397,1287,577.9,shape,false,true,America/Chicago,3,67740,1840007348
+Arma,Arma,Kansas,20037,Crawford,37.5429,-94.7023,1281,436.2,shape,false,true,America/Chicago,3,66712,1840007592
+Lyndon,Lyndon,Kansas,20139,Osage,38.612,-95.6844,1276,552.2,shape,false,true,America/Chicago,3,66451,1840009776
+Plains,Plains,Kansas,20119,Meade,37.2642,-100.5898,1266,489.3,shape,false,true,America/Chicago,3,67869,1840009901
+Peabody,Peabody,Kansas,20115,Marion,38.1683,-97.1043,1259,383.9,shape,false,true,America/Chicago,3,66866,1840009662
+Ness City,Ness City,Kansas,20135,Ness,38.454,-99.9047,1243,329.8,shape,false,true,America/Chicago,3,67560,1840008625
+Atwood,Atwood,Kansas,20153,Rawlins,39.8101,-101.0418,1238,449.7,shape,false,true,America/Chicago,3,67730,1840007276
+St. John,St. John,Kansas,20185,Stafford,38.0,-98.7611,1238,245.8,shape,false,true,America/Chicago,3,67576,1840009832
+St. Francis,St. Francis,Kansas,20023,Cheyenne,39.7714,-101.8015,1230,554.4,shape,false,true,America/Chicago,3,67756,1840009498
+Auburn,Auburn,Kansas,20177,Shawnee,38.9077,-95.8158,1210,671.2,shape,false,true,America/Chicago,3,66402,1840007401
+Valley Falls,Valley Falls,Kansas,20087,Jefferson,39.3407,-95.4612,1192,654.2,shape,false,true,America/Chicago,3,66088,1840010659
+St. George,St. George,Kansas,20149,Pottawatomie,39.1915,-96.4185,1190,712.4,shape,false,true,America/Chicago,3,66535,1840009588
+Perry,Perry,Kansas,20087,Jefferson,39.0732,-95.3866,1169,602.7,shape,false,true,America/Chicago,3,66073,1840009611
+Andale,Andale,Kansas,20173,Sedgwick,37.7916,-97.6276,1169,759.1,shape,false,true,America/Chicago,3,67001,1840007566
+Pomona,Pomona,Kansas,20059,Franklin,38.6108,-95.4529,1164,475.9,shape,false,true,America/Chicago,3,66076,1840009637
+La Crosse,La Crosse,Kansas,20165,Rush,38.5318,-99.3095,1162,433.0,shape,false,true,America/Chicago,3,67548,1840008628
+Chapman,Chapman,Kansas,20041,Dickinson,38.9746,-97.0236,1140,471.8,shape,false,true,America/Chicago,3,67431,1840007410
+Oskaloosa,Oskaloosa,Kansas,20087,Jefferson,39.2158,-95.3145,1138,442.1,shape,false,true,America/Chicago,3,66066,1840009609
+Harper,Harper,Kansas,20077,Harper,37.2851,-98.0276,1134,269.8,shape,false,true,America/Chicago,3,67058,1840001710
+Elwood,Elwood,Kansas,20043,Doniphan,39.7519,-94.889,1109,147.1,shape,false,true,America/Chicago,3,66024 66090,1840008430
+Highland,Highland,Kansas,20043,Doniphan,39.8603,-95.2649,1106,800.2,shape,false,true,America/Chicago,3,66035,1840007299
+Altamont,Altamont,Kansas,20099,Labette,37.1875,-95.2898,1105,224.0,shape,false,true,America/Chicago,3,67330,1840007625
+Rossville,Rossville,Kansas,20177,Shawnee,39.1358,-95.9496,1083,755.2,shape,false,true,America/Chicago,3,66533,1840009686
+Solomon,Solomon,Kansas,20041,Dickinson,38.9215,-97.3692,1079,483.8,shape,false,true,America/Chicago,3,67480,1840009704
+Blue Rapids,Blue Rapids,Kansas,20117,Marshall,39.6791,-96.6593,1076,209.3,shape,false,true,America/Chicago,3,66411,1840007294
+Galva,Galva,Kansas,20113,McPherson,38.3836,-97.5381,1072,829.2,shape,false,true,America/Chicago,3,67443,1840008634
+Lincoln Center,Lincoln Center,Kansas,20105,Lincoln,39.043,-98.1468,1063,327.7,shape,false,true,America/Chicago,3,67455,1840073795
+Garden Plain,Garden Plain,Kansas,20173,Sedgwick,37.6627,-97.6793,1059,362.7,shape,false,true,America/Chicago,3,67050,1840008704
+Americus,Americus,Kansas,20111,Lyon,38.5066,-96.2615,1028,366.5,shape,false,true,America/Chicago,3,66835,1840007470
+Victoria,Victoria,Kansas,20051,Ellis,38.8538,-99.1473,1027,661.7,shape,false,true,America/Chicago,3,67671,1840010702
+McLouth,McLouth,Kansas,20087,Jefferson,39.1961,-95.2083,1023,685.6,shape,false,true,America/Chicago,3,66054,1840008504
+Chetopa,Chetopa,Kansas,20099,Labette,37.0376,-95.0923,1022,289.3,shape,false,true,America/Chicago,3,67336,1840001711
+Washington,Washington,Kansas,20201,Washington,39.816,-97.0487,1017,404.0,shape,false,true,America/Chicago,3,66968,1840000724
+Spearville,Spearville,Kansas,20057,Ford,37.8481,-99.7548,1008,619.9,shape,false,true,America/Chicago,3,67876,1840009868
+Caldwell,Caldwell,Kansas,20191,Sumner,37.035,-97.6089,1007,363.7,shape,false,true,America/Chicago,3,67022,1840001702
+Wakefield,Wakefield,Kansas,20027,Clay,39.2164,-97.0187,995,773.3,shape,false,true,America/Chicago,3,67487,1840010632
+Lake Quivira,Lake Quivira,Kansas,20091,Johnson,39.0393,-94.7685,994,260.0,shape,false,true,America/Chicago,3,66217 66106,1840001637
+Sedan,Sedan,Kansas,20019,Chautauqua,37.1284,-96.1848,991,465.5,shape,false,true,America/Chicago,3,67361,1840009918
+Overbrook,Overbrook,Kansas,20139,Osage,38.7794,-95.5569,967,686.3,shape,false,true,America/Chicago,3,66524,1840009778
+Whitewater,Whitewater,Kansas,20015,Butler,37.9636,-97.146,963,905.0,shape,false,true,America/Chicago,3,67154,1840010837
+Linn Valley,Linn Valley,Kansas,20107,Linn,38.3758,-94.712,938,122.4,shape,false,true,America/Chicago,3,66040,1840030354
+Madison,Madison,Kansas,20073,Greenwood,38.1336,-96.1372,917,606.3,shape,false,true,America/Chicago,3,66860,1840009760
+Benton,Benton,Kansas,20015,Butler,37.7882,-97.1078,909,251.1,shape,false,true,America/Chicago,3,67017,1840007547
+Quinter,Quinter,Kansas,20063,Gove,39.0666,-100.2347,902,346.4,shape,false,true,America/Chicago,3,67752,1840009702
+Nickerson,Nickerson,Kansas,20155,Reno,38.1488,-98.0883,900,268.3,shape,false,true,America/Chicago,3,67561,1840003847
+Wilroads Gardens,Wilroads Gardens,Kansas,20057,Ford,37.7153,-99.9269,897,153.7,shape,false,false,America/Chicago,3,67801,1840030179
+Clyde,Clyde,Kansas,20029,Cloud,39.5918,-97.4003,889,510.3,shape,false,true,America/Chicago,3,66938,1840007325
+Cottonwood Falls,Cottonwood Falls,Kansas,20017,Chase,38.3686,-96.5425,888,532.3,shape,false,true,America/Chicago,3,66845,1840007497
+Vassar,Vassar,Kansas,20139,Osage,38.6495,-95.6114,882,70.0,shape,false,false,America/Chicago,3,66543,1840026715
+Riley,Riley,Kansas,20161,Riley,39.299,-96.8277,875,664.8,shape,false,true,America/Chicago,3,66531,1840009584
+Oxford,Oxford,Kansas,20191,Sumner,37.2741,-97.1696,873,372.0,shape,false,true,America/Chicago,3,67119,1840009900
+Satanta,Satanta,Kansas,20081,Haskell,37.4378,-100.988,872,548.5,shape,false,true,America/Chicago,3,67870,1840009882
+Sharon Springs,Sharon Springs,Kansas,20199,Wallace,38.8943,-101.7511,869,371.7,shape,false,true,America/Denver,3,67758,1840009699
+Scranton,Scranton,Kansas,20139,Osage,38.7778,-95.7402,868,311.1,shape,false,true,America/Chicago,3,66537,1840009780
+Lecompton,Lecompton,Kansas,20045,Douglas,39.0358,-95.3929,864,190.0,shape,false,true,America/Chicago,3,66050,1840008559
+Burlingame,Burlingame,Kansas,20139,Osage,38.7517,-95.8351,862,376.5,shape,false,true,America/Chicago,3,66413,1840007458
+Montezuma,Montezuma,Kansas,20069,Gray,37.5925,-100.45,855,325.2,shape,false,true,America/Chicago,3,67867,1840008698
+Tribune,Tribune,Kansas,20071,Greeley,38.472,-101.7546,852,443.1,shape,false,true,America/Denver,3,67879,1840010773
+Burrton,Burrton,Kansas,20079,Harvey,38.0237,-97.6715,846,368.3,shape,false,true,America/Chicago,3,67020,1840007533
+Lebo,Lebo,Kansas,20031,Coffey,38.4156,-95.8622,834,336.3,shape,false,true,America/Chicago,3,66856,1840008657
+Troy,Troy,Kansas,20043,Doniphan,39.7846,-95.0937,825,326.8,shape,false,true,America/Chicago,3,66087,1840010555
+Mankato,Mankato,Kansas,20089,Jewell,39.7871,-98.2083,824,326.3,shape,false,true,America/Chicago,3,66956,1840009499
+Mount Hope,Mount Hope,Kansas,20173,Sedgwick,37.8735,-97.6619,818,215.3,shape,false,true,America/Chicago,3,67108,1840008706
+Weir,Weir,Kansas,20021,Cherokee,37.3095,-94.7741,804,272.7,shape,false,true,America/Chicago,3,66781,1840001718
+Ashland,Ashland,Kansas,20025,Clark,37.1867,-99.7697,802,183.1,shape,false,true,America/Chicago,3,67831,1840007612
+Alma,Alma,Kansas,20197,Wabaunsee,39.0152,-96.2871,796,525.7,shape,false,true,America/Chicago,3,66401,1840007403
+Nortonville,Nortonville,Kansas,20087,Jefferson,39.4159,-95.3304,794,709.0,shape,false,true,America/Chicago,3,66060,1840008506
+Kiowa,Kiowa,Kansas,20007,Barber,37.0174,-98.4848,785,273.5,shape,false,true,America/Chicago,3,67070,1840008756
+Enterprise,Enterprise,Kansas,20041,Dickinson,38.9029,-97.1163,780,449.5,shape,false,true,America/Chicago,3,67441,1840008556
+Wilson,Wilson,Kansas,20053,Ellsworth,38.8255,-98.475,777,501.3,shape,false,true,America/Chicago,3,67490,1840010753
+Franklin,Franklin,Kansas,20037,Crawford,37.523,-94.6994,774,174.8,shape,false,false,America/Chicago,3,66735,1840026831
+Logan,Logan,Kansas,20147,Phillips,39.6617,-99.5673,740,190.4,shape,false,true,America/Chicago,3,67646,1840009507
+Deerfield,Deerfield,Kansas,20093,Kearny,37.9819,-101.1332,736,590.9,shape,false,true,America/Chicago,3,67838,1840007522
+Waterville,Waterville,Kansas,20117,Marshall,39.6919,-96.747,735,577.2,shape,false,true,America/Chicago,3,66548,1840010552
+Mound City,Mound City,Kansas,20107,Linn,38.1325,-94.8506,729,243.6,shape,false,true,America/Chicago,3,66056,1840008665
+Riverton,Riverton,Kansas,20021,Cherokee,37.0732,-94.706,729,125.4,shape,false,false,America/Chicago,3,66770,1840026865
+Stafford,Stafford,Kansas,20185,Stafford,37.9624,-98.5995,726,306.3,shape,false,true,America/Chicago,3,67578,1840009830
+Meriden,Meriden,Kansas,20087,Jefferson,39.1897,-95.568,719,360.9,shape,false,true,America/Chicago,3,66512,1840008505
+Eastborough,Eastborough,Kansas,20173,Sedgwick,37.6856,-97.2591,712,905.0,shape,false,true,America/Chicago,3,67206 67207 67208,1840008703
+Haviland,Haviland,Kansas,20097,Kiowa,37.6173,-99.1059,711,557.6,shape,false,true,America/Chicago,3,67059,1840001691
+Rolla,Rolla,Kansas,20129,Morton,37.1179,-101.6318,711,317.8,shape,false,true,America/Chicago,3,67954,1840009908
+Jetmore,Jetmore,Kansas,20083,Hodgeman,38.0301,-99.9098,708,64.9,shape,false,true,America/Chicago,3,67854,1840008670
+Cherokee,Cherokee,Kansas,20037,Crawford,37.345,-94.8215,703,379.1,shape,false,true,America/Chicago,3,66724,1840007590
+Marquette,Marquette,Kansas,20113,McPherson,38.5555,-97.8344,703,563.1,shape,false,true,America/Chicago,3,67464,1840008635
+Dighton,Dighton,Kansas,20101,Lane,38.481,-100.4663,703,313.0,shape,false,true,America/Chicago,3,67839,1840007477
+Minneola,Minneola,Kansas,20025,Clark,37.4421,-100.0131,695,584.1,shape,false,true,America/Chicago,3,67865,1840008753
+Coldwater,Coldwater,Kansas,20033,Comanche,37.2582,-99.3378,693,104.4,shape,false,true,America/Chicago,3,67029,1840007624
+Hanover,Hanover,Kansas,20201,Washington,39.8934,-96.8753,692,445.8,shape,false,true,America/Chicago,3,66945,1840007287
+Frankfort,Frankfort,Kansas,20117,Marshall,39.7039,-96.4169,692,265.3,shape,false,true,America/Chicago,3,66427,1840008424
+Bucklin,Bucklin,Kansas,20057,Ford,37.5488,-99.6343,684,459.1,shape,false,true,America/Chicago,3,67834,1840007562
+Hoyt,Hoyt,Kansas,20085,Jackson,39.2493,-95.708,666,548.0,shape,false,true,America/Chicago,3,66440,1840007328
+Ozawkie,Ozawkie,Kansas,20087,Jefferson,39.2354,-95.4659,666,482.5,shape,false,true,America/Chicago,3,66070,1840009610
+Udall,Udall,Kansas,20035,Cowley,37.3889,-97.1177,656,465.0,shape,false,true,America/Chicago,3,67146,1840010868
+Westmoreland,Westmoreland,Kansas,20149,Pottawatomie,39.3941,-96.4137,641,503.0,shape,false,true,America/Chicago,3,66549,1840010635
+Pretty Prairie,Pretty Prairie,Kansas,20155,Reno,37.78,-98.0224,638,427.7,shape,false,true,America/Chicago,3,67570,1840009766
+Attica,Attica,Kansas,20077,Harper,37.2426,-98.2276,631,384.2,shape,false,true,America/Chicago,3,67009,1840007622
+Greensburg,Greensburg,Kansas,20097,Kiowa,37.6049,-99.2895,629,135.8,shape,false,true,America/Chicago,3,67054,1840001690
+Onaga,Onaga,Kansas,20149,Pottawatomie,39.4892,-96.1703,618,363.8,shape,false,true,America/Chicago,3,66521,1840009587
+Effingham,Effingham,Kansas,20005,Atchison,39.5228,-95.3969,609,379.7,shape,false,true,America/Chicago,3,66023,1840008457
+Downs,Downs,Kansas,20141,Osborne,39.5045,-98.5472,605,208.6,shape,false,true,America/Chicago,3,67437,1840008472
+St. Paul,St. Paul,Kansas,20133,Neosho,37.5186,-95.1742,604,206.8,shape,false,true,America/Chicago,3,66771,1840009887
+Leonardville,Leonardville,Kansas,20161,Riley,39.3642,-96.8596,602,471.2,shape,false,true,America/Chicago,3,66449,1840008480
+Canton,Canton,Kansas,20113,McPherson,38.3857,-97.4303,594,461.5,shape,false,true,America/Chicago,3,67428,1840007487
+Cedar Vale,Cedar Vale,Kansas,20019,Chautauqua,37.1061,-96.5018,593,303.7,shape,false,true,America/Chicago,3,67024,1840007634
+Kanopolis,Kanopolis,Kansas,20053,Ellsworth,38.7081,-98.1581,592,194.0,shape,false,true,America/Chicago,3,67454,1840008604
+Bennington,Bennington,Kansas,20143,Ottawa,39.0334,-97.5932,574,527.1,shape,false,true,America/Chicago,3,67422,1840007383
+Glen Elder,Glen Elder,Kansas,20123,Mitchell,39.5001,-98.3066,573,507.8,shape,false,true,America/Chicago,3,67446,1840008477
+Maple Hill,Maple Hill,Kansas,20197,Wabaunsee,39.0855,-96.0278,572,704.7,shape,false,true,America/Chicago,3,66507,1840009689
+Potwin,Potwin,Kansas,20015,Butler,37.9385,-97.0184,571,532.8,shape,false,true,America/Chicago,3,67123,1840009855
+Argonia,Argonia,Kansas,20191,Sumner,37.2679,-97.7629,565,312.6,shape,false,true,America/Chicago,3,67004,1840007609
+Parkerfield,Parkerfield,Kansas,20035,Cowley,37.0679,-96.9957,564,238.6,shape,false,true,America/Chicago,3,67005,1840030355
+La Harpe,La Harpe,Kansas,20001,Allen,37.9166,-95.3023,555,269.0,shape,false,true,America/Chicago,3,66751,1840001682
+Howard,Howard,Kansas,20049,Elk,37.4695,-96.2631,546,299.1,shape,false,true,America/Chicago,3,67349,1840007595
+Goessel,Goessel,Kansas,20115,Marion,38.2473,-97.3454,545,391.5,shape,false,true,America/Chicago,3,67053,1840008639
+Bronson,Bronson,Kansas,20011,Bourbon,37.8958,-95.0732,539,465.9,shape,false,true,America/Chicago,3,66716,1840006318
+Kensington,Kensington,Kansas,20183,Smith,39.7667,-99.0329,534,154.6,shape,false,true,America/Chicago,3,66951,1840008411
+Gas,Gas,Kansas,20001,Allen,37.923,-95.3454,532,285.4,shape,false,true,America/Chicago,3,66749 66742,1840008693
+LeRoy,LeRoy,Kansas,20031,Coffey,38.0863,-95.6331,532,249.4,shape,false,true,America/Chicago,3,66857,1840008658
+Protection,Protection,Kansas,20033,Comanche,37.2004,-99.4808,529,220.3,shape,false,true,America/Chicago,3,67127,1840009909
+Waverly,Waverly,Kansas,20031,Coffey,38.3962,-95.6048,526,277.3,shape,false,true,America/Chicago,3,66871,1840010808
+Bird City,Bird City,Kansas,20023,Cheyenne,39.7495,-101.5328,525,89.4,shape,false,true,America/Chicago,3,67731,1840007275
+Burden,Burden,Kansas,20035,Cowley,37.3151,-96.7554,520,388.3,shape,false,true,America/Chicago,3,67019,1840007604
+White City,White City,Kansas,20127,Morris,38.7938,-96.7349,518,161.0,shape,false,true,America/Chicago,3,66872,1840010751
+The Highlands,The Highlands,Kansas,20155,Reno,38.1659,-97.9497,516,194.3,shape,false,true,America/Chicago,3,67502,1840150087
+Richmond,Richmond,Kansas,20059,Franklin,38.4004,-95.252,514,443.1,shape,false,true,America/Chicago,3,66080,1840009640
+Florence,Florence,Kansas,20115,Marion,38.2428,-96.9289,509,256.5,shape,false,true,America/Chicago,3,66851,1840001660
+Macksville,Macksville,Kansas,20185,Stafford,37.9572,-98.9689,506,195.7,shape,false,true,America/Chicago,3,67557,1840009829
+Dexter,Dexter,Kansas,20035,Cowley,37.1794,-96.7161,494,161.4,shape,false,true,America/Chicago,3,67038,1840007607
+Axtell,Axtell,Kansas,20117,Marshall,39.8711,-96.2566,492,363.1,shape,false,true,America/Chicago,3,66403,1840007292
+Chase,Chase,Kansas,20159,Rice,38.3551,-98.3489,487,378.0,shape,false,true,America/Chicago,3,67524,1840007500
+Claflin,Claflin,Kansas,20009,Barton,38.5246,-98.5367,487,281.5,shape,false,true,America/Chicago,3,67525,1840007481
+Moran,Moran,Kansas,20001,Allen,37.9166,-95.1716,485,447.1,shape,false,true,America/Chicago,3,66755,1840008695
+Olpe,Olpe,Kansas,20111,Lyon,38.2569,-96.1726,482,265.2,shape,false,true,America/Chicago,3,66865,1840009635
+Fowler,Fowler,Kansas,20119,Meade,37.3829,-100.1957,479,390.2,shape,false,true,America/Chicago,3,67844,1840008750
+Eskridge,Eskridge,Kansas,20197,Wabaunsee,38.8595,-96.1049,477,356.0,shape,false,true,America/Chicago,3,66423,1840008546
+Kismet,Kismet,Kansas,20175,Seward,37.2046,-100.7018,475,474.6,shape,false,true,America/Chicago,3,67859,1840008761
+Arlington,Arlington,Kansas,20155,Reno,37.8962,-98.178,475,148.7,shape,false,true,America/Chicago,3,67514,1840007539
+Strong City,Strong City,Kansas,20017,Chase,38.3955,-96.537,465,327.5,shape,false,true,America/Chicago,3,66869,1840009806
+Norwich,Norwich,Kansas,20095,Kingman,37.4572,-97.848,463,445.0,shape,false,true,America/Chicago,3,67118,1840008719
+Alta Vista,Alta Vista,Kansas,20197,Wabaunsee,38.8628,-96.4888,458,454.5,shape,false,true,America/Chicago,3,66834,1840007404
+Hartford,Hartford,Kansas,20111,Lyon,38.3084,-95.9566,457,445.7,shape,false,true,America/Chicago,3,66854,1840007471
+Leon,Leon,Kansas,20015,Butler,37.6898,-96.7837,454,242.7,shape,false,true,America/Chicago,3,67074,1840008683
+Bentley,Bentley,Kansas,20173,Sedgwick,37.8868,-97.5147,452,584.2,shape,false,true,America/Chicago,3,67016,1840007567
+Copeland,Copeland,Kansas,20069,Gray,37.5405,-100.6288,452,303.2,shape,false,true,America/Chicago,3,67837,1840007559
+Clifton,Clifton,Kansas,20201,Washington,39.5682,-97.2808,448,423.5,shape,false,true,America/Chicago,3,66937,1840007284
+Lucas,Lucas,Kansas,20167,Russell,39.0587,-98.5378,448,284.3,shape,false,true,America/Chicago,3,67648,1840009705
+Westwood Hills,Westwood Hills,Kansas,20091,Johnson,39.0389,-94.6097,444,1595.2,shape,false,true,America/Chicago,3,66205,1840030286
+Thayer,Thayer,Kansas,20133,Neosho,37.4851,-95.4845,442,313.1,shape,false,true,America/Chicago,3,66776,1840009886
+Centralia,Centralia,Kansas,20131,Nemaha,39.7243,-96.1301,441,375.4,shape,false,true,America/Chicago,3,66415,1840007297
+Lewis,Lewis,Kansas,20047,Edwards,37.937,-99.2547,439,464.6,shape,false,true,America/Chicago,3,67552,1840008685
+Bazine,Bazine,Kansas,20135,Ness,38.4462,-99.693,438,376.3,shape,false,true,America/Chicago,3,67516,1840007479
+Cunningham,Cunningham,Kansas,20095,Kingman,37.6447,-98.4312,436,367.9,shape,false,true,America/Chicago,3,67035,1840007585
+Linn,Linn,Kansas,20201,Washington,39.6793,-97.0869,435,484.1,shape,false,true,America/Chicago,3,66953,1840009504
+Gridley,Gridley,Kansas,20031,Coffey,38.1007,-95.8826,432,389.6,shape,false,true,America/Chicago,3,66852,1840007514
+Mulberry,Mulberry,Kansas,20037,Crawford,37.5561,-94.6235,432,354.2,shape,false,true,America/Chicago,3,66756,1840003854
+Mayetta,Mayetta,Kansas,20085,Jackson,39.3386,-95.7216,432,547.9,shape,false,true,America/Chicago,3,66509,1840008455
+Williamsburg,Williamsburg,Kansas,20059,Franklin,38.4807,-95.4681,429,169.5,shape,false,true,America/Chicago,3,66095,1840010768
+Fontana,Fontana,Kansas,20121,Miami,38.4239,-94.8441,428,190.1,shape,false,true,America/Chicago,3,66026,1840008618
+New Strawn,New Strawn,Kansas,20031,Coffey,38.2622,-95.7423,425,207.0,shape,false,true,America/Chicago,3,66839,1840008656
+Cawker City,Cawker City,Kansas,20123,Mitchell,39.5095,-98.4331,425,163.1,shape,false,true,America/Chicago,3,67430,1840007349
+Hope,Hope,Kansas,20041,Dickinson,38.6912,-97.0765,417,414.4,shape,false,true,America/Chicago,3,67451,1840007411
+Holyrood,Holyrood,Kansas,20053,Ellsworth,38.5876,-98.4119,416,373.4,shape,false,true,America/Chicago,3,67450,1840007457
+Brewster,Brewster,Kansas,20193,Thomas,39.3631,-101.3771,413,294.2,shape,false,true,America/Chicago,3,67732,1840005754
+Jewell,Jewell,Kansas,20089,Jewell,39.6715,-98.1525,411,386.3,shape,false,true,America/Chicago,3,66949,1840008409
+Assaria,Assaria,Kansas,20169,Saline,38.6802,-97.604,408,539.4,shape,false,true,America/Chicago,3,67416,1840007429
+Little River,Little River,Kansas,20159,Rice,38.3983,-98.0149,400,396.0,shape,false,true,America/Chicago,3,67457,1840009807
+Natoma,Natoma,Kansas,20141,Osborne,39.1885,-99.0241,400,365.8,shape,false,true,America/Chicago,3,67651,1840008473
+Almena,Almena,Kansas,20137,Norton,39.8913,-99.7097,398,254.1,shape,false,true,America/Chicago,3,67622,1840007290
+Chicopee,Chicopee,Kansas,20037,Crawford,37.3835,-94.7444,388,47.4,shape,false,false,America/Chicago,3,66762,1840026832
+Winchester,Winchester,Kansas,20087,Jefferson,39.3226,-95.2688,385,423.1,shape,false,true,America/Chicago,3,66097,1840010660
+Neosho Rapids,Neosho Rapids,Kansas,20111,Lyon,38.3685,-95.9916,383,292.9,shape,false,true,America/Chicago,3,66864,1840008616
+Miltonvale,Miltonvale,Kansas,20029,Cloud,39.3496,-97.4523,380,195.8,shape,false,true,America/Chicago,3,67466,1840008453
+Lancaster,Lancaster,Kansas,20005,Atchison,39.571,-95.3037,379,331.7,shape,false,true,America/Chicago,3,66041,1840008459
+Otis,Otis,Kansas,20165,Rush,38.5347,-99.0533,375,259.6,shape,false,true,America/Chicago,3,67565,1840009655
+Scammon,Scammon,Kansas,20021,Cherokee,37.2781,-94.823,374,230.3,shape,false,true,America/Chicago,3,66773,1840001717
+Dearing,Dearing,Kansas,20125,Montgomery,37.0534,-95.6954,371,94.6,shape,false,true,America/Chicago,3,67337 67340,1840007620
+Altoona,Altoona,Kansas,20205,Wilson,37.5249,-95.6615,367,265.5,shape,false,true,America/Chicago,3,66710,1840007588
+Healy,Healy,Kansas,20101,Lane,38.603,-100.6176,367,41.0,shape,false,false,America/Chicago,3,67850,1840026732
+McFarland,McFarland,Kansas,20197,Wabaunsee,39.0545,-96.2381,363,394.5,shape,false,true,America/Chicago,3,66501,1840008547
+Parker,Parker,Kansas,20107,Linn,38.3285,-94.9899,362,173.1,shape,false,true,America/Chicago,3,66072,1840009747
+Quenemo,Quenemo,Kansas,20139,Osage,38.5801,-95.5266,362,314.9,shape,false,true,America/Chicago,3,66528,1840009779
+Linwood,Linwood,Kansas,20103,Leavenworth,39.0019,-95.0362,361,237.3,shape,false,true,America/Chicago,3,66052,1840009612
+Burdett,Burdett,Kansas,20145,Pawnee,38.1935,-99.5264,360,233.4,shape,false,true,America/Chicago,3,67523,1840007518
+Everest,Everest,Kansas,20013,Brown,39.677,-95.4248,359,141.1,shape,false,true,America/Chicago,3,66424,1840008426
+Colony,Colony,Kansas,20003,Anderson,38.0712,-95.3629,358,285.6,shape,false,true,America/Chicago,3,66015,1840007516
+Gorham,Gorham,Kansas,20167,Russell,38.8806,-99.0237,357,314.3,shape,false,true,America/Chicago,3,67640,1840008557
+Uniontown,Uniontown,Kansas,20011,Bourbon,37.8471,-94.9755,356,270.6,shape,false,true,America/Chicago,3,66779,1840010845
+Edna,Edna,Kansas,20099,Labette,37.0587,-95.3592,350,343.4,shape,false,true,America/Chicago,3,67342,1840008765
+Scandia,Scandia,Kansas,20157,Republic,39.7969,-97.784,345,282.8,shape,false,true,America/Chicago,3,66966,1840009503
+Delphos,Delphos,Kansas,20143,Ottawa,39.2744,-97.7653,342,222.8,shape,false,true,America/Chicago,3,67436,1840007384
+Glasco,Glasco,Kansas,20029,Cloud,39.3609,-97.8372,342,546.8,shape,false,true,America/Chicago,3,67445,1840008452
+South Haven,South Haven,Kansas,20191,Sumner,37.0495,-97.4013,340,131.4,shape,false,true,America/Chicago,3,67140,1840009899
+Mound Valley,Mound Valley,Kansas,20099,Labette,37.2071,-95.4046,338,203.3,shape,false,true,America/Chicago,3,67354,1840008766
+Gypsum,Gypsum,Kansas,20169,Saline,38.7058,-97.4266,336,460.0,shape,false,true,America/Chicago,3,67448,1840007430
+Fairview,Fairview,Kansas,20013,Brown,39.8397,-95.7282,334,170.0,shape,false,true,America/Chicago,3,66425,1840008427
+Moline,Moline,Kansas,20049,Elk,37.3637,-96.3025,334,318.6,shape,false,true,America/Chicago,3,67353,1840008733
+Longton,Longton,Kansas,20049,Elk,37.3779,-96.0821,330,108.4,shape,false,true,America/Chicago,3,67352,1840009889
+Melvern,Melvern,Kansas,20139,Osage,38.5073,-95.6377,322,291.0,shape,false,true,America/Chicago,3,66510,1840008605
+Tecumseh,Tecumseh,Kansas,20177,Shawnee,39.0419,-95.5807,322,34.8,shape,false,false,America/Chicago,3,66607 66542,1840030282
+Hanston,Hanston,Kansas,20083,Hodgeman,38.1229,-99.7127,321,183.5,shape,false,true,America/Chicago,3,67849,1840007527
+Grinnell,Grinnell,Kansas,20063,Gove,39.1266,-100.6311,320,251.2,shape,false,true,America/Chicago,3,67738,1840007408
+Lowell,Lowell,Kansas,20021,Cherokee,37.0509,-94.7032,319,180.2,shape,false,false,America/Chicago,3,66713,1840026866
+Sylvan Grove,Sylvan Grove,Kansas,20105,Lincoln,39.0123,-98.3944,317,212.8,shape,false,true,America/Chicago,3,67481,1840009684
+Milford,Milford,Kansas,20061,Geary,39.1729,-96.9105,316,213.4,shape,false,true,America/Chicago,3,66514,1840008544
+Greenleaf,Greenleaf,Kansas,20201,Washington,39.7273,-96.98,313,267.1,shape,false,true,America/Chicago,3,66943,1840008415
+Buffalo,Buffalo,Kansas,20205,Wilson,37.709,-95.697,307,162.6,shape,false,true,America/Chicago,3,66717,1840007586
+Arcadia,Arcadia,Kansas,20037,Crawford,37.6412,-94.624,302,271.6,shape,false,true,America/Chicago,3,66711,1840007591
+Selden,Selden,Kansas,20179,Sheridan,39.5414,-100.5671,297,140.4,shape,false,true,America/Chicago,3,67757,1840009579
+McCune,McCune,Kansas,20037,Crawford,37.3538,-95.0191,297,448.5,shape,false,true,America/Chicago,3,66753,1840008724
+Burns,Burns,Kansas,20115,Marion,38.0897,-96.8877,295,179.6,shape,false,true,America/Chicago,3,66840,1840007488
+Oneida,Oneida,Kansas,20131,Nemaha,39.8668,-95.9398,295,26.9,shape,false,true,America/Chicago,3,66538 66522,1840009515
+Tescott,Tescott,Kansas,20143,Ottawa,39.013,-97.8781,293,365.1,shape,false,true,America/Chicago,3,67484,1840009625
+Wetmore,Wetmore,Kansas,20131,Nemaha,39.6357,-95.8112,291,290.7,shape,false,true,America/Chicago,3,66550,1840010554
+Pawnee Rock,Pawnee Rock,Kansas,20009,Barton,38.2649,-98.9823,290,108.0,shape,false,true,America/Chicago,3,67567,1840009653
+Cuba,Cuba,Kansas,20157,Republic,39.8023,-97.4576,290,103.0,shape,false,true,America/Chicago,3,66940,1840007282
+Walton,Walton,Kansas,20079,Harvey,38.1187,-97.2582,289,230.5,shape,false,true,America/Chicago,3,67151,1840010829
+Elk City,Elk City,Kansas,20125,Montgomery,37.2896,-95.9099,289,261.8,shape,false,true,America/Chicago,3,67344,1840008762
+Greeley,Greeley,Kansas,20003,Anderson,38.3676,-95.1272,281,173.7,shape,false,true,America/Chicago,3,66033,1840008663
+Ingalls,Ingalls,Kansas,20069,Gray,37.8287,-100.4534,280,384.3,shape,false,true,America/Chicago,3,67853,1840008699
+Keats,Keats,Kansas,20161,Riley,39.2217,-96.7109,280,234.7,shape,false,false,America/Chicago,3,66503,1840030234
+Bushton,Bushton,Kansas,20159,Rice,38.5124,-98.3959,276,381.9,shape,false,true,America/Chicago,3,67427,1840007499
+Elbing,Elbing,Kansas,20015,Butler,38.0534,-97.1283,271,374.8,shape,false,true,America/Chicago,3,67041 67114,1840008681
+Dwight,Dwight,Kansas,20127,Morris,38.8449,-96.5921,268,235.9,shape,false,true,America/Chicago,3,66849,1840008602
+Turon,Turon,Kansas,20155,Reno,37.8075,-98.4278,266,230.8,shape,false,true,America/Chicago,3,67583,1840010831
+Ransom,Ransom,Kansas,20135,Ness,38.6367,-99.9328,265,249.8,shape,false,true,America/Chicago,3,67572,1840009648
+Beattie,Beattie,Kansas,20117,Marshall,39.8624,-96.4178,262,254.1,shape,false,true,America/Chicago,3,66406,1840007293
+Kanorado,Kanorado,Kansas,20181,Sherman,39.3366,-102.0373,261,186.6,shape,false,true,America/Denver,3,67741,1840008468
+Elyria,Elyria,Kansas,20113,McPherson,38.2896,-97.6339,261,21.1,shape,false,false,America/Chicago,3,67460,1840030253
+Allen,Allen,Kansas,20111,Lyon,38.655,-96.1697,260,193.8,shape,false,true,America/Chicago,3,66833,1840007469
+Easton,Easton,Kansas,20103,Leavenworth,39.3456,-95.1172,259,260.4,shape,false,true,America/Chicago,3,66020,1840008507
+Whiting,Whiting,Kansas,20085,Jackson,39.5878,-95.6112,257,98.6,shape,false,true,America/Chicago,3,66552,1840010612
+Norcatur,Norcatur,Kansas,20039,Decatur,39.8347,-100.1888,255,98.9,shape,false,true,America/Chicago,3,67653,1840008418
+Grainfield,Grainfield,Kansas,20063,Gove,39.1143,-100.4684,250,208.7,shape,false,true,America/Chicago,3,67737,1840008555
+Blue Mound,Blue Mound,Kansas,20107,Linn,38.089,-95.01,250,151.7,shape,false,true,America/Chicago,3,66010,1840007517
+Brookville,Brookville,Kansas,20169,Saline,38.7736,-97.8645,245,164.5,shape,false,true,America/Chicago,3,67425,1840006086
+Wakarusa,Wakarusa,Kansas,20177,Shawnee,38.8911,-95.6999,243,18.9,shape,false,false,America/Chicago,3,66546,1840026673
+Mapleton,Mapleton,Kansas,20011,Bourbon,38.0155,-94.8834,240,186.8,shape,false,true,America/Chicago,3,66754,1840009863
+Paxico,Paxico,Kansas,20197,Wabaunsee,39.0689,-96.1671,240,207.9,shape,false,true,America/Chicago,3,66526,1840009690
+Hardtner,Hardtner,Kansas,20007,Barber,37.0144,-98.6492,235,151.7,shape,false,true,America/Chicago,3,67057,1840007613
+Hamilton,Hamilton,Kansas,20073,Greenwood,37.9805,-96.1638,232,248.8,shape,false,true,America/Chicago,3,66853,1840007536
+Mullinville,Mullinville,Kansas,20097,Kiowa,37.5885,-99.4754,231,139.0,shape,false,true,America/Chicago,3,67109,1840003852
+Lane,Lane,Kansas,20059,Franklin,38.4398,-95.0819,227,161.7,shape,false,true,America/Chicago,3,66042,1840008617
+Offerle,Offerle,Kansas,20047,Edwards,37.8907,-99.5603,223,40.0,shape,false,true,America/Chicago,3,67563,1840008684
+Prescott,Prescott,Kansas,20107,Linn,38.063,-94.6929,223,326.0,shape,false,true,America/Chicago,3,66767,1840009749
+Rush Center,Rush Center,Kansas,20165,Rush,38.465,-99.311,223,134.4,shape,false,true,America/Chicago,3,67575,1840009656
+Olsburg,Olsburg,Kansas,20149,Pottawatomie,39.432,-96.6158,222,231.5,shape,false,true,America/Chicago,3,66520,1840009586
+Jamestown,Jamestown,Kansas,20029,Cloud,39.5996,-97.8613,221,261.1,shape,false,true,America/Chicago,3,66948,1840008454
+Delia,Delia,Kansas,20085,Jackson,39.2394,-95.9651,221,223.4,shape,false,true,America/Chicago,3,66418,1840007329
+Grantville,Grantville,Kansas,20087,Jefferson,39.0806,-95.5611,220,138.5,shape,false,false,America/Chicago,3,66429,1840026662
+Randall,Randall,Kansas,20089,Jewell,39.6417,-98.0456,219,58.4,shape,false,true,America/Chicago,3,66963,1840009500
+Bremen,Bremen,Kansas,20117,Marshall,39.8965,-96.7948,217,49.6,shape,false,false,America/Chicago,3,66412,1840058478
+Admire,Admire,Kansas,20111,Lyon,38.641,-96.102,215,167.6,shape,false,true,America/Chicago,3,66830,1840007468
+Catharine,Catharine,Kansas,20051,Ellis,38.9302,-99.2144,215,46.9,shape,false,false,America/Chicago,3,67627 67601,1840026685
+Geneseo,Geneseo,Kansas,20159,Rice,38.517,-98.1545,214,141.1,shape,false,true,America/Chicago,3,67444,1840008650
+Severy,Severy,Kansas,20073,Greenwood,37.622,-96.2273,212,167.1,shape,false,true,America/Chicago,3,67137,1840009761
+Schoenchen,Schoenchen,Kansas,20051,Ellis,38.713,-99.3325,211,259.8,shape,false,true,America/Chicago,3,67667,1840009700
+Princeton,Princeton,Kansas,20059,Franklin,38.4874,-95.2698,208,206.3,shape,false,true,America/Chicago,3,66078,1840009638
+Courtland,Courtland,Kansas,20157,Republic,39.7835,-97.8961,206,176.8,shape,false,true,America/Chicago,3,66939,1840007281
+Dorrance,Dorrance,Kansas,20167,Russell,38.8469,-98.59,205,212.9,shape,false,true,America/Chicago,3,67634,1840007413
+Lenora,Lenora,Kansas,20137,Norton,39.6109,-100.0014,205,164.4,shape,false,true,America/Chicago,3,67645,1840008421
+Ford,Ford,Kansas,20057,Ford,37.6366,-99.7539,205,187.0,shape,false,true,America/Chicago,3,67842,1840008702
+Toronto,Toronto,Kansas,20207,Woodson,37.7986,-95.9497,204,133.3,shape,false,true,America/Chicago,3,66777,1840010844
+Latham,Latham,Kansas,20015,Butler,37.5357,-96.6427,204,92.6,shape,false,true,America/Chicago,3,67072,1840008682
+Viola,Viola,Kansas,20173,Sedgwick,37.4829,-97.6444,203,151.5,shape,false,true,America/Chicago,3,67149,1840010849
+Tyro,Tyro,Kansas,20125,Montgomery,37.0368,-95.8218,203,171.6,shape,false,true,America/Chicago,3,67364,1840010872
+Geuda Springs,Geuda Springs,Kansas,20191,Sumner,37.1114,-97.1505,202,159.1,shape,false,true,America/Chicago,3,67051,1840008746
+Walnut,Walnut,Kansas,20037,Crawford,37.6018,-95.0743,201,52.7,shape,false,true,America/Chicago,3,66780,1840010858
+Morganville,Morganville,Kansas,20027,Clay,39.4666,-97.2038,200,121.1,shape,false,true,America/Chicago,3,67468,1840008476
+Iuka,Iuka,Kansas,20151,Pratt,37.729,-98.7327,198,116.4,shape,false,true,America/Chicago,3,67066 67124,1840008715
+Louisville,Louisville,Kansas,20149,Pottawatomie,39.2499,-96.3145,196,151.6,shape,false,true,America/Chicago,3,66547,1840009585
+Lehigh,Lehigh,Kansas,20115,Marion,38.3744,-97.3024,196,162.9,shape,false,true,America/Chicago,3,67073,1840008640
+Agra,Agra,Kansas,20147,Phillips,39.7612,-99.1195,193,282.4,shape,false,true,America/Chicago,3,67621,1840007291
+McDonald,McDonald,Kansas,20153,Rawlins,39.7848,-101.3702,192,178.1,shape,false,true,America/Chicago,3,67745,1840008406
+Moscow,Moscow,Kansas,20189,Stevens,37.3249,-101.2069,192,255.7,shape,false,true,America/Chicago,3,67952,1840008760
+Manter,Manter,Kansas,20187,Stanton,37.5245,-101.8834,190,93.6,shape,false,true,America/Chicago,3,67862,1840009880
+Hillsdale,Hillsdale,Kansas,20121,Miami,38.6597,-94.8569,190,48.1,shape,false,false,America/Chicago,3,66071 66036,1840026728
+Tipton,Tipton,Kansas,20123,Mitchell,39.3395,-98.4709,190,222.3,shape,false,true,America/Chicago,3,67485,1840010633
+Havensville,Havensville,Kansas,20149,Pottawatomie,39.5115,-96.0762,190,194.8,shape,false,true,America/Chicago,3,66432,1840007354
+Robinson,Robinson,Kansas,20013,Brown,39.8157,-95.4117,189,73.9,shape,false,true,America/Chicago,3,66532,1840009514
+Belvue,Belvue,Kansas,20149,Pottawatomie,39.2164,-96.1789,187,253.9,shape,false,true,America/Chicago,3,66407,1840007353
+Winona,Winona,Kansas,20109,Logan,39.0618,-101.2449,187,156.7,shape,false,true,America/Chicago,3,67764,1840010700
+Lincolnville,Lincolnville,Kansas,20115,Marion,38.4943,-96.9613,186,185.4,shape,false,true,America/Chicago,3,66858,1840009659
+Grenola,Grenola,Kansas,20049,Elk,37.3507,-96.4494,185,153.6,shape,false,true,America/Chicago,3,67346,1840007594
+Luray,Luray,Kansas,20167,Russell,39.1151,-98.6922,185,143.6,shape,false,true,America/Chicago,3,67649,1840009706
+Randolph,Randolph,Kansas,20161,Riley,39.429,-96.7598,182,170.3,shape,false,true,America/Chicago,3,66554,1840009583
+Emmett,Emmett,Kansas,20149,Pottawatomie,39.3071,-96.0578,182,133.1,shape,false,true,America/Chicago,3,66422,1840008481
+Fall River,Fall River,Kansas,20073,Greenwood,37.6078,-96.0286,178,138.5,shape,false,true,America/Chicago,3,67047,1840008676
+Lorraine,Lorraine,Kansas,20053,Ellsworth,38.569,-98.3174,177,164.9,shape,false,true,America/Chicago,3,67459,1840009775
+Partridge,Partridge,Kansas,20155,Reno,37.9666,-98.0922,176,100.3,shape,false,true,America/Chicago,3,67566,1840009764
+Damar,Damar,Kansas,20163,Rooks,39.3192,-99.5844,176,141.5,shape,false,true,America/Chicago,3,67632,1840007346
+Lebanon,Lebanon,Kansas,20183,Smith,39.8101,-98.5572,174,166.7,shape,false,true,America/Chicago,3,66952,1840008412
+Bison,Bison,Kansas,20165,Rush,38.5201,-99.1977,173,242.9,shape,false,true,America/Chicago,3,67520,1840007484
+Westphalia,Westphalia,Kansas,20003,Anderson,38.1818,-95.4906,171,74.9,shape,false,true,America/Chicago,3,66093,1840010815
+Sylvia,Sylvia,Kansas,20155,Reno,37.9589,-98.4085,169,73.1,shape,false,true,America/Chicago,3,67581,1840009763
+Preston,Preston,Kansas,20151,Pratt,37.7584,-98.5578,169,149.9,shape,false,true,America/Chicago,3,67583,1840009876
+Dennis,Dennis,Kansas,20099,Labette,37.3469,-95.4078,168,43.0,shape,false,false,America/Chicago,3,67341,1840030319
+Smolan,Smolan,Kansas,20169,Saline,38.7381,-97.6843,165,255.1,shape,false,true,America/Chicago,3,67456,1840009722
+West Mineral,West Mineral,Kansas,20021,Cherokee,37.2839,-94.9268,164,115.2,shape,false,true,America/Chicago,3,66782,1840010881
+Corning,Corning,Kansas,20131,Nemaha,39.657,-96.0288,163,171.6,shape,false,true,America/Chicago,3,66417,1840007296
+Welda,Welda,Kansas,20003,Anderson,38.1747,-95.2915,163,67.9,shape,false,false,America/Chicago,3,66091,1840026764
+Peru,Peru,Kansas,20019,Chautauqua,37.0803,-96.0962,162,81.7,shape,false,true,America/Chicago,3,67360,1840009917
+Palco,Palco,Kansas,20163,Rooks,39.2532,-99.5634,161,281.3,shape,false,true,America/Chicago,3,67657,1840009575
+Williamstown,Williamstown,Kansas,20087,Jefferson,39.0642,-95.3324,160,82.6,shape,false,false,America/Chicago,3,66073,1840030283
+Reading,Reading,Kansas,20111,Lyon,38.5192,-95.9574,157,142.9,shape,false,true,America/Chicago,3,66868,1840009636
+Rexford,Rexford,Kansas,20193,Thomas,39.4705,-100.7439,156,239.5,shape,false,true,America/Chicago,3,67753,1840009577
+Palmer,Palmer,Kansas,20201,Washington,39.6333,-97.1399,155,61.1,shape,false,true,America/Chicago,3,66962,1840009506
+Mission Woods,Mission Woods,Kansas,20091,Johnson,39.0341,-94.6107,155,1595.2,shape,false,true,America/Chicago,3,66205,1840030285
+Netawaka,Netawaka,Kansas,20085,Jackson,39.603,-95.7189,155,61.8,shape,false,true,America/Chicago,3,66516,1840008456
+Coats,Coats,Kansas,20151,Pratt,37.5108,-98.8253,152,57.9,shape,false,true,America/Chicago,3,67028,1840007581
+Beverly,Beverly,Kansas,20105,Lincoln,39.0138,-97.9755,152,80.8,shape,false,true,America/Chicago,3,67423,1840007400
+Rosalia,Rosalia,Kansas,20015,Butler,37.8158,-96.625,152,46.2,shape,false,false,America/Chicago,3,67132,1840026791
+Wilsey,Wilsey,Kansas,20127,Morris,38.6357,-96.6764,152,136.1,shape,false,true,America/Chicago,3,66873,1840010752
+Barnes,Barnes,Kansas,20201,Washington,39.7116,-96.8733,150,167.5,shape,false,true,America/Chicago,3,66933,1840007285
+Neosho Falls,Neosho Falls,Kansas,20207,Woodson,38.0058,-95.5556,150,114.3,shape,false,true,America/Chicago,3,66758,1840008691
+Fort Dodge,Fort Dodge,Kansas,20057,Ford,37.7304,-99.937,149,266.9,shape,false,false,America/Chicago,3,67801 67843,1840026807
+Summerfield,Summerfield,Kansas,20117,Marshall,39.9968,-96.3493,147,88.2,shape,false,true,America/Chicago,3,66541,1840009511
+Harveyville,Harveyville,Kansas,20197,Wabaunsee,38.7896,-95.9624,146,361.3,shape,false,true,America/Chicago,3,66431,1840007405
+Circleville,Circleville,Kansas,20085,Jackson,39.5095,-95.8555,146,112.2,shape,false,true,America/Chicago,3,66416,1840007327
+Prairie View,Prairie View,Kansas,20147,Phillips,39.832,-99.5732,146,124.2,shape,false,true,America/Chicago,3,67664,1840009510
+Denison,Denison,Kansas,20085,Jackson,39.3938,-95.6285,145,293.1,shape,false,true,America/Chicago,3,66419,1840007330
+Milton,Milton,Kansas,20191,Sumner,37.4432,-97.7694,145,12.6,shape,false,false,America/Chicago,3,67106,1840026852
+Morrowville,Morrowville,Kansas,20201,Washington,39.8452,-97.1724,145,175.5,shape,false,true,America/Chicago,3,66958,1840008416
+Garfield,Garfield,Kansas,20145,Pawnee,38.077,-99.2445,144,103.4,shape,false,true,America/Chicago,3,67529,1840008667
+Falun,Falun,Kansas,20169,Saline,38.6745,-97.7511,142,49.4,shape,false,false,America/Chicago,3,67442,1840024598
+Cassoday,Cassoday,Kansas,20015,Butler,38.0386,-96.6386,141,165.7,shape,false,true,America/Chicago,3,66842,1840007545
+Denton,Denton,Kansas,20043,Doniphan,39.732,-95.2696,140,100.3,shape,false,true,America/Chicago,3,66017,1840007300
+Ensign,Ensign,Kansas,20069,Gray,37.6531,-100.2329,140,171.9,shape,false,true,America/Chicago,3,67841,1840008697
+Niotaze,Niotaze,Kansas,20019,Chautauqua,37.0678,-96.0147,139,45.3,shape,false,true,America/Chicago,3,67355,1840008778
+Morland,Morland,Kansas,20065,Graham,39.3489,-100.0743,139,112.2,shape,false,true,America/Chicago,3,67650,1840008478
+Detroit,Detroit,Kansas,20041,Dickinson,38.936,-97.1269,139,109.5,shape,false,false,America/Chicago,3,67410,1840024537
+Navarre,Navarre,Kansas,20041,Dickinson,38.7989,-97.1069,137,32.1,shape,false,false,America/Chicago,3,67451,1840030243
+Bern,Bern,Kansas,20131,Nemaha,39.9612,-95.9713,137,183.0,shape,false,true,America/Chicago,3,66408,1840007298
+Kickapoo Site 5,Kickapoo Site 5,Kansas,20013,Brown,39.6735,-95.6842,136,70.1,shape,false,true,America/Chicago,4,66439,1840039303
+Long Island,Long Island,Kansas,20147,Phillips,39.9462,-99.534,134,125.8,shape,false,true,America/Chicago,3,67647,1840009508
+Muscotah,Muscotah,Kansas,20005,Atchison,39.5535,-95.5204,133,223.5,shape,false,true,America/Chicago,3,66058,1840008458
+Munden,Munden,Kansas,20157,Republic,39.9126,-97.5385,133,113.3,shape,false,true,America/Chicago,3,66959,1840008413
+Liberty,Liberty,Kansas,20125,Montgomery,37.1564,-95.5977,132,143.5,shape,false,true,America/Chicago,3,67351,1840008763
+Spivey,Spivey,Kansas,20095,Kingman,37.4484,-98.1658,132,97.8,shape,false,true,America/Chicago,3,67142,1840009883
+Odin,Odin,Kansas,20009,Barton,38.5654,-98.6087,131,12.7,shape,false,false,America/Chicago,3,67525,1840026734
+Mentor,Mentor,Kansas,20169,Saline,38.7407,-97.5979,131,130.7,shape,false,false,America/Chicago,3,67401 67416,1840030246
+Morrill,Morrill,Kansas,20013,Brown,39.9291,-95.6944,131,292.4,shape,false,true,America/Chicago,3,66515,1840008428
+Tampa,Tampa,Kansas,20115,Marion,38.5481,-97.1542,131,99.4,shape,false,true,America/Chicago,3,67483,1840009661
+Bendena,Bendena,Kansas,20043,Doniphan,39.7436,-95.1811,131,33.1,shape,false,false,America/Chicago,3,66008,1840026605
+Kickapoo Tribal Center,Kickapoo Tribal Center,Kansas,20013,Brown,39.6722,-95.6453,130,25.9,shape,false,true,America/Chicago,4,66439,1840039349
+Woodbine,Woodbine,Kansas,20041,Dickinson,38.7956,-96.9594,127,195.1,shape,false,true,America/Chicago,3,67492,1840010703
+Alden,Alden,Kansas,20159,Rice,38.2444,-98.3118,127,148.8,shape,false,true,America/Chicago,3,67512,1840007501
+Rozel,Rozel,Kansas,20145,Pawnee,38.1954,-99.4032,126,173.5,shape,false,true,America/Chicago,3,67574,1840009750
+Republic,Republic,Kansas,20157,Republic,39.9239,-97.8245,125,114.0,shape,false,true,America/Chicago,3,66964,1840009502
+Earlton,Earlton,Kansas,20133,Neosho,37.5873,-95.4696,124,73.4,shape,false,true,America/Chicago,3,66720,1840008721
+Sycamore,Sycamore,Kansas,20125,Montgomery,37.3247,-95.7153,123,24.4,shape,false,false,America/Chicago,3,67363 67301,1840030096
+Haddam,Haddam,Kansas,20201,Washington,39.8553,-97.3045,123,75.8,shape,false,true,America/Chicago,3,66944,1840007286
+Weskan,Weskan,Kansas,20199,Wallace,38.8653,-101.9681,123,18.0,shape,false,false,America/Denver,3,67762,1840026684
+Baileyville,Baileyville,Kansas,20131,Nemaha,39.8485,-96.1903,122,38.9,shape,false,false,America/Chicago,3,66404,1840026604
+New Cambria,New Cambria,Kansas,20169,Saline,38.879,-97.5066,122,158.2,shape,false,true,America/Chicago,3,67470,1840008573
+Alton,Alton,Kansas,20141,Osborne,39.4678,-98.9486,121,74.7,shape,false,true,America/Chicago,3,67623,1840007347
+Burr Oak,Burr Oak,Kansas,20089,Jewell,39.87,-98.3055,120,56.3,shape,false,true,America/Chicago,3,66936,1840007278
+Bunker Hill,Bunker Hill,Kansas,20167,Russell,38.8753,-98.6989,120,33.4,shape,false,true,America/Chicago,3,67626,1840007412
+Oketo,Oketo,Kansas,20117,Marshall,39.9632,-96.5989,119,83.8,shape,false,true,America/Chicago,3,66518,1840008425
+Herndon,Herndon,Kansas,20153,Rawlins,39.9092,-100.7865,117,110.1,shape,false,true,America/Chicago,3,67739,1840007277
+Isabel,Isabel,Kansas,20007,Barber,37.4672,-98.5515,115,53.6,shape,false,true,America/Chicago,3,67065,1840008755
+Portis,Portis,Kansas,20141,Osborne,39.5638,-98.6916,114,34.0,shape,false,true,America/Chicago,3,67474,1840009578
+Plevna,Plevna,Kansas,20155,Reno,37.9717,-98.3095,114,111.5,shape,false,true,America/Chicago,3,67568,1840009765
+Sawyer,Sawyer,Kansas,20151,Pratt,37.4985,-98.683,114,92.8,shape,false,true,America/Chicago,3,67134,1840009877
+Utica,Utica,Kansas,20135,Ness,38.6427,-100.1698,113,154.2,shape,false,true,America/Chicago,3,67584,1840010774
+Gem,Gem,Kansas,20193,Thomas,39.426,-100.8973,113,67.9,shape,false,true,America/Chicago,3,67734,1840008469
+Radley,Radley,Kansas,20037,Crawford,37.4851,-94.7617,112,57.3,shape,false,false,America/Chicago,3,66762 66743,1840058035
+Edmond,Edmond,Kansas,20137,Norton,39.6272,-99.8199,112,63.0,shape,false,true,America/Chicago,3,67645,1840008420
+Albert,Albert,Kansas,20009,Barton,38.454,-99.0111,111,210.5,shape,false,true,America/Chicago,3,67511,1840007482
+Hepler,Hepler,Kansas,20037,Crawford,37.6637,-94.9697,111,42.9,shape,false,true,America/Chicago,3,66746,1840007593
+Sharon,Sharon,Kansas,20007,Barber,37.2498,-98.4177,110,142.3,shape,false,true,America/Chicago,3,67138,1840009902
+Raymond,Raymond,Kansas,20159,Rice,38.278,-98.4143,109,75.2,shape,false,true,America/Chicago,3,67573,1840009808
+Seward,Seward,Kansas,20185,Stafford,38.1778,-98.7943,108,78.6,shape,false,true,America/Chicago,3,67576,1840009833
+Hunter,Hunter,Kansas,20123,Mitchell,39.2349,-98.396,108,57.6,shape,false,true,America/Chicago,3,67452,1840007350
+Atlanta,Atlanta,Kansas,20035,Cowley,37.4358,-96.767,108,87.1,shape,false,true,America/Chicago,3,67008,1840007606
+Rantoul,Rantoul,Kansas,20059,Franklin,38.5483,-95.1011,108,189.5,shape,false,true,America/Chicago,3,66079,1840009639
+Saint Marks,Saint Marks,Kansas,20173,Sedgwick,37.736,-97.5629,107,42.3,shape,false,false,America/Chicago,3,67030,1840030182
+White Cloud,White Cloud,Kansas,20043,Doniphan,39.9744,-95.2991,106,56.5,shape,false,true,America/Chicago,3,66094,1840010557
+Green,Green,Kansas,20027,Clay,39.4301,-96.9999,105,102.7,shape,false,true,America/Chicago,3,67447,1840008474
+Kirwin,Kirwin,Kansas,20147,Phillips,39.6698,-99.1217,104,43.9,shape,false,true,America/Chicago,3,67644,1840008423
+Savonburg,Savonburg,Kansas,20001,Allen,37.7489,-95.1428,104,75.5,shape,false,true,America/Chicago,3,66772,1840009862
+Liebenthal,Liebenthal,Kansas,20165,Rush,38.6544,-99.3202,103,118.7,shape,false,true,America/Chicago,3,67553,1840009654
+Woodston,Woodston,Kansas,20163,Rooks,39.4539,-99.0981,102,117.1,shape,false,true,America/Chicago,3,67675,1840010628
+McCracken,McCracken,Kansas,20165,Rush,38.5821,-99.5684,101,39.1,shape,false,true,America/Chicago,3,67556,1840008627
+Hudson,Hudson,Kansas,20185,Stafford,38.1049,-98.6609,100,166.5,shape,false,true,America/Chicago,3,67545,1840007526
+Willard,Willard,Kansas,20177,Shawnee,39.0941,-95.9427,97,185.5,shape,false,true,America/Chicago,3,66615,1840010692
+Niles,Niles,Kansas,20143,Ottawa,38.9688,-97.4574,97,82.0,shape,false,false,America/Chicago,3,67480,1840030239
+Rock,Rock,Kansas,20035,Cowley,37.4417,-97.007,97,93.7,shape,false,false,America/Chicago,3,67131,1840030103
+Wright,Wright,Kansas,20057,Ford,37.7753,-99.8905,96,18.0,shape,false,false,America/Chicago,3,67882,1840026808
+Talmage,Talmage,Kansas,20041,Dickinson,39.0269,-97.2598,96,99.3,shape,false,false,America/Chicago,3,67482,1840024538
+Fulton,Fulton,Kansas,20011,Bourbon,38.0098,-94.7197,95,213.1,shape,false,true,America/Chicago,3,66738,1840008696
+Croweburg,Croweburg,Kansas,20037,Crawford,37.5529,-94.6686,95,62.5,shape,false,false,America/Chicago,3,66756,1840058836
+Kickapoo Site 1,Kickapoo Site 1,Kansas,20013,Brown,39.7145,-95.6484,95,73.3,shape,false,true,America/Chicago,4,66439,1840039292
+Park,Park,Kansas,20063,Gove,39.1117,-100.3614,94,116.5,shape,false,true,America/Chicago,3,67751,1840009701
+Milan,Milan,Kansas,20191,Sumner,37.2571,-97.6741,94,54.3,shape,false,true,America/Chicago,3,67105,1840008749
+Ramona,Ramona,Kansas,20115,Marion,38.5979,-97.0637,93,202.7,shape,false,true,America/Chicago,3,67475,1840009663
+Hazelton,Hazelton,Kansas,20007,Barber,37.0894,-98.4015,93,60.6,shape,false,true,America/Chicago,3,67061,1840007614
+Elk Falls,Elk Falls,Kansas,20049,Elk,37.3733,-96.1934,93,49.4,shape,false,true,America/Chicago,3,67345,1840008732
+Formoso,Formoso,Kansas,20089,Jewell,39.7784,-97.9927,93,67.6,shape,false,true,America/Chicago,3,66942,1840008408
+Redfield,Redfield,Kansas,20011,Bourbon,37.8366,-94.882,92,193.5,shape,false,true,America/Chicago,3,66769,1840009864
+Centropolis,Centropolis,Kansas,20059,Franklin,38.7166,-95.3498,92,51.6,shape,false,false,America/Chicago,3,66067,1840030292
+Bucyrus,Bucyrus,Kansas,20121,Miami,38.7237,-94.714,92,17.8,shape,false,false,America/Chicago,3,66013,1840026727
+Jennings,Jennings,Kansas,20039,Decatur,39.6806,-100.2933,91,120.4,shape,false,true,America/Chicago,3,67643,1840008419
+Levant,Levant,Kansas,20193,Thomas,39.3881,-101.1948,90,34.4,shape,false,false,America/Chicago,3,67743 67701,1840026645
+Munjor,Munjor,Kansas,20051,Ellis,38.8089,-99.2674,90,15.1,shape,false,false,America/Chicago,3,67601,1840026686
+Cullison,Cullison,Kansas,20151,Pratt,37.6303,-98.9054,90,136.0,shape,false,true,America/Chicago,3,67124,1840007582
+Olmitz,Olmitz,Kansas,20009,Barton,38.5164,-98.9367,90,101.3,shape,false,true,America/Chicago,3,67564,1840009652
+Gove City,Gove City,Kansas,20063,Gove,38.9595,-100.4871,88,61.7,shape,false,true,America/Chicago,4,67736,1840073792
+Bogue,Bogue,Kansas,20065,Graham,39.3595,-99.6874,88,157.0,shape,false,true,America/Chicago,3,67625,1840007351
+Greenwich,Greenwich,Kansas,20173,Sedgwick,37.7832,-97.2037,88,40.9,shape,false,false,America/Chicago,3,67055,1840058693
+Coolidge,Coolidge,Kansas,20075,Hamilton,38.0415,-102.0078,88,73.6,shape,false,true,America/Denver,3,67836,1840007524
+Kipp,Kipp,Kansas,20169,Saline,38.785,-97.4568,88,42.2,shape,false,false,America/Chicago,3,67401,1840024599
+Willowbrook,Willowbrook,Kansas,20155,Reno,38.1012,-97.9919,88,33.8,shape,false,true,America/Chicago,3,67502,1840010832
+Narka,Narka,Kansas,20157,Republic,39.9598,-97.4268,86,79.1,shape,false,true,America/Chicago,3,66960,1840008414
+Hunnewell,Hunnewell,Kansas,20191,Sumner,37.0042,-97.4076,86,59.7,shape,false,true,America/Chicago,3,67140,1840007611
+Englewood,Englewood,Kansas,20025,Clark,37.0405,-99.9876,85,29.1,shape,false,true,America/Chicago,3,67840,1840008752
+Gaylord,Gaylord,Kansas,20183,Smith,39.6463,-98.8473,84,113.0,shape,false,true,America/Chicago,3,67638,1840008410
+Parkerville,Parkerville,Kansas,20127,Morris,38.7638,-96.6615,84,87.9,shape,false,true,America/Chicago,3,66846 66872,1840009774
+Galesburg,Galesburg,Kansas,20133,Neosho,37.4721,-95.3563,83,154.2,shape,false,true,America/Chicago,3,66740,1840008723
+Peck,Peck,Kansas,20173,Sedgwick,37.4777,-97.3695,82,130.4,shape,false,false,America/Chicago,3,67120,1840030104
+Powhattan,Powhattan,Kansas,20013,Brown,39.7619,-95.6342,81,71.2,shape,false,true,America/Chicago,3,66527,1840009512
+Kincaid,Kincaid,Kansas,20003,Anderson,38.0812,-95.1554,80,61.8,shape,false,true,America/Chicago,3,66039,1840008664
+Simpson,Simpson,Kansas,20123,Mitchell,39.386,-97.934,80,49.8,shape,false,true,America/Chicago,3,67478,1840009581
+Collyer,Collyer,Kansas,20195,Trego,39.0372,-100.1184,80,92.8,shape,false,true,America/Chicago,3,67631,1840007414
+Mayfield,Mayfield,Kansas,20191,Sumner,37.2632,-97.5404,80,3.6,shape,false,true,America/Chicago,3,67103,1840008747
+Piedmont,Piedmont,Kansas,20073,Greenwood,37.6206,-96.3708,80,8.3,shape,false,false,America/Chicago,3,67122,1840030209
+Wheaton,Wheaton,Kansas,20149,Pottawatomie,39.502,-96.3189,79,119.9,shape,false,true,America/Chicago,3,66521,1840010636
+Lost Springs,Lost Springs,Kansas,20115,Marion,38.5665,-96.9658,78,32.5,shape,false,true,America/Chicago,3,66859,1840009660
+Monument,Monument,Kansas,20109,Logan,39.1049,-101.0079,78,56.1,shape,false,false,America/Chicago,3,67747,1840058244
+Havana,Havana,Kansas,20125,Montgomery,37.0921,-95.9418,77,16.7,shape,false,true,America/Chicago,3,67347,1840007619
+Yale,Yale,Kansas,20037,Crawford,37.4901,-94.647,76,29.5,shape,false,false,America/Chicago,3,66762,1840030318
+Clayton,Clayton,Kansas,20137,Norton,39.7369,-100.1765,75,68.8,shape,false,true,America/Chicago,3,67629,1840007289
+Culver,Culver,Kansas,20143,Ottawa,38.9701,-97.7592,72,114.4,shape,false,true,America/Chicago,3,67484,1840007382
+Olivet,Olivet,Kansas,20139,Osage,38.4813,-95.7519,72,61.8,shape,false,true,America/Chicago,3,66856,1840009777
+Zenda,Zenda,Kansas,20095,Kingman,37.444,-98.2819,71,76.2,shape,false,true,America/Chicago,3,67159,1840010857
+Horace,Horace,Kansas,20071,Greeley,38.4769,-101.7905,71,33.0,shape,false,true,America/Denver,3,67879,1840007478
+Stark,Stark,Kansas,20133,Neosho,37.6898,-95.1441,70,58.2,shape,false,true,America/Chicago,3,66775,1840009885
+Benedict,Benedict,Kansas,20205,Wilson,37.6269,-95.7433,70,72.1,shape,false,true,America/Chicago,3,66714,1840007589
+Windom,Windom,Kansas,20113,McPherson,38.3841,-97.9102,69,63.1,shape,false,true,America/Chicago,3,67491,1840010784
+Bartlett,Bartlett,Kansas,20099,Labette,37.0549,-95.2112,69,118.9,shape,false,true,America/Chicago,3,67332,1840007626
+Manchester,Manchester,Kansas,20041,Dickinson,39.0933,-97.3201,68,126.6,shape,false,true,America/Chicago,3,67410,1840009703
+Cambridge,Cambridge,Kansas,20035,Cowley,37.3177,-96.6673,68,65.6,shape,false,true,America/Chicago,3,67023,1840007605
+Chautauqua,Chautauqua,Kansas,20019,Chautauqua,37.0241,-96.1774,67,61.0,shape,false,true,America/Chicago,3,67334,1840007635
+Aurora,Aurora,Kansas,20029,Cloud,39.452,-97.53,66,86.1,shape,false,true,America/Chicago,3,67417,1840007326
+Goff,Goff,Kansas,20131,Nemaha,39.6641,-95.9317,64,107.0,shape,false,true,America/Chicago,3,66428,1840008429
+Piqua,Piqua,Kansas,20207,Woodson,37.922,-95.5375,64,6.2,shape,false,false,America/Chicago,3,66761,1840026794
+Glade,Glade,Kansas,20147,Phillips,39.6837,-99.3116,64,68.8,shape,false,true,America/Chicago,3,67639,1840008422
+Ringo,Ringo,Kansas,20037,Crawford,37.5064,-94.7649,64,16.4,shape,false,false,America/Chicago,3,66743,1840058833
+Farlington,Farlington,Kansas,20037,Crawford,37.6155,-94.8226,64,26.9,shape,false,false,America/Chicago,3,66734,1840030213
+Vermillion,Vermillion,Kansas,20117,Marshall,39.7183,-96.2659,64,101.8,shape,false,true,America/Chicago,3,66544,1840010551
+Abbyville,Abbyville,Kansas,20155,Reno,37.9705,-98.2027,64,120.6,shape,false,true,America/Chicago,3,67510,1840007538
+Zurich,Zurich,Kansas,20163,Rooks,39.2322,-99.4347,63,38.0,shape,false,true,America/Chicago,3,67663,1840010629
+Pilsen,Pilsen,Kansas,20115,Marion,38.4711,-97.0389,62,17.1,shape,false,false,America/Chicago,3,66861,1840059136
+Kickapoo Site 7,Kickapoo Site 7,Kansas,20013,Brown,39.6895,-95.6713,62,47.2,shape,false,true,America/Chicago,4,66439,1840039348
+Vining,Vining,Kansas,20201,Washington,39.5674,-97.2937,61,14.6,shape,false,true,America/Chicago,3,66937,1840010550
+Crestline,Crestline,Kansas,20021,Cherokee,37.1701,-94.7065,60,13.0,shape,false,false,America/Chicago,3,66739 66725,1840057991
+Esbon,Esbon,Kansas,20089,Jewell,39.8219,-98.4339,60,61.5,shape,false,true,America/Chicago,3,66941,1840008407
+Agenda,Agenda,Kansas,20157,Republic,39.7066,-97.4322,59,34.9,shape,false,true,America/Chicago,3,66930,1840007283
+Elsmore,Elsmore,Kansas,20001,Allen,37.7941,-95.15,59,37.1,shape,false,true,America/Chicago,3,66732,1840008692
+Reserve,Reserve,Kansas,20013,Brown,39.977,-95.5654,58,88.3,shape,false,true,America/Chicago,3,66434,1840009513
+New Albany,New Albany,Kansas,20205,Wilson,37.5678,-95.9363,56,51.9,shape,false,true,America/Chicago,3,66736,1840008720
+Shallow Water,Shallow Water,Kansas,20171,Scott,38.3738,-100.9104,56,43.7,shape,false,false,America/Chicago,3,67871,1840030131
+Matfield Green,Matfield Green,Kansas,20017,Chase,38.1596,-96.5623,56,50.4,shape,false,true,America/Chicago,3,66862,1840008648
+Hallowell,Hallowell,Kansas,20021,Cherokee,37.1733,-95.0027,56,25.0,shape,false,false,America/Chicago,3,66725,1840058005
+Stuttgart,Stuttgart,Kansas,20147,Phillips,39.7995,-99.4546,55,32.1,shape,false,false,America/Chicago,3,67661 67664,1840058334
+Home,Home,Kansas,20117,Marshall,39.8415,-96.5199,55,5.4,shape,false,false,America/Chicago,3,66438,1840026603
+Durham,Durham,Kansas,20115,Marion,38.4846,-97.2268,55,129.4,shape,false,true,America/Chicago,3,67438,1840008638
+Longford,Longford,Kansas,20027,Clay,39.1721,-97.329,53,115.3,shape,false,true,America/Chicago,3,67458,1840009580
+Sun City,Sun City,Kansas,20007,Barber,37.3785,-98.9166,52,13.8,shape,false,true,America/Chicago,3,67143,1840009903
+Murdock,Murdock,Kansas,20095,Kingman,37.6111,-97.9316,52,31.5,shape,false,false,America/Chicago,3,67111,1840030189
+Waldo,Waldo,Kansas,20167,Russell,39.12,-98.7983,51,14.3,shape,false,true,America/Chicago,3,67673,1840010704
+Somerset,Somerset,Kansas,20121,Miami,38.6058,-94.7779,51,44.6,shape,false,false,America/Chicago,3,66071,1840059364
+Soldier,Soldier,Kansas,20085,Jackson,39.5372,-95.9657,51,177.9,shape,false,true,America/Chicago,3,66540,1840009567
+Wallace,Wallace,Kansas,20199,Wallace,38.9127,-101.593,50,48.1,shape,false,true,America/Denver,3,67761,1840010701
+Coyville,Coyville,Kansas,20205,Wilson,37.6873,-95.8958,50,49.8,shape,false,true,America/Chicago,3,66736,1840007587
+Elmdale,Elmdale,Kansas,20017,Chase,38.3732,-96.6456,50,61.1,shape,false,true,America/Chicago,3,66850,1840008647
+Severance,Severance,Kansas,20043,Doniphan,39.7668,-95.2492,50,40.0,shape,false,true,America/Chicago,3,66087,1840009516
+Codell,Codell,Kansas,20163,Rooks,39.1954,-99.1702,50,25.7,shape,false,false,America/Chicago,3,67663 67651,1840030150
+Furley,Furley,Kansas,20173,Sedgwick,37.8801,-97.2119,50,51.3,shape,false,false,America/Chicago,3,67147,1840030172
+Elgin,Elgin,Kansas,20019,Chautauqua,37.0019,-96.2806,49,86.4,shape,false,true,America/Chicago,3,67361,1840008777
+Leona,Leona,Kansas,20043,Doniphan,39.7861,-95.3214,49,71.5,shape,false,true,America/Chicago,3,66532,1840008431
+Mahaska,Mahaska,Kansas,20201,Washington,39.9873,-97.3537,49,108.2,shape,false,true,America/Chicago,3,66955,1840009505
+Climax,Climax,Kansas,20073,Greenwood,37.7191,-96.224,48,80.3,shape,false,true,America/Chicago,3,67137,1840007535
+Barnard,Barnard,Kansas,20105,Lincoln,39.1891,-98.0441,47,73.8,shape,false,true,America/Chicago,3,67418,1840007399
+Devon,Devon,Kansas,20011,Bourbon,37.9227,-94.816,46,25.2,shape,false,false,America/Chicago,3,66701,1840030194
+Dresden,Dresden,Kansas,20039,Decatur,39.6228,-100.4191,46,19.7,shape,false,true,America/Chicago,3,67635,1840008417
+Wabaunsee,Wabaunsee,Kansas,20197,Wabaunsee,39.1431,-96.3422,46,13.1,shape,false,false,America/Chicago,3,66547,1840030235
+Dunlap,Dunlap,Kansas,20127,Morris,38.5763,-96.3676,45,13.3,shape,false,true,America/Chicago,3,66846,1840008601
+Yoder,Yoder,Kansas,20155,Reno,37.9455,-97.8682,44,6.3,shape,false,false,America/Chicago,3,67501 67543 67585,1840026785
+Bluff City,Bluff City,Kansas,20077,Harper,37.0761,-97.8747,43,32.8,shape,false,true,America/Chicago,3,67018,1840007623
+Marienthal,Marienthal,Kansas,20203,Wichita,38.4891,-101.22,43,8.3,shape,false,false,America/Chicago,3,67863,1840026733
+Alexander,Alexander,Kansas,20165,Rush,38.4695,-99.553,42,79.0,shape,false,true,America/Chicago,3,67513,1840007483
+Newbury,Newbury,Kansas,20197,Wabaunsee,39.0846,-96.174,41,17.6,shape,false,false,America/Chicago,3,66526,1840059048
+Timken,Timken,Kansas,20165,Rush,38.4732,-99.1779,40,90.7,shape,false,true,America/Chicago,3,67575,1840010777
+Beaumont,Beaumont,Kansas,20015,Butler,37.6565,-96.5316,40,27.9,shape,false,false,America/Chicago,3,67012,1840030200
+Roseland,Roseland,Kansas,20021,Cherokee,37.2805,-94.8438,39,20.6,shape,false,true,America/Chicago,3,66773,1840009915
+Frederick,Frederick,Kansas,20159,Rice,38.5127,-98.2673,38,21.2,shape,false,true,America/Chicago,3,67444,1840008649
+Belpre,Belpre,Kansas,20047,Edwards,37.9507,-99.0998,38,35.7,shape,false,true,America/Chicago,3,67519,1840007549
+Menlo,Menlo,Kansas,20193,Thomas,39.3561,-100.7242,37,63.2,shape,false,true,America/Chicago,3,67753,1840008470
+Nashville,Nashville,Kansas,20095,Kingman,37.4384,-98.4227,37,80.2,shape,false,true,America/Chicago,3,67112,1840008718
+Paradise,Paradise,Kansas,20167,Russell,39.1145,-98.9184,36,35.1,shape,false,true,America/Chicago,3,67658,1840009707
+Susank,Susank,Kansas,20009,Barton,38.6407,-98.7745,36,20.9,shape,false,true,America/Chicago,3,67544,1840009651
+Lone Elm,Lone Elm,Kansas,20003,Anderson,38.0796,-95.243,35,36.8,shape,false,true,America/Chicago,3,66039,1840009828
+Silverdale,Silverdale,Kansas,20035,Cowley,37.0424,-96.9018,35,13.0,shape,false,false,America/Chicago,3,67005,1840030087
+Ada,Ada,Kansas,20143,Ottawa,39.1622,-97.886,34,5.2,shape,false,false,America/Chicago,3,67467,1840024521
+Idana,Idana,Kansas,20027,Clay,39.3595,-97.2662,34,30.0,shape,false,false,America/Chicago,3,67432,1840030230
+Neal,Neal,Kansas,20073,Greenwood,37.8337,-96.0809,34,40.9,shape,false,false,America/Chicago,3,66863,1840030199
+Virgil,Virgil,Kansas,20073,Greenwood,37.9807,-96.0116,33,22.8,shape,false,true,America/Chicago,3,66870,1840010830
+Bushong,Bushong,Kansas,20111,Lyon,38.6428,-96.2567,33,34.5,shape,false,true,America/Chicago,3,66833,1840007467
+Wilmore,Wilmore,Kansas,20033,Comanche,37.335,-99.2102,33,40.8,shape,false,true,America/Chicago,3,67155,1840010874
+Athol,Athol,Kansas,20183,Smith,39.7663,-98.9196,32,33.6,shape,false,true,America/Chicago,3,66932,1840007280
+Saint Benedict,Saint Benedict,Kansas,20131,Nemaha,39.8928,-96.1029,32,8.6,shape,false,false,America/Chicago,3,66538,1840030158
+Willis,Willis,Kansas,20013,Brown,39.7226,-95.5058,32,35.1,shape,false,true,America/Chicago,3,66434,1840010553
+Langdon,Langdon,Kansas,20155,Reno,37.8532,-98.324,30,38.5,shape,false,true,America/Chicago,3,67583,1840008677
+Huron,Huron,Kansas,20005,Atchison,39.6384,-95.3512,30,78.7,shape,false,true,America/Chicago,3,66041,1840007331
+Lafontaine,Lafontaine,Kansas,20205,Wilson,37.4004,-95.843,28,5.4,shape,false,false,America/Chicago,3,66736,1840030098
+Burdick,Burdick,Kansas,20127,Morris,38.5589,-96.8472,28,10.7,shape,false,false,America/Chicago,3,66838,1840030250
+South Mound,South Mound,Kansas,20133,Neosho,37.435,-95.2245,28,10.9,shape,false,false,America/Chicago,3,67357,1840030093
+Mont Ida,Mont Ida,Kansas,20003,Anderson,38.217,-95.3658,28,1.8,shape,false,false,America/Chicago,3,66091,1840030266
+Russell Springs,Russell Springs,Kansas,20109,Logan,38.9128,-101.1757,28,15.3,shape,false,true,America/Chicago,3,67764,1840009698
+Webber,Webber,Kansas,20089,Jewell,39.9344,-98.0351,27,13.8,shape,false,true,America/Chicago,3,66970,1840010549
+Zeandale,Zeandale,Kansas,20161,Riley,39.1627,-96.4279,27,7.6,shape,false,false,America/Chicago,3,66502,1840059031
+Scottsville,Scottsville,Kansas,20123,Mitchell,39.5426,-97.9523,24,18.4,shape,false,true,America/Chicago,3,67420,1840009582
+Danville,Danville,Kansas,20077,Harper,37.286,-97.8921,24,28.1,shape,false,true,America/Chicago,3,67036,1840007621
+Bassett,Bassett,Kansas,20001,Allen,37.9063,-95.4076,23,16.3,shape,false,true,America/Chicago,3,66749,1840007555
+Bavaria,Bavaria,Kansas,20169,Saline,38.7955,-97.7548,22,45.6,shape,false,false,America/Chicago,3,67401,1840030241
+Labette,Labette,Kansas,20099,Labette,37.23,-95.1836,22,50.5,shape,false,true,America/Chicago,3,67356,1840008767
+New Salem,New Salem,Kansas,20035,Cowley,37.3143,-96.8897,22,11.0,shape,false,false,America/Chicago,3,67156,1840058054
+Speed,Speed,Kansas,20147,Phillips,39.6764,-99.4209,22,50.7,shape,false,true,America/Chicago,3,67661,1840009509
+Kickapoo Site 2,Kickapoo Site 2,Kansas,20013,Brown,39.7029,-95.6495,22,9.9,shape,false,true,America/Chicago,5,66439,1840039297
+Carlton,Carlton,Kansas,20041,Dickinson,38.6866,-97.2931,21,48.5,shape,false,true,America/Chicago,3,67448,1840007409
+Urbana,Urbana,Kansas,20133,Neosho,37.558,-95.3999,20,4.5,shape,false,false,America/Chicago,3,66720,1840030210
+Galatia,Galatia,Kansas,20009,Barton,38.6411,-98.9578,20,12.4,shape,false,true,America/Chicago,3,67565 67564,1840008626
+Richfield,Richfield,Kansas,20129,Morton,37.2653,-101.7828,19,7.3,shape,false,true,America/Chicago,3,67953,1840009907
+Hollenberg,Hollenberg,Kansas,20201,Washington,39.981,-96.9917,19,16.3,shape,false,true,America/Chicago,3,66946,1840007288
+Big Bow,Big Bow,Kansas,20187,Stanton,37.5609,-101.5573,19,1.5,shape,false,false,America/Chicago,3,67855,1840030141
+Beaver,Beaver,Kansas,20009,Barton,38.6379,-98.6736,18,1.1,shape,false,false,America/Chicago,3,67544 67525,1840030220
+Brownell,Brownell,Kansas,20135,Ness,38.6406,-99.7443,17,34.2,shape,false,true,America/Chicago,3,67521,1840006170
+Eastshore,Eastshore,Kansas,20115,Marion,38.3839,-97.0682,17,6.8,shape,false,false,America/Chicago,3,66861,1840059721
+Oak Hill,Oak Hill,Kansas,20027,Clay,39.2466,-97.3428,16,35.6,shape,false,true,America/Chicago,3,67432,1840008475
+Ludell,Ludell,Kansas,20153,Rawlins,39.8566,-100.9583,15,3.9,shape,false,false,America/Chicago,3,67744,1840030117
+Hamlin,Hamlin,Kansas,20013,Brown,39.9156,-95.6275,14,42.4,shape,false,true,America/Chicago,3,66434,1840007295
+Cedar,Cedar,Kansas,20183,Smith,39.6571,-98.9402,13,9.6,shape,false,true,America/Chicago,3,67628,1840007279
+Radium,Radium,Kansas,20185,Stafford,38.1738,-98.8944,13,31.9,shape,false,true,America/Chicago,3,67550,1840009831
+Byers,Byers,Kansas,20151,Pratt,37.7879,-98.8671,12,34.5,shape,false,true,America/Chicago,3,67021,1840007580
+Mildred,Mildred,Kansas,20001,Allen,38.0235,-95.1717,12,6.8,shape,false,false,America/Chicago,3,66755,1840008694
+Ogallah,Ogallah,Kansas,20195,Trego,38.9946,-99.7326,12,2.9,shape,false,false,America/Chicago,3,67656,1840030215
+Garland,Garland,Kansas,20011,Bourbon,37.7305,-94.6244,11,70.7,shape,false,false,America/Chicago,3,66741,1840030207
+Harris,Harris,Kansas,20003,Anderson,38.3206,-95.445,11,10.4,shape,false,false,America/Chicago,3,66032,1840026763
+Opolis,Opolis,Kansas,20037,Crawford,37.3449,-94.6245,11,6.2,shape,false,false,America/Chicago,3,66760,1840151512
+Latimer,Latimer,Kansas,20127,Morris,38.7386,-96.8459,10,30.0,shape,false,true,America/Chicago,3,67449,1840008603
+Waldron,Waldron,Kansas,20077,Harper,37.0018,-98.1825,9,9.7,shape,false,true,America/Chicago,3,67150,1840010873
+Norway,Norway,Kansas,20157,Republic,39.6965,-97.7738,9,1.5,shape,false,false,America/Chicago,3,66966 66961,1840030164
+Edson,Edson,Kansas,20181,Sherman,39.335,-101.5495,9,4.9,shape,false,false,America/Denver,3,67733,1840030121
+Bridgeport,Bridgeport,Kansas,20169,Saline,38.6272,-97.614,8,119.4,shape,false,false,America/Chicago,3,67416,1840030245
+Roxbury,Roxbury,Kansas,20113,McPherson,38.5511,-97.4274,7,51.1,shape,false,false,America/Chicago,3,67448 67476,1840026739
+Woodruff,Woodruff,Kansas,20147,Phillips,39.9876,-99.4316,4,7.1,shape,false,false,America/Chicago,3,67661,1840024708
+Penalosa,Penalosa,Kansas,20095,Kingman,37.7156,-98.3202,3,15.7,shape,false,true,America/Chicago,3,67035,1840009884
+Cedar Point,Cedar Point,Kansas,20017,Chase,38.26,-96.8225,2,33.6,shape,false,true,America/Chicago,3,66843,1840007498
+Kelly,Kelly,Kansas,20131,Nemaha,39.7368,-96.0008,1,35.7,shape,false,false,America/Chicago,3,66538,1840030166
+Ionia,Ionia,Kansas,20089,Jewell,39.6626,-98.3439,0,29.4,shape,false,false,America/Chicago,3,66949,1840030146
+Asherville,Asherville,Kansas,20123,Mitchell,39.4076,-97.9733,0,0.1,shape,false,false,America/Chicago,3,67420,1840024462
+Ames,Ames,Kansas,20029,Cloud,39.5689,-97.451,0,6.2,shape,false,false,America/Chicago,3,66901,1840058586
+Wells,Wells,Kansas,20143,Ottawa,39.1391,-97.5512,0,6.0,shape,false,false,America/Chicago,3,67467,1840030232
+Centerville,Centerville,Kansas,20107,Linn,38.2287,-95.0148,0,4.9,shape,false,false,America/Chicago,3,66014,1840030269
+Nicodemus,Nicodemus,Kansas,20065,Graham,39.3862,-99.6135,0,1.2,shape,false,false,America/Chicago,3,67625,1840030148
+Wayside,Wayside,Kansas,20125,Montgomery,37.1259,-95.8696,0,2.4,shape,false,false,America/Chicago,3,67301,1840030090
+Bala,Bala,Kansas,20161,Riley,39.3108,-96.9504,0,9.6,shape,false,false,America/Chicago,3,66531,1840030231
+Pierceville,Pierceville,Kansas,20055,Finney,37.8824,-100.6768,0,82.8,shape,false,false,America/Chicago,3,67846 67868,1840030138
+Lake City,Lake City,Kansas,20007,Barber,37.3569,-98.8279,0,2.3,shape,false,false,America/Chicago,3,67071,1840030111
+Herkimer,Herkimer,Kansas,20117,Marshall,39.8924,-96.709,0,25.2,shape,false,false,America/Chicago,3,66508,1840030156
+Kickapoo Site 6,Kickapoo Site 6,Kansas,20013,Brown,39.6917,-95.6905,0,8.0,shape,false,true,America/Chicago,5,66527,1840039307

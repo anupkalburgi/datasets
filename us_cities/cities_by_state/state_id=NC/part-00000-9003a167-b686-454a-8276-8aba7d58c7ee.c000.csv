@@ -1,0 +1,771 @@
+Charlotte,Charlotte,North Carolina,37119,Mecklenburg,35.2083,-80.8303,1427444,1089.8,shape,false,true,America/New_York,1,28269 28262 28105 28280 28282 28209 28208 28205 28204 28207 28206 28203 28202 28223 28227 28226 28278 28270 28273 28274 28277 28134 28216 28217 28214 28215 28212 28213 28210 28211 28244 28126 28130 28201 28218 28219 28220 28221 28222 28224 28228 28229 28230 28231 28232 28233 28234 28235 28237 28241 28242 28243 28246 28247 28253 28254 28255 28256 28258 28260 28263 28265 28266 28271 28272 28275 28281 28284 28285 28287 28288 28289 28290 28296 28297 28299,1840014557
+Raleigh,Raleigh,North Carolina,37183,Wake,35.8324,-78.6429,1163152,1210.0,shape,false,true,America/New_York,1,27617 27616 27615 27614 27613 27612 27610 27609 27601 27603 27604 27605 27606 27608 27607 27697 27695 27602 27619 27620 27622 27624 27626 27627 27628 27634 27636 27640 27650 27656 27658 27661 27668 27675 27676 27690 27698,1840014497
+Winston-Salem,Winston-Salem,North Carolina,37067,Forsyth,36.1029,-80.261,427706,721.6,shape,false,true,America/New_York,2,27110 27127 27040 27107 27106 27105 27104 27103 27101 27109 27102 27108 27111 27113 27114 27115 27116 27117 27120 27130 27150 27152 27155 27157 27198 27199,1840015324
+Durham,Durham,North Carolina,37063,Durham,35.9792,-78.9022,399616,950.8,shape,false,true,America/New_York,2,27703 27705 27704 27707 27701 27708 27712 27713 27706 27710 27715 27717 27722,1840013364
+Greensboro,Greensboro,North Carolina,37081,Guilford,36.0956,-79.8271,347130,873.2,shape,false,true,America/New_York,2,27411 27410 27412 27301 27455 27408 27409 27403 27401 27406 27407 27405 27214 27402 27404 27413 27417 27420 27427 27429 27435 27438 27495 27497 27498 27499,1840013356
+Fayetteville,Fayetteville,North Carolina,37051,Cumberland,35.085,-78.9772,328804,543.5,shape,false,true,America/New_York,2,28390 28304 28306 28307 28301 28303 28308 28305 28311 28310 28314 28302 28309,1840013490
+Asheville,Asheville,North Carolina,37021,Buncombe,35.5707,-82.5537,294013,795.6,shape,false,true,America/New_York,2,28806 28805 28804 28803 28801 28776 28810 28814 28815 28816,1840013411
+Concord,Concord,North Carolina,37025,Cabarrus,35.3933,-80.6369,288783,635.4,shape,false,true,America/New_York,2,28025 28027 28026,1840014559
+Wilmington,Wilmington,North Carolina,37129,New Hanover,34.2099,-77.8866,268625,878.3,shape,false,true,America/New_York,2,28409 28401 28403 28405 28412 28402 28406 28408,1840015576
+Hickory,Hickory,North Carolina,37035,Catawba,35.741,-81.3223,206008,539.2,shape,false,true,America/New_York,2,28601 28602 28603,1840014524
+Gastonia,Gastonia,North Carolina,37071,Gaston,35.2494,-81.1854,178220,598.7,shape,false,true,America/New_York,2,28054 28056 28052,1840013468
+Cary,Cary,North Carolina,37183,Wake,35.7819,-78.8195,174880,1126.5,shape,false,true,America/New_York,2,27560 27518 27519 27511 27513 27512,1840016196
+High Point,High Point,North Carolina,37081,Guilford,35.991,-79.9937,164836,774.3,shape,false,true,America/New_York,2,27265 27282 27235 27268 27262 27263 27260 27261 27264,1840014479
+Burlington,Burlington,North Carolina,37001,Alamance,36.076,-79.4685,147415,726.6,shape,false,true,America/New_York,2,27217 27215,1840013362
+Greenville,Greenville,North Carolina,37147,Pitt,35.5943,-77.376,127574,906.4,shape,false,true,America/New_York,2,27834 27858 28590 27833 27835 27836,1840013407
+Jacksonville,Jacksonville,North Carolina,37133,Onslow,34.7289,-77.3941,111830,568.9,shape,false,true,America/New_York,2,28546 28547 28544 28542 28540 28543 28541 28545,1840014653
+Apex,Apex,North Carolina,37183,Wake,35.7237,-78.8743,65541,1009.8,shape,false,true,America/New_York,3,27502 27523 27539,1840015355
+Huntersville,Huntersville,North Carolina,37119,Mecklenburg,35.406,-80.8716,61202,571.6,shape,false,true,America/New_York,3,28078 28070,1840016349
+Chapel Hill,Chapel Hill,North Carolina,37135,Orange,35.9271,-79.0391,58919,1053.4,shape,false,true,America/New_York,3,27599 27516 27514 27517 27515,1840016152
+Rocky Mount,Rocky Mount,North Carolina,37127,Nash,35.9685,-77.804,54260,468.9,shape,false,true,America/New_York,3,27803 27804 27801,1840014490
+Kannapolis,Kannapolis,North Carolina,37025,Cabarrus,35.4764,-80.6408,53314,614.5,shape,false,true,America/New_York,3,28027 28083 28081 28082,1840014560
+Mooresville,Mooresville,North Carolina,37097,Iredell,35.5847,-80.8266,50025,728.6,shape,false,true,America/New_York,3,28117 28115,1840016215
+Wake Forest,Wake Forest,North Carolina,37183,Wake,35.9632,-78.514,48047,950.4,shape,false,true,America/New_York,3,27587 27588,1840016199
+Wilson,Wilson,North Carolina,37195,Wilson,35.7311,-77.9284,47767,590.3,shape,false,true,America/New_York,3,27896 27893 27894 27895,1840015383
+Holly Springs,Holly Springs,North Carolina,37183,Wake,35.6526,-78.8399,42023,874.0,shape,false,true,America/New_York,3,27539 27540,1840016193
+Indian Trail,Indian Trail,North Carolina,37179,Union,35.0699,-80.6452,40325,695.6,shape,false,true,America/New_York,3,28104 28110 28079,1840016453
+Salisbury,Salisbury,North Carolina,37159,Rowan,35.6658,-80.4905,35437,621.2,shape,false,true,America/New_York,3,28146 28144 28147 28145,1840015384
+Fuquay-Varina,Fuquay-Varina,North Carolina,37183,Wake,35.5953,-78.7778,35428,733.6,shape,false,true,America/New_York,3,27526,1840016197
+Monroe,Monroe,North Carolina,37179,Union,35.0063,-80.5596,34897,435.8,shape,false,true,America/New_York,3,28110 28112 28111,1840014613
+Goldsboro,Goldsboro,North Carolina,37191,Wayne,35.3778,-77.9717,33566,453.3,shape,false,true,America/New_York,3,27534 27533 27530 27531 27532,1840013432
+Garner,Garner,North Carolina,37183,Wake,35.6936,-78.6181,31684,669.5,shape,false,true,America/New_York,3,27529 27603 27699,1840016198
+Cornelius,Cornelius,North Carolina,37119,Mecklenburg,35.4724,-80.8813,31396,957.7,shape,false,true,America/New_York,3,28031,1840016352
+New Bern,New Bern,North Carolina,37049,Craven,35.0955,-77.0723,31373,425.7,shape,false,true,America/New_York,3,28560 28562 28561,1840014591
+Sanford,Sanford,North Carolina,37105,Lee,35.4875,-79.177,30373,396.6,shape,false,true,America/New_York,3,27330 27332 27331,1840015421
+Morrisville,Morrisville,North Carolina,37183,Wake,35.8368,-78.8348,29756,1301.5,shape,false,true,America/New_York,3,27560,1840016195
+Matthews,Matthews,North Carolina,37119,Mecklenburg,35.1195,-80.7101,29613,668.1,shape,false,true,America/New_York,3,28105 28106,1840016350
+Statesville,Statesville,North Carolina,37097,Iredell,35.7842,-80.8713,28576,435.7,shape,false,true,America/New_York,3,28625 28677 28687,1840015358
+Kernersville,Kernersville,North Carolina,37067,Forsyth,36.1065,-80.0842,27177,579.7,shape,false,true,America/New_York,3,27284 27285,1840016123
+Thomasville,Thomasville,North Carolina,37057,Davidson,35.8813,-80.0807,27130,624.7,shape,false,true,America/New_York,3,27360 27361,1840015361
+Asheboro,Asheboro,North Carolina,37151,Randolph,35.7158,-79.8127,27117,553.9,shape,false,true,America/New_York,3,27205 27203,1840013400
+Clayton,Clayton,North Carolina,37101,Johnston,35.659,-78.4498,26837,642.9,shape,false,true,America/New_York,3,27520 27527 27528,1840016290
+Mint Hill,Mint Hill,North Carolina,37119,Mecklenburg,35.1783,-80.6528,26537,419.7,shape,false,true,America/New_York,3,28227,1840016351
+Leland,Leland,North Carolina,37019,Brunswick,34.2042,-78.0279,24473,423.2,shape,false,true,America/New_York,3,28451 28479,1840016683
+Shelby,Shelby,North Carolina,37045,Cleveland,35.2904,-81.5451,21712,375.0,shape,false,true,America/New_York,3,28150 28152 28151,1840015426
+Clemmons,Clemmons,North Carolina,37067,Forsyth,36.0319,-80.3861,21281,688.1,shape,false,true,America/New_York,3,27012 27103,1840017728
+Carrboro,Carrboro,North Carolina,37135,Orange,35.9259,-79.0878,21242,1266.6,shape,false,true,America/New_York,3,27516 27510,1840015334
+Waxhaw,Waxhaw,North Carolina,37179,Union,34.9363,-80.7439,20665,657.7,shape,false,true,America/New_York,3,28173,1840016458
+Kinston,Kinston,North Carolina,37107,Lenoir,35.2747,-77.5939,19704,416.3,shape,false,true,America/New_York,3,28501 28504 28502 28503,1840014585
+Lexington,Lexington,North Carolina,37057,Davidson,35.8018,-80.2682,19595,393.6,shape,false,true,America/New_York,3,27292 27295 27294,1840015360
+Boone,Boone,North Carolina,37189,Watauga,36.2111,-81.6669,19368,1180.8,shape,false,true,America/New_York,3,28607 28608,1840015310
+Knightdale,Knightdale,North Carolina,37183,Wake,35.7911,-78.4966,19127,869.5,shape,false,true,America/New_York,3,27545,1840016194
+Lumberton,Lumberton,North Carolina,37155,Robeson,34.6312,-79.0186,19099,415.2,shape,false,true,America/New_York,3,28359 28358 28360,1840015531
+Harrisburg,Harrisburg,North Carolina,37025,Cabarrus,35.3125,-80.6485,18934,637.4,shape,false,true,America/New_York,3,28075,1840016364
+Elizabeth City,Elizabeth City,North Carolina,37139,Pasquotank,36.2942,-76.236,18570,612.5,shape,false,true,America/New_York,3,27909 27906 27907,1840013315
+Lenoir,Lenoir,North Carolina,37027,Caldwell,35.9094,-81.5249,18301,339.3,shape,false,true,America/New_York,3,28645 28633,1840014493
+Mebane,Mebane,North Carolina,37001,Alamance,36.0852,-79.2736,17899,627.8,shape,false,true,America/New_York,3,27302,1840015328
+Hope Mills,Hope Mills,North Carolina,37051,Cumberland,34.971,-78.9597,17671,804.7,shape,false,true,America/New_York,3,28348 28306,1840016438
+Pinehurst,Pinehurst,North Carolina,37125,Moore,35.1922,-79.4684,17653,407.9,shape,false,true,America/New_York,3,28374 28370,1840017852
+Mount Holly,Mount Holly,North Carolina,37071,Gaston,35.3136,-81.0073,17644,607.4,shape,false,true,America/New_York,3,28120 28012 28236,1840014590
+Morganton,Morganton,North Carolina,37023,Burke,35.7408,-81.7002,17457,350.2,shape,false,true,America/New_York,3,28655 28680,1840014504
+Graham,Graham,North Carolina,37001,Alamance,36.0589,-79.3894,17136,634.9,shape,false,true,America/New_York,3,27253 27258 27216,1840013361
+Havelock,Havelock,North Carolina,37049,Craven,34.9078,-76.8987,16759,378.7,shape,false,true,America/New_York,3,28533 28532,1840014592
+Murraysville,Murraysville,North Carolina,37129,New Hanover,34.2919,-77.8429,16672,747.3,shape,false,false,America/New_York,3,28411,1840013631
+Albemarle,Albemarle,North Carolina,37167,Stanly,35.3594,-80.1915,16444,358.6,shape,false,true,America/New_York,3,28001 28002,1840013444
+Stallings,Stallings,North Carolina,37179,Union,35.1088,-80.6598,16193,746.3,shape,false,true,America/New_York,3,28104,1840017878
+Southern Pines,Southern Pines,North Carolina,37125,Moore,35.1927,-79.4039,15701,345.1,shape,false,true,America/New_York,3,28374 28387 28388,1840017850
+Eden,Eden,North Carolina,37157,Rockingham,36.5027,-79.7412,15349,416.8,shape,false,true,America/New_York,3,27288 27289,1840013309
+Davidson,Davidson,North Carolina,37119,Mecklenburg,35.484,-80.8247,15199,926.0,shape,false,true,America/New_York,3,28036 28035,1840016353
+Roanoke Rapids,Roanoke Rapids,North Carolina,37083,Halifax,36.4452,-77.649,15143,589.8,shape,false,true,America/New_York,3,27870,1840014437
+Hendersonville,Hendersonville,North Carolina,37089,Henderson,35.3247,-82.4575,15102,787.2,shape,false,true,America/New_York,3,28792 28791 28739 28793,1840014561
+Henderson,Henderson,North Carolina,37181,Vance,36.3256,-78.4151,14997,671.4,shape,false,true,America/New_York,3,27536,1840014433
+Laurinburg,Laurinburg,North Carolina,37165,Scotland,34.7602,-79.4773,14971,460.7,shape,false,true,America/New_York,3,28352 28353,1840014631
+Belmont,Belmont,North Carolina,37071,Gaston,35.2212,-81.0401,14842,469.9,shape,false,true,America/New_York,3,28012,1840013469
+Piney Green,Piney Green,North Carolina,37133,Onslow,34.7498,-77.3208,14767,418.3,shape,false,false,America/New_York,3,28546 28544,1840013558
+Reidsville,Reidsville,North Carolina,37157,Rockingham,36.3376,-79.6725,14526,378.7,shape,false,true,America/New_York,3,27320 27323 27375,1840014436
+Anderson Creek,Anderson Creek,North Carolina,37085,Harnett,35.2657,-78.958,14447,286.1,shape,false,false,America/New_York,3,28323 28390,1840089354
+Lewisville,Lewisville,North Carolina,37067,Forsyth,36.103,-80.4166,13509,359.4,shape,false,true,America/New_York,3,27023 27040,1840016124
+Weddington,Weddington,North Carolina,37179,Union,35.0228,-80.7383,13173,290.2,shape,false,true,America/New_York,3,28104 28173,1840016459
+Newton,Newton,North Carolina,37035,Catawba,35.663,-81.2335,13173,368.7,shape,false,true,America/New_York,3,28658,1840014523
+Lake Norman of Catawba,Lake Norman of Catawba,North Carolina,37097,Iredell,35.5995,-80.984,12526,479.1,shape,false,true,America/New_York,3,28117,1840073862
+Myrtle Grove,Myrtle Grove,North Carolina,37129,New Hanover,34.123,-77.8834,12093,696.2,shape,false,false,America/New_York,3,28409,1840013632
+Archdale,Archdale,North Carolina,37151,Randolph,35.9032,-79.9591,11873,518.7,shape,false,true,America/New_York,3,27370 27263,1840013399
+Spring Lake,Spring Lake,North Carolina,37051,Cumberland,35.1843,-78.9962,11710,191.4,shape,false,true,America/New_York,3,28390 28307 28308 28310,1840017875
+Smithfield,Smithfield,North Carolina,37101,Johnston,35.5133,-78.3495,11527,359.7,shape,false,true,America/New_York,3,27577,1840017795
+Kings Mountain,Kings Mountain,North Carolina,37045,Cleveland,35.2349,-81.3501,11246,315.5,shape,false,true,America/New_York,3,28086,1840014552
+Lincolnton,Lincolnton,North Carolina,37109,Lincoln,35.4748,-81.2386,11225,499.6,shape,false,true,America/New_York,3,28092 28093,1840015427
+Elon,Elon,North Carolina,37001,Alamance,36.1016,-79.5086,11161,1032.8,shape,false,true,America/New_York,3,27244,1840016143
+Summerfield,Summerfield,North Carolina,37081,Guilford,36.1973,-79.8997,10986,160.7,shape,false,true,America/New_York,3,27358,1840016139
+Tarboro,Tarboro,North Carolina,37065,Edgecombe,35.9046,-77.5563,10696,366.4,shape,false,true,America/New_York,3,27886,1840016177
+Mount Airy,Mount Airy,North Carolina,37171,Surry,36.5083,-80.6155,10621,350.0,shape,false,true,America/New_York,3,27030,1840014430
+Wendell,Wendell,North Carolina,37183,Wake,35.7819,-78.3952,10575,587.8,shape,false,true,America/New_York,3,27591,1840016200
+Pineville,Pineville,North Carolina,37119,Mecklenburg,35.0864,-80.8915,10532,612.3,shape,false,true,America/New_York,3,28134,1840016354
+Winterville,Winterville,North Carolina,37147,Pitt,35.5291,-77.4,10510,822.8,shape,false,true,America/New_York,3,28590,1840016279
+Spout Springs,Spout Springs,North Carolina,37085,Harnett,35.2724,-79.0331,10384,467.4,shape,false,false,America/New_York,3,28326 27332,1840090627
+Waynesville,Waynesville,North Carolina,37087,Haywood,35.4854,-82.9996,10307,445.3,shape,false,true,America/New_York,3,28786 28738,1840016297
+Washington,Washington,North Carolina,37013,Beaufort,35.5586,-77.0545,9759,460.1,shape,false,true,America/New_York,3,27817 27889,1840015401
+Rolesville,Rolesville,North Carolina,37183,Wake,35.9223,-78.4656,9696,612.9,shape,false,true,America/New_York,3,27571 27587,1840017759
+Morehead City,Morehead City,North Carolina,37031,Carteret,34.7308,-76.7388,9632,502.1,shape,false,true,America/New_York,3,28557 28516,1840016482
+St. Stephens,St. Stephens,North Carolina,37035,Catawba,35.7642,-81.2746,9624,399.7,shape,false,false,America/New_York,3,28613 28601,1840033023
+Hillsborough,Hillsborough,North Carolina,37135,Orange,36.0679,-79.0991,9534,658.1,shape,false,true,America/New_York,3,27278,1840016151
+Rockingham,Rockingham,North Carolina,37153,Richmond,34.9386,-79.7608,9174,463.4,shape,false,true,America/New_York,3,28379 28380,1840014617
+Gibsonville,Gibsonville,North Carolina,37081,Guilford,36.0993,-79.5415,8827,866.0,shape,false,true,America/New_York,3,27377 27249,1840016137
+Wesley Chapel,Wesley Chapel,North Carolina,37179,Union,34.9985,-80.6903,8763,348.1,shape,false,true,America/New_York,3,28104 28173 28110,1840017881
+Ogden,Ogden,North Carolina,37129,New Hanover,34.2656,-77.7966,8699,740.7,shape,false,false,America/New_York,3,28411,1840013633
+Oxford,Oxford,North Carolina,37077,Granville,36.3155,-78.5848,8685,538.1,shape,false,true,America/New_York,3,27565,1840014435
+Aberdeen,Aberdeen,North Carolina,37125,Moore,35.135,-79.4326,8674,320.8,shape,false,true,America/New_York,3,28315,1840015433
+Oak Island,Oak Island,North Carolina,37019,Brunswick,33.9434,-78.1366,8564,171.6,shape,false,true,America/New_York,3,28465 28422,1840016688
+Kings Grant,Kings Grant,North Carolina,37129,New Hanover,34.2664,-77.8659,8561,728.1,shape,false,false,America/New_York,3,28405,1840032902
+Dunn,Dunn,North Carolina,37085,Harnett,35.3114,-78.6129,8549,472.8,shape,false,true,America/New_York,3,28334 28335,1840013434
+Conover,Conover,North Carolina,37035,Catawba,35.7154,-81.2174,8457,292.3,shape,false,true,America/New_York,3,28613,1840014522
+Black Mountain,Black Mountain,North Carolina,37021,Buncombe,35.6144,-82.3274,8430,485.0,shape,false,true,America/New_York,3,28711,1840015392
+Half Moon,Half Moon,North Carolina,37133,Onslow,34.8297,-77.4591,8381,436.0,shape,false,false,America/New_York,3,28546 28540,1840013556
+Butner,Butner,North Carolina,37077,Granville,36.1285,-78.7501,8374,230.5,shape,false,true,America/New_York,3,27522 27509,1840022665
+Clinton,Clinton,North Carolina,37163,Sampson,35.0004,-78.3313,8362,423.1,shape,false,true,America/New_York,3,28328 28329,1840014605
+Hampstead,Hampstead,North Carolina,37141,Pender,34.3627,-77.7318,8340,159.1,shape,false,false,America/New_York,3,28443,1840025847
+Roxboro,Roxboro,North Carolina,37145,Person,36.3879,-78.9812,8131,440.1,shape,false,true,America/New_York,3,27573 27574,1840014432
+Fletcher,Fletcher,North Carolina,37089,Henderson,35.4316,-82.5039,8000,483.0,shape,false,true,America/New_York,3,28732,1840016371
+Woodfin,Woodfin,North Carolina,37021,Buncombe,35.6457,-82.5915,7901,331.9,shape,false,true,America/New_York,3,28804,1840016285
+Siler City,Siler City,North Carolina,37037,Chatham,35.7251,-79.456,7847,500.9,shape,false,true,America/New_York,3,27344,1840017783
+Brevard,Brevard,North Carolina,37175,Transylvania,35.2438,-82.7265,7777,560.5,shape,false,true,America/New_York,3,28712,1840013467
+Etowah,Etowah,North Carolina,37089,Henderson,35.3061,-82.5902,7689,168.1,shape,false,false,America/New_York,3,28742 28729 28739,1840013074
+Kill Devil Hills,Kill Devil Hills,North Carolina,37055,Dare,36.0167,-75.6699,7658,527.2,shape,false,true,America/New_York,3,27948,1840016154
+Marion,Marion,North Carolina,37111,McDowell,35.6777,-82.0017,7652,494.6,shape,false,true,America/New_York,3,28752 28737,1840015372
+Oak Ridge,Oak Ridge,North Carolina,37081,Guilford,36.174,-79.9916,7637,176.0,shape,false,true,America/New_York,3,27310,1840016141
+Zebulon,Zebulon,North Carolina,37183,Wake,35.8329,-78.3158,7421,470.7,shape,false,true,America/New_York,3,27597,1840016201
+Forest City,Forest City,North Carolina,37161,Rutherford,35.3339,-81.8702,7357,331.5,shape,false,true,America/New_York,3,28043,1840016320
+King,King,North Carolina,37169,Stokes,36.2769,-80.3566,7210,460.5,shape,false,true,America/New_York,3,27021,1840014431
+Porters Neck,Porters Neck,North Carolina,37129,New Hanover,34.2942,-77.7695,7165,511.3,shape,false,true,America/New_York,3,28411,1840040293
+Mills River,Mills River,North Carolina,37089,Henderson,35.3853,-82.5854,7100,122.9,shape,false,true,America/New_York,3,28759,1840016370
+Trinity,Trinity,North Carolina,37151,Randolph,35.8756,-80.0093,7012,160.3,shape,false,true,America/New_York,3,27370 27263,1840015374
+Cullowhee,Cullowhee,North Carolina,37099,Jackson,35.3097,-83.1816,6715,680.9,shape,false,false,America/New_York,3,28723,1840013072
+Unionville,Unionville,North Carolina,37179,Union,35.0716,-80.5173,6694,88.5,shape,false,true,America/New_York,3,28110,1840016457
+Carolina Beach,Carolina Beach,North Carolina,37129,New Hanover,34.0396,-77.8966,6583,1036.6,shape,false,true,America/New_York,3,28428,1840015575
+St. James,St. James,North Carolina,37019,Brunswick,33.9467,-78.1132,6566,278.2,shape,false,true,America/New_York,3,28461,1840017954
+Selma,Selma,North Carolina,37101,Johnston,35.5406,-78.2932,6449,460.8,shape,false,true,America/New_York,3,27577 27576,1840017794
+Marvin,Marvin,North Carolina,37179,Union,34.9889,-80.8033,6421,414.2,shape,false,true,America/New_York,3,28173,1840017880
+Cherryville,Cherryville,North Carolina,37071,Gaston,35.3844,-81.3781,6113,427.6,shape,false,true,America/New_York,3,28021,1840014589
+Hamlet,Hamlet,North Carolina,37153,Richmond,34.8892,-79.7099,6043,443.0,shape,false,true,America/New_York,3,28345,1840013516
+Boiling Spring Lakes,Boiling Spring Lakes,North Carolina,37019,Brunswick,34.0327,-78.0685,6032,96.7,shape,false,true,America/New_York,3,28461,1840013635
+East Flat Rock,East Flat Rock,North Carolina,37089,Henderson,35.2802,-82.4171,5934,535.5,shape,false,false,America/New_York,3,28792 28726 28731,1840013073
+Mocksville,Mocksville,North Carolina,37059,Davie,35.9007,-80.5631,5908,293.6,shape,false,true,America/New_York,3,27028,1840016212
+Stokesdale,Stokesdale,North Carolina,37081,Guilford,36.2318,-79.9834,5900,119.7,shape,false,true,America/New_York,3,27357 27284,1840016138
+Dallas,Dallas,North Carolina,37071,Gaston,35.3169,-81.183,5889,742.6,shape,false,true,America/New_York,3,28034,1840016396
+Silver Lake,Silver Lake,North Carolina,37129,New Hanover,34.1409,-77.9089,5858,917.2,shape,false,false,America/New_York,3,28412,1840032901
+Walkertown,Walkertown,North Carolina,37067,Forsyth,36.1576,-80.1641,5706,328.9,shape,false,true,America/New_York,3,27105 27101 27051,1840016125
+Nashville,Nashville,North Carolina,37127,Nash,35.9693,-77.9554,5624,462.5,shape,false,true,America/New_York,3,27856,1840016167
+Northchase,Northchase,North Carolina,37129,New Hanover,34.3049,-77.8754,5543,1244.1,shape,false,true,America/New_York,3,28405,1840040283
+Bessemer City,Bessemer City,North Carolina,37071,Gaston,35.284,-81.2828,5472,404.3,shape,false,true,America/New_York,3,28016,1840013470
+Angier,Angier,North Carolina,37085,Harnett,35.5116,-78.7402,5348,539.8,shape,false,true,America/New_York,3,27501,1840015423
+Swannanoa,Swannanoa,North Carolina,37021,Buncombe,35.6009,-82.3917,5338,323.3,shape,false,false,America/New_York,3,28778,1840013410
+Briar Chapel,Briar Chapel,North Carolina,37037,Chatham,35.8241,-79.1168,5332,984.9,shape,false,false,America/New_York,3,27312 27516,1840151242
+Cramerton,Cramerton,North Carolina,37071,Gaston,35.2343,-81.0734,5294,440.2,shape,false,true,America/New_York,3,28032 28012,1840016395
+Moyock,Moyock,North Carolina,37053,Currituck,36.5165,-76.1728,5259,194.6,shape,false,false,America/New_York,3,27958,1840025764
+Williamston,Williamston,North Carolina,37117,Martin,35.8465,-77.0661,5224,447.1,shape,false,true,America/New_York,3,27892,1840016206
+James City,James City,North Carolina,37049,Craven,35.0592,-77.02,5186,259.7,shape,false,false,America/New_York,3,28560 28562 28564,1840013471
+Long View,Long View,North Carolina,37035,Catawba,35.7217,-81.3857,5029,482.5,shape,false,true,America/New_York,3,28601 28602,1840033007
+Sawmills,Sawmills,North Carolina,37027,Caldwell,35.8165,-81.4781,5026,293.7,shape,false,true,America/New_York,3,28630 28638,1840017755
+Wadesboro,Wadesboro,North Carolina,37007,Anson,34.9645,-80.0746,5004,292.9,shape,false,true,America/New_York,3,28170,1840016450
+Ayden,Ayden,North Carolina,37147,Pitt,35.4693,-77.4167,5002,506.4,shape,false,true,America/New_York,3,28513,1840015388
+Pleasant Garden,Pleasant Garden,North Carolina,37081,Guilford,35.9595,-79.76,4987,128.1,shape,false,true,America/New_York,3,27406 27313,1840016142
+Whispering Pines,Whispering Pines,North Carolina,37125,Moore,35.2537,-79.3754,4938,502.7,shape,false,true,America/New_York,3,28327,1840017853
+Granite Falls,Granite Falls,North Carolina,37027,Caldwell,35.797,-81.4237,4934,385.9,shape,false,true,America/New_York,3,28630,1840016189
+Archer Lodge,Archer Lodge,North Carolina,37101,Johnston,35.6907,-78.3749,4894,208.4,shape,false,true,America/New_York,3,27591 27527,1840025797
+Wrightsboro,Wrightsboro,North Carolina,37129,New Hanover,34.2895,-77.9217,4876,169.1,shape,false,false,America/New_York,3,28401 28405 28429,1840013630
+Creedmoor,Creedmoor,North Carolina,37077,Granville,36.1224,-78.6757,4871,351.8,shape,false,true,America/New_York,3,27522,1840014434
+Ahoskie,Ahoskie,North Carolina,37091,Hertford,36.2842,-76.9902,4841,424.7,shape,false,true,America/New_York,3,27910,1840015277
+Midway,Midway,North Carolina,37057,Davidson,35.9751,-80.2204,4773,236.2,shape,false,true,America/New_York,3,27127 27107,1840022708
+Whiteville,Whiteville,North Carolina,37047,Columbus,34.3306,-78.7014,4761,330.7,shape,false,true,America/New_York,3,28472,1840015570
+Locust,Locust,North Carolina,37167,Stanly,35.2688,-80.4369,4700,221.6,shape,false,true,America/New_York,3,28107 28097,1840015437
+Valdese,Valdese,North Carolina,37023,Burke,35.7566,-81.5634,4682,230.0,shape,false,true,America/New_York,3,28612 28690 28655 28671,1840016234
+Royal Pines,Royal Pines,North Carolina,37021,Buncombe,35.4783,-82.5038,4681,665.9,shape,false,false,America/New_York,3,28803 28704,1840013412
+Midland,Midland,North Carolina,37025,Cabarrus,35.245,-80.5212,4675,135.7,shape,false,true,America/New_York,3,28107 28025,1840016362
+Carolina Shores,Carolina Shores,North Carolina,37019,Brunswick,33.9077,-78.574,4643,624.3,shape,false,true,America/New_York,3,28467,1840015581
+Boiling Springs,Boiling Springs,North Carolina,37045,Cleveland,35.2522,-81.6636,4622,398.3,shape,false,true,America/New_York,3,28017 28152,1840015425
+Erwin,Erwin,North Carolina,37085,Harnett,35.3226,-78.6733,4606,421.8,shape,false,true,America/New_York,3,28339 28334,1840016328
+Randleman,Randleman,North Carolina,37151,Randolph,35.8165,-79.8066,4573,432.7,shape,false,true,America/New_York,3,27317,1840014512
+Westport,Westport,North Carolina,37109,Lincoln,35.5103,-80.9783,4570,480.7,shape,false,false,America/New_York,3,28037,1840013435
+Raeford,Raeford,North Carolina,37093,Hoke,34.9809,-79.2291,4570,411.9,shape,false,true,America/New_York,3,28376,1840014612
+Lillington,Lillington,North Carolina,37085,Harnett,35.4001,-78.8138,4566,281.6,shape,false,true,America/New_York,3,27546,1840016326
+Weaverville,Weaverville,North Carolina,37021,Buncombe,35.6963,-82.5585,4559,453.8,shape,false,true,America/New_York,3,28804 28787,1840016284
+Pittsboro,Pittsboro,North Carolina,37037,Chatham,35.7255,-79.1713,4555,320.5,shape,false,true,America/New_York,3,27312,1840016259
+Beaufort,Beaufort,North Carolina,37031,Carteret,34.73,-76.6493,4534,344.1,shape,false,true,America/New_York,3,28516,1840015496
+Edenton,Edenton,North Carolina,37041,Chowan,36.0579,-76.6008,4512,324.1,shape,false,true,America/New_York,3,27932,1840016103
+Ranlo,Ranlo,North Carolina,37071,Gaston,35.2889,-81.1294,4487,840.9,shape,false,true,America/New_York,3,28054 28056,1840017864
+Farmville,Farmville,North Carolina,37147,Pitt,35.5951,-77.5907,4474,539.2,shape,false,true,America/New_York,3,27828,1840016275
+China Grove,China Grove,North Carolina,37159,Rowan,35.572,-80.5791,4449,420.9,shape,false,true,America/New_York,3,28023,1840016264
+Canton,Canton,North Carolina,37087,Haywood,35.5516,-82.8407,4410,457.8,shape,false,true,America/New_York,3,28716,1840015395
+Newport,Newport,North Carolina,37031,Carteret,34.772,-76.8772,4407,221.3,shape,false,true,America/New_York,3,28570,1840016485
+North Wilkesboro,North Wilkesboro,North Carolina,37193,Wilkes,36.1728,-81.139,4349,253.3,shape,false,true,America/New_York,3,28659,1840016094
+Mount Olive,Mount Olive,North Carolina,37191,Wayne,35.1997,-78.0662,4286,604.3,shape,false,true,America/New_York,3,28365,1840016321
+Holly Ridge,Holly Ridge,North Carolina,37133,Onslow,34.4953,-77.527,4236,386.9,shape,false,true,America/New_York,3,28445,1840016531
+Spindale,Spindale,North Carolina,37161,Rutherford,35.3597,-81.9232,4218,301.2,shape,false,true,America/New_York,3,28160,1840017835
+Shallotte,Shallotte,North Carolina,37019,Brunswick,33.9768,-78.3803,4213,176.0,shape,false,true,America/New_York,3,28462 28470,1840017953
+Sunset Beach,Sunset Beach,North Carolina,37019,Brunswick,33.892,-78.5107,4189,232.1,shape,false,true,America/New_York,3,28468 28459,1840016685
+Franklin,Franklin,North Carolina,37113,Macon,35.1798,-83.3809,4184,329.9,shape,false,true,America/New_York,3,28734 28744,1840016421
+Forest Oaks,Forest Oaks,North Carolina,37081,Guilford,35.9889,-79.7079,4144,333.4,shape,false,false,America/New_York,3,27406 27419,1840033016
+Trent Woods,Trent Woods,North Carolina,37049,Craven,35.081,-77.0945,4086,530.8,shape,false,true,America/New_York,3,28562,1840016401
+Wingate,Wingate,North Carolina,37179,Union,34.9859,-80.448,4061,702.6,shape,false,true,America/New_York,3,28174,1840016460
+Mountain Home,Mountain Home,North Carolina,37089,Henderson,35.3708,-82.5021,4028,412.4,shape,false,false,America/New_York,3,28792 28791 28758,1840013448
+Elkin,Elkin,North Carolina,37171,Surry,36.2621,-80.8443,4026,228.9,shape,false,true,America/New_York,3,28621,1840016031
+Southport,Southport,North Carolina,37019,Brunswick,33.9411,-78.0205,4015,387.1,shape,false,true,America/New_York,3,28461,1840015582
+Benson,Benson,North Carolina,37101,Johnston,35.386,-78.5437,4004,551.2,shape,false,true,America/New_York,3,27504,1840015393
+Seven Lakes,Seven Lakes,North Carolina,37125,Moore,35.2647,-79.5865,3994,183.9,shape,false,false,America/New_York,3,27376,1840013443
+Stanley,Stanley,North Carolina,37071,Gaston,35.3552,-81.0938,3967,568.2,shape,false,true,America/New_York,3,28164,1840016398
+Surf City,Surf City,North Carolina,37141,Pender,34.4346,-77.5644,3888,197.4,shape,false,true,America/New_York,3,28445 28443,1840016603
+Emerald Isle,Emerald Isle,North Carolina,37031,Carteret,34.6648,-77.0292,3870,303.5,shape,false,true,America/New_York,3,28594,1840016484
+Hudson,Hudson,North Carolina,37027,Caldwell,35.8478,-81.4867,3780,399.0,shape,false,true,America/New_York,3,28638,1840016187
+Swansboro,Swansboro,North Carolina,37133,Onslow,34.6957,-77.1367,3759,649.5,shape,false,true,America/New_York,3,28584,1840016532
+Maiden,Maiden,North Carolina,37035,Catawba,35.5845,-81.224,3727,232.5,shape,false,true,America/New_York,3,28658 28650,1840016281
+Gamewell,Gamewell,North Carolina,37027,Caldwell,35.864,-81.5978,3710,176.7,shape,false,true,America/New_York,3,28645,1840016188
+Glen Raven,Glen Raven,North Carolina,37001,Alamance,36.1246,-79.4649,3710,408.3,shape,false,false,America/New_York,3,27217,1840013357
+Tabor City,Tabor City,North Carolina,37047,Columbus,34.1538,-78.8737,3709,425.9,shape,false,true,America/New_York,3,28463,1840016665
+Lowell,Lowell,North Carolina,37071,Gaston,35.2688,-81.1013,3692,387.9,shape,false,true,America/New_York,3,28054 28056 28098,1840015454
+Kitty Hawk,Kitty Hawk,North Carolina,37055,Dare,36.0717,-75.7184,3690,175.5,shape,false,true,America/New_York,3,27949,1840016155
+Troutman,Troutman,North Carolina,37097,Iredell,35.6873,-80.883,3689,217.4,shape,false,true,America/New_York,3,28166,1840016217
+Bethlehem,Bethlehem,North Carolina,37003,Alexander,35.8162,-81.2962,3688,186.7,shape,false,false,America/New_York,3,28601 28681,1840013382
+Brices Creek,Brices Creek,North Carolina,37049,Craven,35.0505,-77.0844,3678,180.9,shape,false,false,America/New_York,3,28562,1840033011
+Jamestown,Jamestown,North Carolina,37081,Guilford,35.9984,-79.9348,3677,473.7,shape,false,true,America/New_York,3,27282,1840016136
+Wilkesboro,Wilkesboro,North Carolina,37193,Wilkes,36.1424,-81.174,3674,220.7,shape,false,true,America/New_York,3,28697,1840016093
+Rutherfordton,Rutherfordton,North Carolina,37161,Rutherford,35.3642,-81.9613,3671,342.1,shape,false,true,America/New_York,3,28139,1840017834
+Landis,Landis,North Carolina,37159,Rowan,35.5477,-80.6113,3663,418.5,shape,false,true,America/New_York,3,28088 28023,1840016263
+Eastover,Eastover,North Carolina,37051,Cumberland,35.0959,-78.7862,3659,124.7,shape,false,true,America/New_York,3,28395 28312,1840022794
+Dana,Dana,North Carolina,37089,Henderson,35.3239,-82.3722,3629,157.3,shape,false,false,America/New_York,3,28792 28731 28724,1840024953
+Skippers Corner,Skippers Corner,North Carolina,37129,New Hanover,34.3292,-77.9141,3599,198.3,shape,false,false,America/New_York,3,28429,1840032999
+Buies Creek,Buies Creek,North Carolina,37085,Harnett,35.4082,-78.7414,3589,458.1,shape,false,false,America/New_York,3,27546 27506,1840013433
+Rockfish,Rockfish,North Carolina,37093,Hoke,34.9902,-79.0694,3569,278.2,shape,false,false,America/New_York,3,28376 28306,1840013507
+Lowesville,Lowesville,North Carolina,37109,Lincoln,35.4193,-80.9998,3567,202.7,shape,false,false,America/New_York,3,28164,1840013436
+Fairview,Fairview,North Carolina,37179,Union,35.1545,-80.5345,3512,45.2,shape,false,true,America/New_York,3,28110 28079,1840016456
+River Road,River Road,North Carolina,37013,Beaufort,35.5107,-76.9898,3507,191.0,shape,false,false,America/New_York,3,27889,1840033022
+Elroy,Elroy,North Carolina,37191,Wayne,35.3308,-77.9226,3495,206.5,shape,false,false,America/New_York,3,27534,1840013071
+Windsor,Windsor,North Carolina,37015,Bertie,35.9928,-76.9401,3494,479.2,shape,false,true,America/New_York,3,27983,1840016150
+Flat Rock,Flat Rock,North Carolina,37089,Henderson,35.2678,-82.4526,3483,166.0,shape,false,true,America/New_York,3,28739 28731,1840017857
+Tyro,Tyro,North Carolina,37057,Davidson,35.7997,-80.3765,3460,104.0,shape,false,false,America/New_York,3,27299 27295,1840024912
+Enochville,Enochville,North Carolina,37159,Rowan,35.5205,-80.6644,3446,297.2,shape,false,false,America/New_York,3,28081,1840013069
+Welcome,Welcome,North Carolina,37057,Davidson,35.9066,-80.2548,3444,142.8,shape,false,false,America/New_York,3,27374 27295,1840013388
+Wallace,Wallace,North Carolina,37061,Duplin,34.738,-77.9908,3443,416.3,shape,false,true,America/New_York,3,28466,1840016471
+Belville,Belville,North Carolina,37019,Brunswick,34.219,-77.9976,3380,765.7,shape,false,true,America/New_York,3,28451,1840015578
+Rural Hall,Rural Hall,North Carolina,37067,Forsyth,36.2251,-80.2973,3376,457.1,shape,false,true,America/New_York,3,27045 27094 27098 27099,1840017727
+Lake Royale,Lake Royale,North Carolina,37069,Franklin,35.9666,-78.196,3358,199.2,shape,false,true,America/New_York,4,27882 27549,1840040280
+Red Oak,Red Oak,North Carolina,37127,Nash,36.0415,-77.9064,3357,66.4,shape,false,true,America/New_York,3,27856 27804 27809 27868,1840017745
+Lake Park,Lake Park,North Carolina,37179,Union,35.0849,-80.6349,3342,1755.8,shape,false,true,America/New_York,3,28079,1840017879
+Avery Creek,Avery Creek,North Carolina,37021,Buncombe,35.4651,-82.5719,3338,744.2,shape,false,false,America/New_York,3,28704,1840013408
+East Rockingham,East Rockingham,North Carolina,37153,Richmond,34.9116,-79.7661,3328,375.9,shape,false,false,America/New_York,3,28379,1840013081
+Mountain View,Mountain View,North Carolina,37035,Catawba,35.6828,-81.3683,3323,275.4,shape,false,false,America/New_York,3,28602,1840033019
+Plymouth,Plymouth,North Carolina,37187,Washington,35.8588,-76.7487,3315,317.7,shape,false,true,America/New_York,3,27962,1840016242
+Elizabethtown,Elizabethtown,North Carolina,37017,Bladen,34.6219,-78.6074,3304,251.7,shape,false,true,America/New_York,3,28337,1840016564
+Spencer,Spencer,North Carolina,37159,Rowan,35.6986,-80.4254,3296,414.6,shape,false,true,America/New_York,3,28144 28159,1840017787
+Burgaw,Burgaw,North Carolina,37141,Pender,34.5509,-77.9224,3207,261.3,shape,false,true,America/New_York,3,28425,1840015548
+Mineral Springs,Mineral Springs,North Carolina,37179,Union,34.9412,-80.6847,3185,149.8,shape,false,true,America/New_York,3,28108 28173 28112,1840016455
+Nags Head,Nags Head,North Carolina,37055,Dare,35.9473,-75.6273,3153,184.0,shape,false,true,America/New_York,4,27959,1840016492
+Bermuda Run,Bermuda Run,North Carolina,37059,Davie,36.0041,-80.4306,3118,482.5,shape,false,true,America/New_York,3,27006,1840015357
+Red Springs,Red Springs,North Carolina,37155,Robeson,34.8046,-79.1822,3118,343.9,shape,false,true,America/New_York,3,28377,1840017907
+Green Level,Green Level,North Carolina,37001,Alamance,36.1233,-79.3463,3111,800.2,shape,false,true,America/New_York,3,27217,1840016144
+Louisburg,Louisburg,North Carolina,37069,Franklin,36.0986,-78.3009,3099,404.6,shape,false,true,America/New_York,3,27549,1840016116
+Southern Shores,Southern Shores,North Carolina,37055,Dare,36.1205,-75.7328,3098,303.1,shape,false,true,America/New_York,3,27949,1840017739
+Wallburg,Wallburg,North Carolina,37057,Davidson,36.0088,-80.1453,3081,212.8,shape,false,true,America/New_York,3,27107 27373,1840016224
+Bayshore,Bayshore,North Carolina,37129,New Hanover,34.2893,-77.8025,3066,502.7,shape,false,false,America/New_York,3,28411,1840033015
+Granite Quarry,Granite Quarry,North Carolina,37159,Rowan,35.6131,-80.4489,2988,395.3,shape,false,true,America/New_York,3,28146 28072,1840016268
+Lake Junaluska,Lake Junaluska,North Carolina,37087,Haywood,35.5305,-82.9749,2977,217.1,shape,false,false,America/New_York,3,28745 28785 28786,1840013416
+Yadkinville,Yadkinville,North Carolina,37197,Yadkin,36.1315,-80.6592,2971,391.4,shape,false,true,America/New_York,3,27055,1840016112
+Emma,Emma,North Carolina,37021,Buncombe,35.6019,-82.5958,2969,1054.3,shape,false,false,America/New_York,3,28806,1840089766
+Polkton,Polkton,North Carolina,37007,Anson,35.0031,-80.1963,2937,371.4,shape,false,true,America/New_York,3,28135,1840016452
+Troy,Troy,North Carolina,37123,Montgomery,35.365,-79.8918,2921,308.2,shape,false,true,America/New_York,3,27371,1840016361
+River Bend,River Bend,North Carolina,37049,Craven,35.0717,-77.1504,2914,447.7,shape,false,true,America/New_York,3,28562,1840017866
+Norwood,Norwood,North Carolina,37167,Stanly,35.2337,-80.1147,2906,247.3,shape,false,true,America/New_York,3,28128,1840016367
+Haw River,Haw River,North Carolina,37001,Alamance,36.0926,-79.3615,2894,386.3,shape,false,true,America/New_York,3,27253 27258 27217,1840015329
+South Rosemary,South Rosemary,North Carolina,37083,Halifax,36.4463,-77.7065,2877,181.5,shape,false,false,America/New_York,3,27870,1840033024
+Wrightsville Beach,Wrightsville Beach,North Carolina,37129,New Hanover,34.213,-77.798,2848,788.5,shape,false,true,America/New_York,3,28480,1840016677
+Mars Hill,Mars Hill,North Carolina,37115,Madison,35.8283,-82.549,2843,521.9,shape,false,true,America/New_York,3,28754,1840016210
+Pembroke,Pembroke,North Carolina,37155,Robeson,34.6766,-79.1935,2832,344.0,shape,false,true,America/New_York,3,28372,1840016541
+Edneyville,Edneyville,North Carolina,37089,Henderson,35.4025,-82.3372,2829,101.7,shape,false,false,America/New_York,3,28792 28727,1840024954
+Fairfield Harbour,Fairfield Harbour,North Carolina,37049,Craven,35.0706,-76.9571,2816,377.7,shape,false,false,America/New_York,3,28560,1840013076
+Carthage,Carthage,North Carolina,37125,Moore,35.3224,-79.4114,2779,161.0,shape,false,true,America/New_York,3,28327,1840016355
+Brogden,Brogden,North Carolina,37191,Wayne,35.2961,-78.025,2744,478.1,shape,false,false,America/New_York,3,28333,1840013431
+Warsaw,Warsaw,North Carolina,37061,Duplin,34.9994,-78.0928,2743,329.3,shape,false,true,America/New_York,3,28398,1840016472
+Denver,Denver,North Carolina,37109,Lincoln,35.5344,-81.034,2739,178.4,shape,false,false,America/New_York,3,28037,1840024951
+Cajah's Mountain,Cajah's Mountain,North Carolina,37027,Caldwell,35.8508,-81.5361,2715,309.3,shape,false,true,America/New_York,3,28645,1840033010
+Grifton,Grifton,North Carolina,37147,Pitt,35.3795,-77.4281,2676,385.2,shape,false,true,America/New_York,3,28530,1840016277
+Liberty,Liberty,North Carolina,37151,Randolph,35.8555,-79.5682,2666,328.6,shape,false,true,America/New_York,3,27298,1840016252
+Wentworth,Wentworth,North Carolina,37157,Rockingham,36.3914,-79.751,2664,72.5,shape,false,true,America/New_York,3,27320,1840016056
+Cape Carteret,Cape Carteret,North Carolina,37031,Carteret,34.6973,-77.0573,2651,405.6,shape,false,true,America/New_York,3,28584,1840015498
+La Grange,La Grange,North Carolina,37107,Lenoir,35.3064,-77.789,2640,442.5,shape,false,true,America/New_York,3,28551,1840016389
+Spruce Pine,Spruce Pine,North Carolina,37121,Mitchell,35.9104,-82.0731,2637,217.5,shape,false,true,America/New_York,3,28777,1840017751
+Jonesville,Jonesville,North Carolina,37197,Yadkin,36.2336,-80.8351,2634,352.5,shape,false,true,America/New_York,3,28642,1840016110
+Laurel Park,Laurel Park,North Carolina,37089,Henderson,35.3118,-82.5039,2615,360.5,shape,false,true,America/New_York,3,28739,1840016369
+Murfreesboro,Murfreesboro,North Carolina,37091,Hertford,36.4419,-77.0968,2612,444.3,shape,false,true,America/New_York,3,27818 27855,1840016045
+Tobaccoville,Tobaccoville,North Carolina,37067,Forsyth,36.2257,-80.359,2602,131.3,shape,false,true,America/New_York,3,27040 27045 27050,1840017729
+Sylva,Sylva,North Carolina,37099,Jackson,35.3754,-83.2185,2601,316.6,shape,false,true,America/New_York,3,28779,1840016347
+Biscoe,Biscoe,North Carolina,37123,Montgomery,35.3585,-79.7816,2595,344.3,shape,false,true,America/New_York,3,27209,1840015435
+Fearrington Village,Fearrington Village,North Carolina,37037,Chatham,35.7996,-79.0818,2582,558.1,shape,false,false,America/New_York,3,27312,1840013406
+Wilson's Mills,Wilson's Mills,North Carolina,37101,Johnston,35.5864,-78.3643,2581,181.0,shape,false,true,America/New_York,3,27593 27520 27577 27527,1840032896
+Richlands,Richlands,North Carolina,37133,Onslow,34.9003,-77.5427,2577,602.6,shape,false,true,America/New_York,3,28574,1840017901
+Yanceyville,Yanceyville,North Carolina,37033,Caswell,36.4101,-79.3356,2576,143.6,shape,false,true,America/New_York,3,27379 27212,1840016058
+Calabash,Calabash,North Carolina,37019,Brunswick,33.8957,-78.5514,2570,219.0,shape,false,true,America/New_York,3,28468 28467,1840015580
+Marshville,Marshville,North Carolina,37179,Union,34.9865,-80.3685,2565,466.7,shape,false,true,America/New_York,3,28103,1840016454
+Kenly,Kenly,North Carolina,37101,Johnston,35.5885,-78.137,2527,537.4,shape,false,true,America/New_York,3,27542,1840016288
+Fairmont,Fairmont,North Carolina,37155,Robeson,34.4947,-79.1136,2519,352.3,shape,false,true,America/New_York,3,28340,1840016538
+Cricket,Cricket,North Carolina,37193,Wilkes,36.1688,-81.1933,2491,271.9,shape,false,false,America/New_York,3,28659,1840013336
+Bladenboro,Bladenboro,North Carolina,37017,Bladen,34.5407,-78.795,2485,433.1,shape,false,true,America/New_York,3,28320,1840015539
+Mar-Mac,Mar-Mac,North Carolina,37191,Wayne,35.3345,-78.0545,2485,210.9,shape,false,false,America/New_York,3,28333 27530,1840033018
+Franklinton,Franklinton,North Carolina,37069,Franklin,36.1012,-78.4551,2477,550.5,shape,false,true,America/New_York,3,27525,1840016118
+Swepsonville,Swepsonville,North Carolina,37001,Alamance,36.0285,-79.3549,2464,662.6,shape,false,true,America/New_York,3,27253 27258,1840016145
+Fruitland,Fruitland,North Carolina,37089,Henderson,35.3928,-82.4119,2447,117.5,shape,false,false,America/New_York,3,28792,1840024955
+Grandy,Grandy,North Carolina,37053,Currituck,36.2341,-75.8785,2438,139.0,shape,false,false,America/New_York,3,27939,1840033002
+Mayodan,Mayodan,North Carolina,37157,Rockingham,36.421,-79.9675,2438,327.2,shape,false,true,America/New_York,3,27027,1840016054
+Rockwell,Rockwell,North Carolina,37159,Rowan,35.5538,-80.407,2434,508.5,shape,false,true,America/New_York,3,28138,1840017786
+Youngsville,Youngsville,North Carolina,37069,Franklin,36.0242,-78.4816,2421,504.6,shape,false,true,America/New_York,3,27596,1840016119
+Valley Hill,Valley Hill,North Carolina,37089,Henderson,35.2958,-82.4913,2417,402.4,shape,false,false,America/New_York,3,28739,1840013447
+Burnsville,Burnsville,North Carolina,37199,Yancey,35.9163,-82.2977,2380,574.2,shape,false,true,America/New_York,3,28714,1840015353
+Oakboro,Oakboro,North Carolina,37167,Stanly,35.2283,-80.3339,2379,365.9,shape,false,true,America/New_York,3,28129,1840016368
+Connelly Springs,Connelly Springs,North Carolina,37023,Burke,35.755,-81.4971,2355,182.2,shape,false,true,America/New_York,3,28612,1840016231
+Coats,Coats,North Carolina,37085,Harnett,35.407,-78.6684,2324,630.0,shape,false,true,America/New_York,3,27521,1840016327
+Kure Beach,Kure Beach,North Carolina,37129,New Hanover,34.0004,-77.9076,2313,1015.2,shape,false,true,America/New_York,3,28449 28428,1840016676
+Maxton,Maxton,North Carolina,37155,Robeson,34.7365,-79.3527,2300,329.1,shape,false,true,America/New_York,3,28364,1840016536
+Four Oaks,Four Oaks,North Carolina,37101,Johnston,35.4449,-78.4159,2269,359.0,shape,false,true,America/New_York,3,27524,1840016291
+St. Pauls,St. Pauls,North Carolina,37155,Robeson,34.8086,-78.9751,2261,536.3,shape,false,true,America/New_York,3,28384,1840017910
+Taylorsville,Taylorsville,North Carolina,37003,Alexander,35.9175,-81.1754,2198,354.3,shape,false,true,America/New_York,3,28681,1840016220
+Cedar Point,Cedar Point,North Carolina,37031,Carteret,34.6861,-77.0833,2198,381.6,shape,false,true,America/New_York,3,28584,1840016483
+Maggie Valley,Maggie Valley,North Carolina,37087,Haywood,35.5241,-83.0636,2195,250.0,shape,false,true,America/New_York,3,28751 28785,1840016295
+Madison,Madison,North Carolina,37157,Rockingham,36.3868,-79.975,2185,238.3,shape,false,true,America/New_York,3,27025,1840016053
+Neuse Forest,Neuse Forest,North Carolina,37049,Craven,34.966,-76.94,2176,265.9,shape,false,false,America/New_York,3,28560,1840033020
+Pumpkin Center,Pumpkin Center,North Carolina,37133,Onslow,34.786,-77.3642,2151,655.6,shape,false,false,America/New_York,3,28546,1840013559
+Sneads Ferry,Sneads Ferry,North Carolina,37133,Onslow,34.5564,-77.3824,2140,217.4,shape,false,false,America/New_York,3,28460,1840013557
+Pine Level,Pine Level,North Carolina,37101,Johnston,35.5029,-78.2492,2116,457.4,shape,false,true,America/New_York,3,27577 27576 27568,1840016293
+Snow Hill,Snow Hill,North Carolina,37079,Greene,35.4506,-77.6769,2092,525.0,shape,false,true,America/New_York,3,28580,1840017829
+Andrews,Andrews,North Carolina,37039,Cherokee,35.1994,-83.8262,2086,467.9,shape,false,true,America/New_York,3,28901,1840015474
+Badin,Badin,North Carolina,37167,Stanly,35.4071,-80.1184,2075,441.9,shape,false,true,America/New_York,3,28127 28009,1840015438
+Hertford,Hertford,North Carolina,37143,Perquimans,36.1813,-76.4673,2045,275.9,shape,false,true,America/New_York,3,27944,1840015311
+Walnut Cove,Walnut Cove,North Carolina,37169,Stokes,36.2938,-80.1408,2028,310.4,shape,false,true,America/New_York,3,27052,1840016035
+Governors Village,Governors Village,North Carolina,37037,Chatham,35.8519,-79.0258,2014,1746.7,shape,false,false,America/New_York,3,27517,1840151244
+Broad Creek,Broad Creek,North Carolina,37031,Carteret,34.7304,-76.9241,2013,250.1,shape,false,false,America/New_York,3,28570,1840025835
+Wanchese,Wanchese,North Carolina,37055,Dare,35.8399,-75.6383,2005,165.9,shape,false,false,America/New_York,3,27981,1840013370
+Dudley,Dudley,North Carolina,37191,Wayne,35.2661,-78.0382,1996,279.3,shape,false,false,America/New_York,3,28333,1840088247
+Icard,Icard,North Carolina,37023,Burke,35.7253,-81.4581,1984,200.2,shape,false,false,America/New_York,3,28612 28666 28602,1840013391
+Mulberry,Mulberry,North Carolina,37193,Wilkes,36.2257,-81.1653,1980,150.1,shape,false,false,America/New_York,3,28659,1840013340
+Navassa,Navassa,North Carolina,37019,Brunswick,34.2831,-78.0291,1976,57.2,shape,false,true,America/New_York,3,28451,1840016687
+Enfield,Enfield,North Carolina,37083,Halifax,36.18,-77.669,1967,583.8,shape,false,true,America/New_York,3,27823,1840016063
+Hemby Bridge,Hemby Bridge,North Carolina,37179,Union,35.1055,-80.6258,1924,324.2,shape,false,true,America/New_York,3,28079,1840015480
+Claremont,Claremont,North Carolina,37035,Catawba,35.7104,-81.1532,1902,257.8,shape,false,true,America/New_York,3,28610,1840014521
+Glen Alpine,Glen Alpine,North Carolina,37023,Burke,35.7307,-81.7826,1896,341.0,shape,false,true,America/New_York,3,28655 28628,1840016233
+Ramseur,Ramseur,North Carolina,37151,Randolph,35.7371,-79.6543,1877,362.4,shape,false,true,America/New_York,3,27316,1840017780
+Jefferson,Jefferson,North Carolina,37009,Ashe,36.4209,-81.4686,1872,342.0,shape,false,true,America/New_York,3,28640,1840016027
+Scotland Neck,Scotland Neck,North Carolina,37083,Halifax,36.1308,-77.4214,1861,604.9,shape,false,true,America/New_York,3,27874,1840017705
+Governors Club,Governors Club,North Carolina,37037,Chatham,35.8437,-79.0454,1856,304.3,shape,false,false,America/New_York,3,27517,1840151245
+Horse Shoe,Horse Shoe,North Carolina,37089,Henderson,35.3423,-82.5568,1854,95.9,shape,false,false,America/New_York,3,28791 28742 28759 28739,1840024957
+Hildebran,Hildebran,North Carolina,37023,Burke,35.7182,-81.421,1843,251.6,shape,false,true,America/New_York,3,28637,1840016230
+Dobson,Dobson,North Carolina,37171,Surry,36.3928,-80.7245,1812,344.5,shape,false,true,America/New_York,3,27017,1840016030
+Manteo,Manteo,North Carolina,37055,Dare,35.9014,-75.6609,1808,371.9,shape,false,true,America/New_York,3,27954,1840016156
+Sparta,Sparta,North Carolina,37005,Alleghany,36.5034,-81.1217,1795,295.1,shape,false,true,America/New_York,3,28675,1840017700
+Mount Pleasant,Mount Pleasant,North Carolina,37025,Cabarrus,35.3771,-80.4503,1776,190.8,shape,false,true,America/New_York,3,28124 28025,1840016363
+Drexel,Drexel,North Carolina,37023,Burke,35.7568,-81.6088,1768,494.1,shape,false,true,America/New_York,3,28619 28655,1840016232
+Pinebluff,Pinebluff,North Carolina,37125,Moore,35.1088,-79.4713,1767,260.8,shape,false,true,America/New_York,3,28373,1840016358
+Rose Hill,Rose Hill,North Carolina,37061,Duplin,34.8261,-78.0259,1754,468.7,shape,false,true,America/New_York,3,28458,1840017883
+Atlantic Beach,Atlantic Beach,North Carolina,37031,Carteret,34.7011,-76.7403,1736,281.3,shape,false,true,America/New_York,3,28512,1840015495
+Fairplains,Fairplains,North Carolina,37193,Wilkes,36.1954,-81.1559,1709,156.9,shape,false,false,America/New_York,3,28659,1840013065
+Biltmore Forest,Biltmore Forest,North Carolina,37021,Buncombe,35.5348,-82.5403,1700,225.5,shape,false,true,America/New_York,3,28803,1840015391
+Pilot Mountain,Pilot Mountain,North Carolina,37171,Surry,36.3853,-80.4735,1667,316.1,shape,false,true,America/New_York,3,27041,1840016032
+Bryson City,Bryson City,North Carolina,37173,Swain,35.4262,-83.4475,1638,289.6,shape,false,true,America/New_York,3,28713,1840015413
+Salem,Salem,North Carolina,37023,Burke,35.6997,-81.7003,1634,147.0,shape,false,false,America/New_York,3,28655,1840013392
+Princeville,Princeville,North Carolina,37065,Edgecombe,35.8861,-77.5194,1630,416.8,shape,false,true,America/New_York,3,27886,1840017752
+Advance,Advance,North Carolina,37059,Davie,35.9468,-80.4045,1605,86.5,shape,false,false,America/New_York,3,27006,1840024909
+Bethel,Bethel,North Carolina,37147,Pitt,35.8072,-77.3763,1604,588.5,shape,false,true,America/New_York,3,27812,1840015389
+Cherokee,Cherokee,North Carolina,37173,Swain,35.486,-83.3011,1604,51.3,shape,false,false,America/New_York,3,28719,1840026949
+Foxfire,Foxfire,North Carolina,37125,Moore,35.1791,-79.5639,1588,86.7,shape,false,true,America/New_York,3,27281 27376 28315,1840017851
+Lake Lure,Lake Lure,North Carolina,37161,Rutherford,35.4404,-82.2065,1575,46.2,shape,false,true,America/New_York,3,28746,1840016318
+Walnut Creek,Walnut Creek,North Carolina,37191,Wayne,35.3051,-77.8714,1570,285.1,shape,false,true,America/New_York,3,27534,1840017837
+Murphy,Murphy,North Carolina,37039,Cherokee,35.0932,-84.028,1549,235.7,shape,false,true,America/New_York,3,28906,1840016437
+Chadbourn,Chadbourn,North Carolina,37047,Columbus,34.3251,-78.825,1548,229.8,shape,false,true,America/New_York,3,28431,1840016663
+Bent Creek,Bent Creek,North Carolina,37021,Buncombe,35.5081,-82.6176,1536,268.4,shape,false,false,America/New_York,3,28806,1840013409
+Weldon,Weldon,North Carolina,37083,Halifax,36.4239,-77.613,1536,203.4,shape,false,true,America/New_York,3,27890,1840016065
+Sea Breeze,Sea Breeze,North Carolina,37129,New Hanover,34.0698,-77.8965,1533,317.5,shape,false,false,America/New_York,3,28409 28412,1840013629
+Tryon,Tryon,North Carolina,37149,Polk,35.2086,-82.2379,1516,293.0,shape,false,true,America/New_York,3,28782,1840016405
+Hoopers Creek,Hoopers Creek,North Carolina,37089,Henderson,35.448,-82.4294,1515,84.3,shape,false,false,America/New_York,3,28732,1840024956
+Robbins,Robbins,North Carolina,37125,Moore,35.4279,-79.5828,1511,366.5,shape,false,true,America/New_York,3,27325,1840014558
+West Jefferson,West Jefferson,North Carolina,37009,Ashe,36.3938,-81.4898,1508,270.5,shape,false,true,America/New_York,3,28694,1840016029
+Sharpsburg,Sharpsburg,North Carolina,37127,Nash,35.8663,-77.8306,1504,585.6,shape,false,true,America/New_York,3,27803 27878,1840017746
+Stony Point,Stony Point,North Carolina,37003,Alexander,35.8669,-81.047,1494,193.6,shape,false,false,America/New_York,3,28678,1840013383
+Plain View,Plain View,North Carolina,37163,Sampson,35.2457,-78.5634,1494,34.6,shape,false,false,America/New_York,3,28334,1840013486
+Vander,Vander,North Carolina,37051,Cumberland,35.0347,-78.7887,1481,154.2,shape,false,false,America/New_York,3,28312,1840013489
+Stedman,Stedman,North Carolina,37051,Cumberland,35.0114,-78.6996,1479,338.3,shape,false,true,America/New_York,3,28391,1840016442
+Buxton,Buxton,North Carolina,37055,Dare,35.2511,-75.5475,1477,72.7,shape,false,false,America/New_York,3,27920,1840025781
+Millers Creek,Millers Creek,North Carolina,37193,Wilkes,36.1909,-81.2356,1475,127.3,shape,false,false,America/New_York,3,28651,1840013338
+Gorman,Gorman,North Carolina,37063,Durham,36.0417,-78.8092,1473,196.0,shape,false,false,America/New_York,3,27704,1840013363
+Robersonville,Robersonville,North Carolina,37117,Martin,35.8247,-77.2533,1471,468.6,shape,false,true,America/New_York,3,27871,1840017760
+Princeton,Princeton,North Carolina,37101,Johnston,35.4671,-78.1613,1471,490.0,shape,false,true,America/New_York,3,27569,1840017793
+Stanfield,Stanfield,North Carolina,37167,Stanly,35.2337,-80.4303,1463,126.4,shape,false,true,America/New_York,3,28163,1840016365
+Lake Waccamaw,Lake Waccamaw,North Carolina,37047,Columbus,34.3141,-78.5117,1462,203.0,shape,false,true,America/New_York,3,28450,1840016661
+Spring Hope,Spring Hope,North Carolina,37127,Nash,35.9441,-78.109,1441,367.8,shape,false,true,America/New_York,3,27882,1840017747
+Beulaville,Beulaville,North Carolina,37061,Duplin,34.9228,-77.7724,1439,359.7,shape,false,true,America/New_York,3,28518,1840015485
+Clyde,Clyde,North Carolina,37087,Haywood,35.533,-82.9108,1424,635.2,shape,false,true,America/New_York,3,28721,1840016296
+Nebo,Nebo,North Carolina,37111,McDowell,35.7106,-81.918,1423,103.7,shape,false,false,America/New_York,3,28761,1840142225
+Broadway,Broadway,North Carolina,37105,Lee,35.4579,-79.0547,1415,422.1,shape,false,true,America/New_York,3,27505,1840015420
+Foscoe,Foscoe,North Carolina,37189,Watauga,36.1535,-81.7737,1411,94.2,shape,false,false,America/New_York,3,28604 28607,1840024901
+Southmont,Southmont,North Carolina,37057,Davidson,35.6535,-80.2702,1392,117.8,shape,false,false,America/New_York,3,27351 27292,1840025789
+Hays,Hays,North Carolina,37193,Wilkes,36.2469,-81.1142,1389,87.1,shape,false,false,America/New_York,3,28635 28659,1840013337
+Belhaven,Belhaven,North Carolina,37013,Beaufort,35.5428,-76.6232,1378,334.5,shape,false,true,America/New_York,3,27810,1840015400
+Northlakes,Northlakes,North Carolina,37027,Caldwell,35.7757,-81.3669,1378,356.6,shape,false,false,America/New_York,3,28601,1840033021
+Pinetops,Pinetops,North Carolina,37065,Edgecombe,35.7912,-77.6378,1374,517.2,shape,false,true,America/New_York,3,27864,1840016178
+Boonville,Boonville,North Carolina,37197,Yadkin,36.234,-80.7093,1364,439.1,shape,false,true,America/New_York,3,27011,1840015319
+Pine Knoll Shores,Pine Knoll Shores,North Carolina,37031,Carteret,34.6974,-76.8205,1363,238.3,shape,false,true,America/New_York,3,28512,1840016487
+Cove Creek,Cove Creek,North Carolina,37189,Watauga,36.2763,-81.7829,1354,61.2,shape,false,true,America/New_York,4,28692 28698 28679,1840032909
+West Canton,West Canton,North Carolina,37087,Haywood,35.5384,-82.8672,1354,380.5,shape,false,false,America/New_York,3,28716 28721,1840013415
+Brandywine Bay,Brandywine Bay,North Carolina,37031,Carteret,34.7384,-76.8303,1339,641.6,shape,false,false,America/New_York,3,28557,1840151243
+Cordova,Cordova,North Carolina,37153,Richmond,34.9103,-79.8119,1320,239.2,shape,false,false,America/New_York,3,28379 28330,1840024981
+Denton,Denton,North Carolina,37057,Davidson,35.6378,-80.1106,1307,240.0,shape,false,true,America/New_York,3,27239,1840016223
+Bonnetsville,Bonnetsville,North Carolina,37163,Sampson,34.9993,-78.3962,1297,151.5,shape,false,false,America/New_York,3,28328,1840013482
+Alamance,Alamance,North Carolina,37001,Alamance,36.0285,-79.489,1287,624.9,shape,false,true,America/New_York,3,27201 27215,1840017736
+Cherry Branch,Cherry Branch,North Carolina,37049,Craven,34.9304,-76.8112,1281,430.8,shape,false,false,America/New_York,3,28532,1840151247
+Vass,Vass,North Carolina,37125,Moore,35.2533,-79.2845,1276,147.4,shape,false,true,America/New_York,3,28394,1840016357
+Franklinville,Franklinville,North Carolina,37151,Randolph,35.7421,-79.6893,1245,296.4,shape,false,true,America/New_York,3,27316 27248,1840016253
+Cleveland,Cleveland,North Carolina,37159,Rowan,35.7331,-80.6817,1244,312.9,shape,false,true,America/New_York,3,27013,1840016265
+Arrowhead Beach,Arrowhead Beach,North Carolina,37041,Chowan,36.2266,-76.7021,1243,784.2,shape,false,false,America/New_York,3,27932,1840153099
+Banner Elk,Banner Elk,North Carolina,37011,Avery,36.1589,-81.8677,1234,248.2,shape,false,true,America/New_York,3,28604,1840015320
+Brunswick,Brunswick,North Carolina,37047,Columbus,34.2877,-78.7085,1233,794.2,shape,false,true,America/New_York,3,28424 28472,1840015569
+East Spencer,East Spencer,North Carolina,37159,Rowan,35.6816,-80.4228,1216,222.8,shape,false,true,America/New_York,3,28039 28146 28144,1840016266
+Toast,Toast,North Carolina,37171,Surry,36.4966,-80.6347,1210,309.7,shape,false,false,America/New_York,3,27030 27049,1840013306
+Bayboro,Bayboro,North Carolina,37137,Pamlico,35.1474,-76.7692,1209,251.2,shape,false,true,America/New_York,3,28515,1840015470
+Star,Star,North Carolina,37123,Montgomery,35.3992,-79.7832,1208,360.9,shape,false,true,America/New_York,3,27356,1840016360
+Saxapahaw,Saxapahaw,North Carolina,37001,Alamance,35.9489,-79.321,1200,89.4,shape,false,false,America/New_York,3,27253 27340,1840013359
+South Henderson,South Henderson,North Carolina,37181,Vance,36.3033,-78.406,1187,254.3,shape,false,false,America/New_York,3,27536 27537,1840013308
+Norlina,Norlina,North Carolina,37185,Warren,36.4451,-78.1952,1170,406.0,shape,false,true,America/New_York,3,27563,1840016038
+Candor,Candor,North Carolina,37123,Montgomery,35.2964,-79.7323,1168,222.7,shape,false,true,America/New_York,3,27229 27209,1840015436
+Elm City,Elm City,North Carolina,37195,Wilson,35.8044,-77.8561,1157,207.7,shape,false,true,America/New_York,3,27822,1840016261
+Ellerbe,Ellerbe,North Carolina,37153,Richmond,35.0718,-79.7595,1156,339.3,shape,false,true,America/New_York,3,28338,1840016475
+Balfour,Balfour,North Carolina,37089,Henderson,35.3494,-82.4825,1142,271.6,shape,false,false,America/New_York,3,28792 28791,1840013445
+Highlands,Highlands,North Carolina,37113,Macon,35.0538,-83.1976,1140,70.4,shape,false,true,America/New_York,3,28741,1840015467
+Five Points,Five Points,North Carolina,37093,Hoke,35.0154,-79.3513,1136,53.0,shape,false,false,America/New_York,3,28376,1840013503
+McAdenville,McAdenville,North Carolina,37071,Gaston,35.2652,-81.0805,1125,320.4,shape,false,true,America/New_York,3,28101 28098,1840016394
+Rougemont,Rougemont,North Carolina,37063,Durham,36.221,-78.9207,1125,68.8,shape,false,false,America/New_York,3,27572,1840025779
+Springdale,Springdale,North Carolina,37071,Gaston,35.2902,-81.1449,1121,610.2,shape,false,false,America/New_York,3,28054,1840090632
+Rutherford College,Rutherford College,North Carolina,37023,Burke,35.7514,-81.527,1119,188.1,shape,false,true,America/New_York,3,28612 28671,1840017777
+Harkers Island,Harkers Island,North Carolina,37031,Carteret,34.7002,-76.5612,1104,190.2,shape,false,false,America/New_York,3,28531,1840013523
+Belwood,Belwood,North Carolina,37045,Cleveland,35.4794,-81.5227,1103,34.6,shape,false,true,America/New_York,3,28090,1840015424
+Faith,Faith,North Carolina,37159,Rowan,35.5901,-80.4581,1096,403.8,shape,false,true,America/New_York,3,28041 28146,1840016267
+Mount Gilead,Mount Gilead,North Carolina,37123,Montgomery,35.2163,-80.005,1090,120.6,shape,false,true,America/New_York,3,27306,1840016359
+Columbus,Columbus,North Carolina,37149,Polk,35.2656,-82.1976,1087,111.7,shape,false,true,America/New_York,3,28722 28756,1840016404
+Rhodhiss,Rhodhiss,North Carolina,37023,Burke,35.7684,-81.4312,1074,349.1,shape,false,true,America/New_York,3,28667 28601,1840017754
+Stem,Stem,North Carolina,37077,Granville,36.1963,-78.72,1071,273.7,shape,false,true,America/New_York,3,27581,1840016051
+Chocowinity,Chocowinity,North Carolina,37013,Beaufort,35.5148,-77.1017,1059,410.3,shape,false,true,America/New_York,3,27817,1840016302
+Lucama,Lucama,North Carolina,37195,Wilson,35.6449,-78.0076,1058,672.0,shape,false,true,America/New_York,3,27851,1840016260
+Maury,Maury,North Carolina,37079,Greene,35.4792,-77.5902,1055,386.9,shape,false,false,America/New_York,3,28554 28580,1840025813
+Stoneville,Stoneville,North Carolina,37157,Rockingham,36.4653,-79.9064,1052,284.0,shape,false,true,America/New_York,3,27048,1840016055
+Cypress Landing,Cypress Landing,North Carolina,37013,Beaufort,35.4976,-77.055,1052,172.4,shape,false,false,America/New_York,3,27817,1840152414
+Moravian Falls,Moravian Falls,North Carolina,37193,Wilkes,36.1073,-81.1807,1023,76.9,shape,false,false,America/New_York,3,28697 28654,1840013339
+Bunnlevel,Bunnlevel,North Carolina,37085,Harnett,35.31,-78.7725,1011,51.6,shape,false,false,America/New_York,3,28323,1840024949
+Rowland,Rowland,North Carolina,37155,Robeson,34.5362,-79.2928,1003,368.0,shape,false,true,America/New_York,3,28383,1840017909
+Holden Beach,Holden Beach,North Carolina,37019,Brunswick,33.9121,-78.3182,997,126.9,shape,false,true,America/New_York,3,28462,1840016682
+White Lake,White Lake,North Carolina,37017,Bladen,34.6418,-78.4969,997,375.8,shape,false,true,America/New_York,3,28337,1840016566
+Garland,Garland,North Carolina,37163,Sampson,34.7859,-78.3947,996,357.4,shape,false,true,America/New_York,3,28441,1840016432
+Barker Heights,Barker Heights,North Carolina,37089,Henderson,35.3104,-82.4412,978,380.2,shape,false,false,America/New_York,3,28792,1840013446
+Dortches,Dortches,North Carolina,37127,Nash,36.0114,-77.8572,976,46.6,shape,false,true,America/New_York,3,27804 27809,1840016165
+Castle Hayne,Castle Hayne,North Carolina,37129,New Hanover,34.3583,-77.9114,970,78.6,shape,false,false,America/New_York,3,28429,1840013628
+Oriental,Oriental,North Carolina,37137,Pamlico,35.0357,-76.6816,968,261.3,shape,false,true,America/New_York,3,28571,1840016427
+Middlesex,Middlesex,North Carolina,37127,Nash,35.7894,-78.2047,963,355.8,shape,false,true,America/New_York,3,27557,1840016162
+Camden,Camden,North Carolina,37029,Camden,36.325,-76.17,960,234.8,shape,false,false,America/New_York,3,27921,1840024899
+Vanceboro,Vanceboro,North Carolina,37049,Craven,35.303,-77.1567,958,215.8,shape,false,true,America/New_York,3,28586,1840016402
+Faison,Faison,North Carolina,37061,Duplin,35.1164,-78.136,950,423.7,shape,false,true,America/New_York,3,28341,1840016468
+Woodlawn,Woodlawn,North Carolina,37001,Alamance,36.1158,-79.2898,947,111.0,shape,false,false,America/New_York,3,27302,1840134907
+Wagram,Wagram,North Carolina,37165,Scotland,34.8891,-79.3652,946,250.7,shape,false,true,America/New_York,3,28396,1840016502
+Magnolia,Magnolia,North Carolina,37061,Duplin,34.896,-78.0541,944,341.1,shape,false,true,America/New_York,3,28453,1840016467
+Ellenboro,Ellenboro,North Carolina,37161,Rutherford,35.3309,-81.7612,944,288.1,shape,false,true,America/New_York,3,28040,1840016319
+Rocky Point,Rocky Point,North Carolina,37141,Pender,34.4441,-77.8909,940,52.6,shape,false,false,America/New_York,3,28457 28425,1840025848
+Fremont,Fremont,North Carolina,37191,Wayne,35.5436,-77.9751,935,266.2,shape,false,true,America/New_York,3,27830,1840016323
+McLeansville,McLeansville,North Carolina,37081,Guilford,36.1045,-79.6554,933,58.7,shape,false,false,America/New_York,3,27301 27249,1840013355
+Kenansville,Kenansville,North Carolina,37061,Duplin,34.9598,-77.9659,929,169.5,shape,false,true,America/New_York,3,28349,1840016466
+New Hope,New Hope,North Carolina,37191,Wayne,35.3774,-77.8923,924,140.7,shape,false,false,America/New_York,3,28551 27534,1840142065
+Richfield,Richfield,North Carolina,37167,Stanly,35.4716,-80.2586,921,146.8,shape,false,true,America/New_York,3,28137,1840017855
+West Marion,West Marion,North Carolina,37111,McDowell,35.6525,-82.0191,916,238.3,shape,false,false,America/New_York,3,28752,1840013397
+Winfall,Winfall,North Carolina,37143,Perquimans,36.2105,-76.4548,900,150.6,shape,false,true,America/New_York,3,27944 27985,1840016100
+Blowing Rock,Blowing Rock,North Carolina,37189,Watauga,36.1298,-81.6706,900,107.2,shape,false,true,America/New_York,3,28605,1840015309
+Roseboro,Roseboro,North Carolina,37163,Sampson,34.9551,-78.5137,900,240.2,shape,false,true,America/New_York,3,28382,1840017873
+Maysville,Maysville,North Carolina,37103,Jones,34.907,-77.2324,893,402.6,shape,false,true,America/New_York,3,28555,1840016444
+Jackson Heights,Jackson Heights,North Carolina,37107,Lenoir,35.2236,-77.6333,889,236.2,shape,false,true,America/New_York,3,28504,1840042919
+JAARS,JAARS,North Carolina,37179,Union,34.8623,-80.7489,887,398.5,shape,false,false,America/New_York,3,28173,1840033012
+Conway,Conway,North Carolina,37131,Northampton,36.4371,-77.2288,884,187.2,shape,false,true,America/New_York,3,27820,1840016041
+Germanton,Germanton,North Carolina,37169,Stokes,36.2587,-80.236,876,193.1,shape,false,false,America/New_York,3,27019,1840024898
+Cooleemee,Cooleemee,North Carolina,37059,Davie,35.8125,-80.5563,875,449.1,shape,false,true,America/New_York,3,27028 27014,1840016213
+Laurel Hill,Laurel Hill,North Carolina,37165,Scotland,34.8102,-79.546,869,140.0,shape,false,false,America/New_York,3,28351,1840024990
+Pleasant Hill,Pleasant Hill,North Carolina,37193,Wilkes,36.258,-80.8904,867,129.5,shape,false,false,America/New_York,3,28621 28670,1840013341
+Warrenton,Warrenton,North Carolina,37185,Warren,36.3995,-78.1575,867,308.5,shape,false,true,America/New_York,3,27589,1840016037
+Patterson Springs,Patterson Springs,North Carolina,37045,Cleveland,35.2335,-81.5159,854,321.3,shape,false,true,America/New_York,3,28073 28152,1840016338
+Gaston,Gaston,North Carolina,37131,Northampton,36.4965,-77.6449,849,193.9,shape,false,true,America/New_York,3,27832 27831,1840016043
+Hollister,Hollister,North Carolina,37083,Halifax,36.2593,-77.9363,847,83.0,shape,false,false,America/New_York,3,27844,1840025769
+Alliance,Alliance,North Carolina,37137,Pamlico,35.1434,-76.8084,842,155.8,shape,false,true,America/New_York,3,28515 28509 28529,1840015468
+Varnamtown,Varnamtown,North Carolina,37019,Brunswick,33.943,-78.2363,830,363.4,shape,false,true,America/New_York,3,28462,1840016686
+Hoffman,Hoffman,North Carolina,37153,Richmond,35.0313,-79.5491,829,94.1,shape,false,true,America/New_York,3,28347,1840016473
+Efland,Efland,North Carolina,37135,Orange,36.0806,-79.1718,825,178.9,shape,false,false,America/New_York,3,27243,1840025778
+Clarkton,Clarkton,North Carolina,37017,Bladen,34.4891,-78.6559,822,254.8,shape,false,true,America/New_York,3,28433,1840016561
+Taylortown,Taylortown,North Carolina,37125,Moore,35.2146,-79.4916,820,234.9,shape,false,true,America/New_York,3,28374 27376,1840016356
+Silver City,Silver City,North Carolina,37093,Hoke,34.9972,-79.2292,819,211.7,shape,false,false,America/New_York,3,28376,1840013506
+Bogue,Bogue,North Carolina,37031,Carteret,34.698,-77.0311,815,114.6,shape,false,true,America/New_York,3,28570,1840015497
+Ocean Isle Beach,Ocean Isle Beach,North Carolina,37019,Brunswick,33.9011,-78.4393,809,83.5,shape,false,true,America/New_York,3,28469,1840016689
+Beech Mountain,Beech Mountain,North Carolina,37189,Watauga,36.2104,-81.8875,798,47.5,shape,false,true,America/New_York,3,28604 28691,1840015308
+Greenevers,Greenevers,North Carolina,37061,Duplin,34.8271,-77.9251,789,191.9,shape,false,true,America/New_York,3,28458,1840016469
+Lilesville,Lilesville,North Carolina,37007,Anson,34.9675,-79.9845,779,302.8,shape,false,true,America/New_York,3,28091,1840016447
+North Topsail Beach,North Topsail Beach,North Carolina,37133,Onslow,34.4931,-77.434,775,48.1,shape,false,true,America/New_York,3,28460,1840016533
+Moncure,Moncure,North Carolina,37037,Chatham,35.6239,-79.0769,775,63.3,shape,false,false,America/New_York,3,27559,1840025794
+Barker Ten Mile,Barker Ten Mile,North Carolina,37155,Robeson,34.6825,-78.9889,769,130.4,shape,false,false,America/New_York,3,28358,1840033014
+Northwest,Northwest,North Carolina,37019,Brunswick,34.316,-78.1448,769,41.4,shape,false,true,America/New_York,3,28451 28456,1840014706
+White Plains,White Plains,North Carolina,37171,Surry,36.4451,-80.6351,767,73.9,shape,false,false,America/New_York,3,27030 27031,1840013307
+Black Creek,Black Creek,North Carolina,37195,Wilson,35.6366,-77.9326,758,413.4,shape,false,true,America/New_York,3,27813,1840015382
+Ingold,Ingold,North Carolina,37163,Sampson,34.8313,-78.3497,757,56.4,shape,false,false,America/New_York,3,28328 28441,1840013480
+Cashiers,Cashiers,North Carolina,37099,Jackson,35.1066,-83.0971,752,70.8,shape,false,false,America/New_York,3,28717,1840013442
+Hightsville,Hightsville,North Carolina,37129,New Hanover,34.2667,-77.9344,750,198.6,shape,false,false,America/New_York,3,28401,1840013627
+Peletier,Peletier,North Carolina,37031,Carteret,34.727,-77.0758,749,79.9,shape,false,true,America/New_York,3,28584,1840016486
+Pinnacle,Pinnacle,North Carolina,37169,Stokes,36.323,-80.4241,749,80.1,shape,false,false,America/New_York,3,27043,1840025765
+Gibson,Gibson,North Carolina,37165,Scotland,34.7595,-79.6069,747,295.6,shape,false,true,America/New_York,3,28343,1840016501
+Rich Square,Rich Square,North Carolina,37131,Northampton,36.2739,-77.2839,746,93.3,shape,false,true,America/New_York,3,27869,1840017701
+Newland,Newland,North Carolina,37011,Avery,36.088,-81.9274,743,383.7,shape,false,true,America/New_York,3,28657,1840016115
+East Bend,East Bend,North Carolina,37197,Yadkin,36.2178,-80.5085,741,218.6,shape,false,true,America/New_York,3,27018,1840016111
+Bakersville,Bakersville,North Carolina,37121,Mitchell,36.0154,-82.1582,728,369.8,shape,false,true,America/New_York,3,28705,1840015345
+Ocracoke,Ocracoke,North Carolina,37095,Hyde,35.1264,-75.9212,715,32.1,shape,false,false,America/New_York,3,27960,1840013427
+Robbinsville,Robbinsville,North Carolina,37075,Graham,35.3217,-83.8094,705,409.9,shape,false,true,America/New_York,3,28771,1840017858
+Aulander,Aulander,North Carolina,37015,Bertie,36.228,-77.1136,704,184.0,shape,false,true,America/New_York,3,27805,1840015333
+Iron Station,Iron Station,North Carolina,37109,Lincoln,35.4515,-81.1568,699,114.3,shape,false,false,America/New_York,3,28080,1840025819
+Duck,Duck,North Carolina,37055,Dare,36.1836,-75.7559,686,109.6,shape,false,true,America/New_York,3,27949,1840016158
+Pikeville,Pikeville,North Carolina,37191,Wayne,35.4972,-77.9877,679,347.2,shape,false,true,America/New_York,3,27863,1840016324
+Light Oak,Light Oak,North Carolina,37045,Cleveland,35.2867,-81.4775,677,181.8,shape,false,false,America/New_York,3,28150 28152,1840033017
+Red Cross,Red Cross,North Carolina,37167,Stanly,35.2659,-80.3623,677,70.0,shape,false,true,America/New_York,3,28129 28097,1840017854
+High Shoals,High Shoals,North Carolina,37071,Gaston,35.3957,-81.2048,675,100.1,shape,false,true,America/New_York,3,28034 28092 28077,1840015455
+New London,New London,North Carolina,37167,Stanly,35.4348,-80.2198,674,131.7,shape,false,true,America/New_York,3,28127,1840016366
+Winton,Winton,North Carolina,37091,Hertford,36.3899,-76.935,674,309.3,shape,false,true,America/New_York,3,27986,1840016048
+Manns Harbor,Manns Harbor,North Carolina,37055,Dare,35.894,-75.7737,673,65.1,shape,false,false,America/New_York,3,27953,1840025784
+Ansonville,Ansonville,North Carolina,37007,Anson,35.1041,-80.1097,671,176.1,shape,false,true,America/New_York,3,28007,1840015479
+Jackson,Jackson,North Carolina,37131,Northampton,36.3901,-77.4193,671,256.5,shape,false,true,America/New_York,3,27845,1840016039
+Conetoe,Conetoe,North Carolina,37065,Edgecombe,35.8176,-77.4571,671,180.5,shape,false,true,America/New_York,3,27819,1840016176
+Fallston,Fallston,North Carolina,37045,Cleveland,35.4288,-81.5023,670,119.5,shape,false,true,America/New_York,3,28042 28090,1840016335
+Mamers,Mamers,North Carolina,37085,Harnett,35.416,-78.939,668,42.7,shape,false,false,America/New_York,3,27546 27552,1840024950
+Frisco,Frisco,North Carolina,37055,Dare,35.2437,-75.6018,659,52.5,shape,false,false,America/New_York,3,27936,1840025782
+Newton Grove,Newton Grove,North Carolina,37163,Sampson,35.2522,-78.3552,659,82.6,shape,false,true,America/New_York,3,28366,1840016435
+Old Fort,Old Fort,North Carolina,37111,McDowell,35.6305,-82.1777,658,208.1,shape,false,true,America/New_York,3,28762,1840016244
+Riegelwood,Riegelwood,North Carolina,37047,Columbus,34.3444,-78.2198,658,82.4,shape,false,false,America/New_York,3,28456,1840025859
+Misenheimer,Misenheimer,North Carolina,37167,Stanly,35.4819,-80.287,652,155.7,shape,false,true,America/New_York,3,28109 28137,1840017856
+Prospect,Prospect,North Carolina,37155,Robeson,34.7359,-79.2251,650,63.9,shape,false,false,America/New_York,3,28372 28364,1840033013
+Dobbins Heights,Dobbins Heights,North Carolina,37153,Richmond,34.9068,-79.6933,645,282.1,shape,false,true,America/New_York,3,28345,1840016474
+Scotch Meadows,Scotch Meadows,North Carolina,37165,Scotland,34.689,-79.5179,645,454.1,shape,false,true,America/New_York,3,28352,1840043083
+Rosman,Rosman,North Carolina,37175,Transylvania,35.1458,-82.82,642,454.0,shape,false,true,America/New_York,3,28712 28772,1840017862
+Cove City,Cove City,North Carolina,37049,Craven,35.189,-77.3206,633,383.3,shape,false,true,America/New_York,3,28523,1840016399
+Stantonsburg,Stantonsburg,North Carolina,37195,Wilson,35.6053,-77.8198,632,415.1,shape,false,true,America/New_York,3,27883,1840016262
+Catawba,Catawba,North Carolina,37035,Catawba,35.7095,-81.0668,630,53.4,shape,false,true,America/New_York,3,28609,1840016282
+Woodland,Woodland,North Carolina,37131,Northampton,36.3306,-77.2149,630,194.4,shape,false,true,America/New_York,3,27897 27869,1840016044
+Hayesville,Hayesville,North Carolina,37043,Clay,35.0452,-83.8178,629,381.8,shape,false,true,America/New_York,3,28904,1840015491
+South Mills,South Mills,North Carolina,37029,Camden,36.4379,-76.3308,627,135.2,shape,false,false,America/New_York,3,27976,1840025766
+Sandyfield,Sandyfield,North Carolina,37047,Columbus,34.3738,-78.3,625,78.3,shape,false,true,America/New_York,3,28456,1840017950
+Ruth,Ruth,North Carolina,37161,Rutherford,35.3824,-81.9448,621,565.0,shape,false,true,America/New_York,3,28139,1840017833
+Garysburg,Garysburg,North Carolina,37131,Northampton,36.4479,-77.5603,620,253.7,shape,false,true,America/New_York,3,27831,1840016042
+South Weldon,South Weldon,North Carolina,37083,Halifax,36.4135,-77.6024,619,548.9,shape,false,false,America/New_York,3,27890,1840013310
+Saluda,Saluda,North Carolina,37149,Polk,35.2375,-82.3469,617,153.2,shape,false,true,America/New_York,3,28773,1840015459
+Marshall,Marshall,North Carolina,37115,Madison,35.7973,-82.6818,616,59.7,shape,false,true,America/New_York,3,28753,1840016211
+Seaboard,Seaboard,North Carolina,37131,Northampton,36.4907,-77.442,603,241.8,shape,false,true,America/New_York,3,27876,1840017702
+Lawndale,Lawndale,North Carolina,37045,Cleveland,35.4142,-81.563,599,286.7,shape,false,true,America/New_York,3,28090,1840016331
+Grover,Grover,North Carolina,37045,Cleveland,35.1735,-81.452,598,241.6,shape,false,true,America/New_York,3,28073,1840016336
+Wade,Wade,North Carolina,37051,Cumberland,35.1635,-78.737,595,131.9,shape,false,true,America/New_York,3,28395,1840016443
+Harmony,Harmony,North Carolina,37097,Iredell,35.959,-80.7735,584,166.2,shape,false,true,America/New_York,3,28634,1840016216
+Bolton,Bolton,North Carolina,37047,Columbus,34.3174,-78.3976,581,62.3,shape,false,true,America/New_York,3,28423,1840015568
+Whitsett,Whitsett,North Carolina,37081,Guilford,36.0784,-79.5721,579,86.6,shape,false,true,America/New_York,3,27377 27249,1840016140
+Hookerton,Hookerton,North Carolina,37079,Greene,35.4228,-77.5893,578,414.0,shape,false,true,America/New_York,3,28538,1840016313
+Carolina Meadows,Carolina Meadows,North Carolina,37037,Chatham,35.8597,-79.0179,576,563.8,shape,false,false,America/New_York,3,27517,1840152905
+Teachey,Teachey,North Carolina,37061,Duplin,34.7705,-78.0066,574,210.3,shape,false,true,America/New_York,3,28464,1840016470
+Alexis,Alexis,North Carolina,37071,Gaston,35.3968,-81.119,570,111.4,shape,false,false,America/New_York,3,28034 28006,1840089337
+Ossipee,Ossipee,North Carolina,37001,Alamance,36.1678,-79.5135,560,356.3,shape,false,true,America/New_York,3,27244,1840016146
+Columbia,Columbia,North Carolina,37177,Tyrrell,35.92,-76.2421,560,176.0,shape,false,true,America/New_York,3,27925,1840016239
+Lattimore,Lattimore,North Carolina,37045,Cleveland,35.3153,-81.6602,557,209.8,shape,false,true,America/New_York,3,28089 28150,1840016330
+Kelly,Kelly,North Carolina,37017,Bladen,34.4639,-78.3109,555,18.5,shape,false,false,America/New_York,3,28448,1840013569
+Atlantic,Atlantic,North Carolina,37031,Carteret,34.8823,-76.344,534,224.2,shape,false,false,America/New_York,3,28511,1840025834
+Kingstown,Kingstown,North Carolina,37045,Cleveland,35.3621,-81.6201,533,116.9,shape,false,true,America/New_York,3,28150,1840016329
+Bridgeton,Bridgeton,North Carolina,37049,Craven,35.1348,-77.016,532,100.4,shape,false,true,America/New_York,3,28560 28519,1840015456
+Sedalia,Sedalia,North Carolina,37081,Guilford,36.076,-79.6208,529,102.2,shape,false,true,America/New_York,3,27342 27249,1840017735
+Grantsboro,Grantsboro,North Carolina,37137,Pamlico,35.1449,-76.8447,528,52.9,shape,false,true,America/New_York,3,28529,1840016424
+Pink Hill,Pink Hill,North Carolina,37107,Lenoir,35.0562,-77.7436,528,438.9,shape,false,true,America/New_York,3,28572,1840016390
+Littleton,Littleton,North Carolina,37083,Halifax,36.4343,-77.911,525,213.1,shape,false,true,America/New_York,3,27850,1840016062
+Aurora,Aurora,North Carolina,37013,Beaufort,35.303,-76.7889,522,217.1,shape,false,true,America/New_York,3,27806,1840015398
+Hot Springs,Hot Springs,North Carolina,37115,Madison,35.8934,-82.8303,519,69.9,shape,false,true,America/New_York,3,28743 28753,1840016209
+Ronda,Ronda,North Carolina,37193,Wilkes,36.2217,-80.9431,516,183.8,shape,false,true,America/New_York,3,28670,1840017720
+Elk Park,Elk Park,North Carolina,37011,Avery,36.1582,-81.9808,511,285.7,shape,false,true,America/New_York,3,28622,1840016114
+Gloucester,Gloucester,North Carolina,37031,Carteret,34.7292,-76.5391,506,136.1,shape,false,false,America/New_York,3,28528,1840025837
+Staley,Staley,North Carolina,37151,Randolph,35.7979,-79.5518,505,168.2,shape,false,true,America/New_York,3,27355,1840017782
+Roper,Roper,North Carolina,37187,Washington,35.8786,-76.617,502,226.3,shape,false,true,America/New_York,3,27970,1840017778
+Polkville,Polkville,North Carolina,37045,Cleveland,35.4163,-81.644,500,103.6,shape,false,true,America/New_York,3,28136 28150,1840014551
+Cape Colony,Cape Colony,North Carolina,37041,Chowan,36.0211,-76.5815,493,188.4,shape,false,false,America/New_York,3,27932,1840151246
+Bell Arthur,Bell Arthur,North Carolina,37147,Pitt,35.5912,-77.5127,491,101.8,shape,false,false,America/New_York,3,27828 27834,1840024929
+Caswell Beach,Caswell Beach,North Carolina,37019,Brunswick,33.9073,-78.0471,489,63.6,shape,false,true,America/New_York,3,28465,1840016684
+Sugar Mountain,Sugar Mountain,North Carolina,37011,Avery,36.1263,-81.8646,489,76.8,shape,false,true,America/New_York,3,28604,1840017726
+Minnesott Beach,Minnesott Beach,North Carolina,37137,Pamlico,34.9858,-76.8239,486,54.0,shape,false,true,America/New_York,3,28510,1840016423
+Deep Run,Deep Run,North Carolina,37107,Lenoir,35.1415,-77.7162,484,65.8,shape,false,false,America/New_York,3,28525,1840088229
+Millingport,Millingport,North Carolina,37167,Stanly,35.3763,-80.3113,479,32.6,shape,false,false,America/New_York,3,28127 28001,1840024952
+Bunn,Bunn,North Carolina,37069,Franklin,35.9591,-78.252,478,342.0,shape,false,true,America/New_York,3,27508,1840015321
+Micro,Micro,North Carolina,37101,Johnston,35.5624,-78.2035,477,439.2,shape,false,true,America/New_York,3,27555,1840016289
+Washington Park,Washington Park,North Carolina,37013,Beaufort,35.5328,-77.0316,475,550.2,shape,false,true,America/New_York,3,27889,1840016303
+Topsail Beach,Topsail Beach,North Carolina,37141,Pender,34.3744,-77.632,471,41.4,shape,false,true,America/New_York,3,28445,1840016604
+Webster,Webster,North Carolina,37099,Jackson,35.35,-83.2188,470,181.9,shape,false,true,America/New_York,3,28779 28788,1840016348
+St. Helena,St. Helena,North Carolina,37141,Pender,34.5166,-77.9174,465,31.8,shape,false,true,America/New_York,3,28425,1840017926
+Peachland,Peachland,North Carolina,37007,Anson,34.9931,-80.266,465,178.1,shape,false,true,America/New_York,3,28133,1840016451
+Whitakers,Whitakers,North Carolina,37127,Nash,36.1057,-77.7131,462,214.6,shape,false,true,America/New_York,3,27891,1840016166
+Potters Hill,Potters Hill,North Carolina,37061,Duplin,34.9645,-77.6983,460,33.2,shape,false,false,America/New_York,3,28572,1840025833
+Bailey,Bailey,North Carolina,37127,Nash,35.7805,-78.113,459,252.5,shape,false,true,America/New_York,3,27807,1840015344
+Lewiston Woodville,Lewiston Woodville,North Carolina,37015,Bertie,36.1141,-77.1811,458,90.4,shape,false,true,America/New_York,3,27849,1840016148
+Hatteras,Hatteras,North Carolina,37055,Dare,35.2176,-75.6872,458,112.1,shape,false,false,America/New_York,3,27943,1840025783
+Parkton,Parkton,North Carolina,37155,Robeson,34.9028,-79.0113,451,223.3,shape,false,true,America/New_York,3,28371,1840016540
+Deercroft,Deercroft,North Carolina,37165,Scotland,34.9592,-79.4352,448,133.9,shape,false,true,America/New_York,4,28396,1840043056
+Dublin,Dublin,North Carolina,37017,Bladen,34.6562,-78.7231,444,393.9,shape,false,true,America/New_York,3,28332,1840016562
+Montreat,Montreat,North Carolina,37021,Buncombe,35.6478,-82.3001,442,62.6,shape,false,true,America/New_York,3,28757,1840016283
+Pantego,Pantego,North Carolina,37013,Beaufort,35.5874,-76.6594,441,212.1,shape,false,true,America/New_York,3,27860,1840016304
+Dover,Dover,North Carolina,37049,Craven,35.2155,-77.4338,441,177.5,shape,false,true,America/New_York,3,28526,1840016400
+Roxobel,Roxobel,North Carolina,37015,Bertie,36.2015,-77.2398,440,162.9,shape,false,true,America/New_York,3,27872,1840017738
+Fair Bluff,Fair Bluff,North Carolina,37047,Columbus,34.3126,-79.0333,437,71.5,shape,false,true,America/New_York,3,28439,1840016664
+Ruffin,Ruffin,North Carolina,37157,Rockingham,36.4428,-79.5433,437,37.1,shape,false,false,America/New_York,3,27326,1840025767
+Linville,Linville,North Carolina,37011,Avery,36.0674,-81.8715,437,94.5,shape,false,false,America/New_York,3,28646,1840032959
+Brookford,Brookford,North Carolina,37035,Catawba,35.703,-81.3452,435,275.6,shape,false,true,America/New_York,3,28602,1840015390
+Ivanhoe,Ivanhoe,North Carolina,37163,Sampson,34.587,-78.2447,434,33.4,shape,false,false,America/New_York,3,28447,1840013481
+Marshallberg,Marshallberg,North Carolina,37031,Carteret,34.7265,-76.515,430,260.6,shape,false,false,America/New_York,3,28553,1840025838
+Calypso,Calypso,North Carolina,37061,Duplin,35.1545,-78.1046,429,165.5,shape,false,true,America/New_York,3,28325 28365,1840015486
+Cameron,Cameron,North Carolina,37125,Moore,35.3259,-79.254,427,136.0,shape,false,true,America/New_York,3,28326,1840015434
+Altamahaw,Altamahaw,North Carolina,37001,Alamance,36.1868,-79.5051,424,120.6,shape,false,false,America/New_York,3,27202 27244,1840013358
+Cliffside,Cliffside,North Carolina,37161,Rutherford,35.248,-81.7653,424,70.3,shape,false,false,America/New_York,3,28114 28024,1840025817
+Seven Devils,Seven Devils,North Carolina,37189,Watauga,36.149,-81.812,422,73.5,shape,false,true,America/New_York,3,28604,1840017725
+Turkey,Turkey,North Carolina,37163,Sampson,34.995,-78.1841,420,409.0,shape,false,true,America/New_York,3,28393,1840016434
+Oak City,Oak City,North Carolina,37117,Martin,35.9625,-77.3051,420,161.7,shape,false,true,America/New_York,3,27857,1840016207
+Barnardsville,Barnardsville,North Carolina,37021,Buncombe,35.7819,-82.4556,420,46.0,shape,false,false,America/New_York,3,28709,1840089402
+Momeyer,Momeyer,North Carolina,37127,Nash,35.9592,-78.0511,412,144.0,shape,false,true,America/New_York,3,27856,1840016163
+Atkinson,Atkinson,North Carolina,37141,Pender,34.5275,-78.1697,410,159.9,shape,false,true,America/New_York,3,28421,1840015547
+Cedar Rock,Cedar Rock,North Carolina,37027,Caldwell,35.9435,-81.4584,409,138.4,shape,false,true,America/New_York,3,28645,1840017756
+Aquadale,Aquadale,North Carolina,37167,Stanly,35.2244,-80.2235,409,48.5,shape,false,false,America/New_York,3,28128,1840025823
+Sims,Sims,North Carolina,37195,Wilson,35.7596,-78.0598,406,186.8,shape,false,true,America/New_York,3,27880,1840017785
+Seagrove,Seagrove,North Carolina,37151,Randolph,35.5391,-79.78,405,136.5,shape,false,true,America/New_York,3,27341,1840017781
+Bayview,Bayview,North Carolina,37013,Beaufort,35.4414,-76.7928,398,145.6,shape,false,false,America/New_York,3,27808,1840025806
+Casar,Casar,North Carolina,37045,Cleveland,35.5127,-81.6168,391,86.2,shape,false,true,America/New_York,3,28020,1840016333
+Simpson,Simpson,North Carolina,37147,Pitt,35.5753,-77.279,386,550.0,shape,false,true,America/New_York,3,27858 27879,1840017788
+Jamesville,Jamesville,North Carolina,37117,Martin,35.8122,-76.9002,384,101.8,shape,false,true,America/New_York,3,27846,1840016202
+Cofield,Cofield,North Carolina,37091,Hertford,36.3567,-76.9106,384,47.2,shape,false,true,America/New_York,3,27922,1840017704
+Chowan Beach,Chowan Beach,North Carolina,37041,Chowan,36.2142,-76.7107,382,573.7,shape,false,false,America/New_York,3,27932,1840091022
+Caroleen,Caroleen,North Carolina,37161,Rutherford,35.2811,-81.7913,377,131.5,shape,false,false,America/New_York,3,28040 28114 28019,1840025816
+Goldston,Goldston,North Carolina,37037,Chatham,35.5929,-79.3286,375,174.7,shape,false,true,America/New_York,3,27252,1840016258
+Stovall,Stovall,North Carolina,37077,Granville,36.4476,-78.5689,374,138.0,shape,false,true,America/New_York,3,27582,1840016052
+Avon,Avon,North Carolina,37055,Dare,35.3465,-75.5069,370,62.9,shape,false,false,America/New_York,3,27915,1840025780
+White Oak,White Oak,North Carolina,37017,Bladen,34.7396,-78.7186,370,28.0,shape,false,false,America/New_York,3,28399,1840013568
+Grimesland,Grimesland,North Carolina,37147,Pitt,35.5685,-77.2025,368,208.9,shape,false,true,America/New_York,3,27837,1840016278
+Ashley Heights,Ashley Heights,North Carolina,37093,Hoke,35.09,-79.374,365,63.0,shape,false,false,America/New_York,3,28315,1840013504
+Arapahoe,Arapahoe,North Carolina,37137,Pamlico,35.0215,-76.826,364,64.7,shape,false,true,America/New_York,3,28510 28529,1840015469
+Earl,Earl,North Carolina,37045,Cleveland,35.1954,-81.534,358,160.5,shape,false,true,America/New_York,3,28073 28152,1840016334
+Cerro Gordo,Cerro Gordo,North Carolina,37047,Columbus,34.3226,-78.9286,352,172.1,shape,false,true,America/New_York,3,28430,1840016662
+Saratoga,Saratoga,North Carolina,37195,Wilson,35.6537,-77.7756,345,210.6,shape,false,true,America/New_York,3,27873 27883,1840017784
+Morven,Morven,North Carolina,37007,Anson,34.8643,-80.0,345,129.7,shape,false,true,America/New_York,3,28119,1840016449
+Forest Hills,Forest Hills,North Carolina,37099,Jackson,35.2958,-83.1955,344,268.0,shape,false,true,America/New_York,3,28723,1840001769
+Pollocksville,Pollocksville,North Carolina,37103,Jones,35.0056,-77.2211,342,316.9,shape,false,true,America/New_York,3,28573,1840016446
+Henrietta,Henrietta,North Carolina,37161,Rutherford,35.2569,-81.8012,341,225.6,shape,false,false,America/New_York,3,28114 28076,1840025818
+Fairfield,Fairfield,North Carolina,37095,Hyde,35.5471,-76.2261,338,18.5,shape,false,false,America/New_York,3,27826,1840025810
+East Arcadia,East Arcadia,North Carolina,37017,Bladen,34.3816,-78.3231,337,57.9,shape,false,true,America/New_York,3,28456,1840016563
+Macclesfield,Macclesfield,North Carolina,37065,Edgecombe,35.7522,-77.6704,335,238.5,shape,false,true,America/New_York,3,27852,1840016175
+Bethania,Bethania,North Carolina,37067,Forsyth,36.1808,-80.3376,335,190.6,shape,false,true,America/New_York,3,27040 27106,1840015323
+Gold Hill,Gold Hill,North Carolina,37159,Rowan,35.5254,-80.3452,331,51.4,shape,false,false,America/New_York,3,28071,1840088336
+Salemburg,Salemburg,North Carolina,37163,Sampson,35.0152,-78.5028,330,130.6,shape,false,true,America/New_York,3,28385,1840017874
+East Laurinburg,East Laurinburg,North Carolina,37165,Scotland,34.7691,-79.445,322,677.6,shape,false,true,America/New_York,3,28352,1840016500
+Hiddenite,Hiddenite,North Carolina,37003,Alexander,35.9053,-81.086,319,77.5,shape,false,false,America/New_York,3,28636,1840025788
+Old Hundred,Old Hundred,North Carolina,37165,Scotland,34.8246,-79.5922,316,125.7,shape,false,false,America/New_York,3,28351,1840024991
+Raemon,Raemon,North Carolina,37155,Robeson,34.6229,-79.3491,305,27.3,shape,false,false,America/New_York,3,28364,1840013561
+Sandy Creek,Sandy Creek,North Carolina,37019,Brunswick,34.2799,-78.1531,304,82.3,shape,false,true,America/New_York,3,28451,1840017952
+Bostic,Bostic,North Carolina,37161,Rutherford,35.3625,-81.836,304,125.9,shape,false,true,America/New_York,3,28018,1840015422
+Coinjock,Coinjock,North Carolina,37053,Currituck,36.3513,-75.9526,301,138.4,shape,false,false,America/New_York,3,27917 27923,1840025763
+Rennert,Rennert,North Carolina,37155,Robeson,34.8142,-79.0791,300,105.0,shape,false,true,America/New_York,3,28386,1840017908
+Evergreen,Evergreen,North Carolina,37047,Columbus,34.4149,-78.9114,300,30.2,shape,false,false,America/New_York,3,28438,1840025857
+Fountain,Fountain,North Carolina,37147,Pitt,35.6721,-77.6317,299,125.4,shape,false,true,America/New_York,3,27829,1840016276
+Swan Quarter,Swan Quarter,North Carolina,37095,Hyde,35.4109,-76.325,293,28.6,shape,false,true,America/New_York,4,27885,1840032987
+Danbury,Danbury,North Carolina,37169,Stokes,36.4111,-80.212,293,150.8,shape,false,true,America/New_York,3,27016,1840016034
+Kelford,Kelford,North Carolina,37015,Bertie,36.1813,-77.2243,282,225.8,shape,false,true,America/New_York,3,27847,1840016147
+Marble,Marble,North Carolina,37039,Cherokee,35.177,-83.9265,282,99.3,shape,false,false,America/New_York,3,28905,1840025832
+Glenwood,Glenwood,North Carolina,37111,McDowell,35.6161,-81.9833,280,67.0,shape,false,false,America/New_York,3,28752,1840032871
+Hobgood,Hobgood,North Carolina,37083,Halifax,36.0267,-77.394,279,104.2,shape,false,true,America/New_York,3,27843,1840016061
+Waco,Waco,North Carolina,37045,Cleveland,35.3622,-81.4287,278,128.1,shape,false,true,America/New_York,3,28021 28169,1840016337
+Gatesville,Gatesville,North Carolina,37073,Gates,36.4072,-76.7566,277,264.9,shape,false,true,America/New_York,3,27938,1840016033
+Davis,Davis,North Carolina,37031,Carteret,34.7996,-76.4641,275,48.7,shape,false,false,America/New_York,3,28524,1840025836
+Bowdens,Bowdens,North Carolina,37061,Duplin,35.0579,-78.1128,271,76.9,shape,false,false,America/New_York,3,28398,1840088146
+Everetts,Everetts,North Carolina,37117,Martin,35.8346,-77.1721,269,210.8,shape,false,true,America/New_York,3,27825 27892,1840016203
+Vann Crossroads,Vann Crossroads,North Carolina,37163,Sampson,35.1697,-78.4026,266,22.5,shape,false,false,America/New_York,3,28328 28366,1840013484
+Elrod,Elrod,North Carolina,37155,Robeson,34.6072,-79.2307,264,19.1,shape,false,false,America/New_York,3,28383,1840013085
+Centerville,Centerville,North Carolina,37069,Franklin,36.1865,-78.1113,261,61.9,shape,false,false,America/New_York,3,27549,1840016117
+Castalia,Castalia,North Carolina,37127,Nash,36.0823,-78.0576,257,131.8,shape,false,true,America/New_York,3,27816,1840016164
+Colerain,Colerain,North Carolina,37015,Bertie,36.2013,-76.7661,257,58.0,shape,false,true,America/New_York,3,27924,1840016149
+Engelhard,Engelhard,North Carolina,37095,Hyde,35.5092,-76.0095,254,30.4,shape,false,false,America/New_York,3,27824,1840025809
+Gerton,Gerton,North Carolina,37089,Henderson,35.4758,-82.3504,251,26.1,shape,false,false,America/New_York,3,28735,1840025824
+Walstonburg,Walstonburg,North Carolina,37079,Greene,35.5961,-77.6981,247,234.4,shape,false,true,America/New_York,3,27888,1840016314
+Yadkin College,Yadkin College,North Carolina,37057,Davidson,35.8766,-80.3791,247,33.1,shape,false,false,America/New_York,3,27295,1840151248
+Shannon,Shannon,North Carolina,37155,Robeson,34.8476,-79.1396,245,92.6,shape,false,false,America/New_York,3,28386,1840013560
+Jackson Springs,Jackson Springs,North Carolina,37125,Moore,35.2127,-79.6297,244,59.0,shape,false,false,America/New_York,3,27281,1840088420
+Boardman,Boardman,North Carolina,37047,Columbus,34.4365,-78.9468,238,29.8,shape,false,true,America/New_York,3,28438,1840015567
+Keener,Keener,North Carolina,37163,Sampson,35.1131,-78.3094,237,8.2,shape,false,false,America/New_York,3,28328,1840013485
+Bath,Bath,North Carolina,37013,Beaufort,35.4702,-76.8119,236,179.9,shape,false,true,America/New_York,3,27808,1840015399
+Lansing,Lansing,North Carolina,37009,Ashe,36.4994,-81.5106,236,119.3,shape,false,true,America/New_York,3,28643,1840016028
+Farmington,Farmington,North Carolina,37059,Davie,36.0128,-80.5329,234,55.6,shape,false,false,America/New_York,3,27028,1840032945
+Dillsboro,Dillsboro,North Carolina,37099,Jackson,35.3706,-83.2527,231,186.5,shape,false,true,America/New_York,3,28779 28725,1840016346
+Watha,Watha,North Carolina,37141,Pender,34.651,-77.9576,230,65.3,shape,false,true,America/New_York,3,28478,1840016605
+Stonewall,Stonewall,North Carolina,37137,Pamlico,35.1371,-76.7406,229,51.8,shape,false,true,America/New_York,3,28515 28556 28583,1840016425
+Bennett,Bennett,North Carolina,37037,Chatham,35.5664,-79.54,228,27.5,shape,false,false,America/New_York,3,27208,1840025792
+Halifax,Halifax,North Carolina,37083,Halifax,36.3255,-77.5901,227,191.7,shape,false,true,America/New_York,3,27839,1840016064
+Indian Beach,Indian Beach,North Carolina,37031,Carteret,34.6882,-76.8879,225,152.6,shape,false,true,America/New_York,3,28512 28575,1840016481
+Middleburg,Middleburg,North Carolina,37181,Vance,36.399,-78.3235,223,109.7,shape,false,true,America/New_York,3,27556,1840016050
+Parmele,Parmele,North Carolina,37117,Martin,35.8181,-77.3143,221,73.7,shape,false,true,America/New_York,3,27871 27861,1840016208
+Chimney Rock Village,Chimney Rock Village,North Carolina,37161,Rutherford,35.4503,-82.255,220,25.3,shape,false,true,America/New_York,3,28720,1840033006
+Stokes,Stokes,North Carolina,37147,Pitt,35.7106,-77.2677,218,19.0,shape,false,false,America/New_York,3,27884,1840024931
+Eureka,Eureka,North Carolina,37191,Wayne,35.5414,-77.8763,217,122.7,shape,false,true,America/New_York,3,27830,1840016322
+Vandemere,Vandemere,North Carolina,37137,Pamlico,35.1887,-76.665,214,54.3,shape,false,true,America/New_York,3,28587,1840016426
+Harrells,Harrells,North Carolina,37163,Sampson,34.7278,-78.2015,209,25.6,shape,false,true,America/New_York,3,28444,1840016433
+Harrellsville,Harrellsville,North Carolina,37091,Hertford,36.3017,-76.7918,208,62.9,shape,false,true,America/New_York,3,27942,1840016047
+Milwaukee,Milwaukee,North Carolina,37131,Northampton,36.4047,-77.2306,205,46.0,shape,false,false,America/New_York,3,27820,1840090196
+Mooresboro,Mooresboro,North Carolina,37045,Cleveland,35.2992,-81.6986,204,44.6,shape,false,true,America/New_York,3,28114 28152,1840016332
+Roberdel,Roberdel,North Carolina,37153,Richmond,34.9774,-79.7459,202,118.2,shape,false,false,America/New_York,4,28379,1840153100
+Salvo,Salvo,North Carolina,37055,Dare,35.5488,-75.4689,201,80.1,shape,false,false,America/New_York,3,27982 27972,1840025786
+Bolivia,Bolivia,North Carolina,37019,Brunswick,34.0699,-78.1472,197,119.5,shape,false,true,America/New_York,3,28422,1840015579
+Lowgap,Lowgap,North Carolina,37171,Surry,36.5231,-80.8671,188,63.9,shape,false,false,America/New_York,3,27024,1840025761
+Falcon,Falcon,North Carolina,37051,Cumberland,35.1936,-78.6512,186,51.0,shape,false,true,America/New_York,3,28342 28331 28344,1840016440
+Rodanthe,Rodanthe,North Carolina,37055,Dare,35.5924,-75.4662,184,74.3,shape,false,false,America/New_York,3,27968,1840025785
+Askewville,Askewville,North Carolina,37015,Bertie,36.1116,-76.9412,184,120.0,shape,false,true,America/New_York,3,27983,1840015332
+Mesic,Mesic,North Carolina,37137,Pamlico,35.2034,-76.645,183,68.4,shape,false,true,America/New_York,3,28515,1840016422
+Crouse,Crouse,North Carolina,37109,Lincoln,35.4214,-81.3027,179,60.9,shape,false,false,America/New_York,3,28033 28092,1840032861
+Gulf,Gulf,North Carolina,37037,Chatham,35.5597,-79.2805,178,75.7,shape,false,false,America/New_York,3,27256 27252 27330,1840025793
+Severn,Severn,North Carolina,37131,Northampton,36.5143,-77.1893,177,67.6,shape,false,true,America/New_York,3,27862 27877,1840017703
+Norman,Norman,North Carolina,37153,Richmond,35.1698,-79.7232,173,118.8,shape,false,true,America/New_York,3,28367,1840016476
+Lasker,Lasker,North Carolina,37131,Northampton,36.3502,-77.3058,172,59.4,shape,false,true,America/New_York,3,27845,1840016040
+Hallsboro,Hallsboro,North Carolina,37047,Columbus,34.3189,-78.5934,172,20.3,shape,false,false,America/New_York,3,28442,1840025858
+Belvoir,Belvoir,North Carolina,37147,Pitt,35.7111,-77.47,169,33.0,shape,false,false,America/New_York,3,27834,1840024930
+Hamilton,Hamilton,North Carolina,37117,Martin,35.9443,-77.2067,167,130.5,shape,false,true,America/New_York,3,27840,1840016204
+Butters,Butters,North Carolina,37017,Bladen,34.5603,-78.8489,164,42.9,shape,false,false,America/New_York,3,28320,1840013567
+Powellsville,Powellsville,North Carolina,37015,Bertie,36.2252,-76.9316,161,177.6,shape,false,true,America/New_York,3,27967,1840017737
+Trenton,Trenton,North Carolina,37103,Jones,35.064,-77.3553,161,304.2,shape,false,true,America/New_York,3,28585,1840016445
+Smithtown,Smithtown,North Carolina,37197,Yadkin,36.2326,-80.5711,158,45.5,shape,false,false,America/New_York,4,27018,1840151018
+Creswell,Creswell,North Carolina,37187,Washington,35.8743,-76.4031,152,103.7,shape,false,true,America/New_York,3,27928,1840016241
+Wakulla,Wakulla,North Carolina,37155,Robeson,34.797,-79.2559,147,66.0,shape,false,false,America/New_York,3,28377 28364,1840024997
+Milton,Milton,North Carolina,37033,Caswell,36.5372,-79.2081,147,145.9,shape,false,true,America/New_York,3,27305,1840016057
+Godwin,Godwin,North Carolina,37051,Cumberland,35.2134,-78.677,147,90.0,shape,false,true,America/New_York,3,28344,1840016441
+Proctorville,Proctorville,North Carolina,37155,Robeson,34.4752,-79.0371,140,119.1,shape,false,true,America/New_York,3,28375 28369,1840017905
+Crossnore,Crossnore,North Carolina,37011,Avery,36.0222,-81.9308,139,119.9,shape,false,true,America/New_York,3,28616,1840016113
+Waves,Waves,North Carolina,37055,Dare,35.5695,-75.4666,139,79.5,shape,false,false,America/New_York,3,27982 27972,1840026933
+Bald Head Island,Bald Head Island,North Carolina,37019,Brunswick,33.866,-77.9862,138,13.6,shape,false,true,America/New_York,3,28461,1840017955
+Valle Crucis,Valle Crucis,North Carolina,37189,Watauga,36.2076,-81.7861,137,11.9,shape,false,false,America/New_York,3,28604 28679,1840024902
+Glenville,Glenville,North Carolina,37099,Jackson,35.1718,-83.1273,136,39.3,shape,false,false,America/New_York,3,28736,1840025822
+Autryville,Autryville,North Carolina,37163,Sampson,34.9965,-78.6412,134,99.0,shape,false,true,America/New_York,3,28318,1840015473
+Love Valley,Love Valley,North Carolina,37097,Iredell,35.9872,-80.9836,130,49.1,shape,false,true,America/New_York,3,28625,1840016214
+Bear Grass,Bear Grass,North Carolina,37117,Martin,35.7664,-77.129,129,75.9,shape,false,true,America/New_York,3,27892,1840015356
+Linden,Linden,North Carolina,37051,Cumberland,35.2546,-78.7484,126,88.5,shape,false,true,America/New_York,3,28356,1840016439
+Blue Clay Farms,Blue Clay Farms,North Carolina,37129,New Hanover,34.3005,-77.8917,124,19.6,shape,false,true,America/New_York,4,28405 28429,1840040276
+Delco,Delco,North Carolina,37047,Columbus,34.3188,-78.2267,123,31.5,shape,false,false,America/New_York,3,28436,1840025856
+Falkland,Falkland,North Carolina,37147,Pitt,35.6986,-77.5129,122,119.3,shape,false,true,America/New_York,3,27829 27827,1840016274
+Lake Santeetlah,Lake Santeetlah,North Carolina,37075,Graham,35.3636,-83.8664,121,66.3,shape,false,true,America/New_York,3,28771,1840001770
+Sunbury,Sunbury,North Carolina,37073,Gates,36.4469,-76.6127,121,19.1,shape,false,false,America/New_York,3,27979,1840025762
+McFarlan,McFarlan,North Carolina,37007,Anson,34.8148,-79.9766,111,46.6,shape,false,true,America/New_York,3,28102,1840016448
+Marietta,Marietta,North Carolina,37155,Robeson,34.3683,-79.1249,110,38.0,shape,false,true,America/New_York,3,28340 28362,1840016535
+Tar Heel,Tar Heel,North Carolina,37017,Bladen,34.734,-78.791,104,96.4,shape,false,true,America/New_York,3,28392,1840016565
+McDonald,McDonald,North Carolina,37155,Robeson,34.5537,-79.1763,97,135.6,shape,false,true,America/New_York,3,28340,1840016537
+Macon,Macon,North Carolina,37185,Warren,36.4396,-78.0839,90,73.8,shape,false,true,America/New_York,3,27551,1840016036
+Como,Como,North Carolina,37091,Hertford,36.5011,-77.0073,85,10.4,shape,false,true,America/New_York,3,27818,1840016046
+Long Creek,Long Creek,North Carolina,37141,Pender,34.4382,-78.0161,77,14.8,shape,false,false,America/New_York,3,28457,1840088474
+Kittrell,Kittrell,North Carolina,37181,Vance,36.2218,-78.4414,76,274.0,shape,false,true,America/New_York,3,27544,1840016049
+Lumber Bridge,Lumber Bridge,North Carolina,37155,Robeson,34.8898,-79.0725,69,39.8,shape,false,true,America/New_York,3,28357,1840016534
+Bowmore,Bowmore,North Carolina,37093,Hoke,34.9358,-79.2999,65,7.6,shape,false,false,America/New_York,3,28376,1840013505
+Orrum,Orrum,North Carolina,37155,Robeson,34.4667,-79.0089,62,50.1,shape,false,true,America/New_York,3,28369,1840016539
+Speed,Speed,North Carolina,37065,Edgecombe,35.9685,-77.4442,59,64.7,shape,false,true,America/New_York,3,27886 27881,1840017753
+Leggett,Leggett,North Carolina,37065,Edgecombe,35.9896,-77.58,55,27.3,shape,false,true,America/New_York,3,27886,1840016174
+Dundarrach,Dundarrach,North Carolina,37093,Hoke,34.9247,-79.1575,52,15.3,shape,false,false,America/New_York,3,28357 28386,1840013079
+Pinetown,Pinetown,North Carolina,37013,Beaufort,35.6111,-76.8558,42,15.9,shape,false,false,America/New_York,3,27865,1840025807
+Rex,Rex,North Carolina,37155,Robeson,34.8508,-79.0468,42,21.9,shape,false,false,America/New_York,3,28378 28384,1840013562
+Raynham,Raynham,North Carolina,37155,Robeson,34.5761,-79.1908,37,73.4,shape,false,true,America/New_York,3,28383,1840017906
+Delway,Delway,North Carolina,37163,Sampson,34.8102,-78.2169,37,1.5,shape,false,false,America/New_York,3,28458 28453,1840013077
+Graingers,Graingers,North Carolina,37107,Lenoir,35.3164,-77.5066,30,7.0,shape,false,false,America/New_York,3,28501 28530,1840088340
+Hassell,Hassell,North Carolina,37117,Martin,35.9086,-77.2763,26,57.6,shape,false,true,America/New_York,3,27841,1840016205
+Dellview,Dellview,North Carolina,37071,Gaston,35.3865,-81.4127,25,101.1,shape,false,true,America/New_York,3,28021,1840016397
+Seven Springs,Seven Springs,North Carolina,37191,Wayne,35.2249,-77.8452,17,37.8,shape,false,true,America/New_York,3,28578,1840017836
+Fontana Dam,Fontana Dam,North Carolina,37075,Graham,35.4328,-83.8248,11,6.8,shape,false,true,America/New_York,5,28733,1840043448
+Chinquapin,Chinquapin,North Carolina,37061,Duplin,34.8318,-77.8207,7,1.9,shape,false,false,America/New_York,3,28521 28518,1840032936
+Spencer Mountain,Spencer Mountain,North Carolina,37071,Gaston,35.3073,-81.1101,0,54.9,shape,false,true,America/New_York,3,28056,1840017865
+Hobucken,Hobucken,North Carolina,37137,Pamlico,35.2544,-76.5712,0,19.8,shape,false,false,America/New_York,3,28537,1840025831
+Whittier,Whittier,North Carolina,37099,Jackson,35.4337,-83.3564,0,110.6,shape,false,false,America/New_York,3,28789,1840032916

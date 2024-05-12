@@ -1,0 +1,972 @@
+New York,New York,New York,36081,Queens,40.6943,-73.9249,18908608,11080.3,shape,false,true,America/New_York,1,11229 11228 11226 11225 11224 11222 11221 11220 11385 10169 10168 10167 10165 10162 10282 10280 10040 10044 11109 11102 11103 11106 11104 11697 11694 11692 11693 11691 10271 10279 10278 10075 11249 10452 11451 10475 10474 10471 10470 10473 10472 11223 10103 11368 11369 11366 11367 11364 11365 11362 11363 11360 11361 10028 10029 10026 10027 10024 10025 10022 10023 10020 10021 11212 11213 11210 11211 11216 11217 11214 11215 11218 11219 10152 10153 10154 10310 10311 10312 10314 11439 11432 11433 11430 11436 11434 11435 10453 10451 10457 10456 10455 10454 10459 10458 10128 10004 10005 10006 10007 10001 10002 10003 10009 11238 11239 11230 11231 11232 11233 11234 11235 11236 11237 11379 11378 11375 11374 11377 11371 11370 11373 11372 10170 10171 10172 10173 10174 10177 11356 10039 10038 10035 10034 10037 10036 10031 10030 10033 10032 11201 11209 11203 11205 11204 11207 11206 11208 11411 11412 11413 11414 11415 11416 11417 11418 11419 11101 11105 11001 11005 11004 10065 10069 10199 10309 10308 10307 10306 10305 10304 10303 10302 10301 11429 11428 11421 11420 11423 11422 11424 11427 11426 10466 10467 10464 10465 10462 10463 10460 10461 10468 10469 10119 10115 10112 10110 10111 11359 11358 11357 11355 11354 10019 10018 10013 10012 10011 10010 10017 10016 10014 10008 10041 10043 10055 10060 10081 10087 10090 10101 10102 10104 10105 10106 10107 10108 10109 10113 10114 10116 10117 10118 10120 10121 10122 10123 10124 10125 10126 10129 10130 10131 10132 10133 10138 10150 10151 10155 10156 10157 10158 10159 10160 10163 10164 10166 10175 10176 10178 10179 10185 10203 10211 10212 10213 10242 10249 10256 10258 10259 10260 10261 10265 10268 10269 10270 10272 10273 10274 10275 10276 10277 10281 10285 10286 10313 11120 11202 11241 11242 11243 11245 11247 11251 11252 11256 11351 11352 11380 11386 11405 11425 11431 11437 11499 11690 11695,1840034016
+Brooklyn,Brooklyn,New York,36047,Kings,40.6501,-73.9496,2736074,15200.5,point,false,true,America/New_York,1,11229 11226 11225 11224 11223 11221 11220 11249 11228 11222 11212 11213 11210 11211 11216 11217 11214 11215 11218 11219 11238 11239 11230 11231 11232 11233 11234 11235 11236 11237 11208 11201 11203 11205 11204 11207 11206 11209 11202 11241 11242 11243 11245 11247 11251 11252 11256,1840034030
+Queens,Queens,New York,36081,Queens,40.7498,-73.7976,2405464,8503.7,point,false,true,America/New_York,1,11385 11109 11102 11103 11106 11104 11379 11378 11377 11697 11694 11692 11693 11691 11451 11368 11369 11366 11367 11364 11365 11362 11363 11360 11361 11429 11439 11432 11433 11430 11436 11434 11435 11375 11374 11371 11370 11373 11372 11411 11412 11413 11414 11415 11416 11417 11418 11419 11101 11105 11001 11005 11004 11428 11421 11420 11423 11422 11424 11427 11426 11359 11358 11357 11356 11355 11354 11120 11351 11352 11380 11386 11405 11425 11431 11437 11499 11690 11695,1840034002
+Manhattan,Manhattan,New York,36061,New York,40.7834,-73.9662,1694263,28653.9,point,false,true,America/New_York,1,10169 10168 10167 10165 10162 10282 10280 10040 10044 10271 10279 10278 10075 10103 10028 10029 10026 10027 10024 10025 10022 10023 10020 10021 10152 10153 10154 10128 10004 10005 10006 10007 10001 10002 10003 10009 10170 10171 10172 10173 10174 10177 10039 10038 10035 10034 10037 10036 10031 10030 10033 10032 10065 10069 10199 10119 10115 10112 10110 10111 10019 10018 10013 10012 10011 10010 10017 10016 10014 10008 10041 10043 10055 10060 10081 10087 10090 10101 10102 10104 10105 10106 10107 10108 10109 10113 10114 10116 10117 10118 10120 10121 10122 10123 10124 10125 10126 10129 10130 10131 10132 10133 10138 10150 10151 10155 10156 10157 10158 10159 10160 10163 10164 10166 10175 10176 10178 10179 10185 10203 10211 10212 10213 10242 10249 10256 10258 10259 10260 10261 10265 10268 10269 10270 10273 10274 10275 10276 10277 10281 10285 10286,1840034000
+Bronx,Bronx,New York,36005,Bronx,40.8501,-73.8662,1472654,13356.3,point,false,true,America/New_York,1,10452 10475 10474 10471 10470 10473 10472 10453 10451 10457 10456 10455 10454 10459 10458 11370 10466 10467 10464 10465 10462 10463 10460 10461 10468 10469,1840033999
+Buffalo,Buffalo,New York,36029,Erie,42.9018,-78.8487,944589,2645.7,shape,false,true,America/New_York,2,14208 14209 14202 14203 14201 14206 14207 14204 14220 14222 14211 14210 14213 14212 14215 14214 14216 14205 14233 14240 14263 14264 14267 14269 14270 14272 14273 14276 14280,1840000386
+Rochester,Rochester,New York,36055,Monroe,43.168,-77.6162,699921,2278.0,shape,false,true,America/New_York,2,14608 14609 14606 14607 14604 14605 14627 14620 14621 14619 14615 14614 14617 14611 14610 14613 14612 14642 14602 14603 14638 14639 14643 14644 14646 14647 14649 14650 14651 14653,1840000373
+Albany,Albany,New York,36001,Albany,42.6664,-73.7987,590694,1798.3,shape,false,true,America/New_York,2,12208 12209 12204 12206 12207 12202 12203 12205 12210 12226 12222 12201 12223 12228 12229 12230 12231 12232 12233 12234 12235 12236 12237 12238 12239 12240 12241 12242 12243 12244 12245 12246 12248 12250 12255 12257 12260 12261,1840000417
+Staten Island,Staten Island,New York,36085,Richmond,40.5834,-74.1496,495747,3286.2,point,false,true,America/New_York,2,10303 10302 10301 10307 10306 10305 10310 10311 10312 10314 10309 10308 10304 10313,1840034032
+Syracuse,Syracuse,New York,36067,Onondaga,43.0407,-76.1437,410732,2251.6,shape,false,true,America/New_York,2,13210 13214 13290 13224 13207 13206 13205 13204 13203 13202 13208 13244 13201 13217 13218 13221 13235 13252 13261,1840000378
+Poughkeepsie,Poughkeepsie,New York,36027,Dutchess,41.695,-73.9211,314159,2380.4,shape,false,true,America/New_York,2,12601 12603 12602,1840000500
+Yonkers,Yonkers,New York,36119,Westchester,40.9466,-73.8673,209780,4498.4,shape,false,true,America/New_York,2,10708 10703 10701 10707 10705 10704 10710 10702,1840003478
+Binghamton,Binghamton,New York,36007,Broome,42.1014,-75.9093,156375,1754.4,shape,false,true,America/New_York,2,13904 13905 13901 13903,1840000460
+Utica,Utica,New York,36065,Oneida,43.0962,-75.2261,116766,1494.5,shape,false,true,America/New_York,2,13501 13502 13503 13504 13505 13599,1840002746
+New Rochelle,New Rochelle,New York,36119,Westchester,40.9304,-73.7836,80828,3034.0,shape,false,true,America/New_York,2,10801 10804 10805 10802,1840000782
+Saratoga Springs,Saratoga Springs,New York,36091,Saratoga,43.0674,-73.7775,74339,392.2,shape,false,true,America/New_York,3,12866,1840000369
+Glens Falls,Glens Falls,New York,36113,Warren,43.3109,-73.6458,73424,1478.2,shape,false,true,America/New_York,3,12801,1840000345
+Mount Vernon,Mount Vernon,New York,36119,Westchester,40.9136,-73.8291,72817,6401.2,shape,false,true,America/New_York,2,10552 10553 10550 10551,1840000781
+Schenectady,Schenectady,New York,36093,Schenectady,42.8025,-73.9275,68476,2446.3,shape,false,true,America/New_York,2,12305 12304 12307 12309 12308 12301 12325 12345,1840000395
+Brentwood,Brentwood,New York,36103,Suffolk,40.7839,-73.2522,65042,2293.4,shape,false,false,America/New_York,2,11717,1840005021
+White Plains,White Plains,New York,36119,Westchester,41.022,-73.7547,59421,2356.3,shape,false,true,America/New_York,2,10603 10601 10605 10606 10604 10602,1840003477
+Troy,Troy,New York,36083,Rensselaer,42.7354,-73.6751,51268,1911.2,shape,false,true,America/New_York,3,12182 12180 12181,1840003087
+Levittown,Levittown,New York,36059,Nassau,40.7241,-73.5125,50804,2879.4,shape,false,false,America/New_York,2,11714 11756 11783,1840005270
+Niagara Falls,Niagara Falls,New York,36063,Niagara,43.0921,-79.0147,48502,1329.5,shape,false,true,America/Toronto,3,14303 14302 14301 14305 14304,1840000371
+Freeport,Freeport,New York,36059,Nassau,40.6515,-73.585,44210,3728.5,shape,false,true,America/New_York,2,11520,1840005288
+Hicksville,Hicksville,New York,36059,Nassau,40.7637,-73.5245,44084,2506.0,shape,false,false,America/New_York,2,11801 11802 11815,1840005266
+West Babylon,West Babylon,New York,36103,Suffolk,40.7129,-73.3585,42783,1953.7,shape,false,false,America/New_York,3,11704,1840005109
+Coram,Coram,New York,36103,Suffolk,40.8812,-73.0059,42169,1177.6,shape,false,false,America/New_York,3,11727 11776 11784,1840005032
+Valley Stream,Valley Stream,New York,36059,Nassau,40.6647,-73.7043,40288,4472.7,shape,false,true,America/New_York,2,11580 11581 11582,1840005331
+Elmont,Elmont,New York,36059,Nassau,40.7033,-73.7078,37866,4287.8,shape,false,false,America/New_York,2,11003,1840005226
+East Meadow,East Meadow,New York,36059,Nassau,40.7197,-73.5604,36856,2257.7,shape,false,false,America/New_York,2,11554,1840005236
+Central Islip,Central Islip,New York,36103,Suffolk,40.7836,-73.1945,36519,1970.7,shape,false,false,America/New_York,3,11722 11752,1840005028
+Commack,Commack,New York,36103,Suffolk,40.8435,-73.2833,35770,1127.6,shape,false,false,America/New_York,3,11725 11731,1840005030
+Long Beach,Long Beach,New York,36059,Nassau,40.5887,-73.666,34734,6047.3,shape,false,true,America/New_York,2,11561,1840000988
+Huntington Station,Huntington Station,New York,36103,Suffolk,40.8446,-73.405,34588,2438.9,shape,false,false,America/New_York,2,11746,1840005081
+Kiryas Joel,Kiryas Joel,New York,36071,Orange,41.3411,-74.1667,34368,9077.9,shape,false,true,America/New_York,2,10950,1840004872
+New City,New City,New York,36087,Rockland,41.1542,-73.9912,33837,844.9,shape,false,false,America/New_York,3,10956,1840004964
+Baldwin,Baldwin,New York,36059,Nassau,40.6511,-73.6075,33776,3170.0,shape,false,false,America/New_York,2,11510,1840005228
+Uniondale,Uniondale,New York,36059,Nassau,40.7176,-73.5947,33192,2243.9,shape,false,false,America/New_York,2,11549 11530 11553 11556 11590 11555,1840005279
+Spring Valley,Spring Valley,New York,36087,Rockland,41.1151,-74.0486,32963,6337.8,shape,false,true,America/New_York,2,10952 10977,1840004986
+Rome,Rome,New York,36065,Oneida,43.226,-75.4909,32031,165.2,shape,false,true,America/New_York,3,13441 13440 13308 13442 13449,1840000349
+Franklin Square,Franklin Square,New York,36059,Nassau,40.7002,-73.6775,31969,4286.0,shape,false,false,America/New_York,2,11010,1840005256
+Centereach,Centereach,New York,36103,Suffolk,40.8681,-73.0821,31889,1380.7,shape,false,false,America/New_York,3,11720,1840005026
+Oceanside,Oceanside,New York,36059,Nassau,40.6328,-73.6364,31488,2466.1,shape,false,false,America/New_York,2,11572,1840005246
+Ithaca,Ithaca,New York,36109,Tompkins,42.4442,-76.5032,31359,2246.8,shape,false,true,America/New_York,2,14853 14850 14851,1840000442
+Port Chester,Port Chester,New York,36119,Westchester,41.0051,-73.668,31288,5188.8,shape,false,true,America/New_York,2,10573,1840004941
+Bay Shore,Bay Shore,New York,36103,Suffolk,40.7288,-73.2495,30553,2077.5,shape,false,false,America/New_York,2,11706,1840005017
+North Tonawanda,North Tonawanda,New York,36063,Niagara,43.0457,-78.8659,30479,1166.0,shape,false,true,America/New_York,3,14120,1840000372
+Middletown,Middletown,New York,36071,Orange,41.4459,-74.4236,30169,2195.5,shape,false,true,America/New_York,2,10940,1840000585
+Harrison,Harrison,New York,36119,Westchester,41.0236,-73.7193,28721,661.4,shape,false,true,America/New_York,3,10580 10577 10604 10528,1840004931
+Jamestown,Jamestown,New York,36013,Chautauqua,42.0976,-79.2367,28679,1244.2,shape,false,true,America/New_York,3,14701 14702,1840000446
+Monsey,Monsey,New York,36087,Rockland,41.1181,-74.0682,28287,4763.8,shape,false,false,America/New_York,2,10952 10977,1840004961
+Glen Cove,Glen Cove,New York,36059,Nassau,40.8709,-73.6287,28132,1631.4,shape,false,true,America/New_York,3,11542,1840000987
+Deer Park,Deer Park,New York,36103,Suffolk,40.7623,-73.3218,27304,1709.0,shape,false,false,America/New_York,3,11729,1840005034
+Holbrook,Holbrook,New York,36103,Suffolk,40.7944,-73.07,27220,1526.9,shape,false,false,America/New_York,3,11741,1840005078
+West Islip,West Islip,New York,36103,Suffolk,40.7041,-73.2954,27192,1722.9,shape,false,false,America/New_York,3,11795,1840005111
+Lindenhurst,Lindenhurst,New York,36103,Suffolk,40.6858,-73.371,27139,2796.6,shape,false,true,America/New_York,2,11757,1840005122
+Auburn,Auburn,New York,36011,Cayuga,42.9338,-76.5685,26674,1235.6,shape,false,true,America/New_York,3,13021 13024 13022,1840000367
+Plainview,Plainview,New York,36059,Nassau,40.7832,-73.4732,26620,1795.6,shape,false,false,America/New_York,3,11803,1840005250
+Shirley,Shirley,New York,36103,Suffolk,40.7936,-72.8748,26498,904.3,shape,false,false,America/New_York,3,11967,1840005097
+Elmira,Elmira,New York,36015,Chemung,42.0938,-76.8097,26494,1410.5,shape,false,true,America/New_York,3,14901 14905 14904 14902,1840000472
+Rockville Centre,Rockville Centre,New York,36059,Nassau,40.6643,-73.6383,25784,3062.3,shape,false,true,America/New_York,2,11570 11571,1840005320
+Peekskill,Peekskill,New York,36119,Westchester,41.2884,-73.9227,25401,2257.6,shape,false,true,America/New_York,2,10566,1840000783
+Watertown,Watertown,New York,36045,Jefferson,43.9734,-75.9094,24859,1062.6,shape,false,true,America/New_York,3,13601,1840002200
+Medford,Medford,New York,36103,Suffolk,40.822,-72.9859,24738,884.5,shape,false,false,America/New_York,3,11763,1840005043
+Dix Hills,Dix Hills,New York,36103,Suffolk,40.8033,-73.3375,24652,604.4,shape,false,false,America/New_York,3,11746,1840005035
+Kingston,Kingston,New York,36111,Ulster,41.9295,-73.9968,24018,1239.4,shape,false,true,America/New_York,3,12401 12402,1840000493
+Copiague,Copiague,New York,36103,Suffolk,40.6707,-73.3922,23442,2927.0,shape,false,false,America/New_York,2,11726 11757 11701,1840005031
+Garden City,Garden City,New York,36059,Nassau,40.7266,-73.6447,22871,1657.3,shape,false,true,America/New_York,3,11530 11531 11599,1840005289
+Massapequa,Massapequa,New York,36059,Nassau,40.6676,-73.4706,21845,2370.1,shape,false,false,America/New_York,2,11758,1840005274
+Selden,Selden,New York,36103,Suffolk,40.8714,-73.0466,21759,1846.8,shape,false,false,America/New_York,3,11784,1840005093
+East Patchogue,East Patchogue,New York,36103,Suffolk,40.7704,-72.9817,21449,995.6,shape,false,false,America/New_York,3,11772,1840005040
+North Bellmore,North Bellmore,New York,36059,Nassau,40.6904,-73.539,21070,3104.7,shape,false,false,America/New_York,2,11710,1840005240
+Merrick,Merrick,New York,36059,Nassau,40.6515,-73.5535,21004,2037.0,shape,false,false,America/New_York,2,11566 11520,1840005238
+Mineola,Mineola,New York,36059,Nassau,40.747,-73.6394,20940,4367.6,shape,false,true,America/New_York,2,11501,1840005310
+Lockport,Lockport,New York,36063,Niagara,43.1698,-78.6956,20808,956.5,shape,false,true,America/New_York,3,14094 14095,1840000370
+Nanuet,Nanuet,New York,36087,Rockland,41.0957,-74.0155,20586,1462.5,shape,false,false,America/New_York,3,10954,1840004963
+Hauppauge,Hauppauge,New York,36103,Suffolk,40.8211,-73.2109,20401,771.8,shape,false,false,America/New_York,3,11787 11788 11760,1840005077
+West Hempstead,West Hempstead,New York,36059,Nassau,40.6959,-73.6507,20393,2962.5,shape,false,false,America/New_York,2,11552,1840005282
+North Amityville,North Amityville,New York,36103,Suffolk,40.7005,-73.4119,20336,3331.7,shape,false,false,America/New_York,2,11726 11701,1840005053
+Lynbrook,Lynbrook,New York,36059,Nassau,40.6579,-73.6742,20299,3893.8,shape,false,true,America/New_York,2,11563,1840005304
+East Northport,East Northport,New York,36103,Suffolk,40.8791,-73.3233,20287,1519.5,shape,false,false,America/New_York,3,11768 11731,1840005039
+Plattsburgh,Plattsburgh,New York,36019,Clinton,44.6951,-73.4563,19907,1525.5,shape,false,true,America/New_York,3,12903 12901,1840000296
+Lackawanna,Lackawanna,New York,36029,Erie,42.8182,-78.8325,19762,1165.3,shape,false,true,America/New_York,3,14218,1840000387
+Holtsville,Holtsville,New York,36103,Suffolk,40.8124,-73.0447,19597,1064.4,shape,false,false,America/New_York,3,11742 00501 00544,1840005079
+East Massapequa,East Massapequa,New York,36059,Nassau,40.6742,-73.4359,19508,2229.1,shape,false,false,America/New_York,2,11762 11758,1840034047
+Roosevelt,Roosevelt,New York,36059,Nassau,40.6797,-73.5837,19233,4194.8,shape,false,false,America/New_York,2,11575,1840005253
+North Valley Stream,North Valley Stream,New York,36059,Nassau,40.684,-73.7077,19016,3937.3,shape,false,false,America/New_York,2,11580 11003,1840005244
+Ronkonkoma,Ronkonkoma,New York,36103,Suffolk,40.8037,-73.1246,18838,897.1,shape,false,false,America/New_York,3,11779,1840005071
+Syosset,Syosset,New York,36059,Nassau,40.8157,-73.502,18807,1459.6,shape,false,false,America/New_York,3,11791 11773,1840005278
+Melville,Melville,New York,36103,Suffolk,40.7824,-73.4088,18526,590.6,shape,false,false,America/New_York,3,11747 11775,1840005044
+North Babylon,North Babylon,New York,36103,Suffolk,40.7314,-73.3248,18393,2154.0,shape,false,false,America/New_York,2,11703,1840005054
+North Bay Shore,North Bay Shore,New York,36103,Suffolk,40.7602,-73.2617,18392,2221.3,shape,false,true,America/New_York,2,11706,1840005055
+Lake Ronkonkoma,Lake Ronkonkoma,New York,36103,Suffolk,40.8297,-73.1128,18339,1560.8,shape,false,false,America/New_York,3,11767 11779,1840005086
+Amsterdam,Amsterdam,New York,36057,Montgomery,42.942,-74.1906,18244,1199.5,shape,false,true,America/New_York,3,12010,1840000391
+North Massapequa,North Massapequa,New York,36059,Nassau,40.7031,-73.4678,18198,2346.7,shape,false,false,America/New_York,2,11758,1840005241
+Scarsdale,Scarsdale,New York,36119,Westchester,40.9902,-73.7773,18061,1044.7,shape,false,true,America/New_York,3,10583,1840004943
+Wantagh,Wantagh,New York,36059,Nassau,40.6686,-73.5104,17995,1814.2,shape,false,false,America/New_York,3,11793,1840005281
+Cohoes,Cohoes,New York,36001,Albany,42.7732,-73.7077,17960,1838.0,shape,false,true,America/New_York,3,12047,1840000418
+Woodmere,Woodmere,New York,36059,Nassau,40.6375,-73.7219,17632,2638.1,shape,false,false,America/New_York,2,11516 11581 11598,1840005284
+Cortland,Cortland,New York,36023,Cortland,42.6004,-76.1784,17574,1742.5,shape,false,true,America/New_York,3,13045,1840000419
+Bethpage,Bethpage,New York,36059,Nassau,40.7495,-73.4856,17281,1865.9,shape,false,false,America/New_York,3,11714,1840005233
+Oswego,Oswego,New York,36075,Oswego,43.4516,-76.5005,17092,866.7,shape,false,true,America/New_York,3,13126,1840000348
+Massapequa Park,Massapequa Park,New York,36059,Nassau,40.6817,-73.4496,17045,3002.5,shape,false,true,America/New_York,2,11762,1840005307
+Port Washington,Port Washington,New York,36059,Nassau,40.8268,-73.6765,17015,1563.8,shape,false,false,America/New_York,3,11050 11051 11054,1840005252
+Hampton Bays,Hampton Bays,New York,36103,Suffolk,40.8695,-72.5225,16939,505.6,shape,false,false,America/New_York,3,11946,1840005076
+Farmingville,Farmingville,New York,36103,Suffolk,40.839,-73.0404,16889,1557.1,shape,false,false,America/New_York,3,11738,1840005009
+Kings Park,Kings Park,New York,36103,Suffolk,40.8881,-73.2475,16730,968.2,shape,false,false,America/New_York,3,11754,1840005085
+Pearl River,Pearl River,New York,36087,Rockland,41.0615,-74.0047,16426,933.6,shape,false,false,America/New_York,3,10965 10962,1840004966
+Fort Drum,Fort Drum,New York,36045,Jefferson,44.045,-75.7845,16298,438.8,shape,true,true,America/New_York,3,13603 13602,1840073579
+Mastic Beach,Mastic Beach,New York,36103,Suffolk,40.7664,-72.8369,16189,1276.0,shape,false,false,America/New_York,3,11951,1840005089
+Sayville,Sayville,New York,36103,Suffolk,40.7478,-73.084,16145,1173.3,shape,false,false,America/New_York,3,11782,1840005092
+Bellmore,Bellmore,New York,36059,Nassau,40.6569,-73.5285,15937,2608.1,shape,false,false,America/New_York,2,11710,1840005232
+Floral Park,Floral Park,New York,36059,Nassau,40.7227,-73.7029,15892,4318.1,shape,false,true,America/New_York,2,11001 11002,1840005286
+Seaford,Seaford,New York,36059,Nassau,40.6678,-73.4922,15853,2345.4,shape,false,false,America/New_York,2,11783,1840005275
+Westbury,Westbury,New York,36059,Nassau,40.7599,-73.5891,15788,2601.1,shape,false,true,America/New_York,2,11590,1840005332
+Batavia,Batavia,New York,36037,Genesee,42.9987,-78.1802,15510,1152.6,shape,false,true,America/New_York,3,14020,1840000385
+Johnson City,Johnson City,New York,36007,Broome,42.123,-75.9624,15229,1291.7,shape,false,true,America/New_York,3,13790,1840004658
+Greenlawn,Greenlawn,New York,36103,Suffolk,40.8632,-73.3646,15169,1530.9,shape,false,false,America/New_York,3,11740 11743,1840005074
+Kenmore,Kenmore,New York,36029,Erie,42.9646,-78.8713,15155,4075.3,shape,false,true,America/New_York,2,14217,1840004386
+Depew,Depew,New York,36029,Erie,42.9118,-78.7043,15141,1151.6,shape,false,true,America/New_York,3,14043,1840004397
+New Cassel,New Cassel,New York,36059,Nassau,40.7602,-73.5649,15127,3911.1,shape,false,false,America/New_York,2,11590,1840005239
+Gloversville,Gloversville,New York,36035,Fulton,43.0491,-74.3465,15113,1156.4,shape,false,true,America/New_York,3,12078,1840000375
+Tonawanda,Tonawanda,New York,36029,Erie,43.0105,-78.8805,15096,1532.5,shape,false,true,America/New_York,3,14150 14151,1840004381
+Eggertsville,Eggertsville,New York,36029,Erie,42.9665,-78.8065,15076,2034.9,shape,false,false,America/New_York,2,14226,1840024061
+South Farmingdale,South Farmingdale,New York,36059,Nassau,40.7175,-73.4473,15028,2646.1,shape,false,false,America/New_York,2,11735,1840005276
+Mastic,Mastic,New York,36103,Suffolk,40.8096,-72.8479,14968,1497.0,shape,false,false,America/New_York,3,11950 11949,1840005090
+North New Hyde Park,North New Hyde Park,New York,36059,Nassau,40.746,-73.6876,14652,2841.1,shape,false,false,America/New_York,2,11042 11040,1840005243
+Jericho,Jericho,New York,36059,Nassau,40.7875,-73.5416,14281,1391.7,shape,false,false,America/New_York,3,11753 11853,1840005268
+Oneonta,Oneonta,New York,36077,Otsego,42.4551,-75.0666,14097,1248.0,shape,false,true,America/New_York,3,13820,1840000405
+Jefferson Valley-Yorktown,Jefferson Valley-Yorktown,New York,36119,Westchester,41.318,-73.8008,14072,780.8,shape,false,true,America/New_York,3,10598 10535 10588,1840073699
+Olean,Olean,New York,36009,Cattaraugus,42.0819,-78.4321,13890,909.0,shape,false,true,America/New_York,3,14760,1840000452
+Beacon,Beacon,New York,36027,Dutchess,41.5036,-73.9655,13876,1130.5,shape,false,true,America/New_York,3,12508,1840000499
+St. James,St. James,New York,36103,Suffolk,40.8761,-73.1521,13733,1161.8,shape,false,false,America/New_York,3,11780,1840005103
+Rocky Point,Rocky Point,New York,36103,Suffolk,40.9357,-72.9364,13716,467.8,shape,false,false,America/New_York,3,11764 11778,1840005070
+Latham,Latham,New York,36001,Albany,42.7427,-73.7497,13660,912.2,shape,false,false,America/New_York,3,12189 12110,1840033905
+Wyandanch,Wyandanch,New York,36103,Suffolk,40.7496,-73.3633,13601,2419.9,shape,false,false,America/New_York,2,11798,1840005115
+East Islip,East Islip,New York,36103,Suffolk,40.7257,-73.1869,13576,1326.7,shape,false,false,America/New_York,3,11730,1840005036
+Nesconset,Nesconset,New York,36103,Suffolk,40.8467,-73.1522,13549,1368.9,shape,false,false,America/New_York,3,11767 11787,1840005051
+Endicott,Endicott,New York,36007,Broome,42.098,-76.0639,13540,1636.8,shape,false,true,America/New_York,3,13760 13737 13761 13763,1840004664
+Ridge,Ridge,New York,36103,Suffolk,40.9068,-72.8816,12987,380.1,shape,false,false,America/New_York,3,11961,1840005068
+Salisbury,Salisbury,New York,36059,Nassau,40.7454,-73.5604,12861,2845.2,shape,false,false,America/New_York,2,11590,1840005255
+Manorville,Manorville,New York,36103,Suffolk,40.8574,-72.7915,12681,192.5,shape,false,false,America/New_York,3,11949,1840005088
+Geneva,Geneva,New York,36069,Ontario,42.8645,-76.9826,12670,1160.8,shape,false,true,America/New_York,3,14456,1840000393
+Dunkirk,Dunkirk,New York,36013,Chautauqua,42.4801,-79.3324,12668,1076.2,shape,false,true,America/New_York,3,14048,1840000445
+Stony Brook,Stony Brook,New York,36103,Suffolk,40.9061,-73.1278,12501,828.9,shape,false,false,America/New_York,3,11790,1840005104
+Patchogue,Patchogue,New York,36103,Suffolk,40.7621,-73.0185,12343,2108.4,shape,false,true,America/New_York,2,11772,1840005129
+North Merrick,North Merrick,New York,36059,Nassau,40.6871,-73.5615,12192,2738.6,shape,false,false,America/New_York,2,11566,1840005242
+Miller Place,Miller Place,New York,36103,Suffolk,40.9374,-72.9864,11848,698.5,shape,false,false,America/New_York,3,11764,1840005046
+Endwell,Endwell,New York,36007,Broome,42.1184,-76.0219,11826,1219.7,shape,false,false,America/New_York,3,13760 13762,1840004657
+Tarrytown,Tarrytown,New York,36119,Westchester,41.0647,-73.8672,11776,1548.8,shape,false,true,America/New_York,3,10591,1840004945
+Mount Sinai,Mount Sinai,New York,36103,Suffolk,40.9372,-73.0179,11641,749.2,shape,false,false,America/New_York,3,11766,1840005049
+Roessleville,Roessleville,New York,36001,Albany,42.6969,-73.7964,11583,1110.7,shape,false,false,America/New_York,3,12205 12211,1840033946
+East Glenville,East Glenville,New York,36093,Schenectady,42.8648,-73.9256,11477,440.5,shape,false,false,America/New_York,3,12008 12302,1840004444
+North Wantagh,North Wantagh,New York,36059,Nassau,40.6983,-73.5086,11444,2321.5,shape,false,false,America/New_York,2,11793 11783,1840005245
+Dobbs Ferry,Dobbs Ferry,New York,36119,Westchester,41.0127,-73.8697,11431,1821.7,shape,false,true,America/New_York,3,10522,1840004952
+Fulton,Fulton,New York,36075,Oswego,43.3171,-76.4167,11381,1120.1,shape,false,true,America/New_York,3,13069,1840000347
+Suffern,Suffern,New York,36087,Rockland,41.1138,-74.1422,11376,2094.5,shape,false,true,America/New_York,2,10901,1840004987
+Woodbury,Woodbury,New York,36071,Orange,41.3284,-74.1004,11371,123.5,shape,false,true,America/New_York,3,10917 10926 10930,1840004883
+De Witt,De Witt,New York,36067,Onondaga,43.03,-76.0819,11261,670.4,shape,false,false,America/New_York,3,13214 13224 13078,1840153011
+Inwood,Inwood,New York,36059,Nassau,40.6219,-73.7506,11156,2700.7,shape,false,false,America/New_York,2,11559 11096,1840005267
+North Lindenhurst,North Lindenhurst,New York,36103,Suffolk,40.7072,-73.3859,11155,2231.0,shape,false,false,America/New_York,2,11757 11701,1840005058
+Elwood,Elwood,New York,36103,Suffolk,40.8462,-73.3389,11124,898.4,shape,false,false,America/New_York,3,11743 11731,1840005008
+Lake Grove,Lake Grove,New York,36103,Suffolk,40.8586,-73.1168,11066,1450.1,shape,false,true,America/New_York,3,11755,1840005121
+Great Neck,Great Neck,New York,36059,Nassau,40.8029,-73.7333,11060,3224.4,shape,false,true,America/New_York,2,11024 11023 11027,1840005290
+Terryville,Terryville,New York,36103,Suffolk,40.9093,-73.0486,10890,1332.8,shape,false,false,America/New_York,3,11776,1840005105
+Mount Kisco,Mount Kisco,New York,36119,Westchester,41.2016,-73.7281,10835,1375.5,shape,false,true,America/New_York,3,10549,1840004936
+Middle Island,Middle Island,New York,36103,Suffolk,40.8857,-72.9454,10731,504.1,shape,false,false,America/New_York,3,11953,1840005045
+Corning,Corning,New York,36101,Steuben,42.147,-77.0561,10685,1337.8,shape,false,true,America/New_York,3,14830 14831,1840000443
+Myers Corner,Myers Corner,New York,36027,Dutchess,41.5864,-73.8793,10653,481.6,shape,false,false,America/New_York,3,12590 12524,1840004742
+West Haverstraw,West Haverstraw,New York,36087,Rockland,41.2063,-73.9884,10649,2708.1,shape,false,true,America/New_York,2,10993 10923,1840004990
+North Bellport,North Bellport,New York,36103,Suffolk,40.7868,-72.9457,10530,828.2,shape,false,false,America/New_York,3,11713 11772,1840005056
+Sleepy Hollow,Sleepy Hollow,New York,36119,Westchester,41.0936,-73.8722,10396,1789.4,shape,false,true,America/New_York,3,10591,1840004944
+Scotchtown,Scotchtown,New York,36071,Orange,41.4765,-74.3668,10353,826.4,shape,false,false,America/New_York,3,10941,1840004862
+Chestnut Ridge,Chestnut Ridge,New York,36087,Rockland,41.0829,-74.0551,10339,806.2,shape,false,true,America/New_York,3,10952 10977,1840004992
+Oneida,Oneida,New York,36053,Madison,43.0769,-75.6622,10326,180.8,shape,false,true,America/New_York,3,13421,1840000384
+Watervliet,Watervliet,New York,36001,Albany,42.7243,-73.7068,10325,2971.2,shape,false,true,America/New_York,2,12189,1840002495
+South Huntington,South Huntington,New York,36103,Suffolk,40.8225,-73.3921,10307,1165.2,shape,false,false,America/New_York,3,11746,1840005100
+New Hyde Park,New Hyde Park,New York,36059,Nassau,40.7323,-73.6858,10235,4661.4,shape,false,true,America/New_York,2,11040,1840005313
+East Setauket,East Setauket,New York,36103,Suffolk,40.921,-73.0942,10234,656.2,shape,false,false,America/New_York,3,11733,1840033876
+North Gates,North Gates,New York,36055,Monroe,43.1718,-77.7064,10138,1471.2,shape,false,false,America/New_York,3,14606,1840024047
+East Rockaway,East Rockaway,New York,36059,Nassau,40.6432,-73.6672,10070,3819.2,shape,false,true,America/New_York,2,11518,1840005343
+Orange Lake,Orange Lake,New York,36071,Orange,41.5369,-74.1005,10060,444.8,shape,false,false,America/New_York,3,12586 12550,1840004859
+Airmont,Airmont,New York,36087,Rockland,41.0992,-74.0989,10020,847.4,shape,false,true,America/New_York,3,10901 10952 10982,1840004991
+Fairmount,Fairmount,New York,36067,Onondaga,43.0414,-76.2485,9978,1144.9,shape,false,false,America/New_York,3,13031 13219,1840000377
+Rye Brook,Rye Brook,New York,36119,Westchester,41.0302,-73.6864,9920,1117.2,shape,false,true,America/New_York,3,10573 10604,1840004942
+Ogdensburg,Ogdensburg,New York,36089,St. Lawrence,44.7088,-75.4717,9902,771.5,shape,false,true,America/Toronto,3,13669,1840000297
+Fort Salonga,Fort Salonga,New York,36103,Suffolk,40.9068,-73.2996,9836,400.2,shape,false,false,America/New_York,3,11768,1840005013
+Loudonville,Loudonville,New York,36001,Albany,42.7068,-73.7665,9826,764.3,shape,false,false,America/New_York,3,12211,1840033911
+Fredonia,Fredonia,New York,36013,Chautauqua,42.4407,-79.3319,9710,729.9,shape,false,true,America/New_York,3,14063,1840004566
+Greenville,Greenville,New York,36119,Westchester,40.9986,-73.8189,9585,1415.0,shape,false,false,America/New_York,3,10583 10530,1840133415
+New Square,New Square,New York,36087,Rockland,41.141,-74.0294,9578,6799.8,shape,false,true,America/New_York,2,10977,1840004980
+West Glens Falls,West Glens Falls,New York,36113,Warren,43.3057,-73.6964,9565,555.5,shape,false,false,America/New_York,3,12804,1840004184
+Bohemia,Bohemia,New York,36103,Suffolk,40.7717,-73.1271,9534,427.8,shape,false,false,America/New_York,3,11716,1840005020
+Amityville,Amityville,New York,36103,Suffolk,40.6696,-73.4156,9507,1785.7,shape,false,true,America/New_York,3,11701,1840005140
+Rensselaer,Rensselaer,New York,36083,Rensselaer,42.6465,-73.7328,9252,1123.9,shape,false,true,America/New_York,3,12144,1840000394
+Woodbury,Woodbury,New York,36059,Nassau,40.8176,-73.4703,9169,707.0,shape,false,false,America/New_York,3,11797,1840150821
+Springs,Springs,New York,36103,Suffolk,41.0212,-72.1584,9162,417.2,shape,false,false,America/New_York,3,11937,1840005102
+Newark,Newark,New York,36117,Wayne,43.0418,-77.093,9076,646.7,shape,false,true,America/New_York,3,14513,1840004292
+Valley Cottage,Valley Cottage,New York,36087,Rockland,41.1162,-73.9433,9069,797.4,shape,false,false,America/New_York,3,10994 10989,1840004971
+Glens Falls North,Glens Falls North,New York,36113,Warren,43.335,-73.6832,8996,414.7,shape,false,true,America/New_York,3,12804,1840073682
+Plainedge,Plainedge,New York,36059,Nassau,40.7241,-73.477,8963,2464.9,shape,false,false,America/New_York,2,11714 11735,1840005249
+Bayport,Bayport,New York,36103,Suffolk,40.7461,-73.0546,8918,921.7,shape,false,false,America/New_York,3,11705,1840005018
+Mahopac,Mahopac,New York,36079,Putnam,41.3688,-73.7414,8774,552.8,shape,false,false,America/New_York,3,10541 10542,1840004891
+Stony Brook University,Stony Brook University,New York,36103,Suffolk,40.9098,-73.1217,8755,2049.9,shape,false,true,America/New_York,2,11790 11794,1840042758
+Port Jervis,Port Jervis,New York,36071,Orange,41.3783,-74.691,8725,1331.6,shape,false,true,America/New_York,3,12771,1840000587
+Mechanicstown,Mechanicstown,New York,36071,Orange,41.4472,-74.3914,8620,993.8,shape,false,false,America/New_York,3,10940,1840004857
+Malverne,Malverne,New York,36059,Nassau,40.6746,-73.6721,8526,3111.6,shape,false,true,America/New_York,2,11565,1840005305
+Hastings-on-Hudson,Hastings-on-Hudson,New York,36119,Westchester,40.9904,-73.8799,8456,1649.8,shape,false,true,America/New_York,3,10706,1840004932
+Farmingdale,Farmingdale,New York,36059,Nassau,40.7328,-73.4468,8428,2974.0,shape,false,true,America/New_York,2,11735 11737,1840005285
+South Lockport,South Lockport,New York,36063,Niagara,43.1366,-78.6855,8403,523.5,shape,false,false,America/New_York,3,14094,1840004271
+Croton-on-Hudson,Croton-on-Hudson,New York,36119,Westchester,41.2005,-73.9001,8237,677.6,shape,false,true,America/New_York,3,10520,1840004951
+Johnstown,Johnstown,New York,36035,Fulton,43.0073,-74.3755,8216,658.1,shape,false,true,America/New_York,3,12095,1840000376
+Hornell,Hornell,New York,36101,Steuben,42.3333,-77.6633,8208,966.6,shape,false,true,America/New_York,3,14843,1840000444
+Hillcrest,Hillcrest,New York,36087,Rockland,41.1298,-74.035,8178,2419.6,shape,false,false,America/New_York,2,10977,1840004967
+Wading River,Wading River,New York,36103,Suffolk,40.9464,-72.823,8100,319.8,shape,false,false,America/New_York,3,11933 11792,1840005107
+Lake Carmel,Lake Carmel,New York,36079,Putnam,41.461,-73.6683,8089,597.8,shape,false,false,America/New_York,3,10512,1840004890
+Port Jefferson,Port Jefferson,New York,36103,Suffolk,40.9466,-73.0577,7990,1007.1,shape,false,true,America/New_York,3,11777,1840005131
+Port Jefferson Station,Port Jefferson Station,New York,36103,Suffolk,40.9259,-73.0652,7974,1165.7,shape,false,false,America/New_York,3,11776 11733,1840005066
+Center Moriches,Center Moriches,New York,36103,Suffolk,40.8004,-72.7958,7890,578.8,shape,false,false,America/New_York,3,11934,1840005025
+Congers,Congers,New York,36087,Rockland,41.1491,-73.9457,7882,955.5,shape,false,false,America/New_York,3,10989 10920,1840004960
+North Patchogue,North Patchogue,New York,36103,Suffolk,40.7833,-73.0234,7800,1526.4,shape,false,false,America/New_York,3,11772,1840005059
+Westmere,Westmere,New York,36001,Albany,42.6884,-73.8744,7798,950.0,shape,false,false,America/New_York,3,12203 12159 12214 12227,1840004489
+Garden City Park,Garden City Park,New York,36059,Nassau,40.7435,-73.6639,7775,3024.3,shape,false,false,America/New_York,2,11040,1840005257
+Baldwinsville,Baldwinsville,New York,36067,Onondaga,43.1578,-76.3325,7746,937.6,shape,false,true,America/New_York,3,13027,1840004330
+Mount Ivy,Mount Ivy,New York,36087,Rockland,41.1927,-74.0296,7730,2025.4,shape,false,false,America/New_York,2,10923 10970,1840004962
+Manhasset,Manhasset,New York,36059,Nassau,40.7884,-73.6943,7720,1249.7,shape,false,false,America/New_York,3,11030,1840005273
+Ilion,Ilion,New York,36043,Herkimer,43.0114,-75.0396,7703,1193.0,shape,false,true,America/New_York,3,13357,1840004149
+Hewlett,Hewlett,New York,36059,Nassau,40.6422,-73.6942,7590,3327.8,shape,false,false,America/New_York,2,11563 11557,1840005265
+Williston Park,Williston Park,New York,36059,Nassau,40.7587,-73.6465,7543,4650.5,shape,false,true,America/New_York,2,11596,1840005333
+Great Neck Plaza,Great Neck Plaza,New York,36059,Nassau,40.7869,-73.7262,7443,5918.8,shape,false,true,America/New_York,2,11021,1840005292
+Pleasantville,Pleasantville,New York,36119,Westchester,41.1377,-73.7828,7430,1548.3,shape,false,true,America/New_York,3,10570,1840004940
+Hudson Falls,Hudson Falls,New York,36115,Washington,43.3042,-73.5819,7426,1540.3,shape,false,true,America/New_York,3,12839,1840004178
+Briarcliff Manor,Briarcliff Manor,New York,36119,Westchester,41.14,-73.8438,7395,476.2,shape,false,true,America/New_York,3,10510,1840004948
+Viola,Viola,New York,36087,Rockland,41.1288,-74.0855,7385,1031.5,shape,false,false,America/New_York,3,10901 10952,1840004972
+East Shoreham,East Shoreham,New York,36103,Suffolk,40.946,-72.8811,7367,526.8,shape,false,false,America/New_York,3,11792 11786,1840034048
+Oakdale,Oakdale,New York,36103,Suffolk,40.7375,-73.1344,7365,895.1,shape,false,false,America/New_York,3,11769,1840005063
+Northport,Northport,New York,36103,Suffolk,40.9038,-73.3447,7337,1230.0,shape,false,true,America/New_York,3,11768,1840005126
+Cedarhurst,Cedarhurst,New York,36059,Nassau,40.6252,-73.7278,7307,4180.9,shape,false,true,America/New_York,2,11516,1840005339
+Scotia,Scotia,New York,36093,Schenectady,42.8321,-73.9607,7292,1667.9,shape,false,true,America/New_York,3,12302,1840004448
+East Hills,East Hills,New York,36059,Nassau,40.7958,-73.6292,7242,1226.8,shape,false,true,America/New_York,3,11577 11576,1840005342
+Radisson,Radisson,New York,36067,Onondaga,43.1824,-76.2988,7235,618.2,shape,false,false,America/New_York,3,13027,1840146815
+Monticello,Monticello,New York,36105,Sullivan,41.6522,-74.6874,7224,683.4,shape,false,true,America/New_York,3,12701,1840004791
+Brockport,Brockport,New York,36055,Monroe,43.2137,-77.9404,7192,1277.1,shape,false,true,America/New_York,3,14420,1840004287
+Baywood,Baywood,New York,36103,Suffolk,40.7533,-73.2899,7185,1213.6,shape,false,true,America/New_York,3,11706,1840034028
+Sound Beach,Sound Beach,New York,36103,Suffolk,40.9578,-72.9725,7154,1687.7,shape,false,false,America/New_York,3,11789,1840005099
+Nyack,Nyack,New York,36087,Rockland,41.0919,-73.9143,7057,3539.0,shape,false,true,America/New_York,2,10960,1840004981
+Tappan,Tappan,New York,36087,Rockland,41.027,-73.952,7016,982.5,shape,false,false,America/New_York,3,10964 10962 10983,1840004969
+Tuckahoe,Tuckahoe,New York,36119,Westchester,40.9531,-73.823,6995,4493.7,shape,false,true,America/New_York,2,10707,1840004946
+Norwich,Norwich,New York,36017,Chenango,42.5333,-75.5227,6950,1263.1,shape,false,true,America/New_York,3,13815,1840000424
+Manorhaven,Manorhaven,New York,36059,Nassau,40.8399,-73.7127,6929,5698.3,shape,false,true,America/New_York,2,11050,1840005306
+Roslyn Heights,Roslyn Heights,New York,36059,Nassau,40.7788,-73.6396,6915,1809.5,shape,false,false,America/New_York,3,11577,1840005254
+Gananda,Gananda,New York,36117,Wayne,43.1274,-77.3361,6869,728.8,shape,false,false,America/New_York,3,14568 14502,1840152413
+Walden,Walden,New York,36071,Orange,41.5603,-74.1879,6861,1318.7,shape,false,true,America/New_York,3,12586,1840004880
+Lawrence,Lawrence,New York,36059,Nassau,40.6041,-73.7151,6773,703.4,shape,false,true,America/New_York,3,11559,1840005303
+Bayville,Bayville,New York,36059,Nassau,40.9076,-73.5602,6763,1794.0,shape,false,true,America/New_York,3,11709,1840005336
+Fairview,Fairview,New York,36027,Dutchess,41.7321,-73.9137,6701,753.2,shape,false,false,America/New_York,3,12601,1840132690
+North Syracuse,North Syracuse,New York,36067,Onondaga,43.1339,-76.1304,6669,1296.2,shape,false,true,America/New_York,3,13212 13220 13225 13251,1840004326
+South Hill,South Hill,New York,36109,Tompkins,42.4113,-76.4883,6613,433.1,shape,false,false,America/New_York,3,14850,1840004541
+Solvay,Solvay,New York,36067,Onondaga,43.0571,-76.2123,6607,1578.4,shape,false,true,America/New_York,3,13209,1840004328
+Irvington,Irvington,New York,36119,Westchester,41.0349,-73.866,6590,912.1,shape,false,true,America/New_York,3,10503 10533,1840004933
+Bronxville,Bronxville,New York,36119,Westchester,40.9395,-73.8265,6570,2608.5,shape,false,true,America/New_York,2,10708,1840004949
+Larchmont,Larchmont,New York,36119,Westchester,40.9258,-73.7531,6549,2307.6,shape,false,true,America/New_York,2,10538,1840004934
+Highland,Highland,New York,36111,Ulster,41.7208,-73.9625,6545,467.8,shape,false,false,America/New_York,3,12528,1840004716
+South Valley Stream,South Valley Stream,New York,36059,Nassau,40.6558,-73.7185,6529,2898.3,shape,false,false,America/New_York,2,11581,1840034062
+Flanders,Flanders,New York,36103,Suffolk,40.8937,-72.6051,6411,215.3,shape,false,false,America/New_York,3,11901,1840005012
+Binghamton University,Binghamton University,New York,36007,Broome,42.0893,-75.9684,6405,3188.9,shape,false,true,America/New_York,2,13902,1840043235
+West Point,West Point,New York,36071,Orange,41.3645,-74.0123,6386,133.7,shape,true,true,America/New_York,4,10996 10928 10997,1840004866
+East Rochester,East Rochester,New York,36055,Monroe,43.1122,-77.4869,6321,1856.0,shape,false,true,America/New_York,3,14445,1840004289
+Calverton,Calverton,New York,36103,Suffolk,40.9138,-72.766,6245,92.0,shape,false,false,America/New_York,3,11933 11949,1840005024
+Yaphank,Yaphank,New York,36103,Suffolk,40.8323,-72.9233,6229,176.3,shape,false,false,America/New_York,3,11980,1840005116
+University at Buffalo,University at Buffalo,New York,36029,Erie,43.0025,-78.7887,6189,1770.0,shape,false,true,America/New_York,3,14260 14261 14228,1840043236
+Wesley Hills,Wesley Hills,New York,36087,Rockland,41.1578,-74.0768,6123,705.2,shape,false,true,America/New_York,3,10901 10952 10977,1840004989
+Harris Hill,Harris Hill,New York,36029,Erie,42.973,-78.6793,6107,583.7,shape,false,false,America/New_York,3,14221,1840004378
+North Sea,North Sea,New York,36103,Suffolk,40.933,-72.4047,6054,211.5,shape,false,false,America/New_York,3,11968,1840005060
+East Farmingdale,East Farmingdale,New York,36103,Suffolk,40.7367,-73.4114,6043,312.0,shape,false,false,America/New_York,3,11798 11735,1840034046
+Centerport,Centerport,New York,36103,Suffolk,40.8951,-73.3704,6040,1054.4,shape,false,false,America/New_York,3,11721,1840005027
+Hilton,Hilton,New York,36055,Monroe,43.29,-77.7925,5998,1296.4,shape,false,true,America/New_York,3,14468,1840004281
+East Aurora,East Aurora,New York,36029,Erie,42.7667,-78.6172,5996,922.0,shape,false,true,America/New_York,3,14052,1840004398
+Lakeview,Lakeview,New York,36059,Nassau,40.6775,-73.6493,5938,2290.9,shape,false,false,America/New_York,2,11552 11570,1840005269
+Lake Mohegan,Lake Mohegan,New York,36119,Westchester,41.3165,-73.8475,5938,794.1,shape,false,false,America/New_York,3,10547 10588,1840004923
+Hudson,Hudson,New York,36021,Columbia,42.2515,-73.7859,5923,1059.8,shape,false,true,America/New_York,3,12534,1840000454
+Salamanca,Salamanca,New York,36009,Cattaraugus,42.1631,-78.7233,5906,380.4,shape,false,true,America/New_York,3,14779,1840000453
+Rochester Institute of Technology,Rochester Institute of Technology,New York,36055,Monroe,43.0827,-77.6715,5901,1149.7,shape,false,false,America/New_York,3,14623,1840145795
+Medina,Medina,New York,36073,Orleans,43.2197,-78.3888,5827,682.0,shape,false,true,America/New_York,3,14103,1840004264
+Mattydale,Mattydale,New York,36067,Onondaga,43.0992,-76.1388,5825,1171.1,shape,false,false,America/New_York,3,13211,1840004317
+Country Knolls,Country Knolls,New York,36091,Saratoga,42.9085,-73.807,5811,655.2,shape,false,false,America/New_York,3,12019 12065,1840034043
+Old Bethpage,Old Bethpage,New York,36059,Nassau,40.7558,-73.4545,5779,535.8,shape,false,false,America/New_York,3,11804 11735,1840005247
+Wappingers Falls,Wappingers Falls,New York,36027,Dutchess,41.5984,-73.9181,5775,1989.2,shape,false,true,America/New_York,3,12590,1840004755
+Washingtonville,Washingtonville,New York,36071,Orange,41.4297,-74.1577,5733,872.1,shape,false,true,America/New_York,3,10992,1840004882
+Pelham Manor,Pelham Manor,New York,36119,Westchester,40.893,-73.8058,5682,1621.8,shape,false,true,America/New_York,3,10803,1840004939
+East Quogue,East Quogue,New York,36103,Suffolk,40.8489,-72.5785,5620,249.1,shape,false,false,America/New_York,3,11942,1840005041
+Kings Point,Kings Point,New York,36059,Nassau,40.8161,-73.7405,5593,642.9,shape,false,true,America/New_York,3,11024 11023,1840005299
+East Hampton North,East Hampton North,New York,36103,Suffolk,40.9728,-72.1892,5587,387.2,shape,false,true,America/New_York,3,11937,1840035108
+East Moriches,East Moriches,New York,36103,Suffolk,40.8085,-72.7573,5581,397.0,shape,false,false,America/New_York,3,11940,1840005038
+Kaser,Kaser,New York,36087,Rockland,41.1214,-74.0684,5501,6246.0,shape,false,true,America/New_York,2,10952,1840004977
+New Hempstead,New Hempstead,New York,36087,Rockland,41.1488,-74.0485,5449,740.3,shape,false,true,America/New_York,3,10977,1840033996
+Fairport,Fairport,New York,36055,Monroe,43.099,-77.4427,5442,1329.9,shape,false,true,America/New_York,3,14450,1840004280
+Albion,Albion,New York,36073,Orleans,43.246,-78.1902,5428,717.8,shape,false,true,America/New_York,3,14411,1840004265
+North Hills,North Hills,New York,36059,Nassau,40.7765,-73.6778,5425,759.8,shape,false,true,America/New_York,3,11030 11576,1840005314
+Williamsville,Williamsville,New York,36029,Erie,42.9623,-78.7418,5411,1660.8,shape,false,true,America/New_York,3,14221,1840004392
+Carle Place,Carle Place,New York,36059,Nassau,40.7499,-73.6124,5375,2165.6,shape,false,false,America/New_York,2,11514,1840005234
+Hampton Manor,Hampton Manor,New York,36083,Rensselaer,42.6197,-73.7288,5344,688.3,shape,false,false,America/New_York,3,12144,1840034050
+Wheatley Heights,Wheatley Heights,New York,36103,Suffolk,40.7624,-73.3705,5338,1563.9,shape,false,false,America/New_York,3,11798,1840005114
+Islip Terrace,Islip Terrace,New York,36103,Suffolk,40.7503,-73.1869,5318,1612.3,shape,false,false,America/New_York,3,11752,1840005083
+Ballston Spa,Ballston Spa,New York,36091,Saratoga,43.0068,-73.8525,5288,1275.6,shape,false,true,America/New_York,3,12020,1840004254
+Firthcliffe,Firthcliffe,New York,36071,Orange,41.4408,-74.0353,5264,684.3,shape,false,false,America/New_York,3,12553 12518 12520,1840004854
+Elmsford,Elmsford,New York,36119,Westchester,41.0541,-73.8143,5192,1896.9,shape,false,true,America/New_York,3,10523,1840004953
+Mechanicville,Mechanicville,New York,36091,Saratoga,42.9036,-73.6894,5177,2383.0,shape,false,true,America/New_York,2,12118,1840000368
+Blauvelt,Blauvelt,New York,36087,Rockland,41.0689,-73.9545,5154,441.2,shape,false,false,America/New_York,3,10913,1840004959
+West Hills,West Hills,New York,36103,Suffolk,40.8199,-73.4339,5140,404.4,shape,false,false,America/New_York,3,11743 11747,1840034031
+Penn Yan,Penn Yan,New York,36123,Yates,42.6609,-77.0535,5134,825.9,shape,false,true,America/New_York,3,14527,1840004503
+Albertson,Albertson,New York,36059,Nassau,40.7715,-73.6482,5095,2897.3,shape,false,false,America/New_York,2,11507 11577,1840005227
+Saranac Lake,Saranac Lake,New York,36033,Franklin,44.3252,-74.1309,5079,673.7,shape,false,true,America/New_York,3,12983,1840004068
+Sea Cliff,Sea Cliff,New York,36059,Nassau,40.8441,-73.6442,5062,1753.1,shape,false,true,America/New_York,3,11579,1840005326
+Grandyle Village,Grandyle Village,New York,36029,Erie,42.9867,-78.9524,5053,1037.2,shape,false,false,America/Toronto,3,14072,1840024062
+West Sayville,West Sayville,New York,36103,Suffolk,40.7295,-73.1051,5032,1012.5,shape,false,false,America/New_York,3,11769 11796,1840005112
+Ardsley,Ardsley,New York,36119,Westchester,41.0134,-73.8394,5013,1465.2,shape,false,true,America/New_York,3,10502,1840004947
+Island Park,Island Park,New York,36059,Nassau,40.6051,-73.6553,4947,4294.8,shape,false,true,America/New_York,2,11558,1840005297
+Westvale,Westvale,New York,36067,Onondaga,43.0399,-76.2176,4933,1412.2,shape,false,false,America/New_York,3,13219,1840004318
+Chittenango,Chittenango,New York,36053,Madison,43.0462,-75.8748,4884,759.1,shape,false,true,America/New_York,3,13037,1840004361
+Glen Head,Glen Head,New York,36059,Nassau,40.8449,-73.618,4801,1128.4,shape,false,false,America/New_York,3,11542 11545,1840005259
+Mattituck,Mattituck,New York,36103,Suffolk,41.0012,-72.5419,4800,206.3,shape,false,false,America/New_York,3,11952,1840005091
+Noyack,Noyack,New York,36103,Suffolk,40.9826,-72.335,4797,220.6,shape,false,false,America/New_York,3,11963 11969,1840005062
+West Elmira,West Elmira,New York,36015,Chemung,42.0879,-76.8472,4796,609.5,shape,false,false,America/New_York,3,14903 14905,1840004687
+Flower Hill,Flower Hill,New York,36059,Nassau,40.8075,-73.6755,4787,1146.6,shape,false,true,America/New_York,3,11030 11576 11050,1840005287
+Dansville,Dansville,New York,36051,Livingston,42.5625,-77.6968,4774,706.8,shape,false,true,America/New_York,3,14437,1840004430
+Northwest Harbor,Northwest Harbor,New York,36103,Suffolk,41.0086,-72.2287,4771,127.3,shape,false,false,America/New_York,3,11937,1840034057
+Orangeburg,Orangeburg,New York,36087,Rockland,41.0488,-73.9408,4745,598.1,shape,false,false,America/New_York,3,10962 10960 10976,1840004965
+Brewerton,Brewerton,New York,36067,Onondaga,43.2345,-76.141,4717,575.3,shape,false,false,America/New_York,3,13029 13036,1840004312
+Searingtown,Searingtown,New York,36059,Nassau,40.7705,-73.6603,4700,1947.6,shape,false,false,America/New_York,3,11507 11577 11576,1840033957
+Hawthorne,Hawthorne,New York,36119,Westchester,41.1035,-73.7968,4693,1649.6,shape,false,false,America/New_York,3,10532,1840004922
+Montebello,Montebello,New York,36087,Rockland,41.1317,-74.1135,4645,415.1,shape,false,true,America/New_York,3,10901,1840004978
+Blue Point,Blue Point,New York,36103,Suffolk,40.7519,-73.0353,4616,989.2,shape,false,false,America/New_York,3,11715 11772,1840005019
+Little Falls,Little Falls,New York,36043,Herkimer,43.0452,-74.8566,4596,462.3,shape,false,true,America/New_York,3,13365,1840000333
+Galeville,Galeville,New York,36067,Onondaga,43.0868,-76.1871,4591,1414.7,shape,false,false,America/New_York,3,13088,1840004315
+Gang Mills,Gang Mills,New York,36101,Steuben,42.1534,-77.123,4562,402.6,shape,false,false,America/New_York,3,14870,1840004548
+Canastota,Canastota,New York,36053,Madison,43.0836,-75.7559,4550,526.0,shape,false,true,America/New_York,3,13032,1840004359
+Menands,Menands,New York,36001,Albany,42.691,-73.7271,4512,569.0,shape,false,true,America/New_York,3,12204 12247,1840004491
+Thiells,Thiells,New York,36087,Rockland,41.2068,-74.0121,4491,955.1,shape,false,false,America/New_York,3,10984 10923,1840004970
+West Bay Shore,West Bay Shore,New York,36103,Suffolk,40.6948,-73.2618,4472,790.8,shape,false,false,America/New_York,3,11706,1840005110
+Gordon Heights,Gordon Heights,New York,36103,Suffolk,40.8645,-72.9678,4466,1011.8,shape,false,false,America/New_York,3,11763 11953,1840005072
+Old Westbury,Old Westbury,New York,36059,Nassau,40.7866,-73.5975,4410,198.6,shape,false,true,America/New_York,3,11568,1840005316
+Thornwood,Thornwood,New York,36119,Westchester,41.1184,-73.7795,4396,1519.7,shape,false,false,America/New_York,3,10594,1840004928
+Armonk,Armonk,New York,36119,Westchester,41.1319,-73.7138,4378,284.9,shape,false,false,America/New_York,3,10504,1840004914
+Waverly,Waverly,New York,36107,Tioga,42.0119,-76.5406,4360,736.9,shape,false,true,America/New_York,3,14892,1840004670
+Spackenkill,Spackenkill,New York,36027,Dutchess,41.6547,-73.91,4336,931.5,shape,false,false,America/New_York,3,12603,1840034063
+Montauk,Montauk,New York,36103,Suffolk,41.0466,-71.9465,4322,90.3,shape,false,false,America/New_York,3,11954,1840005047
+Fayetteville,Fayetteville,New York,36067,Onondaga,43.0308,-75.9984,4248,945.6,shape,false,true,America/New_York,3,13066,1840004320
+Elmira Heights,Elmira Heights,New York,36015,Chemung,42.1267,-76.8254,4239,1427.7,shape,false,true,America/New_York,3,14903,1840004692
+Herricks,Herricks,New York,36059,Nassau,40.7567,-73.6635,4225,2847.2,shape,false,false,America/New_York,2,11040 11596,1840005264
+Springville,Springville,New York,36029,Erie,42.5084,-78.6696,4223,443.0,shape,false,true,America/New_York,3,14141,1840004391
+Ellenville,Ellenville,New York,36111,Ulster,41.7009,-74.3609,4213,187.1,shape,false,true,America/New_York,3,12420 12428 12446,1840004733
+Akwesasne,Akwesasne,New York,36033,Franklin,44.9647,-74.6664,4196,38.9,shape,false,false,America/New_York,3,13683 13655 13662 12914,1840141825
+University Gardens,University Gardens,New York,36059,Nassau,40.7752,-73.7281,4171,3032.5,shape,false,false,America/New_York,2,11021 11020,1840005280
+Walton Park,Walton Park,New York,36071,Orange,41.3142,-74.2237,4139,518.1,shape,false,false,America/New_York,3,10950,1840004864
+Red Oaks Mill,Red Oaks Mill,New York,36027,Dutchess,41.6517,-73.8748,4135,663.7,shape,false,false,America/New_York,3,12603,1840004745
+Garden City South,Garden City South,New York,36059,Nassau,40.712,-73.6607,4113,3982.0,shape,false,false,America/New_York,2,11530 11552,1840005258
+Chester,Chester,New York,36071,Orange,41.357,-74.2768,4064,730.4,shape,false,true,America/New_York,3,10918,1840004884
+Cayuga Heights,Cayuga Heights,New York,36109,Tompkins,42.468,-76.4876,4044,883.8,shape,false,true,America/New_York,3,14850,1840004546
+Clifton Knolls-Mill Creek,Clifton Knolls-Mill Creek,New York,36091,Saratoga,42.8482,-73.8082,3962,965.7,shape,false,false,America/New_York,3,12065,1840153012
+Gardnertown,Gardnertown,New York,36071,Orange,41.5328,-74.0595,3943,315.5,shape,false,false,America/New_York,3,12550 12551 12552,1840004861
+Heritage Hills,Heritage Hills,New York,36119,Westchester,41.3398,-73.7016,3927,808.2,shape,false,false,America/New_York,3,10589,1840034035
+Lyncourt,Lyncourt,New York,36067,Onondaga,43.082,-76.1265,3917,1208.3,shape,false,false,America/New_York,3,13206 13208,1840034054
+Manhasset Hills,Manhasset Hills,New York,36059,Nassau,40.7592,-73.6809,3904,2549.4,shape,false,false,America/New_York,2,11040,1840034055
+South Blooming Grove,South Blooming Grove,New York,36071,Orange,41.3735,-74.179,3858,318.5,shape,false,true,America/New_York,3,10950,1840004877
+Pomona,Pomona,New York,36087,Rockland,41.1891,-74.0543,3837,617.7,shape,false,true,America/New_York,3,10901 10970,1840004983
+Putnam Lake,Putnam Lake,New York,36079,Putnam,41.4737,-73.5507,3826,324.4,shape,false,false,America/New_York,3,12563 10509,1840004889
+Highland-on-the-Lake,Highland-on-the-Lake,New York,36029,Erie,42.7012,-78.9819,3809,721.1,shape,false,false,America/New_York,3,14047,1840084076
+Balmville,Balmville,New York,36071,Orange,41.5281,-74.0234,3781,689.4,shape,false,false,America/New_York,3,12550,1840004856
+Westhampton,Westhampton,New York,36103,Suffolk,40.8325,-72.6616,3769,115.1,shape,false,false,America/New_York,3,11978 11977 11959,1840005113
+West Nyack,West Nyack,New York,36087,Rockland,41.0907,-73.9714,3768,497.7,shape,false,false,America/New_York,3,10994,1840004973
+Sloan,Sloan,New York,36029,Erie,42.8921,-78.7918,3762,1862.3,shape,false,true,America/New_York,3,14206 14212,1840004390
+Village Green,Village Green,New York,36067,Onondaga,43.1323,-76.3108,3747,1253.7,shape,false,false,America/New_York,3,13027,1840034064
+South Glens Falls,South Glens Falls,New York,36091,Saratoga,43.2951,-73.6351,3739,1062.7,shape,false,true,America/New_York,3,12803,1840004251
+Setauket,Setauket,New York,36103,Suffolk,40.9484,-73.116,3739,573.3,shape,false,false,America/New_York,3,11733,1840033989
+Montrose,Montrose,New York,36119,Westchester,41.2425,-73.9424,3728,888.3,shape,false,false,America/New_York,3,10548,1840024180
+Highland Falls,Highland Falls,New York,36071,Orange,41.3643,-73.9682,3720,1313.3,shape,false,true,America/New_York,3,10928,1840004871
+Glenwood Landing,Glenwood Landing,New York,36059,Nassau,40.8295,-73.6378,3694,1471.1,shape,false,false,America/New_York,3,11547 11545,1840005260
+Wynantskill,Wynantskill,New York,36083,Rensselaer,42.6879,-73.6449,3683,415.9,shape,false,false,America/New_York,3,12180 12198,1840004435
+North Great River,North Great River,New York,36103,Suffolk,40.7599,-73.168,3680,604.1,shape,false,false,America/New_York,3,11752,1840005057
+Whitesboro,Whitesboro,New York,36065,Oneida,43.124,-75.2967,3673,1351.2,shape,false,true,America/New_York,3,13492,1840004216
+Spencerport,Spencerport,New York,36055,Monroe,43.1882,-77.8067,3670,1025.1,shape,false,true,America/New_York,3,14559,1840004285
+Minoa,Minoa,New York,36067,Onondaga,43.0742,-76.0083,3652,1067.5,shape,false,true,America/New_York,3,13116,1840004325
+Marlboro,Marlboro,New York,36111,Ulster,41.6047,-73.9772,3635,281.6,shape,false,false,America/New_York,3,12542,1840004722
+Calcium,Calcium,New York,36045,Jefferson,44.0401,-75.8468,3622,249.4,shape,false,false,America/New_York,3,13637 13616,1840004105
+Locust Valley,Locust Valley,New York,36059,Nassau,40.8783,-73.5884,3611,1538.4,shape,false,false,America/New_York,3,11560,1840005272
+Lloyd Harbor,Lloyd Harbor,New York,36103,Suffolk,40.9138,-73.4616,3572,147.8,shape,false,true,America/New_York,3,11743 11724,1840005123
+Islandia,Islandia,New York,36103,Suffolk,40.8069,-73.1711,3568,622.3,shape,false,true,America/New_York,3,11749,1840005120
+Bardonia,Bardonia,New York,36087,Rockland,41.1128,-73.9822,3503,527.9,shape,false,false,America/New_York,3,10994 10954,1840004958
+Haviland,Haviland,New York,36027,Dutchess,41.765,-73.8977,3500,274.3,shape,false,false,America/New_York,3,12601 12538,1840034051
+Muttontown,Muttontown,New York,36059,Nassau,40.8254,-73.5363,3499,223.0,shape,false,true,America/New_York,3,11545 11791 11732,1840005312
+Port Ewen,Port Ewen,New York,36111,Ulster,41.9042,-73.9778,3441,635.9,shape,false,false,America/New_York,3,12466 12417 12487,1840004711
+Elma Center,Elma Center,New York,36029,Erie,42.8282,-78.6342,3434,211.2,shape,false,false,America/New_York,3,14059,1840004372
+Carthage,Carthage,New York,36045,Jefferson,43.9837,-75.6021,3399,541.1,shape,false,true,America/New_York,3,13619,1840004125
+SUNY Oswego,SUNY Oswego,New York,36075,Oswego,43.4515,-76.5439,3338,4503.3,shape,false,true,America/New_York,2,13126,1840043282
+West Sand Lake,West Sand Lake,New York,36083,Rensselaer,42.6402,-73.6033,3304,267.5,shape,false,false,America/New_York,3,12018 12196,1840004434
+Beaver Dam Lake,Beaver Dam Lake,New York,36071,Orange,41.4429,-74.1216,3296,521.6,shape,false,false,America/New_York,3,12553 12577,1840034067
+Lake Erie Beach,Lake Erie Beach,New York,36029,Erie,42.6242,-79.0786,3282,331.5,shape,false,false,America/New_York,3,14006,1840004380
+Clarence Center,Clarence Center,New York,36029,Erie,43.0085,-78.6309,3264,558.1,shape,false,false,America/New_York,3,14031 14032,1840004376
+Ravena,Ravena,New York,36001,Albany,42.4755,-73.8112,3259,857.2,shape,false,true,America/New_York,3,12143,1840004492
+Hoosick Falls,Hoosick Falls,New York,36083,Rensselaer,42.9009,-73.35,3225,779.2,shape,false,true,America/New_York,3,12090,1840004436
+Chenango Bridge,Chenango Bridge,New York,36007,Broome,42.1716,-75.8586,3224,508.3,shape,false,false,America/New_York,3,13901,1840025505
+Gowanda,Gowanda,New York,36009,Cattaraugus,42.4612,-78.9339,3211,778.4,shape,false,true,America/New_York,3,14070,1840004590
+Brightwaters,Brightwaters,New York,36103,Suffolk,40.7193,-73.2642,3181,1271.9,shape,false,true,America/New_York,3,11718,1840005145
+Port Washington North,Port Washington North,New York,36059,Nassau,40.8434,-73.7014,3169,2556.6,shape,false,true,America/New_York,2,11050 11052 11053 11055,1840005319
+Wanakah,Wanakah,New York,36029,Erie,42.7435,-78.9027,3158,1012.4,shape,false,false,America/New_York,3,14075 14085,1840024063
+South Hempstead,South Hempstead,New York,36059,Nassau,40.6814,-73.6233,3135,2093.0,shape,false,false,America/New_York,2,11550 11570,1840005277
+Maybrook,Maybrook,New York,36071,Orange,41.4881,-74.213,3135,893.8,shape,false,true,America/New_York,3,10916 12543,1840004873
+New York Mills,New York Mills,New York,36065,Oneida,43.1007,-75.2932,3084,1009.4,shape,false,true,America/New_York,3,13417,1840004207
+Hartsdale,Hartsdale,New York,36119,Westchester,41.0154,-73.8036,3082,1402.5,shape,false,false,America/New_York,3,10583 10530,1840004921
+Tuxedo,Tuxedo,New York,36071,Orange,41.2324,-74.1774,3072,26.9,shape,false,true,America/New_York,4,10910 10987 10926 10975,1840087978
+East Syracuse,East Syracuse,New York,36067,Onondaga,43.0638,-76.0698,3065,758.7,shape,false,true,America/New_York,3,13057,1840004332
+Sherrill,Sherrill,New York,36065,Oneida,43.0704,-75.5993,3057,510.6,shape,false,true,America/New_York,3,13461,1840000350
+Valhalla,Valhalla,New York,36119,Westchester,41.0773,-73.7778,3052,1420.5,shape,false,false,America/New_York,3,10595,1840033975
+Cornwall-on-Hudson,Cornwall-on-Hudson,New York,36071,Orange,41.4369,-74.0145,3044,591.5,shape,false,true,America/New_York,3,12520,1840004885
+Sloatsburg,Sloatsburg,New York,36087,Rockland,41.162,-74.1902,3039,469.6,shape,false,true,America/New_York,3,10974,1840004984
+Crown Heights,Crown Heights,New York,36027,Dutchess,41.6416,-73.9287,3030,1386.1,shape,false,false,America/New_York,3,12601,1840034044
+Greenwood Lake,Greenwood Lake,New York,36071,Orange,41.2214,-74.2892,3027,577.3,shape,false,true,America/New_York,3,10925,1840004869
+Vassar College,Vassar College,New York,36027,Dutchess,41.686,-73.8931,3012,1616.3,shape,false,false,America/New_York,3,12603 12604,1840141826
+Shrub Oak,Shrub Oak,New York,36119,Westchester,41.3257,-73.8296,3002,734.4,shape,false,false,America/New_York,3,10547 10588,1840004927
+Brookville,Brookville,New York,36059,Nassau,40.8123,-73.5696,2988,292.3,shape,false,true,America/New_York,3,11545 11548,1840005338
+Lakewood,Lakewood,New York,36013,Chautauqua,42.0992,-79.3201,2986,588.2,shape,false,true,America/New_York,3,14750,1840004567
+Cold Spring Harbor,Cold Spring Harbor,New York,36103,Suffolk,40.8621,-73.4506,2979,337.1,shape,false,false,America/New_York,3,11724,1840005029
+Green Island,Green Island,New York,36001,Albany,42.7474,-73.6926,2968,1533.8,shape,false,true,America/New_York,3,12183,1840004490
+Harriman,Harriman,New York,36071,Orange,41.3088,-74.1445,2955,1135.9,shape,false,true,America/New_York,3,10926,1840004870
+Riverside,Riverside,New York,36103,Suffolk,40.9093,-72.6695,2945,429.6,shape,false,false,America/New_York,3,11901,1840142078
+Florida,Florida,New York,36071,Orange,41.3312,-74.3533,2937,503.7,shape,false,true,America/New_York,3,10921,1840004867
+Great Neck Estates,Great Neck Estates,New York,36059,Nassau,40.7857,-73.7396,2936,1480.0,shape,false,true,America/New_York,3,11021 11022,1840005291
+Lake Delta,Lake Delta,New York,36065,Oneida,43.2893,-75.4672,2929,337.9,shape,false,false,America/New_York,3,13363 13440,1840084304
+Roslyn,Roslyn,New York,36059,Nassau,40.7991,-73.6491,2928,1752.3,shape,false,true,America/New_York,3,11576,1840005321
+Akron,Akron,New York,36029,Erie,43.018,-78.4978,2911,558.8,shape,false,true,America/New_York,3,14001,1840004393
+Baiting Hollow,Baiting Hollow,New York,36103,Suffolk,40.9582,-72.7395,2899,214.8,shape,false,false,America/New_York,3,11933 11901,1840005016
+Vails Gate,Vails Gate,New York,36071,Orange,41.4588,-74.0533,2881,1078.7,shape,false,false,America/New_York,3,12553 12584,1840004863
+Voorheesville,Voorheesville,New York,36001,Albany,42.6517,-73.9347,2840,512.7,shape,false,true,America/New_York,3,12186,1840004493
+East Norwich,East Norwich,New York,36059,Nassau,40.8495,-73.5288,2829,1038.2,shape,false,false,America/New_York,3,11732 11771,1840005237
+Lake Success,Lake Success,New York,36059,Nassau,40.768,-73.7089,2825,589.4,shape,false,true,America/New_York,3,11042 11020,1840005300
+Chappaqua,Chappaqua,New York,36119,Westchester,41.1575,-73.766,2812,1198.4,shape,false,false,America/New_York,3,10514,1840004916
+Munsey Park,Munsey Park,New York,36059,Nassau,40.799,-73.6799,2792,2088.7,shape,false,true,America/New_York,2,11030,1840005311
+Cutchogue,Cutchogue,New York,36103,Suffolk,41.0168,-72.4871,2792,110.3,shape,false,false,America/New_York,3,11935,1840005033
+Honeoye Falls,Honeoye Falls,New York,36055,Monroe,42.9557,-77.5902,2774,421.2,shape,false,true,America/New_York,3,14472,1840004282
+Thomaston,Thomaston,New York,36059,Nassau,40.7875,-73.7153,2750,2630.4,shape,false,true,America/New_York,2,11021,1840005329
+South Nyack,South Nyack,New York,36087,Rockland,41.0797,-73.9127,2745,1759.1,shape,false,true,America/New_York,3,10960,1840004985
+Horseheads North,Horseheads North,New York,36015,Chemung,42.1928,-76.8078,2707,472.6,shape,false,true,America/New_York,3,14845,1840073692
+Sands Point,Sands Point,New York,36059,Nassau,40.8528,-73.7044,2702,247.2,shape,false,true,America/New_York,3,11050,1840005325
+Angola,Angola,New York,36029,Erie,42.6379,-79.0295,2688,732.6,shape,false,true,America/New_York,3,14006,1840004395
+Munsons Corners,Munsons Corners,New York,36023,Cortland,42.5761,-76.2053,2680,466.9,shape,false,false,America/New_York,3,13045,1840004496
+Yorkville,Yorkville,New York,36065,Oneida,43.1124,-75.2739,2635,1515.4,shape,false,true,America/New_York,3,13495 13502,1840004217
+East Williston,East Williston,New York,36059,Nassau,40.7608,-73.6336,2630,1785.7,shape,false,true,America/New_York,3,11596,1840005344
+Northeast Ithaca,Northeast Ithaca,New York,36109,Tompkins,42.4703,-76.4623,2627,690.2,shape,false,true,America/New_York,3,14850,1840073642
+Moriches,Moriches,New York,36103,Suffolk,40.807,-72.8235,2626,489.3,shape,false,false,America/New_York,3,11955,1840005048
+Silver Creek,Silver Creek,New York,36013,Chautauqua,42.5427,-79.1678,2623,881.0,shape,false,true,America/New_York,3,14136,1840004571
+Lido Beach,Lido Beach,New York,36059,Nassau,40.5911,-73.6128,2615,596.5,shape,false,false,America/New_York,3,11561,1840005271
+Sag Harbor,Sag Harbor,New York,36103,Suffolk,40.9971,-72.2892,2587,558.8,shape,false,true,America/New_York,3,11963,1840005133
+Jamestown West,Jamestown West,New York,36013,Chautauqua,42.0885,-79.281,2587,396.4,shape,false,true,America/New_York,3,14701,1840073698
+Brewster Hill,Brewster Hill,New York,36079,Putnam,41.4229,-73.6069,2568,1139.4,shape,false,false,America/New_York,3,10509,1840004888
+North Boston,North Boston,New York,36029,Erie,42.6773,-78.7793,2554,238.9,shape,false,false,America/New_York,3,14075 14110,1840004377
+Blasdell,Blasdell,New York,36029,Erie,42.7964,-78.8324,2551,876.6,shape,false,true,America/New_York,3,14219,1840004396
+Keeseville,Keeseville,New York,36031,Essex,44.5035,-73.4812,2545,163.2,shape,false,false,America/New_York,3,12944,1840033988
+Rouses Point,Rouses Point,New York,36019,Clinton,44.9933,-73.3633,2530,558.3,shape,false,true,America/New_York,3,12979,1840004043
+Brinckerhoff,Brinckerhoff,New York,36027,Dutchess,41.5515,-73.8654,2519,552.5,shape,false,false,America/New_York,3,12524,1840004740
+Lakeland,Lakeland,New York,36067,Onondaga,43.0909,-76.2427,2513,650.6,shape,false,false,America/New_York,3,13209,1840004316
+Piermont,Piermont,New York,36087,Rockland,41.0423,-73.9148,2507,1438.9,shape,false,true,America/New_York,3,10968,1840004982
+Brewster,Brewster,New York,36079,Putnam,41.397,-73.6151,2506,1972.4,shape,false,true,America/New_York,3,10509,1840004893
+Scottsville,Scottsville,New York,36055,Monroe,43.0221,-77.7555,2482,885.0,shape,false,true,America/New_York,3,14546,1840004284
+Fort Montgomery,Fort Montgomery,New York,36071,Orange,41.3415,-73.9846,2453,514.5,shape,false,false,America/New_York,3,10922 10928,1840004855
+Phoenix,Phoenix,New York,36075,Oswego,43.2316,-76.2961,2440,804.8,shape,false,true,America/New_York,3,13135,1840004193
+Halesite,Halesite,New York,36103,Suffolk,40.8863,-73.4138,2416,1046.3,shape,false,false,America/New_York,3,11743,1840005075
+Arlington,Arlington,New York,36027,Dutchess,41.6965,-73.8989,2405,1525.8,shape,false,false,America/New_York,3,12603,1840004739
+Rock Hill,Rock Hill,New York,36105,Sullivan,41.6191,-74.5902,2384,107.1,shape,false,false,America/New_York,3,12775,1840004784
+Lincoln Park,Lincoln Park,New York,36111,Ulster,41.9566,-74.0018,2375,599.2,shape,false,false,America/New_York,3,12401,1840004720
+Lake Katrine,Lake Katrine,New York,36111,Ulster,41.9862,-73.9893,2357,399.5,shape,false,false,America/New_York,3,12449,1840004719
+Apalachin,Apalachin,New York,36107,Tioga,42.0639,-76.1567,2356,316.3,shape,false,false,America/New_York,3,13732,1840004665
+Barnum Island,Barnum Island,New York,36059,Nassau,40.605,-73.6437,2353,1049.7,shape,false,false,America/New_York,3,11558,1840034042
+Tioga Terrace,Tioga Terrace,New York,36107,Tioga,42.0508,-76.1198,2348,904.5,shape,false,false,America/New_York,3,13732,1840149455
+Westhampton Beach,Westhampton Beach,New York,36103,Suffolk,40.8081,-72.6457,2344,307.8,shape,false,true,America/New_York,3,11978,1840005139
+Liverpool,Liverpool,New York,36067,Onondaga,43.1065,-76.2095,2331,1197.6,shape,false,true,America/New_York,3,13088,1840004322
+Water Mill,Water Mill,New York,36103,Suffolk,40.9222,-72.3533,2308,84.3,shape,false,false,America/New_York,3,11976,1840033982
+Bedford Hills,Bedford Hills,New York,36119,Westchester,41.2361,-73.6964,2304,867.7,shape,false,false,America/New_York,3,10507,1840024178
+Siena College,Siena College,New York,36001,Albany,42.719,-73.75,2292,1461.7,shape,false,false,America/New_York,3,12211,1840152107
+Lake Placid,Lake Placid,New York,36031,Essex,44.2838,-73.9853,2280,646.7,shape,false,true,America/New_York,3,12946,1840004089
+Buchanan,Buchanan,New York,36119,Westchester,41.2642,-73.9468,2272,619.7,shape,false,true,America/New_York,3,10511,1840004950
+Nedrow,Nedrow,New York,36067,Onondaga,42.978,-76.1417,2251,903.6,shape,false,false,America/New_York,3,13205 13120,1840004314
+Stewart Manor,Stewart Manor,New York,36059,Nassau,40.7202,-73.6854,2244,3449.3,shape,false,true,America/New_York,2,11530,1840005328
+Greenport West,Greenport West,New York,36103,Suffolk,41.0989,-72.3734,2230,268.1,shape,false,true,America/New_York,3,11939 11944,1840073684
+Saugerties South,Saugerties South,New York,36111,Ulster,42.0606,-73.9522,2224,805.4,shape,false,true,America/New_York,3,12477,1840035216
+Clifton Gardens,Clifton Gardens,New York,36091,Saratoga,42.8474,-73.7838,2213,775.2,shape,false,false,America/New_York,3,12065,1840152410
+Crompond,Crompond,New York,36119,Westchester,41.2907,-73.8357,2211,352.1,shape,false,false,America/New_York,3,10598 10567 10547,1840004917
+Falconer,Falconer,New York,36013,Chautauqua,42.1191,-79.1969,2193,784.8,shape,false,true,America/New_York,3,14733,1840004564
+Dolgeville,Dolgeville,New York,36043,Herkimer,43.1031,-74.7749,2180,470.1,shape,false,true,America/New_York,3,13329,1840004156
+Yorktown Heights,Yorktown Heights,New York,36119,Westchester,41.2697,-73.7755,2147,902.3,shape,false,false,America/New_York,3,10598,1840004930
+West End,West End,New York,36077,Otsego,42.4667,-75.0969,2142,226.3,shape,false,false,America/New_York,3,13820,1840034066
+Upper Nyack,Upper Nyack,New York,36087,Rockland,41.1143,-73.9058,2142,673.3,shape,false,true,America/New_York,3,10960,1840004988
+Eastport,Eastport,New York,36103,Suffolk,40.8402,-72.7285,2136,185.4,shape,false,false,America/New_York,3,11949 11941,1840005042
+Bellerose Terrace,Bellerose Terrace,New York,36059,Nassau,40.7221,-73.7252,2135,5764.7,shape,false,false,America/New_York,2,11001,1840005231
+Shinnecock Hills,Shinnecock Hills,New York,36103,Suffolk,40.8877,-72.4554,2135,292.6,shape,false,false,America/New_York,3,11968,1840005096
+East Ithaca,East Ithaca,New York,36109,Tompkins,42.4276,-76.4612,2135,384.5,shape,false,false,America/New_York,3,14850,1840033874
+Glasco,Glasco,New York,36111,Ulster,42.0454,-73.9477,2134,509.7,shape,false,false,America/New_York,3,12432 12477,1840004714
+Marist College,Marist College,New York,36027,Dutchess,41.7222,-73.9333,2120,531.4,shape,false,false,America/New_York,3,12601,1840152109
+St. Bonaventure,St. Bonaventure,New York,36009,Cattaraugus,42.0802,-78.4748,2093,423.9,shape,false,false,America/New_York,3,14760 14778 14706,1840034060
+Pulaski,Pulaski,New York,36075,Oswego,43.5653,-76.1268,2090,228.2,shape,false,true,America/New_York,3,13142,1840004194
+Seneca Knolls,Seneca Knolls,New York,36067,Onondaga,43.1201,-76.2873,2085,635.1,shape,false,false,America/New_York,3,13027 13209,1840034041
+Mountain Lodge Park,Mountain Lodge Park,New York,36071,Orange,41.3867,-74.1419,2083,543.1,shape,false,false,America/New_York,3,10950,1840026299
+Dundee,Dundee,New York,36123,Yates,42.5236,-76.9775,2080,728.8,shape,false,true,America/New_York,3,14837,1840004506
+Central Square,Central Square,New York,36075,Oswego,43.286,-76.1419,2079,421.1,shape,false,true,America/New_York,3,13036,1840004197
+Laurel Hollow,Laurel Hollow,New York,36059,Nassau,40.8541,-73.4755,2050,267.6,shape,false,true,America/New_York,3,11791,1840005302
+Clifton Springs,Clifton Springs,New York,36069,Ontario,42.9609,-77.135,2042,531.8,shape,false,true,America/New_York,3,14432,1840004416
+Lattingtown,Lattingtown,New York,36059,Nassau,40.8922,-73.5967,2039,210.1,shape,false,true,America/New_York,3,11560,1840005301
+Kerhonkson,Kerhonkson,New York,36111,Ulster,41.7779,-74.2955,2038,137.9,shape,false,false,America/New_York,3,12446,1840004718
+Cooperstown,Cooperstown,New York,36077,Otsego,42.6996,-74.93,2034,480.4,shape,false,true,America/New_York,3,13326,1840004460
+Fort Plain,Fort Plain,New York,36057,Montgomery,42.9316,-74.6278,2015,578.6,shape,false,true,America/New_York,3,13339,1840004402
+Lorenz Park,Lorenz Park,New York,36021,Columbia,42.2669,-73.77,2003,433.3,shape,false,false,America/New_York,3,12534,1840034053
+Melrose Park,Melrose Park,New York,36011,Cayuga,42.9085,-76.5263,1997,206.6,shape,false,false,America/New_York,3,13021,1840004237
+Fallsburg,Fallsburg,New York,36105,Sullivan,41.7343,-74.6112,1996,228.7,shape,false,false,America/New_York,3,12733,1840153005
+Great River,Great River,New York,36103,Suffolk,40.7137,-73.1628,1992,183.8,shape,false,false,America/New_York,3,11730 11739,1840005073
+Port Dickinson,Port Dickinson,New York,36007,Broome,42.1361,-75.8939,1976,1217.5,shape,false,true,America/New_York,3,13901,1840004660
+Middleport,Middleport,New York,36063,Niagara,43.2117,-78.4757,1972,873.3,shape,false,true,America/New_York,3,14105,1840004273
+Youngstown,Youngstown,New York,36063,Niagara,43.2488,-79.0443,1965,701.9,shape,false,true,America/New_York,3,14174,1840004275
+Billington Heights,Billington Heights,New York,36029,Erie,42.7862,-78.6237,1965,240.2,shape,false,false,America/New_York,3,14052,1840004374
+Clyde,Clyde,New York,36117,Wayne,43.0839,-76.8707,1955,343.4,shape,false,true,America/New_York,3,14433,1840004298
+Town Line,Town Line,New York,36029,Erie,42.8858,-78.561,1951,163.0,shape,false,false,America/New_York,3,14004 14086,1840004382
+Oyster Bay Cove,Oyster Bay Cove,New York,36059,Nassau,40.8569,-73.5037,1942,179.2,shape,false,true,America/New_York,3,11791 11771,1840005317
+South Fallsburg,South Fallsburg,New York,36105,Sullivan,41.704,-74.6331,1938,234.9,shape,false,false,America/New_York,3,12779,1840004788
+Aquebogue,Aquebogue,New York,36103,Suffolk,40.9425,-72.6149,1937,196.6,shape,false,false,America/New_York,3,11931 11901,1840005015
+Clinton,Clinton,New York,36065,Oneida,43.0489,-75.3784,1928,1189.4,shape,false,true,America/New_York,3,13323,1840004223
+South Floral Park,South Floral Park,New York,36059,Nassau,40.7135,-73.7004,1928,4954.9,shape,false,true,America/New_York,2,11001,1840005327
+Conesus Lake,Conesus Lake,New York,36051,Livingston,42.7756,-77.7135,1925,170.4,shape,false,true,America/New_York,4,14454 14487 14480 14435,1840040222
+Washington Mills,Washington Mills,New York,36065,Oneida,43.0478,-75.2809,1910,1090.7,shape,false,false,America/New_York,3,13413,1840024028
+Hamilton College,Hamilton College,New York,36065,Oneida,43.0527,-75.4078,1906,1542.2,shape,false,false,America/New_York,3,13323,1840145794
+Stone Ridge,Stone Ridge,New York,36111,Ulster,41.8436,-74.1518,1900,123.2,shape,false,false,America/New_York,3,12484 12440,1840004724
+Katonah,Katonah,New York,36119,Westchester,41.256,-73.6857,1893,995.5,shape,false,false,America/New_York,3,10536,1840024179
+Frewsburg,Frewsburg,New York,36013,Chautauqua,42.0576,-79.1483,1891,218.5,shape,false,false,America/New_York,3,14738,1840004563
+Churchville,Churchville,New York,36055,Monroe,43.1034,-77.8825,1887,612.0,shape,false,true,America/New_York,3,14428,1840004288
+Shenorock,Shenorock,New York,36119,Westchester,41.3307,-73.7409,1883,1038.2,shape,false,false,America/New_York,3,10598 10587,1840004926
+Upper Brookville,Upper Brookville,New York,36059,Nassau,40.8475,-73.5628,1880,168.9,shape,false,true,America/New_York,3,11545 11771,1840005330
+Merritt Park,Merritt Park,New York,36027,Dutchess,41.5385,-73.8723,1879,1639.8,shape,false,true,America/New_York,3,12524,1840040260
+Weedsport,Weedsport,New York,36011,Cayuga,43.0482,-76.5637,1858,735.3,shape,false,true,America/New_York,3,13166,1840004243
+Crest View Heights,Crest View Heights,New York,36107,Tioga,42.0754,-76.1233,1858,587.0,shape,false,false,America/New_York,3,13760,1840083428
+Cold Spring,Cold Spring,New York,36079,Putnam,41.4191,-73.9545,1844,1199.2,shape,false,true,America/New_York,3,10516,1840004894
+Bellport,Bellport,New York,36103,Suffolk,40.754,-72.9422,1844,491.1,shape,false,true,America/New_York,3,11713,1840005144
+Milton,Milton,New York,36111,Ulster,41.6571,-73.9661,1835,189.9,shape,false,false,America/New_York,3,12547 12542,1840145543
+Old Brookville,Old Brookville,New York,36059,Nassau,40.8332,-73.604,1834,177.8,shape,false,true,America/New_York,3,11545 11548,1840005315
+Montour Falls,Montour Falls,New York,36097,Schuyler,42.3499,-76.8484,1830,234.9,shape,false,true,America/New_York,3,14865,1840004583
+Holley,Holley,New York,36073,Orleans,43.2247,-78.0292,1829,556.9,shape,false,true,America/New_York,3,14470,1840004262
+Northville,Northville,New York,36103,Suffolk,40.9723,-72.6181,1829,95.5,shape,false,false,America/New_York,3,11901,1840147481
+Northwest Ithaca,Northwest Ithaca,New York,36109,Tompkins,42.4578,-76.5387,1796,195.1,shape,false,true,America/New_York,4,14850,1840073644
+Tillson,Tillson,New York,36111,Ulster,41.8316,-74.0696,1782,293.4,shape,false,false,America/New_York,3,12486 12561,1840004725
+Watkins Glen,Watkins Glen,New York,36097,Schuyler,42.3801,-76.8673,1777,439.8,shape,false,true,America/New_York,3,14891,1840004585
+Huntington Bay,Huntington Bay,New York,36103,Suffolk,40.9014,-73.4162,1776,686.9,shape,false,true,America/New_York,3,11743,1840005119
+Houghton,Houghton,New York,36003,Allegany,42.4277,-78.1638,1771,251.3,shape,false,false,America/New_York,3,14744,1840004604
+East Atlantic Beach,East Atlantic Beach,New York,36059,Nassau,40.5876,-73.7092,1767,1299.9,shape,false,false,America/New_York,3,11561 11509,1840034033
+Clark Mills,Clark Mills,New York,36065,Oneida,43.0895,-75.3757,1749,452.5,shape,false,false,America/New_York,3,13321 13323 13492,1840004204
+Waterville,Waterville,New York,36065,Oneida,42.9306,-75.3802,1748,476.7,shape,false,true,America/New_York,3,13480,1840004215
+Village of the Branch,Village of the Branch,New York,36103,Suffolk,40.8523,-73.1844,1747,710.0,shape,false,true,America/New_York,3,11787,1840034011
+Shortsville,Shortsville,New York,36069,Ontario,42.9556,-77.2227,1745,1068.6,shape,false,true,America/New_York,3,14548,1840004413
+Altamont,Altamont,New York,36001,Albany,42.7056,-74.034,1745,532.2,shape,false,true,America/New_York,3,12009,1840004494
+Painted Post,Painted Post,New York,36101,Steuben,42.1634,-77.0925,1735,525.7,shape,false,true,America/New_York,3,14870,1840004551
+Remsenburg-Speonk,Remsenburg-Speonk,New York,36103,Suffolk,40.8158,-72.7064,1732,185.8,shape,false,true,America/New_York,4,11960 11977 11972,1840073662
+Valatie,Valatie,New York,36021,Columbia,42.4134,-73.6779,1668,513.5,shape,false,true,America/New_York,3,12184,1840004632
+Black River,Black River,New York,36045,Jefferson,44.0089,-75.7966,1660,359.8,shape,false,true,America/New_York,3,13612,1840004122
+Pine Bush,Pine Bush,New York,36071,Orange,41.6093,-74.2966,1659,304.1,shape,false,false,America/New_York,3,12566,1840004860
+Schuylerville,Schuylerville,New York,36091,Saratoga,43.1015,-73.5808,1640,1188.0,shape,false,true,America/New_York,3,12871,1840004250
+Angola on the Lake,Angola on the Lake,New York,36029,Erie,42.655,-79.0523,1640,248.8,shape,false,false,America/New_York,3,14006,1840004373
+Morrisonville,Morrisonville,New York,36019,Clinton,44.6941,-73.5552,1639,188.2,shape,false,false,America/New_York,3,12901 12962,1840004038
+Sleepy Hollow Lake,Sleepy Hollow Lake,New York,36039,Greene,42.3034,-73.8086,1636,329.1,shape,false,false,America/New_York,3,12015,1840149910
+Jamesport,Jamesport,New York,36103,Suffolk,40.9546,-72.5807,1634,140.3,shape,false,false,America/New_York,3,11947 11970 11948 11901,1840005084
+West Carthage,West Carthage,New York,36045,Jefferson,43.973,-75.6219,1632,481.9,shape,false,true,America/New_York,3,13619,1840004118
+Loch Sheldrake,Loch Sheldrake,New York,36105,Sullivan,41.7702,-74.657,1623,379.0,shape,false,false,America/New_York,3,12759 12747,1840033908
+Averill Park,Averill Park,New York,36083,Rensselaer,42.6393,-73.5583,1608,153.8,shape,false,false,America/New_York,3,12018,1840004431
+West Hurley,West Hurley,New York,36111,Ulster,42.0083,-74.112,1608,163.9,shape,false,false,America/New_York,3,12491 12433 12498,1840004728
+Brocton,Brocton,New York,36013,Chautauqua,42.3898,-79.4428,1573,343.3,shape,false,true,America/New_York,3,14716,1840004575
+Washington Heights,Washington Heights,New York,36071,Orange,41.4692,-74.4177,1572,412.5,shape,false,false,America/New_York,3,10940,1840004865
+East Marion,East Marion,New York,36103,Suffolk,41.1288,-72.3419,1564,269.8,shape,false,false,America/New_York,3,11939,1840005037
+Philmont,Philmont,New York,36021,Columbia,42.2478,-73.6462,1559,495.2,shape,false,true,America/New_York,3,12565,1840004631
+Golden's Bridge,Golden's Bridge,New York,36119,Westchester,41.2878,-73.6682,1556,249.2,shape,false,true,America/New_York,3,10536 10526,1840033892
+Ransomville,Ransomville,New York,36063,Niagara,43.2396,-78.9129,1554,101.6,shape,false,false,America/New_York,3,14131,1840004268
+Bridgeport,Bridgeport,New York,36053,Madison,43.1551,-75.9723,1551,310.7,shape,false,false,America/New_York,3,13030 13082,1840033857
+Sackets Harbor,Sackets Harbor,New York,36045,Jefferson,43.9418,-76.1182,1531,256.4,shape,false,true,America/New_York,3,13685,1840004116
+Morrisville,Morrisville,New York,36053,Madison,42.8987,-75.6448,1526,575.3,shape,false,true,America/New_York,3,13408,1840004356
+Nissequogue,Nissequogue,New York,36103,Suffolk,40.9023,-73.1923,1523,154.4,shape,false,true,America/New_York,3,11780,1840005124
+Head of the Harbor,Head of the Harbor,New York,36103,Suffolk,40.8981,-73.1624,1501,206.6,shape,false,true,America/New_York,3,11780,1840005118
+Sanborn,Sanborn,New York,36063,Niagara,43.1451,-78.8777,1499,219.8,shape,false,false,America/New_York,3,14132,1840026162
+Clintondale,Clintondale,New York,36111,Ulster,41.6924,-74.0429,1493,90.0,shape,false,false,America/New_York,3,12515 12528,1840004703
+Trumansburg,Trumansburg,New York,36109,Tompkins,42.541,-76.6618,1485,413.3,shape,false,true,America/New_York,3,14886,1840004545
+Jordan,Jordan,New York,36067,Onondaga,43.0671,-76.473,1480,490.8,shape,false,true,America/New_York,3,13080,1840004321
+Castleton-on-Hudson,Castleton-on-Hudson,New York,36083,Rensselaer,42.5332,-73.7491,1480,800.7,shape,false,true,America/New_York,3,12033,1840004440
+Crugers,Crugers,New York,36119,Westchester,41.2279,-73.9259,1466,852.3,shape,false,false,America/New_York,3,10520 10521,1840004918
+Niverville,Niverville,New York,36021,Columbia,42.4484,-73.6497,1463,196.5,shape,false,false,America/New_York,3,12184 12130,1840004626
+Kensington,Kensington,New York,36059,Nassau,40.7932,-73.7222,1445,2051.0,shape,false,true,America/New_York,2,11021 11023 11026,1840005298
+Walker Valley,Walker Valley,New York,36111,Ulster,41.6399,-74.3761,1440,171.7,shape,false,false,America/New_York,3,12566 12588,1840004726
+Jefferson Heights,Jefferson Heights,New York,36039,Greene,42.2361,-73.8822,1435,375.6,shape,false,false,America/New_York,3,12414,1840004644
+Otisville,Otisville,New York,36071,Orange,41.4714,-74.5397,1431,723.0,shape,false,true,America/New_York,3,10963,1840004876
+Bridgehampton,Bridgehampton,New York,36103,Suffolk,40.9427,-72.3101,1418,42.1,shape,false,false,America/New_York,3,11932 11962 11976,1840005022
+Gasport,Gasport,New York,36063,Niagara,43.1938,-78.5762,1400,173.3,shape,false,false,America/New_York,3,14067,1840004270
+Bay Park,Bay Park,New York,36059,Nassau,40.6302,-73.667,1389,1068.4,shape,false,false,America/New_York,3,11518,1840005230
+Millbrook,Millbrook,New York,36027,Dutchess,41.7842,-73.6937,1382,286.9,shape,false,true,America/New_York,3,12545,1840004749
+Hurleyville,Hurleyville,New York,36105,Sullivan,41.7418,-74.6753,1381,475.1,shape,false,false,America/New_York,3,12747,1840084144
+Rapids,Rapids,New York,36063,Niagara,43.0976,-78.644,1380,146.2,shape,false,false,America/New_York,3,14094,1840004269
+MacDonnell Heights,MacDonnell Heights,New York,36027,Dutchess,41.7165,-73.8605,1373,844.3,shape,false,false,America/New_York,3,12603,1840084446
+Plandome,Plandome,New York,36059,Nassau,40.8069,-73.6996,1365,1070.3,shape,false,true,America/New_York,3,11030,1840005318
+Bloomfield,Bloomfield,New York,36069,Ontario,42.8991,-77.4242,1362,376.9,shape,false,true,America/New_York,3,14469,1840034027
+Harbor Isle,Harbor Isle,New York,36059,Nassau,40.6018,-73.6647,1360,3808.5,shape,false,false,America/New_York,2,11558,1840005263
+Cumberland Head,Cumberland Head,New York,36019,Clinton,44.7177,-73.398,1357,135.7,shape,false,false,America/New_York,3,12901,1840034045
+Mayville,Mayville,New York,36013,Chautauqua,42.2531,-79.503,1355,259.5,shape,false,true,America/New_York,3,14757,1840004568
+Roslyn Estates,Roslyn Estates,New York,36059,Nassau,40.7937,-73.6612,1350,1193.6,shape,false,true,America/New_York,3,11576,1840005322
+Peach Lake,Peach Lake,New York,36079,Putnam,41.3693,-73.5785,1349,226.2,shape,false,false,America/New_York,3,10509 10560,1840034058
+New Hackensack,New Hackensack,New York,36027,Dutchess,41.6194,-73.8593,1329,247.3,shape,false,false,America/New_York,3,12590,1840084685
+Atlantic Beach,Atlantic Beach,New York,36059,Nassau,40.5893,-73.7295,1321,1161.2,shape,false,true,America/New_York,3,11509,1840005335
+Bard College,Bard College,New York,36027,Dutchess,42.0227,-73.9094,1312,632.2,shape,false,false,America/New_York,3,12504,1840152108
+Celoron,Celoron,New York,36013,Chautauqua,42.1052,-79.2777,1310,676.5,shape,false,true,America/New_York,3,14720 14701,1840004577
+Plattsburgh West,Plattsburgh West,New York,36019,Clinton,44.6837,-73.5037,1307,266.3,shape,false,true,America/New_York,3,12901,1840073655
+Shokan,Shokan,New York,36111,Ulster,41.9809,-74.213,1294,128.4,shape,false,false,America/New_York,3,12481,1840004723
+Wingdale,Wingdale,New York,36027,Dutchess,41.6376,-73.5687,1292,194.4,shape,false,false,America/New_York,3,12594,1840085971
+North Ballston Spa,North Ballston Spa,New York,36091,Saratoga,43.0194,-73.8516,1283,570.2,shape,false,true,America/New_York,3,12020,1840073640
+Norwood,Norwood,New York,36089,St. Lawrence,44.7482,-74.997,1282,236.3,shape,false,true,America/New_York,3,13668,1840004060
+Union Springs,Union Springs,New York,36011,Cayuga,42.8457,-76.6909,1280,282.7,shape,false,true,America/New_York,3,13160,1840004242
+Saint John Fisher College,Saint John Fisher College,New York,36055,Monroe,43.1143,-77.5108,1276,2280.3,shape,false,false,America/New_York,2,14618,1840145796
+Sparrow Bush,Sparrow Bush,New York,36071,Orange,41.4025,-74.7175,1272,174.9,shape,false,false,America/New_York,3,12771 12780,1840085419
+Brewster Heights,Brewster Heights,New York,36079,Putnam,41.4073,-73.6286,1262,923.8,shape,false,false,America/New_York,3,10509,1840083108
+McGraw,McGraw,New York,36023,Cortland,42.5938,-76.0975,1261,493.3,shape,false,true,America/New_York,3,13101,1840004499
+Weston Mills,Weston Mills,New York,36009,Cattaraugus,42.0738,-78.3714,1259,69.0,shape,false,false,America/New_York,3,14760 14788,1840004587
+Eatons Neck,Eatons Neck,New York,36103,Suffolk,40.9324,-73.3955,1258,483.4,shape,false,false,America/New_York,3,11768,1840034049
+Hillside Lake,Hillside Lake,New York,36027,Dutchess,41.6191,-73.7944,1256,927.6,shape,false,false,America/New_York,3,12590,1840034052
+Mineville,Mineville,New York,36031,Essex,44.0933,-73.5246,1246,130.0,shape,false,false,America/New_York,3,12956 12998,1840023959
+Richfield Springs,Richfield Springs,New York,36077,Otsego,42.8536,-74.9862,1240,475.7,shape,false,true,America/New_York,3,13439,1840004457
+Chelsea Cove,Chelsea Cove,New York,36027,Dutchess,41.6133,-73.7469,1233,1514.4,shape,false,false,America/New_York,3,12533,1840152106
+Nazareth College,Nazareth College,New York,36055,Monroe,43.1031,-77.5193,1229,1075.8,shape,false,false,America/New_York,3,14618,1840145792
+Orient,Orient,New York,36103,Suffolk,41.1425,-72.2771,1220,91.9,shape,false,false,America/New_York,3,11957,1840005064
+Niagara University,Niagara University,New York,36063,Niagara,43.1372,-79.0352,1218,1803.9,shape,false,false,America/Toronto,3,14109,1840145793
+Wurtsboro,Wurtsboro,New York,36105,Sullivan,41.5761,-74.4856,1218,376.5,shape,false,true,America/New_York,3,12790,1840004793
+Lincolndale,Lincolndale,New York,36119,Westchester,41.3356,-73.7252,1217,487.7,shape,false,false,America/New_York,3,10589 10541,1840004924
+Great Bend,Great Bend,New York,36045,Jefferson,44.0198,-75.7076,1208,80.5,shape,false,false,America/New_York,3,13643 13619,1840004109
+Saddle Rock,Saddle Rock,New York,36059,Nassau,40.7947,-73.7492,1207,1583.2,shape,false,true,America/New_York,3,11023,1840033948
+Oriskany,Oriskany,New York,36065,Oneida,43.1568,-75.3335,1201,585.8,shape,false,true,America/New_York,3,13424,1840004209
+Stottville,Stottville,New York,36021,Columbia,42.2932,-73.753,1186,93.9,shape,false,false,America/New_York,3,12172 12534,1840004629
+Delevan,Delevan,New York,36009,Cattaraugus,42.4912,-78.4796,1175,456.4,shape,false,true,America/New_York,3,14042,1840004599
+Cortland West,Cortland West,New York,36023,Cortland,42.5942,-76.2258,1168,87.3,shape,false,true,America/New_York,4,13045,1840035087
+Greenvale,Greenvale,New York,36059,Nassau,40.8118,-73.6262,1164,1098.7,shape,false,false,America/New_York,3,11548,1840005261
+Hagaman,Hagaman,New York,36057,Montgomery,42.9728,-74.1545,1156,298.0,shape,false,true,America/New_York,3,12010 12086,1840004404
+Dover Plains,Dover Plains,New York,36027,Dutchess,41.7395,-73.5733,1154,651.5,shape,false,false,America/New_York,3,12522,1840004741
+North Hornell,North Hornell,New York,36101,Steuben,42.3453,-77.6605,1152,906.5,shape,false,false,America/New_York,3,14843,1840004550
+Fair Haven,Fair Haven,New York,36011,Cayuga,43.3263,-76.7044,1151,252.4,shape,false,true,America/New_York,3,13156 13064,1840004238
+Baxter Estates,Baxter Estates,New York,36059,Nassau,40.8338,-73.6948,1148,2103.6,shape,false,true,America/New_York,2,11050,1840033846
+Great Neck Gardens,Great Neck Gardens,New York,36059,Nassau,40.797,-73.7225,1139,2051.0,shape,false,false,America/New_York,2,11021 11023,1840034034
+Alexandria Bay,Alexandria Bay,New York,36045,Jefferson,44.34,-75.9161,1131,582.8,shape,false,true,America/New_York,3,13607,1840004120
+Hillburn,Hillburn,New York,36087,Rockland,41.1263,-74.1706,1131,195.5,shape,false,true,America/New_York,3,10931,1840004976
+Sparkill,Sparkill,New York,36087,Rockland,41.0289,-73.9333,1125,820.1,shape,false,false,America/New_York,3,10983 10976,1840026341
+Whitney Point,Whitney Point,New York,36007,Broome,42.3303,-75.9682,1116,413.3,shape,false,true,America/New_York,3,13862,1840004661
+Cattaraugus,Cattaraugus,New York,36009,Cattaraugus,42.33,-78.8671,1111,383.9,shape,false,true,America/New_York,3,14719,1840004598
+Sand Ridge,Sand Ridge,New York,36075,Oswego,43.2553,-76.2294,1111,158.4,shape,false,false,America/New_York,3,13132,1840034061
+Point Lookout,Point Lookout,New York,36059,Nassau,40.5906,-73.5796,1110,2172.6,shape,false,false,America/New_York,2,11569,1840005251
+Mill Neck,Mill Neck,New York,36059,Nassau,40.8839,-73.5582,1108,163.6,shape,false,true,America/New_York,3,11765,1840005309
+Forest Home,Forest Home,New York,36109,Tompkins,42.4529,-76.4693,1107,882.0,shape,false,false,America/New_York,3,14850,1840004540
+Poquott,Poquott,New York,36103,Suffolk,40.9529,-73.0904,1107,974.8,shape,false,true,America/New_York,3,11733,1840005130
+Russell Gardens,Russell Gardens,New York,36059,Nassau,40.7809,-73.7254,1100,2465.3,shape,false,true,America/New_York,2,11021,1840005324
+Sodus Point,Sodus Point,New York,36117,Wayne,43.264,-76.9954,1096,288.7,shape,false,true,America/New_York,3,14555,1840004296
+Keuka Park,Keuka Park,New York,36123,Yates,42.613,-77.0922,1092,506.4,shape,false,false,America/New_York,3,14478 14527,1840026189
+Hewlett Harbor,Hewlett Harbor,New York,36059,Nassau,40.6327,-73.6843,1066,567.9,shape,false,true,America/New_York,3,11557,1840005295
+Shelter Island Heights,Shelter Island Heights,New York,36103,Suffolk,41.0661,-72.3493,1056,75.5,shape,false,false,America/New_York,3,11964 11965 11963,1840005095
+Port Byron,Port Byron,New York,36011,Cayuga,43.0366,-76.6263,1049,444.2,shape,false,true,America/New_York,3,13140,1840004241
+Claverack-Red Mills,Claverack-Red Mills,New York,36021,Columbia,42.2264,-73.7268,1042,133.5,shape,false,true,America/New_York,4,12534 12513,1840073610
+Arkport,Arkport,New York,36101,Steuben,42.3926,-77.6955,1041,578.9,shape,false,true,America/New_York,3,14807,1840004557
+Olcott,Olcott,New York,36063,Niagara,43.3292,-78.7171,1041,110.8,shape,false,false,America/New_York,3,14028 14126,1840004267
+Adams Center,Adams Center,New York,36045,Jefferson,43.8616,-76.0001,1022,81.2,shape,false,false,America/New_York,3,13606,1840004104
+Old Field,Old Field,New York,36103,Suffolk,40.9614,-73.1324,1020,190.3,shape,false,true,America/New_York,3,11733,1840005128
+Bellerose,Bellerose,New York,36059,Nassau,40.7243,-73.7167,999,3598.9,shape,false,true,America/New_York,2,11001,1840005337
+Ruby,Ruby,New York,36111,Ulster,42.0125,-74.0103,996,226.2,shape,false,false,America/New_York,3,12475 12449,1840085171
+Roslyn Harbor,Roslyn Harbor,New York,36059,Nassau,40.8158,-73.6379,984,319.1,shape,false,true,America/New_York,3,11576,1840005323
+Laurel,Laurel,New York,36103,Suffolk,40.9728,-72.556,980,126.1,shape,false,false,America/New_York,3,11948 11952,1840005087
+South Corning,South Corning,New York,36101,Steuben,42.1262,-77.0356,966,604.8,shape,false,true,America/New_York,3,14830,1840004554
+Bloomingburg,Bloomingburg,New York,36105,Sullivan,41.5519,-74.4436,962,539.7,shape,false,true,America/New_York,3,12721,1840004794
+Plandome Heights,Plandome Heights,New York,36059,Nassau,40.8021,-73.7049,938,1668.7,shape,false,true,America/New_York,3,11030,1840033934
+Woodridge,Woodridge,New York,36105,Sullivan,41.7122,-74.5741,936,215.9,shape,false,true,America/New_York,3,12789,1840004792
+Schroon Lake,Schroon Lake,New York,36031,Essex,43.8345,-73.7647,926,123.9,shape,false,false,America/New_York,3,12870,1840026123
+Palenville,Palenville,New York,36039,Greene,42.1773,-74.0226,925,105.6,shape,false,false,America/New_York,3,12463,1840004642
+New Hamburg,New Hamburg,New York,36027,Dutchess,41.5891,-73.9428,921,739.3,shape,false,false,America/New_York,3,12590,1840084686
+North Haven,North Haven,New York,36103,Suffolk,41.023,-72.314,913,132.8,shape,false,true,America/New_York,3,11963,1840005125
+South Lansing,South Lansing,New York,36109,Tompkins,42.5369,-76.4968,910,127.3,shape,false,false,America/New_York,3,14882,1840149111
+Hannawa Falls,Hannawa Falls,New York,36089,St. Lawrence,44.6016,-74.9738,892,67.2,shape,false,false,America/New_York,3,13676 13647,1840034019
+Woodsburgh,Woodsburgh,New York,36059,Nassau,40.6216,-73.7068,887,662.6,shape,false,true,America/New_York,3,11598,1840005334
+Chadwicks,Chadwicks,New York,36065,Oneida,43.0291,-75.271,880,257.2,shape,false,false,America/New_York,3,13319 13413,1840024027
+Belmont,Belmont,New York,36003,Allegany,42.2226,-78.0327,865,335.4,shape,false,true,America/New_York,3,14813,1840004612
+Walworth,Walworth,New York,36117,Wayne,43.1396,-77.2793,865,227.8,shape,false,false,America/New_York,3,14568,1840153003
+Breesport,Breesport,New York,36015,Chemung,42.1816,-76.7358,864,204.8,shape,false,false,America/New_York,3,14838 14816,1840026214
+Livingston Manor,Livingston Manor,New York,36105,Sullivan,41.8931,-74.8255,863,102.7,shape,false,false,America/New_York,3,12758,1840004786
+Millerton,Millerton,New York,36027,Dutchess,41.9534,-73.5113,862,540.0,shape,false,true,America/New_York,3,12546,1840004750
+Sylvan Beach,Sylvan Beach,New York,36065,Oneida,43.2061,-75.7233,856,481.4,shape,false,true,America/New_York,3,13157 13308,1840004213
+Corfu,Corfu,New York,36037,Genesee,42.9611,-78.4028,852,330.6,shape,false,true,America/New_York,3,14036,1840004369
+Cleveland,Cleveland,New York,36075,Oswego,43.2398,-75.8846,849,289.7,shape,false,true,America/New_York,3,13042,1840004198
+Napanoch,Napanoch,New York,36111,Ulster,41.753,-74.3724,843,226.6,shape,false,false,America/New_York,3,12458,1840004707
+West Winfield,West Winfield,New York,36043,Herkimer,42.8838,-75.1914,843,357.2,shape,false,true,America/New_York,3,13491,1840004154
+Nassau Lake,Nassau Lake,New York,36083,Rensselaer,42.5366,-73.6059,840,213.2,shape,false,false,America/New_York,3,12123,1840151585
+Tribes Hill,Tribes Hill,New York,36057,Montgomery,42.9479,-74.2989,838,142.1,shape,false,false,America/New_York,3,12177 12068,1840004399
+Lyndonville,Lyndonville,New York,36073,Orleans,43.3213,-78.3891,829,312.4,shape,false,true,America/New_York,3,14098,1840004263
+Hopewell Junction,Hopewell Junction,New York,36027,Dutchess,41.5805,-73.8103,824,428.5,shape,false,false,America/New_York,3,12533,1840004746
+Round Lake,Round Lake,New York,36091,Saratoga,42.9376,-73.7958,822,282.8,shape,false,true,America/New_York,3,12151,1840004249
+Copake Lake,Copake Lake,New York,36021,Columbia,42.1416,-73.5903,817,33.2,shape,false,false,America/New_York,3,12521 12529 12516,1840004625
+Belle Terre,Belle Terre,New York,36103,Suffolk,40.9607,-73.0672,811,353.9,shape,false,true,America/New_York,3,11777,1840005143
+Matinecock,Matinecock,New York,36059,Nassau,40.864,-73.5818,806,116.7,shape,false,true,America/New_York,3,11560,1840005308
+Tivoli,Tivoli,New York,36027,Dutchess,42.0587,-73.9119,802,200.8,shape,false,true,America/New_York,3,12583,1840004754
+Verplanck,Verplanck,New York,36119,Westchester,41.2552,-73.9621,796,510.7,shape,false,false,America/New_York,3,10596,1840004929
+Peconic,Peconic,New York,36103,Suffolk,41.0369,-72.459,793,92.0,shape,false,false,America/New_York,3,11958 11971,1840005065
+East Herkimer,East Herkimer,New York,36043,Herkimer,43.0316,-74.9636,792,256.2,shape,false,false,America/New_York,3,13350,1840083591
+Marcy,Marcy,New York,36065,Oneida,43.1373,-75.268,791,177.8,shape,false,false,America/New_York,3,13403,1840153006
+Quiogue,Quiogue,New York,36103,Suffolk,40.8202,-72.628,787,241.3,shape,false,true,America/New_York,3,11978,1840005067
+Lacona,Lacona,New York,36075,Oswego,43.6434,-76.0666,782,271.4,shape,false,true,America/New_York,3,13083,1840004190
+Mariaville Lake,Mariaville Lake,New York,36093,Schenectady,42.8252,-74.1287,779,53.5,shape,false,false,America/New_York,3,12053 12137 12306,1840004447
+Pamelia Center,Pamelia Center,New York,36045,Jefferson,44.0356,-75.9033,770,212.5,shape,false,true,America/New_York,3,13601,1840023984
+Honeoye,Honeoye,New York,36069,Ontario,42.7885,-77.5125,768,238.2,shape,false,false,America/New_York,3,14471,1840026188
+Dexter,Dexter,New York,36045,Jefferson,44.0111,-76.0425,763,442.7,shape,false,true,America/New_York,3,13634,1840004129
+Durhamville,Durhamville,New York,36065,Oneida,43.1225,-75.665,761,214.1,shape,false,false,America/New_York,3,13054,1840026151
+Lime Lake,Lime Lake,New York,36009,Cattaraugus,42.4327,-78.4808,755,122.6,shape,false,false,America/New_York,3,14042 14101,1840024096
+Hillside,Hillside,New York,36111,Ulster,41.9177,-74.0337,754,355.7,shape,false,false,America/New_York,3,12401,1840034036
+Crystal Beach,Crystal Beach,New York,36069,Ontario,42.8095,-77.2582,746,422.6,shape,false,false,America/New_York,3,14424,1840026187
+Red Creek,Red Creek,New York,36117,Wayne,43.2488,-76.7225,746,317.0,shape,false,true,America/New_York,3,13143,1840004294
+Zena,Zena,New York,36111,Ulster,42.0203,-74.085,726,91.7,shape,false,false,America/New_York,3,12401 12498,1840004730
+Copenhagen,Copenhagen,New York,36049,Lewis,43.8934,-75.6726,723,237.5,shape,false,true,America/New_York,3,13626,1840004140
+Palatine Bridge,Palatine Bridge,New York,36057,Montgomery,42.9143,-74.5756,701,293.7,shape,false,true,America/New_York,3,13428,1840004406
+Tuxedo Park,Tuxedo Park,New York,36071,Orange,41.2007,-74.206,700,101.7,shape,false,true,America/New_York,3,10987,1840004878
+Varna,Varna,New York,36109,Tompkins,42.4525,-76.4383,699,378.3,shape,false,false,America/New_York,3,14850,1840085670
+Oneida Castle,Oneida Castle,New York,36065,Oneida,43.0812,-75.6331,699,533.4,shape,false,true,America/New_York,3,13421,1840004208
+Millwood,Millwood,New York,36119,Westchester,41.1947,-73.7964,696,446.3,shape,false,false,America/New_York,3,10546,1840033915
+Nelliston,Nelliston,New York,36057,Montgomery,42.9318,-74.6099,693,242.2,shape,false,true,America/New_York,3,13428 13339 13410,1840004405
+Chaumont,Chaumont,New York,36045,Jefferson,44.0676,-76.1302,686,269.3,shape,false,true,America/New_York,3,13622,1840004126
+Amagansett,Amagansett,New York,36103,Suffolk,40.9841,-72.1329,678,39.7,shape,false,false,America/New_York,3,11937 11930,1840005014
+Pultneyville,Pultneyville,New York,36117,Wayne,43.2739,-77.1814,678,111.7,shape,false,false,America/New_York,3,14589 14538,1840026166
+Nelsonville,Nelsonville,New York,36079,Putnam,41.4291,-73.9466,674,251.7,shape,false,true,America/New_York,3,10516,1840004892
+Savona,Savona,New York,36101,Steuben,42.283,-77.2238,673,249.9,shape,false,true,America/New_York,3,14879,1840004553
+Fultonville,Fultonville,New York,36057,Montgomery,42.9463,-74.3704,670,542.3,shape,false,true,America/New_York,3,12072,1840004403
+Unionville,Unionville,New York,36071,Orange,41.3013,-74.5619,670,656.7,shape,false,true,America/New_York,3,10988,1840004879
+Hemlock,Hemlock,New York,36051,Livingston,42.7938,-77.6073,668,138.5,shape,false,false,America/New_York,3,14466,1840024073
+Jacksonville,Jacksonville,New York,36109,Tompkins,42.5088,-76.6167,668,71.5,shape,false,false,America/New_York,3,14886 14854,1840084186
+Smallwood,Smallwood,New York,36105,Sullivan,41.6606,-74.8159,666,107.0,shape,false,false,America/New_York,3,12778 12786 12762,1840004787
+Plandome Manor,Plandome Manor,New York,36059,Nassau,40.8147,-73.6984,665,474.0,shape,false,true,America/New_York,3,11030 11050,1840033935
+Round Top,Round Top,New York,36039,Greene,42.2616,-74.0284,663,29.2,shape,false,false,America/New_York,3,12473,1840085167
+Glen Park,Glen Park,New York,36045,Jefferson,44.0016,-75.9548,661,357.4,shape,false,true,America/New_York,3,13601,1840004112
+Margaretville,Margaretville,New York,36025,Delaware,42.1458,-74.6503,656,364.2,shape,false,true,America/New_York,3,12455,1840004620
+Oriskany Falls,Oriskany Falls,New York,36065,Oneida,42.938,-75.4636,655,499.6,shape,false,true,America/New_York,3,13425,1840004210
+Asharoken,Asharoken,New York,36103,Suffolk,40.9381,-73.3816,652,177.0,shape,false,true,America/New_York,3,11768,1840005141
+Fillmore,Fillmore,New York,36003,Allegany,42.4658,-78.1105,652,265.2,shape,false,false,America/New_York,3,14735,1840004602
+Taconic Shores,Taconic Shores,New York,36021,Columbia,42.1193,-73.5531,652,302.6,shape,false,false,America/New_York,3,12516,1840034068
+Star Lake,Star Lake,New York,36089,St. Lawrence,44.1613,-75.0363,649,57.8,shape,false,false,America/New_York,3,13690,1840004053
+Saddle Rock Estates,Saddle Rock Estates,New York,36059,Nassau,40.794,-73.7414,642,2627.8,shape,false,false,America/New_York,2,11021 11023,1840033949
+Hewlett Neck,Hewlett Neck,New York,36059,Nassau,40.6246,-73.6981,641,309.7,shape,false,true,America/New_York,3,11598,1840005296
+Freedom Plains,Freedom Plains,New York,36027,Dutchess,41.6695,-73.7974,641,191.8,shape,false,false,America/New_York,3,12569 12540,1840024103
+Quogue,Quogue,New York,36103,Suffolk,40.8215,-72.5987,640,59.3,shape,false,true,America/New_York,3,11959,1840005132
+Heuvelton,Heuvelton,New York,36089,St. Lawrence,44.617,-75.4047,638,323.8,shape,false,true,America/New_York,3,13654,1840004057
+Sharon Springs,Sharon Springs,New York,36095,Schoharie,42.793,-74.6128,632,133.6,shape,false,true,America/New_York,3,13459,1840004487
+Earlville,Earlville,New York,36017,Chenango,42.7401,-75.5436,629,224.7,shape,false,true,America/New_York,3,13332,1840004363
+Hailesboro,Hailesboro,New York,36089,St. Lawrence,44.3097,-75.4356,627,51.5,shape,false,false,America/New_York,3,13645 13642,1840025338
+Middleville,Middleville,New York,36043,Herkimer,43.1384,-74.9707,622,313.9,shape,false,true,America/New_York,3,13406 13416,1840004150
+Scotts Corners,Scotts Corners,New York,36119,Westchester,41.1889,-73.5561,620,135.0,shape,false,false,America/New_York,3,10576,1840004925
+Stannards,Stannards,New York,36003,Allegany,42.0741,-77.9123,616,85.0,shape,false,false,America/New_York,3,14895,1840004605
+Paul Smiths,Paul Smiths,New York,36033,Franklin,44.4341,-74.2533,616,342.9,shape,false,false,America/New_York,3,12970,1840026120
+Silver Springs,Silver Springs,New York,36121,Wyoming,42.6605,-78.0855,615,249.3,shape,false,true,America/New_York,3,14550,1840004470
+Port Leyden,Port Leyden,New York,36049,Lewis,43.5838,-75.3412,613,383.6,shape,false,true,America/New_York,3,13433,1840004136
+Titusville,Titusville,New York,36027,Dutchess,41.6663,-73.8633,613,342.7,shape,false,false,America/New_York,3,12603,1840024107
+Pine Valley,Pine Valley,New York,36015,Chemung,42.2272,-76.847,609,195.2,shape,false,false,America/New_York,3,14864 14872,1840026215
+South Dayton,South Dayton,New York,36009,Cattaraugus,42.3628,-79.051,606,232.6,shape,false,true,America/New_York,3,14138,1840004596
+North Granville,North Granville,New York,36115,Washington,43.4515,-73.3581,605,224.4,shape,false,false,America/New_York,3,12832,1840084758
+Willsboro Point,Willsboro Point,New York,36031,Essex,44.4246,-73.3807,603,83.7,shape,false,false,America/New_York,3,12996,1840033991
+Sinclairville,Sinclairville,New York,36013,Chautauqua,42.2653,-79.259,595,141.5,shape,false,true,America/New_York,3,14782,1840004572
+Shoreham,Shoreham,New York,36103,Suffolk,40.957,-72.9071,591,502.6,shape,false,true,America/New_York,3,11786,1840005136
+Wampsville,Wampsville,New York,36053,Madison,43.0772,-75.7097,590,222.4,shape,false,true,America/New_York,3,13163 13032,1840004358
+Au Sable Forks,Au Sable Forks,New York,36019,Clinton,44.4507,-73.6738,590,91.9,shape,false,false,America/New_York,3,12912,1840004036
+North Rose,North Rose,New York,36117,Wayne,43.1872,-76.8863,588,134.3,shape,false,false,America/New_York,3,14516,1840026167
+Malverne Park Oaks,Malverne Park Oaks,New York,36059,Nassau,40.6816,-73.6645,585,2092.4,shape,false,false,America/New_York,2,11565 11552,1840034037
+Wainscott,Wainscott,New York,36103,Suffolk,40.9592,-72.2508,585,33.5,shape,false,false,America/New_York,3,11937 11975,1840005108
+Lakeville,Lakeville,New York,36051,Livingston,42.8367,-77.703,577,333.8,shape,false,false,America/New_York,3,14480,1840024076
+Caroga Lake,Caroga Lake,New York,36035,Fulton,43.1352,-74.481,577,89.1,shape,false,false,America/New_York,3,12032 12078,1840026173
+Port Gibson,Port Gibson,New York,36069,Ontario,43.0334,-77.1569,576,179.6,shape,false,false,America/New_York,3,14537 14432,1840025456
+Richburg,Richburg,New York,36003,Allegany,42.0887,-78.1565,573,245.8,shape,false,true,America/New_York,3,14715 14774,1840004606
+Old Forge,Old Forge,New York,36043,Herkimer,43.706,-74.9722,573,123.9,shape,false,false,America/New_York,3,13420,1840026142
+Hammondsport,Hammondsport,New York,36101,Steuben,42.4082,-77.2234,569,395.8,shape,false,true,America/New_York,3,14840,1840004549
+East Avon,East Avon,New York,36051,Livingston,42.9128,-77.7073,568,167.1,shape,false,false,America/New_York,3,14414,1840024070
+Brushton,Brushton,New York,36033,Franklin,44.8308,-74.5117,564,537.1,shape,false,true,America/New_York,3,12916,1840004070
+Central Bridge,Central Bridge,New York,36095,Schoharie,42.711,-74.3452,561,75.8,shape,false,false,America/New_York,3,12035 12092,1840025480
+Chestertown,Chestertown,New York,36113,Warren,43.6461,-73.7945,558,56.1,shape,false,false,America/New_York,3,12817,1840025430
+Odessa,Odessa,New York,36097,Schuyler,42.335,-76.7881,553,187.9,shape,false,true,America/New_York,3,14869,1840004584
+East Randolph,East Randolph,New York,36009,Cattaraugus,42.1693,-78.952,551,191.8,shape,false,false,America/New_York,3,14772 14730,1840004600
+South Cairo,South Cairo,New York,36039,Greene,42.2684,-73.9558,550,91.9,shape,false,false,America/New_York,3,12482,1840085355
+Cadyville,Cadyville,New York,36019,Clinton,44.6977,-73.6441,549,195.3,shape,false,false,America/New_York,3,12918,1840083178
+Rifton,Rifton,New York,36111,Ulster,41.8297,-74.038,548,170.7,shape,false,false,America/New_York,3,12561 12471 12487,1840004712
+Rushville,Rushville,New York,36123,Yates,42.7612,-77.228,547,312.2,shape,false,true,America/New_York,3,14544,1840004504
+North Creek,North Creek,New York,36113,Warren,43.6923,-73.9835,546,119.9,shape,false,false,America/New_York,3,12853,1840026145
+Watchtower,Watchtower,New York,36111,Ulster,41.637,-74.2633,545,296.1,shape,false,false,America/New_York,3,12589,1840026219
+Kauneonga Lake,Kauneonga Lake,New York,36105,Sullivan,41.6904,-74.8347,539,181.7,shape,false,false,America/New_York,3,12786 12749,1840084225
+Forestville,Forestville,New York,36013,Chautauqua,42.4691,-79.1755,532,194.6,shape,false,false,America/New_York,3,14062,1840004565
+La Fargeville,La Fargeville,New York,36045,Jefferson,44.196,-75.9627,530,61.7,shape,false,false,America/New_York,3,13656,1840004110
+Strykersville,Strykersville,New York,36121,Wyoming,42.7063,-78.444,523,45.9,shape,false,false,America/New_York,3,14145,1840025472
+Cassadaga,Cassadaga,New York,36013,Chautauqua,42.3427,-79.3181,518,236.5,shape,false,true,America/New_York,3,14718,1840004576
+Brasher Falls,Brasher Falls,New York,36089,St. Lawrence,44.8096,-74.7789,510,119.9,shape,false,false,America/New_York,3,13613,1840023928
+Lyons Falls,Lyons Falls,New York,36049,Lewis,43.617,-75.3618,510,202.0,shape,false,true,America/New_York,3,13368,1840004135
+Fort Johnson,Fort Johnson,New York,36057,Montgomery,42.9591,-74.2381,510,266.3,shape,false,true,America/New_York,3,12010 12070,1840004401
+Evans Mills,Evans Mills,New York,36045,Jefferson,44.087,-75.8078,503,237.8,shape,false,true,America/New_York,3,13637,1840004111
+Interlaken,Interlaken,New York,36099,Seneca,42.6189,-76.7251,503,385.9,shape,false,true,America/New_York,3,14847,1840004417
+East Frankfort,East Frankfort,New York,36043,Herkimer,43.0169,-75.0648,499,243.2,shape,false,false,America/New_York,3,13357,1840083577
+Fonda,Fonda,New York,36057,Montgomery,42.9536,-74.372,495,354.4,shape,false,true,America/New_York,3,12068,1840004400
+West Valley,West Valley,New York,36009,Cattaraugus,42.4037,-78.6115,495,124.7,shape,false,false,America/New_York,3,14171,1840026204
+Davenport Center,Davenport Center,New York,36025,Delaware,42.4458,-74.9088,489,60.8,shape,false,false,America/New_York,3,13757 13751 13820,1840025501
+Schenevus,Schenevus,New York,36077,Otsego,42.5497,-74.827,487,182.8,shape,false,false,America/New_York,3,12155,1840004451
+Panama,Panama,New York,36013,Chautauqua,42.0747,-79.4849,484,84.6,shape,false,true,America/New_York,3,14767,1840004569
+High Falls,High Falls,New York,36111,Ulster,41.8255,-74.1201,482,110.2,shape,false,false,America/New_York,3,12440,1840004715
+West Chazy,West Chazy,New York,36019,Clinton,44.8178,-73.5116,481,98.9,shape,false,false,America/New_York,3,12992,1840026118
+Cragsmoor,Cragsmoor,New York,36111,Ulster,41.6655,-74.3912,472,41.8,shape,false,false,America/New_York,3,12566 12420,1840004704
+North Lynbrook,North Lynbrook,New York,36059,Nassau,40.6685,-73.6736,470,3261.3,shape,false,false,America/New_York,2,11563,1840034039
+Woodbourne,Woodbourne,New York,36105,Sullivan,41.761,-74.5978,468,250.7,shape,false,false,America/New_York,3,12788,1840033993
+Freeville,Freeville,New York,36109,Tompkins,42.5114,-76.3457,468,170.7,shape,false,true,America/New_York,3,13068,1840004542
+Brooktondale,Brooktondale,New York,36109,Tompkins,42.3824,-76.3986,467,203.8,shape,false,false,America/New_York,3,14817,1840083130
+Wassaic,Wassaic,New York,36027,Dutchess,41.8064,-73.5593,466,196.3,shape,false,false,America/New_York,3,12592,1840085720
+Tannersville,Tannersville,New York,36039,Greene,42.1936,-74.135,466,160.9,shape,false,true,America/New_York,3,12485,1840004648
+Preston-Potter Hollow,Preston-Potter Hollow,New York,36001,Albany,42.433,-74.2288,466,17.8,shape,false,true,America/New_York,4,12469,1840073658
+New Baltimore,New Baltimore,New York,36039,Greene,42.4489,-73.7941,466,102.4,shape,false,false,America/New_York,3,12124 12192,1840153010
+Harbor Hills,Harbor Hills,New York,36059,Nassau,40.788,-73.7492,462,1489.9,shape,false,false,America/New_York,3,11023,1840005262
+Valley Falls,Valley Falls,New York,36083,Rensselaer,42.9006,-73.5627,461,384.1,shape,false,true,America/New_York,3,12185,1840004439
+Bliss,Bliss,New York,36121,Wyoming,42.5801,-78.2538,445,17.5,shape,false,false,America/New_York,3,14024,1840025470
+East Nassau,East Nassau,New York,36083,Rensselaer,42.533,-73.5085,444,35.3,shape,false,true,America/New_York,3,12123 12062,1840004441
+Roscoe,Roscoe,New York,36105,Sullivan,41.9399,-74.9123,442,175.1,shape,false,false,America/New_York,3,12776,1840004785
+Wellsburg,Wellsburg,New York,36015,Chemung,42.0126,-76.7298,440,299.0,shape,false,true,America/New_York,3,14894,1840004691
+Jeffersonville,Jeffersonville,New York,36105,Sullivan,41.7799,-74.9298,434,410.3,shape,false,true,America/New_York,3,12748,1840004789
+Coopers Plains,Coopers Plains,New York,36101,Steuben,42.1793,-77.1375,432,202.4,shape,false,false,America/New_York,3,14870 14827,1840026197
+Canaseraga,Canaseraga,New York,36003,Allegany,42.4618,-77.7773,431,156.7,shape,false,true,America/New_York,3,14822,1840004614
+Felts Mills,Felts Mills,New York,36045,Jefferson,44.0167,-75.7628,430,283.5,shape,false,false,America/New_York,3,13612 13638,1840023979
+Grahamsville,Grahamsville,New York,36105,Sullivan,41.8527,-74.5522,427,111.9,shape,false,false,America/New_York,3,12740,1840083901
+Limestone,Limestone,New York,36009,Cattaraugus,42.0229,-78.6331,426,97.5,shape,false,false,America/New_York,3,14753,1840033907
+Millport,Millport,New York,36015,Chemung,42.2681,-76.8363,425,122.3,shape,false,true,America/New_York,3,14864,1840004689
+Farnham,Farnham,New York,36029,Erie,42.595,-79.0809,424,135.7,shape,false,true,America/New_York,3,14061 14081,1840004384
+Groveland Station,Groveland Station,New York,36051,Livingston,42.6634,-77.7666,413,271.9,shape,false,true,America/New_York,3,14437 14462,1840040254
+Burdett,Burdett,New York,36097,Schuyler,42.4168,-76.8439,413,165.8,shape,false,true,America/New_York,3,14818,1840004586
+Staatsburg,Staatsburg,New York,36027,Dutchess,41.854,-73.9233,410,107.8,shape,false,false,America/New_York,3,12580,1840004747
+Castorland,Castorland,New York,36049,Lewis,43.8862,-75.5164,403,352.7,shape,false,true,America/New_York,3,13367 13620,1840004138
+Munnsville,Munnsville,New York,36053,Madison,42.9766,-75.5866,402,177.3,shape,false,true,America/New_York,3,13409,1840004357
+Hobart,Hobart,New York,36025,Delaware,42.3715,-74.6691,400,310.2,shape,false,true,America/New_York,3,13788,1840004619
+Shorehaven,Shorehaven,New York,36027,Dutchess,41.5555,-73.6631,396,111.5,shape,false,false,America/New_York,3,12531,1840141827
+McLean,McLean,New York,36109,Tompkins,42.5517,-76.2942,389,131.9,shape,false,false,America/New_York,3,13102 13045 13068,1840084524
+Speculator,Speculator,New York,36041,Hamilton,43.5944,-74.3822,388,3.4,shape,false,true,America/New_York,3,12164,1840004146
+Depauville,Depauville,New York,36045,Jefferson,44.1425,-76.0452,388,15.3,shape,false,false,America/New_York,3,13656 13632 13624,1840004106
+Cayuga,Cayuga,New York,36011,Cayuga,42.9191,-76.7265,387,165.3,shape,false,true,America/New_York,3,13034,1840004246
+Rhinecliff,Rhinecliff,New York,36027,Dutchess,41.922,-73.9439,386,145.1,shape,false,false,America/New_York,3,12572 12574,1840024105
+Franklin,Franklin,New York,36025,Delaware,42.3415,-75.1659,385,195.7,shape,false,true,America/New_York,3,13775,1840004617
+Rensselaer Falls,Rensselaer Falls,New York,36089,St. Lawrence,44.5909,-75.319,382,309.3,shape,false,true,America/New_York,3,13680,1840004062
+Narrowsburg,Narrowsburg,New York,36105,Sullivan,41.6034,-75.0563,378,80.7,shape,false,false,America/New_York,3,12764,1840004783
+Pierrepont Manor,Pierrepont Manor,New York,36045,Jefferson,43.7374,-76.061,369,184.1,shape,false,false,America/New_York,3,13674 13605 13661,1840023985
+Sunset Bay,Sunset Bay,New York,36013,Chautauqua,42.5607,-79.1307,366,213.1,shape,false,false,America/New_York,3,14136 14081,1840026200
+Wyoming,Wyoming,New York,36121,Wyoming,42.8241,-78.0842,366,202.8,shape,false,true,America/New_York,3,14591,1840004472
+Centre Island,Centre Island,New York,36059,Nassau,40.9017,-73.5211,362,128.2,shape,false,true,America/New_York,3,11771,1840005340
+Pine Hill,Pine Hill,New York,36111,Ulster,42.1308,-74.4666,360,67.0,shape,false,false,America/New_York,3,12465 12410 12441,1840004709
+Wurtsboro Hills,Wurtsboro Hills,New York,36105,Sullivan,41.5966,-74.5052,354,115.3,shape,false,false,America/New_York,3,12790,1840085997
+Hewlett Bay Park,Hewlett Bay Park,New York,36059,Nassau,40.6346,-73.6953,353,1005.9,shape,false,true,America/New_York,3,11557,1840005294
+Accord,Accord,New York,36111,Ulster,41.7972,-74.2319,350,39.7,shape,false,false,America/New_York,3,12404,1840004702
+Dalton,Dalton,New York,36051,Livingston,42.5422,-77.9519,347,177.5,shape,false,false,America/New_York,3,14836,1840024069
+Smithville Flats,Smithville Flats,New York,36017,Chenango,42.3944,-75.8105,344,93.4,shape,false,false,America/New_York,3,13841 13778,1840025491
+Sagaponack,Sagaponack,New York,36103,Suffolk,40.9302,-72.2726,344,30.1,shape,false,true,America/New_York,3,11962,1840005134
+Gilbertsville,Gilbertsville,New York,36077,Otsego,42.4693,-75.3226,337,129.8,shape,false,true,America/New_York,3,13776,1840004452
+Deferiet,Deferiet,New York,36045,Jefferson,44.0344,-75.6793,331,189.5,shape,false,true,America/New_York,3,13619 13628,1840004128
+Delanson,Delanson,New York,36093,Schenectady,42.7474,-74.1841,329,197.4,shape,false,true,America/New_York,3,12053,1840004449
+Stittville,Stittville,New York,36065,Oneida,43.2236,-75.289,329,259.4,shape,false,false,America/New_York,3,13469,1840085482
+Mannsville,Mannsville,New York,36045,Jefferson,43.7158,-76.0649,328,141.2,shape,false,true,America/New_York,3,13661,1840004114
+East Kingston,East Kingston,New York,36111,Ulster,41.9524,-73.9704,326,186.8,shape,false,false,America/New_York,3,12401,1840004705
+Bolton Landing,Bolton Landing,New York,36113,Warren,43.563,-73.6529,325,81.4,shape,false,false,America/New_York,3,12814,1840026146
+Cuylerville,Cuylerville,New York,36051,Livingston,42.7778,-77.8737,324,296.8,shape,false,false,America/New_York,3,14481,1840024068
+Kiamesha Lake,Kiamesha Lake,New York,36105,Sullivan,41.6806,-74.6652,321,121.5,shape,false,false,America/New_York,3,12751,1840084249
+Malden-on-Hudson,Malden-on-Hudson,New York,36111,Ulster,42.0932,-73.9365,321,247.4,shape,false,false,America/New_York,3,12453 12477,1840004721
+Danby,Danby,New York,36109,Tompkins,42.3567,-76.4817,318,35.5,shape,false,false,America/New_York,3,14883 14850,1840153008
+Downsville,Downsville,New York,36025,Delaware,42.0833,-74.9966,315,27.7,shape,false,false,America/New_York,3,13755,1840025502
+Barryville,Barryville,New York,36105,Sullivan,41.4802,-74.9174,314,178.5,shape,false,false,America/New_York,3,12719,1840033845
+Altmar,Altmar,New York,36075,Oswego,43.511,-76.0037,310,57.8,shape,false,false,America/New_York,3,13302,1840004196
+Leeds,Leeds,New York,36039,Greene,42.2554,-73.8929,309,129.2,shape,false,false,America/New_York,3,12414 12451,1840004645
+Constableville,Constableville,New York,36049,Lewis,43.5649,-75.4281,307,106.0,shape,false,true,America/New_York,3,13325,1840004139
+Salt Point,Salt Point,New York,36027,Dutchess,41.8061,-73.79,306,142.5,shape,false,false,America/New_York,3,12578,1840024106
+Livonia Center,Livonia Center,New York,36051,Livingston,42.8211,-77.6421,305,144.2,shape,false,false,America/New_York,3,14487 14488,1840024078
+New Suffolk,New Suffolk,New York,36103,Suffolk,40.9961,-72.4767,305,211.6,shape,false,false,America/New_York,3,11956,1840005052
+Redwood,Redwood,New York,36045,Jefferson,44.3011,-75.8063,304,59.7,shape,false,false,America/New_York,3,13679,1840004108
+Hall,Hall,New York,36069,Ontario,42.7965,-77.068,302,114.0,shape,false,false,America/New_York,3,14456 14463,1840025455
+Springfield Center,Springfield Center,New York,36077,Otsego,42.8357,-74.8721,300,24.1,shape,false,false,America/New_York,3,13326 13468,1840085431
+Fire Island,Fire Island,New York,36103,Suffolk,40.6781,-73.0709,298,12.5,shape,false,false,America/New_York,3,11770 11772 11706 11782,1840005010
+South Lima,South Lima,New York,36051,Livingston,42.8575,-77.676,291,127.1,shape,false,false,America/New_York,3,14487 14414,1840024082
+Hartwick Seminary,Hartwick Seminary,New York,36077,Otsego,42.6522,-74.9602,291,57.3,shape,false,false,America/New_York,3,13326 13807,1840150640
+Bloomville,Bloomville,New York,36025,Delaware,42.3338,-74.818,290,85.0,shape,false,false,America/New_York,3,13739,1840025500
+Belleville,Belleville,New York,36045,Jefferson,43.7893,-76.1153,289,169.7,shape,false,false,America/New_York,3,13605 13611,1840023978
+Salisbury Mills,Salisbury Mills,New York,36071,Orange,41.4308,-74.1098,288,223.0,shape,false,false,America/New_York,3,12577,1840024141
+St. Regis Falls,St. Regis Falls,New York,36033,Franklin,44.6764,-74.5309,284,84.9,shape,false,false,America/New_York,3,12980,1840025341
+Haines Falls,Haines Falls,New York,36039,Greene,42.197,-74.1009,282,133.0,shape,false,false,America/New_York,3,12436,1840083968
+Hortonville,Hortonville,New York,36105,Sullivan,41.7662,-75.0222,282,144.1,shape,false,false,America/New_York,3,12723,1840024108
+Holland Patent,Holland Patent,New York,36065,Oneida,43.2413,-75.2567,278,212.3,shape,false,true,America/New_York,3,13354,1840004205
+Clayville,Clayville,New York,36065,Oneida,42.9748,-75.2489,276,242.7,shape,false,true,America/New_York,3,13322 13456,1840004222
+Prospect,Prospect,New York,36065,Oneida,43.3025,-75.1513,275,246.8,shape,false,false,America/New_York,3,13435,1840004211
+Richville,Richville,New York,36089,St. Lawrence,44.4151,-75.3924,272,142.2,shape,false,false,America/New_York,4,13681 13642,1840004063
+Captree,Captree,New York,36103,Suffolk,40.6449,-73.2575,272,64.9,shape,false,false,America/New_York,3,11702,1840144578
+Lake Huntington,Lake Huntington,New York,36105,Sullivan,41.683,-74.9922,271,87.6,shape,false,false,America/New_York,3,12752,1840084307
+Fowlerville,Fowlerville,New York,36051,Livingston,42.894,-77.8479,267,114.4,shape,false,false,America/New_York,3,14423,1840024071
+Plessis,Plessis,New York,36045,Jefferson,44.2736,-75.8574,266,156.8,shape,false,false,America/New_York,3,13675 13656 13691,1840023986
+Phoenicia,Phoenicia,New York,36111,Ulster,42.079,-74.3089,266,225.6,shape,false,false,America/New_York,3,12464,1840004708
+Fleischmanns,Fleischmanns,New York,36025,Delaware,42.1552,-74.5335,260,153.3,shape,false,true,America/New_York,3,12430,1840004616
+Mountain Dale,Mountain Dale,New York,36105,Sullivan,41.6936,-74.5218,260,17.3,shape,false,false,America/New_York,3,12763,1840084651
+Redford,Redford,New York,36019,Clinton,44.6063,-73.8114,256,73.5,shape,false,false,America/New_York,3,12978 12981,1840004040
+Cove Neck,Cove Neck,New York,36059,Nassau,40.884,-73.5002,255,76.7,shape,false,true,America/New_York,3,11771,1840005341
+Salisbury Center,Salisbury Center,New York,36043,Herkimer,43.1423,-74.7828,255,107.6,shape,false,false,America/New_York,3,13329 13454,1840085193
+Lyon Mountain,Lyon Mountain,New York,36019,Clinton,44.7253,-73.8831,250,9.2,shape,false,false,America/New_York,3,12955 12952,1840004041
+Swan Lake,Swan Lake,New York,36105,Sullivan,41.7573,-74.7829,249,56.2,shape,false,false,America/New_York,3,12783,1840085530
+Piffard,Piffard,New York,36051,Livingston,42.8319,-77.8584,248,102.6,shape,false,false,America/New_York,3,14533,1840024079
+Wells Bridge,Wells Bridge,New York,36077,Otsego,42.3712,-75.2432,244,104.2,shape,false,false,America/New_York,3,13859 13825,1840151711
+Retsof,Retsof,New York,36051,Livingston,42.8325,-77.8756,236,202.2,shape,false,false,America/New_York,3,14539 14533,1840024080
+Winthrop,Winthrop,New York,36089,St. Lawrence,44.8006,-74.8016,235,32.7,shape,false,false,America/New_York,3,13613 13697,1840017087
+Slaterville Springs,Slaterville Springs,New York,36109,Tompkins,42.3953,-76.3452,230,128.5,shape,false,false,America/New_York,3,14881 14817,1840034007
+Thendara,Thendara,New York,36043,Herkimer,43.701,-74.9971,228,157.9,shape,false,false,America/New_York,3,13472,1840033970
+Kennedy,Kennedy,New York,36013,Chautauqua,42.159,-79.0982,222,42.0,shape,false,false,America/New_York,3,14747,1840025495
+West Danby,West Danby,New York,36109,Tompkins,42.3248,-76.5281,221,62.5,shape,false,false,America/New_York,3,14883,1840085778
+Blodgett Mills,Blodgett Mills,New York,36023,Cortland,42.5665,-76.1329,221,39.2,shape,false,false,America/New_York,3,13738 13045,1840025482
+Glen Aubrey,Glen Aubrey,New York,36007,Broome,42.2623,-76.0003,219,85.7,shape,false,false,America/New_York,3,13862 13777,1840026208
+Cold Brook,Cold Brook,New York,36043,Herkimer,43.2401,-75.0387,217,190.8,shape,false,true,America/New_York,3,13324,1840004155
+Fly Creek,Fly Creek,New York,36077,Otsego,42.7191,-74.9848,217,50.9,shape,false,false,America/New_York,3,13337,1840083765
+Duane Lake,Duane Lake,New York,36093,Schenectady,42.7526,-74.1088,217,34.9,shape,false,false,America/New_York,3,12056,1840004442
+Thousand Island Park,Thousand Island Park,New York,36045,Jefferson,44.2865,-76.0254,216,46.0,shape,false,false,America/New_York,3,13640 13692,1840023988
+Mongaup Valley,Mongaup Valley,New York,36105,Sullivan,41.676,-74.7831,212,16.3,shape,false,false,America/New_York,3,12701 12762,1840084603
+Grand View-on-Hudson,Grand View-on-Hudson,New York,36087,Rockland,41.0627,-73.9208,212,583.0,shape,false,true,America/New_York,3,10960,1840004974
+Gilgo,Gilgo,New York,36103,Suffolk,40.6376,-73.3779,209,16.1,shape,false,true,America/New_York,4,11702,1840040241
+East Worcester,East Worcester,New York,36077,Otsego,42.6284,-74.6743,209,32.1,shape,false,false,America/New_York,3,12064,1840085819
+Meridian,Meridian,New York,36011,Cayuga,43.163,-76.5382,206,115.1,shape,false,true,America/New_York,3,13113 13033,1840004239
+Witherbee,Witherbee,New York,36031,Essex,44.0824,-73.5339,206,81.2,shape,false,false,America/New_York,3,12998,1840023958
+Unadilla Forks,Unadilla Forks,New York,36077,Otsego,42.8497,-75.2308,199,15.4,shape,false,false,America/New_York,3,13491,1840085627
+South Ilion,South Ilion,New York,36043,Herkimer,42.9924,-75.0509,197,173.1,shape,false,false,America/New_York,3,13357,1840085381
+Cementon,Cementon,New York,36039,Greene,42.1356,-73.9193,195,211.4,shape,false,false,America/New_York,3,12414,1840083234
+Eldred,Eldred,New York,36105,Sullivan,41.5268,-74.8788,191,56.8,shape,false,false,America/New_York,3,12732,1840033881
+Westernville,Westernville,New York,36065,Oneida,43.3079,-75.3819,191,74.1,shape,false,false,America/New_York,3,13486,1840085901
+Bemus Point,Bemus Point,New York,36013,Chautauqua,42.1631,-79.3896,189,174.0,shape,false,true,America/New_York,3,14712,1840004574
+Natural Bridge,Natural Bridge,New York,36045,Jefferson,44.0718,-75.4999,179,54.1,shape,false,false,America/New_York,3,13665,1840004107
+Copake Falls,Copake Falls,New York,36021,Columbia,42.1202,-73.5247,179,171.8,shape,false,false,America/New_York,3,12517,1840033866
+Parc,Parc,New York,36019,Clinton,44.6639,-73.453,171,53.6,shape,false,false,America/New_York,3,12903 12901,1840034040
+Burlington Flats,Burlington Flats,New York,36077,Otsego,42.7404,-75.1843,169,28.4,shape,false,false,America/New_York,3,13315,1840083153
+Ames,Ames,New York,36057,Montgomery,42.8373,-74.6015,166,185.4,shape,false,true,America/New_York,3,13317,1840004408
+Greigsville,Greigsville,New York,36051,Livingston,42.8307,-77.9015,166,90.2,shape,false,false,America/New_York,3,14533,1840024072
+South Edmeston,South Edmeston,New York,36077,Otsego,42.6854,-75.3113,156,64.4,shape,false,false,America/New_York,3,13411,1840085367
+Napeague,Napeague,New York,36103,Suffolk,40.9976,-72.0665,154,16.2,shape,false,false,America/New_York,3,11954 11930,1840005050
+North Bay,North Bay,New York,36065,Oneida,43.2283,-75.745,153,53.0,shape,false,false,America/New_York,3,13308 13123,1840084729
+Garrattsville,Garrattsville,New York,36077,Otsego,42.6524,-75.1691,150,40.6,shape,false,false,America/New_York,3,13315 13342,1840083837
+Pottersville,Pottersville,New York,36113,Warren,43.7363,-73.8211,149,25.2,shape,false,false,America/New_York,3,12860,1840026144
+Wadsworth,Wadsworth,New York,36051,Livingston,42.8214,-77.8939,148,111.7,shape,false,false,America/New_York,3,14533,1840024084
+Jefferson,Jefferson,New York,36095,Schoharie,42.4813,-74.6062,143,51.8,shape,false,false,America/New_York,3,12093,1840153007
+Hankins,Hankins,New York,36105,Sullivan,41.8214,-75.0804,133,37.4,shape,false,false,America/New_York,3,12723 12741,1840083994
+West Hampton Dunes,West Hampton Dunes,New York,36103,Suffolk,40.7777,-72.7131,130,77.6,shape,false,true,America/New_York,3,11978,1840034029
+Hunt,Hunt,New York,36051,Livingston,42.5477,-77.991,124,51.7,shape,false,false,America/New_York,3,14846,1840024074
+Cranberry Lake,Cranberry Lake,New York,36089,St. Lawrence,44.2063,-74.8426,124,2.5,shape,false,false,America/New_York,3,12927,1840025337
+Websters Crossing,Websters Crossing,New York,36051,Livingston,42.6662,-77.6367,124,38.1,shape,false,false,America/New_York,3,14560,1840024085
+Oak Beach,Oak Beach,New York,36103,Suffolk,40.6388,-73.2879,123,41.6,shape,false,false,America/New_York,3,11702,1840024182
+Oxbow,Oxbow,New York,36045,Jefferson,44.2893,-75.6262,118,112.9,shape,false,false,America/New_York,3,13608 13691 13671,1840023983
+Portlandville,Portlandville,New York,36077,Otsego,42.5294,-74.9674,116,73.0,shape,false,false,America/New_York,3,13834 12116,1840085017
+White Lake,White Lake,New York,36065,Oneida,43.5408,-75.1473,114,21.5,shape,false,false,America/New_York,3,13338 13494,1840153009
+Bridgeville,Bridgeville,New York,36105,Sullivan,41.6319,-74.6268,112,25.8,shape,false,false,America/New_York,3,12701,1840083111
+Barrytown,Barrytown,New York,36027,Dutchess,42.0001,-73.9259,111,90.5,shape,false,false,America/New_York,3,12507,1840082974
+Mount Vision,Mount Vision,New York,36077,Otsego,42.583,-75.0518,110,28.1,shape,false,false,America/New_York,3,13810,1840084650
+Upper Red Hook,Upper Red Hook,New York,36027,Dutchess,42.0262,-73.8456,89,141.6,shape,false,false,America/New_York,3,12571,1840085648
+Scottsburg,Scottsburg,New York,36051,Livingston,42.6639,-77.7123,89,146.8,shape,false,false,America/New_York,3,14545,1840024081
+Otter Lake,Otter Lake,New York,36065,Oneida,43.5942,-75.1159,88,71.9,shape,false,false,America/New_York,3,13338,1840084880
+Westford,Westford,New York,36077,Otsego,42.6511,-74.8005,88,20.7,shape,false,false,America/New_York,3,13488 12155 12197,1840153004
+Cumminsville,Cumminsville,New York,36051,Livingston,42.5706,-77.7189,86,256.2,shape,false,false,America/New_York,3,14437,1840024067
+White Lake,White Lake,New York,36105,Sullivan,41.6757,-74.8322,85,37.0,shape,false,false,America/New_York,3,12786,1840085928
+Schuyler Lake,Schuyler Lake,New York,36077,Otsego,42.7786,-75.0335,82,9.8,shape,false,false,America/New_York,3,13457 13348 13439,1840033955
+North Blenheim,North Blenheim,New York,36095,Schoharie,42.4718,-74.4525,79,67.5,shape,false,false,America/New_York,3,12131,1840084733
+Woodsville,Woodsville,New York,36051,Livingston,42.579,-77.7338,67,58.2,shape,false,false,America/New_York,3,14437,1840024086
+Three Mile Bay,Three Mile Bay,New York,36045,Jefferson,44.0839,-76.1976,63,87.0,shape,false,false,America/New_York,3,13693 13622,1840023989
+Kysorville,Kysorville,New York,36051,Livingston,42.6528,-77.7949,59,27.9,shape,false,false,America/New_York,3,14437,1840024075
+West Kill,West Kill,New York,36039,Greene,42.2158,-74.3899,54,17.0,shape,false,false,America/New_York,3,12492,1840085856
+Fishers Landing,Fishers Landing,New York,36045,Jefferson,44.2772,-76.0088,54,46.2,shape,false,false,America/New_York,3,13641 13640 13624,1840023980
+Fishers Island,Fishers Island,New York,36103,Suffolk,41.27,-71.9892,53,5.0,shape,false,false,America/New_York,3,06390,1840005011
+Byersville,Byersville,New York,36051,Livingston,42.5839,-77.7914,46,34.8,shape,false,false,America/New_York,3,14517,1840024065
+Herrings,Herrings,New York,36045,Jefferson,44.0223,-75.6526,33,97.5,shape,false,false,America/New_York,3,13619,1840004113
+Linwood,Linwood,New York,36051,Livingston,42.8967,-77.9476,31,12.9,shape,false,false,America/New_York,3,14486,1840024077
+Ocean Beach,Ocean Beach,New York,36103,Suffolk,40.6463,-73.1565,26,195.9,shape,false,true,America/New_York,3,11770,1840005127
+Eagle Bay,Eagle Bay,New York,36043,Herkimer,43.7687,-74.8174,18,59.5,shape,false,false,America/New_York,3,13331,1840083543
+Saltaire,Saltaire,New York,36103,Suffolk,40.6389,-73.1949,2,70.2,shape,false,true,America/New_York,3,11706,1840005135
+Dering Harbor,Dering Harbor,New York,36103,Suffolk,41.0933,-72.3418,0,34.1,shape,false,true,America/New_York,3,11964,1840005146

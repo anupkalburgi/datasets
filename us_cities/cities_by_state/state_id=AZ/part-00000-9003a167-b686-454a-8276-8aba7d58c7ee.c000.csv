@@ -1,0 +1,461 @@
+Phoenix,Phoenix,Arizona,4013,Maricopa,33.5722,-112.0892,4064275,1198.9,shape,false,true,America/Phoenix,1,85009 85003 85006 85007 85004 85083 85086 85087 85085 85331 85033 85306 85308 85020 85021 85022 85023 85024 85026 85027 85028 85029 85353 85019 85018 85013 85012 85015 85014 85016 85254 85008 85044 85045 85042 85043 85040 85041 85048 85037 85035 85034 85032 85031 85017 85304 85307 85266 85310 85054 85051 85050 85053 85001 85002 85005 85010 85011 85030 85036 85038 85046 85060 85061 85062 85063 85064 85066 85067 85068 85069 85070 85071 85072 85074 85076 85078 85079 85080 85082,1840020568
+Tucson,Tucson,Arizona,4019,Pima,32.1541,-110.8787,878320,863.9,shape,false,true,America/Phoenix,2,85705 85707 85706 85709 85710 85756 85723 85726 85724 85701 85708 85719 85748 85745 85747 85716 85714 85715 85712 85713 85711 85734 85730 85721 85702 85703 85717 85725 85731 85732 85738 85751 85754 85775,1840022101
+Mesa,Mesa,Arizona,4013,Maricopa,33.4015,-111.7178,503390,1379.8,shape,false,true,America/Phoenix,2,85208 85209 85201 85202 85203 85204 85205 85206 85207 85215 85213 85212 85210 85211 85214 85216 85274 85275 85277,1840020566
+Chandler,Chandler,Arizona,4013,Maricopa,33.2825,-111.8514,275618,1624.6,shape,false,true,America/Phoenix,2,85248 85249 85226 85224 85225 85286 85246,1840019309
+Gilbert,Gilbert,Arizona,4013,Maricopa,33.31,-111.7463,267267,1503.9,shape,false,true,America/Phoenix,2,85233 85234 85236 85297 85296 85295 85298 85244 85299,1840021947
+Glendale,Glendale,Arizona,4013,Maricopa,33.5791,-112.2311,248083,1451.1,shape,false,true,America/Phoenix,2,85301 85303 85302 85306 85309 85308 85355 85340 85305 85304 85307 85310 85311 85312 85318,1840020563
+Scottsdale,Scottsdale,Arizona,4013,Maricopa,33.6872,-111.8651,240537,504.7,shape,false,true,America/Phoenix,2,85259 85258 85251 85250 85257 85255 85254 85266 85262 85260 85252 85261 85267 85271,1840021940
+Peoria,Peoria,Arizona,4013,Maricopa,33.7843,-112.2989,191292,419.5,shape,false,true,America/Phoenix,2,85373 85381 85383 85382 85324 85345 85380 85385,1840020567
+Tempe,Tempe,Arizona,4013,Maricopa,33.3881,-111.9319,181005,1748.3,shape,false,true,America/Phoenix,2,85281 85282 85283 85284 85280 85285 85287 85288,1840021942
+Surprise,Surprise,Arizona,4013,Maricopa,33.6815,-112.4515,145591,509.4,shape,false,true,America/Phoenix,2,85361 85379 85388 85387 85374 85378,1840021941
+Yuma,Yuma,Arizona,4027,Yuma,32.5995,-114.5491,135389,307.8,shape,false,true,America/Phoenix,2,85365 85364 85369,1840021998
+San Tan Valley,San Tan Valley,Arizona,4021,Pinal,33.1786,-111.5629,101207,515.6,shape,false,false,America/Phoenix,2,85143 85142 85140 85144,1840027990
+Goodyear,Goodyear,Arizona,4013,Maricopa,33.2614,-112.3622,97542,196.9,shape,false,true,America/Phoenix,3,85139 85338 85326 85395,1840020564
+Buckeye,Buckeye,Arizona,4013,Maricopa,33.4314,-112.6429,95042,93.3,shape,false,true,America/Phoenix,3,85326 85340 85396,1840021939
+Prescott Valley,Prescott Valley,Arizona,4025,Yavapai,34.598,-112.3185,93923,448.6,shape,false,true,America/Phoenix,3,86327 86315 86314 86312,1840021772
+Avondale,Avondale,Arizona,4013,Maricopa,33.3873,-112.3235,89214,723.3,shape,false,true,America/Phoenix,3,85353 85329 85323 85392,1840019310
+Flagstaff,Flagstaff,Arizona,4005,Coconino,35.1872,-111.6194,80167,445.7,shape,false,true,America/Phoenix,3,86011 86005 86004 86001 86002,1840020335
+Casas Adobes,Casas Adobes,Arizona,4019,Pima,32.3423,-111.0113,69917,1017.9,shape,false,false,America/Phoenix,3,85704 85741 85742 85752,1840018108
+Maricopa,Maricopa,Arizona,4021,Pinal,33.0408,-112.0011,68376,541.6,shape,false,true,America/Phoenix,3,85138 85139,1840020629
+Queen Creek,Queen Creek,Arizona,4013,Maricopa,33.2454,-111.6173,61788,569.2,shape,false,true,America/Phoenix,3,85142 85140,1840021944
+Lake Havasu City,Lake Havasu City,Arizona,4015,Mohave,34.5006,-114.3113,57294,477.4,shape,false,true,America/Phoenix,3,86403 86406 86404 86405,1840021044
+Casa Grande,Casa Grande,Arizona,4021,Pinal,32.9069,-111.7624,55186,187.2,shape,false,true,America/Phoenix,3,85194 85193 85122 85130,1840019364
+Marana,Marana,Arizona,4019,Pima,32.4355,-111.1558,52542,167.5,shape,false,true,America/Phoenix,3,85653 85741 85743 85742 85658 85652 85740,1840023057
+Catalina Foothills,Catalina Foothills,Arizona,4019,Pima,32.3046,-110.8838,50573,466.8,shape,false,false,America/Phoenix,3,85750 85715 85718 85728,1840018110
+Oro Valley,Oro Valley,Arizona,4019,Pima,32.4208,-110.9767,47053,518.2,shape,false,true,America/Phoenix,3,85755 85704 85742 85737,1840023058
+Prescott,Prescott,Arizona,4025,Yavapai,34.5849,-112.4473,46054,392.9,shape,false,true,America/Phoenix,3,86305 86301 86303 86313 86302 86304,1840020436
+Sierra Vista,Sierra Vista,Arizona,4003,Cochise,31.563,-110.3153,45212,114.6,shape,false,true,America/Phoenix,3,85650 85635 85613 85670,1840022103
+Bullhead City,Bullhead City,Arizona,4015,Mohave,35.1205,-114.5461,41593,270.5,shape,false,true,America/Phoenix,3,86442 86429 86430 86439,1840019748
+Apache Junction,Apache Junction,Arizona,4021,Pinal,33.3985,-111.535,38855,330.1,shape,false,true,America/Phoenix,3,85119 85120 85117 85178,1840019365
+Sun City,Sun City,Arizona,4013,Maricopa,33.6165,-112.2819,37748,1010.7,shape,false,false,America/Phoenix,3,85373 85351 85372,1840019311
+El Mirage,El Mirage,Arizona,4013,Maricopa,33.5905,-112.3271,35652,1390.3,shape,false,true,America/Phoenix,3,85335,1840020562
+San Luis,San Luis,Arizona,4027,Yuma,32.4911,-114.7089,35189,399.3,shape,false,true,America/Phoenix,3,85336 85350 85349,1840021996
+Sahuarita,Sahuarita,Arizona,4019,Pima,31.9323,-110.9654,34238,417.2,shape,false,true,America/Phoenix,3,85629 85614,1840022102
+Kingman,Kingman,Arizona,4015,Mohave,35.217,-114.0105,33052,339.9,shape,false,true,America/Phoenix,3,86409 86401,1840021043
+Drexel Heights,Drexel Heights,Arizona,4019,Pima,32.1453,-111.048,30254,606.9,shape,false,false,America/Phoenix,3,85757 85746,1840027928
+Fortuna Foothills,Fortuna Foothills,Arizona,4027,Yuma,32.6616,-114.3974,27552,265.4,shape,false,false,America/Phoenix,3,85367,1840027989
+Sun City West,Sun City West,Arizona,4013,Maricopa,33.6695,-112.3573,26639,862.4,shape,false,false,America/Phoenix,3,85375 85376,1840019312
+Florence,Florence,Arizona,4021,Pinal,33.059,-111.4209,25783,158.9,shape,false,true,America/Phoenix,3,85132,1840021999
+Fountain Hills,Fountain Hills,Arizona,4013,Maricopa,33.6073,-111.7398,23739,451.9,shape,false,true,America/Phoenix,3,85268 85269,1840021945
+Anthem,Anthem,Arizona,4013,Maricopa,33.856,-112.1168,22708,1107.6,shape,false,false,America/Phoenix,3,85086,1840022919
+Rio Rico,Rio Rico,Arizona,4023,Santa Cruz,31.4957,-110.9885,21447,131.3,shape,false,false,America/Phoenix,3,85640 85648,1840027004
+Green Valley,Green Valley,Arizona,4019,Pima,31.8393,-111.0009,20937,409.7,shape,false,false,America/Phoenix,3,85622 85614,1840018111
+Nogales,Nogales,Arizona,4023,Santa Cruz,31.3624,-110.9336,19761,366.5,shape,false,true,America/Phoenix,3,85621,1840020823
+New River,New River,Arizona,4013,Maricopa,33.8835,-112.0858,18422,126.8,shape,false,false,America/Phoenix,3,85086 85087,1840019307
+Flowing Wells,Flowing Wells,Arizona,4019,Pima,32.2937,-111.011,17188,1742.2,shape,false,false,America/Phoenix,3,85705,1840027988
+Payson,Payson,Arizona,4007,Gila,34.2433,-111.3195,16363,326.5,shape,false,true,America/Phoenix,3,85541 85547,1840022857
+Douglas,Douglas,Arizona,4003,Cochise,31.3602,-109.5394,16301,630.7,shape,false,true,America/Phoenix,3,85608 85607 85655,1840019496
+Eloy,Eloy,Arizona,4021,Pinal,32.747,-111.5992,16075,54.6,shape,false,true,America/Phoenix,3,85131 85123,1840020628
+Fort Mohave,Fort Mohave,Arizona,4015,Mohave,35.0004,-114.5748,16038,370.8,shape,false,true,America/Phoenix,3,86426 86427,1840042961
+Vail,Vail,Arizona,4019,Pima,32.0217,-110.6937,15248,259.6,shape,false,false,America/Phoenix,3,85641 85744,1840019487
+Tanque Verde,Tanque Verde,Arizona,4019,Pima,32.2687,-110.7437,14815,177.2,shape,false,false,America/Phoenix,3,85749 85748,1840019489
+Sierra Vista Southeast,Sierra Vista Southeast,Arizona,4003,Cochise,31.4525,-110.216,14398,50.2,shape,false,true,America/Phoenix,3,85650 85615 85636,1840074401
+Somerton,Somerton,Arizona,4027,Yuma,32.6007,-114.6994,14278,757.8,shape,false,true,America/Phoenix,3,85350,1840021997
+Coolidge,Coolidge,Arizona,4021,Pinal,32.9363,-111.5254,14175,65.8,shape,false,true,America/Phoenix,3,85194 85191 85128,1840019367
+Sun Lakes,Sun Lakes,Arizona,4013,Maricopa,33.2172,-111.8695,14147,1016.2,shape,false,false,America/Phoenix,3,85248,1840019313
+Valencia West,Valencia West,Arizona,4019,Pima,32.1355,-111.1123,13692,555.1,shape,false,true,America/Phoenix,3,85757,1840074666
+New Kingman-Butler,New Kingman-Butler,Arizona,4015,Mohave,35.2645,-114.0091,13247,1029.0,shape,false,true,America/Phoenix,3,86409,1840037118
+Chino Valley,Chino Valley,Arizona,4025,Yavapai,34.7594,-112.412,13120,81.1,shape,false,true,America/Phoenix,3,86323,1840022753
+Tucson Estates,Tucson Estates,Arizona,4019,Pima,32.1792,-111.1266,12795,388.2,shape,false,false,America/Phoenix,3,85713 85735,1840027929
+Paradise Valley,Paradise Valley,Arizona,4013,Maricopa,33.5434,-111.9595,12672,318.1,shape,false,true,America/Phoenix,3,85253,1840022913
+Cottonwood,Cottonwood,Arizona,4025,Yavapai,34.7195,-112.0016,12314,168.9,shape,false,true,America/Phoenix,3,86326 86336 86324,1840019168
+Camp Verde,Camp Verde,Arizona,4025,Yavapai,34.569,-111.856,12132,110.6,shape,false,true,America/Phoenix,3,86322,1840022752
+Saddlebrooke,Saddlebrooke,Arizona,4021,Pinal,32.5576,-110.874,12014,97.0,shape,false,true,America/Phoenix,3,85623 85739,1840075484
+Verde Village,Verde Village,Arizona,4025,Yavapai,34.7119,-111.9941,12005,667.5,shape,false,false,America/Phoenix,3,86326,1840017843
+Show Low,Show Low,Arizona,4017,Navajo,34.2671,-110.0384,11767,69.4,shape,false,true,America/Phoenix,3,85901,1840021582
+Gold Canyon,Gold Canyon,Arizona,4021,Pinal,33.3639,-111.423,11565,155.7,shape,false,false,America/Phoenix,3,85118,1840018032
+Tucson Mountains,Tucson Mountains,Arizona,4019,Pima,32.2822,-111.0773,11171,163.9,shape,false,false,America/Phoenix,3,85743 85745,1840153143
+Safford,Safford,Arizona,4009,Graham,32.8335,-109.6964,10112,420.8,shape,false,true,America/Phoenix,3,85546,1840021989
+Sedona,Sedona,Arizona,4025,Yavapai,34.8581,-111.7941,9739,205.9,shape,false,true,America/Phoenix,3,86336 86339 86340,1840021584
+Picture Rocks,Picture Rocks,Arizona,4019,Pima,32.3274,-111.2558,9258,50.5,shape,false,false,America/Phoenix,3,85653 85743,1840019482
+Winslow,Winslow,Arizona,4017,Navajo,35.0243,-110.7095,8943,265.9,shape,false,true,America/Phoenix,3,86047,1840021583
+Corona de Tucson,Corona de Tucson,Arizona,4019,Pima,31.9503,-110.7835,8742,439.4,shape,false,false,America/Phoenix,3,85641,1840018106
+Arizona City,Arizona City,Arizona,4021,Pinal,32.7506,-111.6707,8541,537.7,shape,false,false,America/Phoenix,3,85193 85123,1840018030
+Tuba City,Tuba City,Arizona,4005,Coconino,36.125,-111.2467,8372,361.3,shape,false,false,America/Denver,3,86045,1840018972
+Golden Valley,Golden Valley,Arizona,4015,Mohave,35.206,-114.2327,7900,38.7,shape,false,false,America/Phoenix,3,86413,1840018339
+Wickenburg,Wickenburg,Arizona,4013,Maricopa,33.9837,-112.7669,7600,110.7,shape,false,true,America/Phoenix,3,85390 85358,1840022916
+Page,Page,Arizona,4005,Coconino,36.9426,-111.5071,7444,75.3,shape,false,true,America/Phoenix,3,86040,1840020336
+Globe,Globe,Arizona,4007,Gila,33.387,-110.7513,7230,153.4,shape,false,true,America/Phoenix,3,85501 85502,1840020533
+Tolleson,Tolleson,Arizona,4013,Maricopa,33.4484,-112.256,7221,486.3,shape,false,true,America/Phoenix,3,85353,1840021943
+Youngtown,Youngtown,Arizona,4013,Maricopa,33.5846,-112.3048,6980,1812.4,shape,false,true,America/Phoenix,3,85363,1840022917
+Litchfield Park,Litchfield Park,Arizona,4013,Maricopa,33.5024,-112.3588,6794,799.9,shape,false,true,America/Phoenix,3,85340,1840020565
+Catalina,Catalina,Arizona,4019,Pima,32.4848,-110.8997,6371,174.0,shape,false,false,America/Phoenix,3,85739,1840018109
+Avra Valley,Avra Valley,Arizona,4019,Pima,32.4195,-111.3393,6281,108.4,shape,false,false,America/Phoenix,3,85653,1840027985
+Snowflake,Snowflake,Arizona,4017,Navajo,34.5225,-110.0913,6192,70.9,shape,false,true,America/Phoenix,3,85937,1840022572
+Williamson,Williamson,Arizona,4025,Yavapai,34.7082,-112.5343,5999,39.8,shape,false,false,America/Phoenix,3,86305,1840019166
+Village of Oak Creek,Village of Oak Creek,Arizona,4025,Yavapai,34.7813,-111.7606,5915,434.5,shape,false,true,America/Phoenix,3,86351 86341,1840036808
+Rincon Valley,Rincon Valley,Arizona,4019,Pima,32.1101,-110.6889,5712,86.7,shape,false,true,America/Phoenix,4,85747 85641,1840038089
+Citrus Park,Citrus Park,Arizona,4013,Maricopa,33.53,-112.4441,5569,434.1,shape,false,false,America/Phoenix,3,85355 85340,1840022921
+Kayenta,Kayenta,Arizona,4017,Navajo,36.7144,-110.259,5366,157.3,shape,false,false,America/Denver,3,86033,1840017658
+Guadalupe,Guadalupe,Arizona,4013,Maricopa,33.3665,-111.9633,5335,2578.0,shape,false,true,America/Phoenix,2,85283,1840021948
+Benson,Benson,Arizona,4003,Cochise,31.9157,-110.3257,5318,49.3,shape,false,true,America/Phoenix,3,85602 85630,1840019494
+Thatcher,Thatcher,Arizona,4009,Graham,32.8323,-109.7595,5281,306.1,shape,false,true,America/Phoenix,3,85552,1840022955
+Three Points,Three Points,Arizona,4019,Pima,32.0596,-111.2866,5100,42.2,shape,false,false,America/Phoenix,3,85735 85736,1840019486
+Doney Park,Doney Park,Arizona,4005,Coconino,35.2656,-111.519,5056,94.0,shape,false,true,America/Phoenix,4,86004,1840075310
+Summit,Summit,Arizona,4019,Pima,32.0617,-110.9485,5022,529.9,shape,false,false,America/Phoenix,3,85756,1840019488
+Bisbee,Bisbee,Arizona,4003,Cochise,31.4126,-109.9178,4972,370.9,shape,false,true,America/Phoenix,3,85603,1840019495
+Cave Creek,Cave Creek,Arizona,4013,Maricopa,33.8513,-111.9801,4966,50.8,shape,false,true,America/Phoenix,3,85331 85327,1840022915
+Holbrook,Holbrook,Arizona,4017,Navajo,34.9044,-110.1672,4842,107.8,shape,false,true,America/Phoenix,3,86025,1840020334
+South Tucson,South Tucson,Arizona,4019,Pima,32.1955,-110.9692,4642,1745.3,shape,false,true,America/Phoenix,3,85713,1840022100
+Clarkdale,Clarkdale,Arizona,4025,Yavapai,34.7501,-112.0555,4528,171.8,shape,false,true,America/Phoenix,3,86324,1840022754
+Lake Montezuma,Lake Montezuma,Arizona,4025,Yavapai,34.6414,-111.796,4526,151.6,shape,false,false,America/Phoenix,3,86335 86342,1840017849
+Paulden,Paulden,Arizona,4025,Yavapai,34.8897,-112.4937,4518,30.4,shape,false,false,America/Phoenix,3,86323 86334,1840019162
+Eagar,Eagar,Arizona,4001,Apache,34.1056,-109.2961,4425,139.2,shape,false,true,America/Phoenix,3,85938 85925,1840021623
+San Carlos,San Carlos,Arizona,4007,Gila,33.35,-110.4654,4405,198.3,shape,false,false,America/Phoenix,3,85550,1840019263
+Dewey-Humboldt,Dewey-Humboldt,Arizona,4025,Yavapai,34.5174,-112.2496,4363,89.6,shape,false,true,America/Phoenix,3,86329 86327,1840021771
+Whiteriver,Whiteriver,Arizona,4017,Navajo,33.8358,-109.9616,4284,105.4,shape,false,false,America/Phoenix,3,85941,1840018966
+Pinetop-Lakeside,Pinetop-Lakeside,Arizona,4017,Navajo,34.1486,-109.9657,4080,141.3,shape,false,true,America/Phoenix,3,85935 85929 85901,1840022571
+Taylor,Taylor,Arizona,4017,Navajo,34.4393,-110.1018,4062,48.0,shape,false,true,America/Phoenix,3,85939,1840022573
+Chinle,Chinle,Arizona,4001,Apache,36.1505,-109.5794,3888,92.1,shape,false,false,America/Denver,3,86503,1840017672
+Clifton,Clifton,Arizona,4011,Greenlee,33.0249,-109.2883,3869,101.9,shape,false,true,America/Phoenix,3,85533 85540,1840022949
+Avenue B and C,Avenue B and C,Arizona,4027,Yuma,32.7192,-114.6598,3850,2033.6,shape,false,true,America/Phoenix,2,85364,1840075233
+Carefree,Carefree,Arizona,4013,Maricopa,33.8234,-111.9161,3671,160.9,shape,false,true,America/Phoenix,3,85377,1840022914
+Cornville,Cornville,Arizona,4025,Yavapai,34.7389,-111.9086,3582,103.4,shape,false,false,America/Phoenix,3,86325,1840017842
+San Manuel,San Manuel,Arizona,4021,Pinal,32.6091,-110.6415,3535,65.8,shape,false,false,America/Phoenix,3,85631,1840019362
+Fort Defiance,Fort Defiance,Arizona,4001,Apache,35.7477,-109.0674,3528,212.6,shape,false,false,America/Denver,3,86504,1840017675
+Lake of the Woods,Lake of the Woods,Arizona,4017,Navajo,34.1547,-109.9936,3426,333.6,shape,false,false,America/Phoenix,3,85929,1840022579
+St. Johns,St. Johns,Arizona,4001,Apache,34.5018,-109.3784,3419,51.0,shape,false,true,America/Phoenix,3,85936,1840021622
+Parker,Parker,Arizona,4012,La Paz,34.0286,-114.2224,3357,59.0,shape,false,true,America/Phoenix,3,85344,1840022875
+Cordes Lakes,Cordes Lakes,Arizona,4025,Yavapai,34.3103,-112.1073,3308,118.0,shape,false,false,America/Phoenix,3,86333,1840017841
+Williams,Williams,Arizona,4005,Coconino,35.2476,-112.1834,3275,28.9,shape,false,true,America/Phoenix,3,86046,1840021585
+Willcox,Willcox,Arizona,4003,Cochise,32.2515,-109.8359,3232,203.0,shape,false,true,America/Phoenix,3,85643 85644,1840022105
+Red Rock,Red Rock,Arizona,4021,Pinal,32.561,-111.3745,3173,25.9,shape,false,false,America/Phoenix,3,85131 85145 85658,1840022985
+Oracle,Oracle,Arizona,4021,Pinal,32.6085,-110.7826,3146,76.6,shape,false,false,America/Phoenix,3,85623,1840019359
+Kachina Village,Kachina Village,Arizona,4005,Coconino,35.0947,-111.6928,3057,1007.4,shape,false,false,America/Phoenix,3,86005,1840017663
+Ajo,Ajo,Arizona,4019,Pima,32.3923,-112.8839,2922,33.9,shape,false,false,America/Phoenix,3,85321,1840018107
+Swift Trail Junction,Swift Trail Junction,Arizona,4009,Graham,32.7305,-109.7148,2907,304.7,shape,false,false,America/Phoenix,3,85546,1840019341
+Pima,Pima,Arizona,4009,Graham,32.8886,-109.8437,2847,150.7,shape,false,true,America/Phoenix,3,85543,1840022954
+White Mountain Lake,White Mountain Lake,Arizona,4017,Navajo,34.3441,-109.9878,2817,45.2,shape,false,false,America/Phoenix,3,85912 85901,1840022587
+Whetstone,Whetstone,Arizona,4003,Cochise,31.7258,-110.2746,2724,11.2,shape,false,false,America/Phoenix,3,85616,1840027991
+Mohave Valley,Mohave Valley,Arizona,4015,Mohave,34.9008,-114.5732,2724,75.0,shape,false,false,America/Phoenix,3,86440,1840019745
+Sacaton,Sacaton,Arizona,4021,Pinal,33.0793,-111.7683,2713,112.8,shape,false,false,America/Phoenix,3,85147,1840019361
+Timberline-Fernwood,Timberline-Fernwood,Arizona,4005,Coconino,35.3168,-111.5507,2685,105.4,shape,false,false,America/Phoenix,4,86004,1840153141
+Bagdad,Bagdad,Arizona,4025,Yavapai,34.5771,-113.1771,2661,127.5,shape,false,false,America/Phoenix,3,86321,1840017845
+Heber-Overgaard,Heber-Overgaard,Arizona,4017,Navajo,34.4141,-110.5696,2651,149.2,shape,false,true,America/Phoenix,4,85933,1840074050
+Desert Hills,Desert Hills,Arizona,4015,Mohave,34.5506,-114.3754,2651,237.7,shape,false,false,America/Los_Angeles,3,86404,1840027987
+Superior,Superior,Arizona,4021,Pinal,33.2851,-111.1109,2639,89.7,shape,false,true,America/Phoenix,3,85173,1840022981
+Valle Vista,Valle Vista,Arizona,4015,Mohave,35.4109,-113.8627,2633,85.0,shape,false,true,America/Phoenix,4,86401,1840075499
+Colorado City,Colorado City,Arizona,4015,Mohave,36.9773,-112.9869,2628,110.3,shape,false,true,America/Phoenix,3,86021,1840023170
+Star Valley,Star Valley,Arizona,4007,Gila,34.2611,-111.2197,2490,26.6,shape,false,true,America/Phoenix,3,85541,1840022858
+Linden,Linden,Arizona,4017,Navajo,34.2625,-110.1424,2452,31.3,shape,false,false,America/Phoenix,3,85901,1840022580
+Wellton,Wellton,Arizona,4027,Yuma,32.6401,-114.2152,2447,32.7,shape,false,true,America/Phoenix,3,85356,1840022976
+Sells,Sells,Arizona,4019,Pima,31.9202,-111.8775,2422,101.3,shape,false,false,America/Phoenix,3,85634,1840019485
+Rio Verde,Rio Verde,Arizona,4013,Maricopa,33.7278,-111.674,2422,216.0,shape,false,false,America/Phoenix,3,85263,1840019308
+Black Canyon City,Black Canyon City,Arizona,4025,Yavapai,34.071,-112.122,2408,37.8,shape,false,false,America/Phoenix,3,85324,1840017847
+Central Heights-Midland City,Central Heights-Midland City,Arizona,4007,Gila,33.4,-110.8153,2380,473.6,shape,false,true,America/Phoenix,3,85501,1840073906
+Kearny,Kearny,Arizona,4021,Pinal,33.0564,-110.9074,2327,333.3,shape,false,true,America/Phoenix,3,85137,1840022000
+Quartzsite,Quartzsite,Arizona,4012,La Paz,33.6675,-114.2171,2141,22.8,shape,false,true,America/Phoenix,3,85346 85359,1840021913
+Blackwater,Blackwater,Arizona,4021,Pinal,33.0396,-111.5798,2128,45.9,shape,false,false,America/Phoenix,3,85147 85128,1840018031
+Joseph City,Joseph City,Arizona,4017,Navajo,34.9614,-110.3274,2058,107.4,shape,false,false,America/Phoenix,3,86032,1840022578
+Window Rock,Window Rock,Arizona,4001,Apache,35.6705,-109.0639,2056,150.1,shape,false,false,America/Denver,3,86515,1840019005
+Beaver Dam,Beaver Dam,Arizona,4015,Mohave,36.907,-113.9362,2013,91.5,shape,false,false,America/Phoenix,3,86432,1840023172
+Springerville,Springerville,Arizona,4001,Apache,34.156,-109.2988,2006,67.3,shape,false,true,America/Phoenix,3,85938,1840022616
+Grand Canyon Village,Grand Canyon Village,Arizona,4005,Coconino,36.0474,-112.1623,1914,27.7,shape,false,true,America/Phoenix,4,86023,1840074025
+Huachuca City,Huachuca City,Arizona,4003,Cochise,31.6308,-110.3421,1865,254.8,shape,false,true,America/Phoenix,3,85616,1840022106
+Scenic,Scenic,Arizona,4015,Mohave,36.793,-114.0151,1840,43.4,shape,false,true,America/Phoenix,4,86432,1840075488
+Gila Bend,Gila Bend,Arizona,4013,Maricopa,32.9662,-112.7154,1783,10.7,shape,false,true,America/Phoenix,3,85337 85326,1840021946
+Pinetop Country Club,Pinetop Country Club,Arizona,4017,Navajo,34.1164,-109.8909,1769,101.6,shape,false,true,America/Phoenix,4,85935,1840075441
+Fort Valley,Fort Valley,Arizona,4005,Coconino,35.3228,-111.7399,1734,9.2,shape,false,true,America/Phoenix,4,86001,1840075372
+Kaibito,Kaibito,Arizona,4005,Coconino,36.592,-111.1071,1718,41.7,shape,false,false,America/Denver,3,86053,1840017664
+Lukachukai,Lukachukai,Arizona,4001,Apache,36.4112,-109.2267,1706,30.0,shape,false,false,America/Denver,3,86507,1840017673
+North Fork,North Fork,Arizona,4017,Navajo,33.9965,-109.9593,1689,10.6,shape,false,true,America/Phoenix,4,85941,1840075412
+Meadview,Meadview,Arizona,4015,Mohave,35.9532,-114.0789,1629,20.3,shape,false,false,America/Phoenix,3,86444,1840023182
+Canyon Day,Canyon Day,Arizona,4007,Gila,33.783,-110.0328,1621,120.4,shape,false,false,America/Phoenix,3,85941,1840017945
+Kaibab Estates West,Kaibab Estates West,Arizona,4005,Coconino,35.2762,-112.5018,1613,27.5,shape,false,false,America/Phoenix,3,86320,1840142804
+Bylas,Bylas,Arizona,4009,Graham,33.1291,-110.1162,1552,143.3,shape,false,false,America/Phoenix,3,85530,1840022957
+Pine,Pine,Arizona,4007,Gila,34.3788,-111.4574,1526,18.2,shape,false,false,America/Phoenix,3,85544,1840019262
+Spring Valley,Spring Valley,Arizona,4025,Yavapai,34.3452,-112.1592,1514,573.6,shape,false,false,America/Phoenix,3,86333,1840019161
+Congress,Congress,Arizona,4025,Yavapai,34.1526,-112.8642,1512,15.5,shape,false,false,America/Phoenix,3,85332,1840017840
+Red Lake,Red Lake,Arizona,4005,Coconino,35.3579,-112.1705,1500,19.3,shape,false,false,America/Phoenix,3,86046,1840027974
+Centennial Park,Centennial Park,Arizona,4015,Mohave,36.9538,-112.9813,1490,265.3,shape,false,true,America/Phoenix,3,86021,1840075272
+Pirtleville,Pirtleville,Arizona,4003,Cochise,31.3614,-109.5662,1483,307.3,shape,false,false,America/Phoenix,3,85626 85607,1840019492
+Tsaile,Tsaile,Arizona,4001,Apache,36.3033,-109.2157,1482,94.6,shape,false,false,America/Denver,3,86556,1840136753
+Peach Springs,Peach Springs,Arizona,4015,Mohave,35.5315,-113.4319,1482,72.3,shape,false,false,America/Phoenix,3,86434,1840019746
+Mountain View Ranches,Mountain View Ranches,Arizona,4005,Coconino,35.2335,-111.4728,1478,116.1,shape,false,false,America/Phoenix,3,86004,1840151073
+Mescal,Mescal,Arizona,4003,Cochise,31.9676,-110.4368,1468,115.1,shape,false,false,America/Phoenix,3,85602,1840023088
+Morenci,Morenci,Arizona,4011,Greenlee,33.0539,-109.331,1467,611.2,shape,false,false,America/Phoenix,3,85540,1840019339
+Peridot,Peridot,Arizona,4007,Gila,33.3016,-110.4572,1465,103.6,shape,false,false,America/Phoenix,3,85542,1840019261
+First Mesa,First Mesa,Arizona,4017,Navajo,35.8389,-110.3665,1454,35.7,shape,false,false,America/Phoenix,3,86042,1840027978
+LeChee,LeChee,Arizona,4005,Coconino,36.871,-111.4328,1453,33.8,shape,false,false,America/Denver,3,86040,1840027980
+Cienega Springs,Cienega Springs,Arizona,4012,La Paz,34.2009,-114.2089,1441,156.8,shape,false,false,America/Phoenix,3,85344,1840022877
+Cibecue,Cibecue,Arizona,4017,Navajo,34.0332,-110.4854,1419,91.8,shape,false,false,America/Phoenix,3,85911,1840017654
+Wagon Wheel,Wagon Wheel,Arizona,4017,Navajo,34.1976,-110.0272,1406,214.3,shape,false,true,America/Phoenix,3,85929 85901,1840075510
+Dolan Springs,Dolan Springs,Arizona,4015,Mohave,35.5905,-114.2851,1397,9.3,shape,false,false,America/Phoenix,3,86441,1840019744
+Tonto Basin,Tonto Basin,Arizona,4007,Gila,33.837,-111.2999,1380,16.6,shape,false,false,America/Phoenix,3,85553,1840019264
+Tubac,Tubac,Arizona,4023,Santa Cruz,31.6111,-111.0586,1375,48.9,shape,false,false,America/Phoenix,3,85646,1840019537
+Second Mesa,Second Mesa,Arizona,4017,Navajo,35.8222,-110.4884,1372,13.2,shape,false,false,America/Phoenix,3,86043,1840018965
+Miami,Miami,Arizona,4007,Gila,33.3951,-110.8724,1353,586.3,shape,false,true,America/Phoenix,3,85539,1840022856
+Parks,Parks,Arizona,4005,Coconino,35.2939,-111.977,1352,3.1,shape,false,false,America/Phoenix,3,86046 86018,1840018970
+Dilkon,Dilkon,Arizona,4017,Navajo,35.3606,-110.3155,1326,30.9,shape,false,false,America/Denver,3,86047,1840018960
+Six Shooter Canyon,Six Shooter Canyon,Arizona,4007,Gila,33.3569,-110.7719,1325,172.9,shape,false,true,America/Phoenix,4,85501,1840075490
+St. David,St. David,Arizona,4003,Cochise,31.8958,-110.2224,1300,83.0,shape,false,false,America/Phoenix,3,85630,1840019493
+Bellemont,Bellemont,Arizona,4005,Coconino,35.2425,-111.8138,1275,57.0,shape,false,false,America/Phoenix,3,86015 86001,1840017042
+Claypool,Claypool,Arizona,4007,Gila,33.4061,-110.8422,1252,380.2,shape,false,false,America/Phoenix,3,85539 85532,1840017944
+Cactus Flats,Cactus Flats,Arizona,4009,Graham,32.7642,-109.7206,1238,76.9,shape,false,true,America/Phoenix,4,85546 85548,1840001823
+Mesa del Caballo,Mesa del Caballo,Arizona,4007,Gila,34.286,-111.2952,1194,896.8,shape,false,false,America/Phoenix,3,85541,1840027967
+Naco,Naco,Arizona,4003,Cochise,31.3431,-109.9336,1189,142.1,shape,false,false,America/Phoenix,3,85620 85603,1840019491
+Leupp,Leupp,Arizona,4005,Coconino,35.2966,-111.0028,1179,33.6,shape,false,false,America/Denver,3,86035,1840017665
+Ak-Chin Village,Ak-Chin Village,Arizona,4021,Pinal,33.0197,-112.0808,1178,43.2,shape,false,false,America/Phoenix,3,85139,1840018029
+Shongopovi,Shongopovi,Arizona,4017,Navajo,35.8195,-110.5331,1151,280.1,shape,false,false,America/Phoenix,3,86043,1840136204
+Casa Blanca,Casa Blanca,Arizona,4021,Pinal,33.1154,-111.9081,1137,27.8,shape,false,false,America/Phoenix,3,85138 85121,1840025877
+Blue Ridge,Blue Ridge,Arizona,4005,Coconino,34.6407,-111.1073,1073,21.7,shape,false,false,America/Phoenix,3,86024,1840142806
+Moenkopi,Moenkopi,Arizona,4005,Coconino,36.1125,-111.2212,1064,273.3,shape,false,false,America/Phoenix,3,86045,1840018967
+Tombstone,Tombstone,Arizona,4003,Cochise,31.7234,-110.0798,1046,43.7,shape,false,true,America/Phoenix,3,85638,1840022104
+Seven Mile,Seven Mile,Arizona,4017,Navajo,33.7883,-109.9576,1032,176.0,shape,false,true,America/Phoenix,4,85941 85926,1840027934
+Bouse,Bouse,Arizona,4012,La Paz,33.8984,-113.9962,1026,2.9,shape,false,false,America/Phoenix,3,85325,1840017957
+Pinon,Pinon,Arizona,4017,Navajo,36.0992,-110.2209,1018,60.6,shape,false,false,America/Denver,3,86510,1840018964
+Mammoth,Mammoth,Arizona,4021,Pinal,32.6853,-110.7292,1014,14.9,shape,false,true,America/Phoenix,3,85623 85618,1840022980
+Ehrenberg,Ehrenberg,Arizona,4012,La Paz,33.6175,-114.4883,1012,32.8,shape,false,false,America/Phoenix,3,85334,1840017958
+Fredonia,Fredonia,Arizona,4005,Coconino,36.9617,-112.5195,1009,43.9,shape,false,true,America/Phoenix,3,86022,1840021586
+Wilhoit,Wilhoit,Arizona,4025,Yavapai,34.4082,-112.6156,1009,24.8,shape,false,false,America/Phoenix,3,86332,1840019165
+Strawberry,Strawberry,Arizona,4007,Gila,34.4012,-111.51,1003,33.6,shape,false,false,America/Phoenix,3,85544,1840019266
+McNary,McNary,Arizona,4001,Apache,34.0923,-109.8541,980,66.7,shape,false,false,America/Phoenix,3,85930,1840018996
+Gila Crossing,Gila Crossing,Arizona,4013,Maricopa,33.2731,-112.1627,965,428.1,shape,false,false,America/Phoenix,3,85339,1840025866
+Munds Park,Munds Park,Arizona,4005,Coconino,34.9382,-111.6318,950,16.5,shape,false,false,America/Phoenix,3,86017,1840018969
+Mountainaire,Mountainaire,Arizona,4005,Coconino,35.0921,-111.6493,945,35.8,shape,false,false,America/Phoenix,3,86005,1840018968
+Mayer,Mayer,Arizona,4025,Yavapai,34.4233,-112.2408,920,17.6,shape,false,false,America/Phoenix,3,86333,1840017848
+Patagonia,Patagonia,Arizona,4023,Santa Cruz,31.5436,-110.7478,896,268.3,shape,false,true,America/Phoenix,3,85624,1840023118
+Whitecone,Whitecone,Arizona,4017,Navajo,35.6037,-110.0791,892,7.6,shape,false,true,America/Denver,4,86031 86034,1840027881
+Kykotsmovi Village,Kykotsmovi Village,Arizona,4017,Navajo,35.8576,-110.6338,887,20.2,shape,false,false,America/Phoenix,3,86039,1840017660
+Teec Nos Pos,Teec Nos Pos,Arizona,4001,Apache,36.9221,-109.0753,884,23.9,shape,false,false,America/Denver,3,86514,1840019007
+Duncan,Duncan,Arizona,4011,Greenlee,32.7344,-109.0972,879,157.7,shape,false,true,America/Phoenix,3,85534,1840021986
+Chilchinbito,Chilchinbito,Arizona,4017,Navajo,36.5027,-110.0512,849,13.8,shape,false,false,America/Denver,3,86033,1840017655
+Hondah,Hondah,Arizona,4017,Navajo,34.086,-109.9149,837,26.6,shape,false,true,America/Phoenix,4,85930 85935,1840075391
+Willow Valley,Willow Valley,Arizona,4015,Mohave,34.9296,-114.6159,819,64.1,shape,false,false,America/Phoenix,3,86440,1840019747
+Parker Strip,Parker Strip,Arizona,4012,La Paz,34.2797,-114.1277,814,100.5,shape,false,false,America/Phoenix,3,85344,1840019267
+Komatke,Komatke,Arizona,4013,Maricopa,33.2953,-112.1615,806,127.9,shape,false,false,America/Phoenix,3,85339,1840022923
+Sawmill,Sawmill,Arizona,4001,Apache,35.8924,-109.1538,794,49.8,shape,false,false,America/Denver,3,86504,1840019003
+Bluewater,Bluewater,Arizona,4012,La Paz,34.1681,-114.2667,791,147.0,shape,false,false,America/Phoenix,3,85344,1840027986
+Gadsden,Gadsden,Arizona,4027,Yuma,32.5564,-114.7811,781,154.5,shape,false,false,America/Phoenix,3,85336 85350,1840018027
+Cameron,Cameron,Arizona,4005,Coconino,35.8537,-111.4269,780,16.1,shape,false,false,America/Denver,3,86020,1840017662
+Houck,Houck,Arizona,4001,Apache,35.2714,-109.2237,777,7.1,shape,false,false,America/Denver,3,86506,1840017677
+St. Michaels,St. Michaels,Arizona,4001,Apache,35.6606,-109.0962,774,78.3,shape,false,false,America/Denver,3,86511 86515,1840019002
+Golden Shores,Golden Shores,Arizona,4015,Mohave,34.7819,-114.4777,772,36.6,shape,false,true,America/Phoenix,4,86436,1840075379
+Seligman,Seligman,Arizona,4025,Yavapai,35.3256,-112.8574,770,46.3,shape,false,false,America/Phoenix,3,86337,1840019164
+Santa Rosa,Santa Rosa,Arizona,4019,Pima,32.3325,-112.0464,749,44.4,shape,false,false,America/Phoenix,3,85634,1840019484
+Queen Valley,Queen Valley,Arizona,4021,Pinal,33.2831,-111.3049,746,29.6,shape,false,false,America/Phoenix,3,85118,1840019360
+Sonoita,Sonoita,Arizona,4023,Santa Cruz,31.6646,-110.6427,741,26.9,shape,false,false,America/Phoenix,3,85637,1840019536
+Ganado,Ganado,Arizona,4001,Apache,35.7016,-109.5504,737,31.1,shape,false,false,America/Denver,3,86505,1840017676
+Upper Santan Village,Upper Santan Village,Arizona,4021,Pinal,33.1152,-111.7419,733,42.0,shape,false,true,America/Phoenix,4,85147,1840042802
+Sunsites,Sunsites,Arizona,4003,Cochise,31.941,-109.8394,732,317.3,shape,false,false,America/Phoenix,3,85625,1840151074
+Brenda,Brenda,Arizona,4012,La Paz,33.6721,-113.9379,716,40.0,shape,false,false,America/Phoenix,3,85348,1840022876
+Salome,Salome,Arizona,4012,La Paz,33.7778,-113.606,708,8.2,shape,false,false,America/Phoenix,3,85348,1840019269
+Miracle Valley,Miracle Valley,Arizona,4003,Cochise,31.3829,-110.1485,704,499.0,shape,false,false,America/Phoenix,3,85615,1840023089
+Donovan Estates,Donovan Estates,Arizona,4027,Yuma,32.7094,-114.6781,696,1669.5,shape,false,true,America/Tijuana,3,85364,1840075311
+Sanders,Sanders,Arizona,4001,Apache,35.2095,-109.3224,696,103.8,shape,false,false,America/Denver,3,86512,1840022626
+Many Farms,Many Farms,Arizona,4001,Apache,36.3532,-109.6271,693,32.8,shape,false,false,America/Denver,3,86538,1840017674
+Circle City,Circle City,Arizona,4013,Maricopa,33.8149,-112.581,687,616.0,shape,false,false,America/Phoenix,3,85342,1840016914
+Hotevilla-Bacavi,Hotevilla-Bacavi,Arizona,4017,Navajo,35.9225,-110.6569,678,22.3,shape,false,true,America/Phoenix,4,86030,1840027979
+Low Mountain,Low Mountain,Arizona,4017,Navajo,35.9481,-110.0981,644,6.7,shape,false,false,America/Denver,3,86520 86034,1840022581
+Walnut Creek,Walnut Creek,Arizona,4015,Mohave,35.1312,-114.1267,642,161.6,shape,false,true,America/Phoenix,4,86413,1840075545
+Peeples Valley,Peeples Valley,Arizona,4025,Yavapai,34.2773,-112.7653,642,16.4,shape,false,false,America/Phoenix,3,86332,1840019163
+Arizona Village,Arizona Village,Arizona,4015,Mohave,34.8546,-114.5895,630,153.0,shape,false,false,America/Phoenix,3,86440,1840018338
+Roosevelt Estates,Roosevelt Estates,Arizona,4007,Gila,33.6201,-110.9997,620,49.8,shape,false,false,America/Phoenix,3,85545,1840151071
+Maricopa Colony,Maricopa Colony,Arizona,4013,Maricopa,33.3626,-112.2267,615,43.3,shape,false,true,America/Phoenix,4,85339,1840042770
+San Jose,San Jose,Arizona,4009,Graham,32.8169,-109.5957,614,56.5,shape,false,false,America/Phoenix,3,85546,1840022960
+Arivaca Junction,Arivaca Junction,Arizona,4019,Pima,31.739,-111.0738,606,79.2,shape,false,false,America/Phoenix,3,85645,1840023065
+Vicksburg,Vicksburg,Arizona,4012,La Paz,33.7293,-113.8255,602,1.6,shape,false,false,America/Phoenix,3,85325 85348,1840022880
+Rancho Mesa Verde,Rancho Mesa Verde,Arizona,4027,Yuma,32.5944,-114.6551,599,1100.7,shape,false,true,America/Phoenix,3,85350,1840038041
+Rainbow City,Rainbow City,Arizona,4017,Navajo,33.8731,-109.9763,596,105.7,shape,false,true,America/Phoenix,4,85941,1840038035
+Round Rock,Round Rock,Arizona,4001,Apache,36.5044,-109.4616,590,16.0,shape,false,false,America/Denver,3,86547,1840019001
+Cactus Forest,Cactus Forest,Arizona,4021,Pinal,32.9578,-111.317,588,83.1,shape,false,false,America/Phoenix,3,85132,1840022982
+Yarnell,Yarnell,Arizona,4025,Yavapai,34.2282,-112.7631,579,25.2,shape,false,false,America/Phoenix,3,85362,1840019167
+Dennehotso,Dennehotso,Arizona,4001,Apache,36.8208,-109.8791,560,21.7,shape,false,false,America/Denver,3,86535,1840018995
+Pinedale,Pinedale,Arizona,4017,Navajo,34.3207,-110.2599,543,21.7,shape,false,false,America/Phoenix,3,85934,1840022582
+Icehouse Canyon,Icehouse Canyon,Arizona,4007,Gila,33.3553,-110.7965,532,42.3,shape,false,true,America/Phoenix,4,85501,1840075398
+Hayden,Hayden,Arizona,4007,Gila,32.9995,-110.7814,525,160.2,shape,false,true,America/Phoenix,3,85135,1840021911
+Arivaca,Arivaca,Arizona,4019,Pima,31.575,-111.2926,524,7.3,shape,false,false,America/Phoenix,3,85601,1840023064
+Tacna,Tacna,Arizona,4027,Yuma,32.7004,-113.9618,524,105.2,shape,false,false,America/Phoenix,3,85356 85352,1840019357
+Elephant Head,Elephant Head,Arizona,4019,Pima,31.7659,-110.9921,517,27.5,shape,false,true,America/Phoenix,4,85645,1840075344
+Gisela,Gisela,Arizona,4007,Gila,34.1015,-111.2895,516,69.6,shape,false,false,America/Phoenix,3,85541,1840017946
+Del Muerto,Del Muerto,Arizona,4001,Apache,36.187,-109.4348,515,167.2,shape,false,false,America/Denver,3,86503,1840027931
+Round Valley,Round Valley,Arizona,4007,Gila,34.1877,-111.3017,506,40.8,shape,false,true,America/Phoenix,4,85541,1840075483
+Burnside,Burnside,Arizona,4001,Apache,35.7534,-109.6247,505,21.0,shape,false,false,America/Denver,3,86505,1840027977
+Tolani Lake,Tolani Lake,Arizona,4005,Coconino,35.431,-110.8431,494,301.9,shape,false,false,America/Denver,3,86047,1840022591
+Red Mesa,Red Mesa,Arizona,4001,Apache,36.9664,-109.3828,494,14.9,shape,false,false,America/Denver,3,86514,1840018998
+Mesquite Creek,Mesquite Creek,Arizona,4015,Mohave,34.9607,-114.5714,494,186.5,shape,false,false,America/Phoenix,3,86440,1840027981
+Rock Point,Rock Point,Arizona,4001,Apache,36.7173,-109.6287,489,13.3,shape,false,false,America/Denver,3,86545,1840018999
+So-Hi,So-Hi,Arizona,4015,Mohave,35.2527,-114.1415,483,212.9,shape,false,true,America/Phoenix,3,86413,1840075493
+Solomon,Solomon,Arizona,4009,Graham,32.8138,-109.629,479,528.1,shape,false,false,America/Phoenix,3,85551,1840022961
+Dudleyville,Dudleyville,Arizona,4021,Pinal,32.9127,-110.7345,478,27.5,shape,false,false,America/Phoenix,3,85192,1840019358
+York,York,Arizona,4011,Greenlee,32.9175,-109.196,475,89.4,shape,false,false,America/Phoenix,3,85534,1840022951
+Stotonic Village,Stotonic Village,Arizona,4021,Pinal,33.1528,-111.8167,470,35.5,shape,false,true,America/Phoenix,4,85248 85147,1840042796
+Wenden,Wenden,Arizona,4012,La Paz,33.8324,-113.5432,469,12.1,shape,false,false,America/Phoenix,3,85357 85348,1840019270
+La Paz Valley,La Paz Valley,Arizona,4012,La Paz,33.5582,-114.2434,469,6.2,shape,false,false,America/Phoenix,3,85346,1840022878
+Nazlini,Nazlini,Arizona,4001,Apache,35.9155,-109.4726,468,24.2,shape,false,false,America/Denver,3,86540,1840018997
+Ash Fork,Ash Fork,Arizona,4025,Yavapai,35.2171,-112.4913,466,78.0,shape,false,false,America/Phoenix,3,86320,1840017844
+Turkey Creek,Turkey Creek,Arizona,4017,Navajo,33.8011,-109.9461,457,214.7,shape,false,true,America/Phoenix,3,85941,1840075498
+Wheatfields,Wheatfields,Arizona,4007,Gila,33.4805,-110.8366,457,21.9,shape,false,true,America/Phoenix,4,85501,1840075566
+Stanfield,Stanfield,Arizona,4021,Pinal,32.8794,-111.9636,457,44.9,shape,false,false,America/Phoenix,3,85172,1840019366
+Tees Toh,Tees Toh,Arizona,4017,Navajo,35.4849,-110.3989,452,10.3,shape,false,false,America/Denver,3,86047,1840022585
+Topawa,Topawa,Arizona,4019,Pima,31.8078,-111.8305,441,33.1,shape,false,false,America/Phoenix,3,85639,1840023079
+East Fork,East Fork,Arizona,4017,Navajo,33.8082,-109.9227,439,82.2,shape,false,false,America/Phoenix,3,85941,1840018961
+Bowie,Bowie,Arizona,4003,Cochise,32.3247,-109.4843,438,99.1,shape,false,false,America/Phoenix,3,85605,1840023084
+Keams Canyon,Keams Canyon,Arizona,4017,Navajo,35.8229,-110.2011,436,10.1,shape,false,false,America/Phoenix,3,86034,1840017659
+Rough Rock,Rough Rock,Arizona,4001,Apache,36.4106,-109.8691,423,12.8,shape,false,false,America/Denver,3,86503,1840019000
+Steamboat,Steamboat,Arizona,4001,Apache,35.7535,-109.8504,417,66.3,shape,false,false,America/Denver,3,86505,1840019006
+Nutrioso,Nutrioso,Arizona,4001,Apache,33.9514,-109.2058,410,22.7,shape,false,false,America/Phoenix,3,85932,1840022624
+Young,Young,Arizona,4007,Gila,34.1189,-110.9559,407,3.3,shape,false,false,America/Phoenix,3,85554,1840019265
+Cedar Creek,Cedar Creek,Arizona,4007,Gila,33.903,-110.1929,396,9.0,shape,false,false,America/Phoenix,3,85941,1840022861
+Tusayan,Tusayan,Arizona,4005,Coconino,35.9549,-112.1202,394,9.0,shape,false,true,America/Phoenix,4,86023,1840018973
+El Prado Estates,El Prado Estates,Arizona,4027,Yuma,32.7062,-114.5215,391,155.8,shape,false,true,America/Phoenix,4,85365,1840075355
+Nelson,Nelson,Arizona,4019,Pima,32.4298,-111.2649,387,315.5,shape,false,false,America/Phoenix,3,85653,1840137559
+Shonto,Shonto,Arizona,4017,Navajo,36.5893,-110.6607,387,32.8,shape,false,false,America/Denver,3,86054,1840018963
+Sacaton Flats Village,Sacaton Flats Village,Arizona,4021,Pinal,33.0559,-111.659,385,22.4,shape,false,true,America/Phoenix,4,85147 85128,1840042786
+Greenehaven,Greenehaven,Arizona,4005,Coconino,36.9959,-111.5566,382,192.5,shape,false,false,America/Phoenix,3,86040,1840142805
+Central,Central,Arizona,4009,Graham,32.8692,-109.7908,375,86.4,shape,false,false,America/Phoenix,3,85531 85543,1840022958
+Bitter Springs,Bitter Springs,Arizona,4005,Coconino,36.6118,-111.6475,374,18.0,shape,false,false,America/Denver,3,86040 86036,1840017661
+Lazy Y U,Lazy Y U,Arizona,4015,Mohave,35.1369,-113.9684,368,9.0,shape,false,true,America/Phoenix,4,86401,1840075406
+Jerome,Jerome,Arizona,4025,Yavapai,34.7471,-112.1076,363,178.3,shape,false,true,America/Phoenix,3,86331,1840021773
+Aguila,Aguila,Arizona,4013,Maricopa,33.9376,-113.1665,362,85.7,shape,false,false,America/Phoenix,3,85320,1840022918
+Indian Wells,Indian Wells,Arizona,4017,Navajo,35.4089,-110.1062,357,13.3,shape,false,false,America/Denver,3,86031,1840022577
+Pisinemo,Pisinemo,Arizona,4019,Pima,32.035,-112.3193,353,60.1,shape,false,false,America/Phoenix,3,85634,1840019483
+Winslow West,Winslow West,Arizona,4017,Navajo,34.9918,-110.7069,343,7.7,shape,false,false,America/Phoenix,3,86047,1840027984
+Wittmann,Wittmann,Arizona,4013,Maricopa,33.7749,-112.525,343,137.3,shape,false,false,America/Phoenix,3,85361,1840022928
+Pinal,Pinal,Arizona,4007,Gila,33.3802,-110.7572,342,316.5,shape,false,false,America/Phoenix,3,85501,1840027956
+Dateland,Dateland,Arizona,4027,Yuma,32.8209,-113.5418,341,6.0,shape,false,false,America/Phoenix,3,85333,1840022978
+Fort Thomas,Fort Thomas,Arizona,4009,Graham,33.0222,-109.9665,340,15.1,shape,false,false,America/Phoenix,3,85536,1840022959
+Goodyear Village,Goodyear Village,Arizona,4021,Pinal,33.1973,-111.8724,332,38.2,shape,false,true,America/Phoenix,4,85248,1840042768
+Vernon,Vernon,Arizona,4001,Apache,34.2508,-109.6926,331,225.7,shape,false,false,America/Phoenix,3,85940,1840022629
+Hackberry,Hackberry,Arizona,4015,Mohave,35.3401,-113.7256,319,7.0,shape,false,false,America/Phoenix,3,86411,1840023178
+San Miguel,San Miguel,Arizona,4019,Pima,31.6295,-111.7801,314,21.4,shape,false,false,America/Phoenix,3,85634,1840023076
+Yuma Proving Ground,Yuma Proving Ground,Arizona,4027,Yuma,32.8652,-114.4369,313,89.8,shape,true,false,America/Phoenix,4,85365,1840153142
+Wall Lane,Wall Lane,Arizona,4027,Yuma,32.6573,-114.7105,312,275.9,shape,false,true,America/Tijuana,3,85365,1840075541
+Clay Springs,Clay Springs,Arizona,4017,Navajo,34.3593,-110.3044,300,40.7,shape,false,false,America/Phoenix,3,85923,1840022574
+Picacho,Picacho,Arizona,4021,Pinal,32.709,-111.4909,289,18.3,shape,false,false,America/Phoenix,3,85131 85141,1840022984
+Elfrida,Elfrida,Arizona,4003,Cochise,31.6783,-109.6876,288,18.3,shape,false,false,America/Phoenix,3,85610,1840023086
+Chloride,Chloride,Arizona,4015,Mohave,35.4097,-114.1972,287,73.5,shape,false,false,America/Phoenix,3,86431,1840023175
+Carrizo,Carrizo,Arizona,4007,Gila,33.9866,-110.3314,285,12.2,shape,false,false,America/Phoenix,3,85941,1840022860
+Crystal Beach,Crystal Beach,Arizona,4015,Mohave,34.5714,-114.3925,282,229.2,shape,false,true,America/Los_Angeles,3,86404,1840075284
+Greasewood,Greasewood,Arizona,4017,Navajo,35.5279,-109.8614,281,20.3,shape,false,false,America/Denver,3,86505,1840017656
+Cornfields,Cornfields,Arizona,4001,Apache,35.6515,-109.6756,281,145.1,shape,false,false,America/Denver,3,86505,1840022619
+Palominas,Palominas,Arizona,4003,Cochise,31.3839,-110.1212,275,54.5,shape,false,false,America/Phoenix,3,85615,1840023090
+White Hills,White Hills,Arizona,4015,Mohave,35.7242,-114.4004,265,2.0,shape,false,false,America/Phoenix,3,86441 86445,1840023188
+Oak Creek Canyon,Oak Creek Canyon,Arizona,4005,Coconino,34.949,-111.7505,262,4.4,shape,false,false,America/Phoenix,3,86336,1840151072
+Winkelman,Winkelman,Arizona,4021,Pinal,32.9853,-110.7651,249,125.0,shape,false,true,America/Phoenix,3,85192,1840022859
+Valle,Valle,Arizona,4005,Coconino,35.6598,-112.1637,248,6.6,shape,false,false,America/Phoenix,3,86046,1840022592
+Cane Beds,Cane Beds,Arizona,4015,Mohave,36.9342,-112.9118,246,11.5,shape,false,false,America/Phoenix,3,86021 86022,1840023173
+East Globe,East Globe,Arizona,4007,Gila,33.3511,-110.7061,246,28.1,shape,false,true,America/Phoenix,4,85550,1840075328
+Morristown,Morristown,Arizona,4013,Maricopa,33.8549,-112.6135,238,94.5,shape,false,false,America/Phoenix,3,85342,1840022924
+Mormon Lake,Mormon Lake,Arizona,4005,Coconino,34.9112,-111.4527,235,65.1,shape,false,false,America/Phoenix,3,86038,1840027951
+Dripping Springs,Dripping Springs,Arizona,4007,Gila,33.1049,-110.7551,230,13.2,shape,false,true,America/Phoenix,4,85192,1840075316
+Top-of-the-World,Top-of-the-World,Arizona,4021,Pinal,33.3477,-110.9997,227,14.5,shape,false,false,America/Phoenix,3,85539 85545,1840027983
+Lower Santan Village,Lower Santan Village,Arizona,4021,Pinal,33.1427,-111.7853,226,21.0,shape,false,true,America/Phoenix,4,85147,1840042769
+San Simon,San Simon,Arizona,4003,Cochise,32.2682,-109.2302,221,111.7,shape,false,false,America/Phoenix,3,85632,1840023091
+Sunizona,Sunizona,Arizona,4003,Cochise,31.8855,-109.6332,217,9.1,shape,false,false,America/Phoenix,3,85625,1840023092
+Jeddito,Jeddito,Arizona,4017,Navajo,35.7697,-110.1305,211,15.0,shape,false,false,America/Denver,3,86034,1840017657
+Jakes Corner,Jakes Corner,Arizona,4007,Gila,34.0083,-111.3203,206,56.0,shape,false,false,America/Phoenix,3,85541,1840022864
+Chuichu,Chuichu,Arizona,4021,Pinal,32.7403,-111.7821,204,11.5,shape,false,false,America/Phoenix,3,85193,1840018028
+Wellton Hills,Wellton Hills,Arizona,4027,Yuma,32.6231,-114.1453,193,116.5,shape,false,true,America/Phoenix,4,85356,1840075560
+Cutter,Cutter,Arizona,4007,Gila,33.3584,-110.6593,189,88.4,shape,false,false,America/Phoenix,3,85550,1840022863
+Gu Oidak,Gu Oidak,Arizona,4019,Pima,31.9206,-112.0235,187,10.4,shape,false,false,America/Phoenix,3,85634,1840023070
+Fort Apache,Fort Apache,Arizona,4017,Navajo,33.7907,-109.9873,185,63.9,shape,false,false,America/Phoenix,3,85926,1840022575
+Pinion Pines,Pinion Pines,Arizona,4015,Mohave,35.1466,-113.9058,183,47.0,shape,false,true,America/Phoenix,4,86401,1840075442
+Bryce,Bryce,Arizona,4009,Graham,32.9258,-109.8229,183,84.0,shape,false,false,America/Phoenix,3,85543,1840022956
+McNeal,McNeal,Arizona,4003,Cochise,31.6079,-109.6699,180,18.5,shape,false,false,America/Phoenix,3,85617,1840023087
+Cibola,Cibola,Arizona,4012,La Paz,33.3733,-114.6792,171,3.4,shape,false,false,America/Phoenix,3,85328,1840017956
+Sacate Village,Sacate Village,Arizona,4021,Pinal,33.1416,-111.9811,171,22.3,shape,false,true,America/Phoenix,4,85121,1840042772
+Wet Camp Village,Wet Camp Village,Arizona,4021,Pinal,33.1413,-111.9004,171,14.4,shape,false,true,America/Phoenix,4,85121,1840042806
+South Komelik,South Komelik,Arizona,4019,Pima,31.7144,-111.7744,169,16.7,shape,false,false,America/Phoenix,3,85634,1840023077
+Elgin,Elgin,Arizona,4023,Santa Cruz,31.6681,-110.5347,169,11.0,shape,false,false,America/Phoenix,3,85611,1840018173
+Tonalea,Tonalea,Arizona,4005,Coconino,36.3218,-110.9667,167,6.5,shape,false,false,America/Denver,3,86044,1840018971
+Klagetoh,Klagetoh,Arizona,4001,Apache,35.501,-109.5283,165,325.3,shape,false,false,America/Denver,3,86505,1840022622
+Dragoon,Dragoon,Arizona,4003,Cochise,32.0272,-110.0369,160,31.5,shape,false,false,America/Phoenix,3,85609,1840023085
+Haivana Nakya,Haivana Nakya,Arizona,4019,Pima,32.0051,-111.7124,158,32.8,shape,false,false,America/Phoenix,3,85634,1840023071
+Shumway,Shumway,Arizona,4017,Navajo,34.4145,-110.0649,157,20.6,shape,false,false,America/Phoenix,3,85939 85901,1840038473
+Sehili,Sehili,Arizona,4001,Apache,36.2807,-109.1814,156,92.4,shape,false,false,America/Denver,3,86556,1840022627
+Kino Springs,Kino Springs,Arizona,4023,Santa Cruz,31.3641,-110.8096,154,185.3,shape,false,false,America/Phoenix,3,85621,1840023120
+Katherine,Katherine,Arizona,4015,Mohave,35.2206,-114.5616,153,15.6,shape,false,false,America/Phoenix,3,86429,1840023179
+East Verde Estates,East Verde Estates,Arizona,4007,Gila,34.2983,-111.3645,149,23.0,shape,false,true,America/Phoenix,4,85541,1840075337
+Poston,Poston,Arizona,4012,La Paz,33.9921,-114.4045,147,41.3,shape,false,false,America/Phoenix,3,85371,1840019268
+Vaiva Vo,Vaiva Vo,Arizona,4021,Pinal,32.7167,-111.9269,143,119.8,shape,false,false,America/Phoenix,3,85193,1840022988
+Alpine,Alpine,Arizona,4001,Apache,33.8461,-109.1433,141,96.3,shape,false,false,America/Phoenix,3,85920,1840022617
+Tonto Village,Tonto Village,Arizona,4007,Gila,34.3198,-111.1394,140,232.8,shape,false,false,America/Phoenix,3,85541,1840022868
+Kaibab,Kaibab,Arizona,4015,Mohave,36.8815,-112.7237,135,8.1,shape,false,false,America/Phoenix,3,86022,1840018340
+Freedom Acres,Freedom Acres,Arizona,4007,Gila,34.3199,-111.3051,133,29.3,shape,false,false,America/Phoenix,3,85541,1840027968
+Beaver Valley,Beaver Valley,Arizona,4007,Gila,34.3409,-111.2987,133,34.2,shape,false,true,America/Phoenix,4,85541,1840075250
+Seba Dalkai,Seba Dalkai,Arizona,4017,Navajo,35.4816,-110.4562,132,3.4,shape,false,false,America/Denver,3,86047,1840022583
+Mead Ranch,Mead Ranch,Arizona,4007,Gila,34.346,-111.143,131,84.6,shape,false,true,America/Phoenix,4,85541,1840075411
+Drysdale,Drysdale,Arizona,4027,Yuma,32.6452,-114.7067,128,190.8,shape,false,true,America/Phoenix,4,85365,1840075320
+Whispering Pines,Whispering Pines,Arizona,4007,Gila,34.3728,-111.2813,126,113.3,shape,false,false,America/Phoenix,3,85541,1840027969
+Ventana,Ventana,Arizona,4019,Pima,32.4681,-112.2434,122,45.4,shape,false,false,America/Phoenix,3,85321,1840023080
+Deer Creek,Deer Creek,Arizona,4007,Gila,34.0644,-111.3505,122,25.8,shape,false,true,America/Phoenix,4,85541,1840075296
+Ali Chuk,Ali Chuk,Arizona,4019,Pima,31.8169,-112.5584,120,32.1,shape,false,false,America/Phoenix,3,85634,1840023060
+Christopher Creek,Christopher Creek,Arizona,4007,Gila,34.3206,-111.0071,118,14.5,shape,false,false,America/Phoenix,3,85541,1840022862
+Moccasin,Moccasin,Arizona,4015,Mohave,36.9099,-112.7546,118,59.5,shape,false,false,America/Phoenix,3,86022,1840023183
+Hard Rock,Hard Rock,Arizona,4017,Navajo,36.0309,-110.5048,118,7.7,shape,false,true,America/Denver,4,86039,1840075388
+Anegam,Anegam,Arizona,4019,Pima,32.3742,-112.035,115,19.2,shape,false,false,America/Phoenix,3,85634,1840023063
+Rock House,Rock House,Arizona,4007,Gila,33.6318,-110.9456,115,73.0,shape,false,true,America/Phoenix,4,85501,1840038092
+Sweet Water Village,Sweet Water Village,Arizona,4021,Pinal,33.1274,-111.8424,114,55.0,shape,false,true,America/Phoenix,4,85147 85121,1840042801
+Oxbow Estates,Oxbow Estates,Arizona,4007,Gila,34.1824,-111.343,110,86.1,shape,false,false,America/Phoenix,3,85541,1840027971
+Wintersburg,Wintersburg,Arizona,4013,Maricopa,33.4187,-112.8666,110,71.7,shape,false,false,America/Phoenix,3,85354,1840022927
+Copper Hill,Copper Hill,Arizona,4007,Gila,33.4379,-110.7516,110,5.8,shape,false,false,America/Phoenix,3,85501,1840027973
+Sun Valley,Sun Valley,Arizona,4017,Navajo,34.9834,-110.0374,105,1.3,shape,false,false,America/Phoenix,3,86025 86029,1840022584
+Truxton,Truxton,Arizona,4015,Mohave,35.487,-113.5607,104,10.6,shape,false,false,America/Phoenix,3,86434,1840023186
+Arlington,Arlington,Arizona,4013,Maricopa,33.3346,-112.7747,102,17.2,shape,false,false,America/Phoenix,3,85322,1840022920
+Why,Why,Arizona,4019,Pima,32.259,-112.7307,102,4.4,shape,false,false,America/Phoenix,3,85321,1840023082
+Theba,Theba,Arizona,4013,Maricopa,32.9181,-112.8903,97,60.2,shape,false,false,America/Phoenix,3,85337,1840022925
+Antares,Antares,Arizona,4015,Mohave,35.4229,-113.8083,94,56.1,shape,false,false,America/Phoenix,3,86401,1840023171
+Oatman,Oatman,Arizona,4015,Mohave,35.0275,-114.384,94,84.4,shape,false,false,America/Phoenix,3,86433,1840023184
+Franklin,Franklin,Arizona,4011,Greenlee,32.677,-109.072,93,35.8,shape,false,false,America/Phoenix,3,85534,1840022950
+Clacks Canyon,Clacks Canyon,Arizona,4015,Mohave,35.2203,-114.0723,92,10.7,shape,false,true,America/Phoenix,4,86409 86402,1840075276
+Campo Bonito,Campo Bonito,Arizona,4021,Pinal,32.5629,-110.6984,91,8.7,shape,false,false,America/Phoenix,3,85623,1840027939
+Chiawuli Tak,Chiawuli Tak,Arizona,4019,Pima,31.941,-111.7765,90,14.3,shape,false,false,America/Phoenix,3,85634,1840023067
+Santa Cruz,Santa Cruz,Arizona,4021,Pinal,33.2327,-112.1594,89,21.1,shape,false,false,America/Phoenix,3,85339,1840025878
+Ali Molina,Ali Molina,Arizona,4019,Pima,31.9025,-111.7804,88,44.1,shape,false,false,America/Phoenix,3,85634,1840023062
+Littlefield,Littlefield,Arizona,4015,Mohave,36.8659,-113.936,82,2.7,shape,false,false,America/Phoenix,3,86432,1840023180
+Tumacacori-Carmen,Tumacacori-Carmen,Arizona,4023,Santa Cruz,31.5771,-111.0468,81,16.4,shape,false,true,America/Phoenix,4,85640,1840074659
+Crozier,Crozier,Arizona,4015,Mohave,35.4227,-113.6487,73,26.8,shape,false,false,America/Phoenix,3,86437 86434,1840023176
+Ali Chukson,Ali Chukson,Arizona,4019,Pima,31.9115,-111.8017,73,13.6,shape,false,false,America/Phoenix,3,85634,1840023061
+Kohls Ranch,Kohls Ranch,Arizona,4007,Gila,34.321,-111.0838,73,24.0,shape,false,false,America/Phoenix,3,85541,1840022865
+Oljato-Monument Valley,Oljato-Monument Valley,Arizona,4017,Navajo,36.9867,-110.191,73,2.3,shape,false,true,America/Denver,5,86033 84536,1840037122
+Pine Lake,Pine Lake,Arizona,4015,Mohave,35.0887,-113.874,68,15.6,shape,false,true,America/Phoenix,4,86401,1840075424
+Yucca,Yucca,Arizona,4015,Mohave,34.8629,-114.1461,65,11.2,shape,false,false,America/Phoenix,3,86438,1840023190
+Woodruff,Woodruff,Arizona,4017,Navajo,34.7843,-110.0366,62,4.2,shape,false,false,America/Phoenix,3,85942 86025,1840022588
+Beyerville,Beyerville,Arizona,4023,Santa Cruz,31.3919,-110.8749,61,34.7,shape,false,false,America/Phoenix,3,85621,1840023119
+Maish Vaya,Maish Vaya,Arizona,4019,Pima,32.1703,-112.1342,61,5.6,shape,false,false,America/Phoenix,3,85634,1840023073
+Flowing Springs,Flowing Springs,Arizona,4007,Gila,34.3131,-111.3379,60,13.6,shape,false,false,America/Phoenix,3,85541,1840027970
+Martinez Lake,Martinez Lake,Arizona,4027,Yuma,32.9843,-114.4722,49,12.4,shape,false,true,America/Phoenix,4,85365,1840075410
+Kleindale,Kleindale,Arizona,4019,Pima,32.2681,-110.9146,47,475.8,shape,false,false,America/Phoenix,3,85716,1840142803
+Valentine,Valentine,Arizona,4015,Mohave,35.3886,-113.6591,46,11.1,shape,false,false,America/Phoenix,3,86437,1840023187
+Wahak Hotrontk,Wahak Hotrontk,Arizona,4019,Pima,32.1748,-112.3664,46,11.5,shape,false,false,America/Phoenix,3,85634,1840023081
+Amado,Amado,Arizona,4023,Santa Cruz,31.6968,-111.0583,40,3.0,shape,false,false,America/Phoenix,3,85645,1840018172
+Mojave Ranch Estates,Mojave Ranch Estates,Arizona,4015,Mohave,34.9449,-114.5907,39,20.1,shape,false,false,America/Phoenix,3,86440,1840027982
+Ko Vaya,Ko Vaya,Arizona,4019,Pima,32.0815,-111.8959,39,13.7,shape,false,false,America/Phoenix,3,85634,1840023072
+Utting,Utting,Arizona,4012,La Paz,33.8544,-113.9129,38,8.7,shape,false,false,America/Phoenix,3,85325,1840022879
+Oak Springs,Oak Springs,Arizona,4001,Apache,35.476,-109.1318,33,77.4,shape,false,false,America/Denver,3,86511,1840027932
+Padre Ranchitos,Padre Ranchitos,Arizona,4027,Yuma,32.6497,-114.6416,32,166.7,shape,false,true,America/Phoenix,4,85365,1840075422
+Wikieup,Wikieup,Arizona,4015,Mohave,34.6931,-113.5995,32,2.8,shape,false,false,America/Phoenix,3,85360,1840023189
+Haigler Creek,Haigler Creek,Arizona,4007,Gila,34.2163,-110.9719,29,7.0,shape,false,true,America/Phoenix,5,85554,1840075384
+Summerhaven,Summerhaven,Arizona,4019,Pima,32.4416,-110.7766,26,2.2,shape,false,false,America/Phoenix,3,85619,1840023078
+Kaka,Kaka,Arizona,4013,Maricopa,32.5113,-112.3166,24,18.6,shape,false,false,America/Phoenix,3,85321,1840022922
+Geronimo Estates,Geronimo Estates,Arizona,4007,Gila,34.3695,-111.3617,21,5.9,shape,false,false,America/Phoenix,3,85541,1840137528
+Charco,Charco,Arizona,4019,Pima,32.2474,-112.6001,21,8.7,shape,false,false,America/Phoenix,3,85321,1840023066
+Hunter Creek,Hunter Creek,Arizona,4007,Gila,34.3054,-111.0159,21,3.7,shape,false,true,America/Phoenix,5,85541,1840075397
+Rye,Rye,Arizona,4007,Gila,34.0979,-111.3542,18,13.7,shape,false,false,America/Phoenix,3,85541,1840022867
+Tonopah,Tonopah,Arizona,4013,Maricopa,33.488,-112.9308,13,3.7,shape,false,false,America/Phoenix,3,85354,1840022926
+Alamo Lake,Alamo Lake,Arizona,4012,La Paz,34.2588,-113.5079,10,0.0,shape,false,true,America/Phoenix,5,85357,1840075227
+El Capitan,El Capitan,Arizona,4007,Gila,33.2383,-110.7833,10,2.5,shape,false,true,America/Phoenix,5,85501,1840075340
+Washington Park,Washington Park,Arizona,4007,Gila,34.3978,-111.2731,7,1.0,shape,false,false,America/Phoenix,3,85541,1840022869
+Wide Ruins,Wide Ruins,Arizona,4001,Apache,35.4176,-109.4994,7,6.9,shape,false,false,America/Denver,3,86502,1840022630
+Buckshot,Buckshot,Arizona,4027,Yuma,32.7404,-114.4829,7,136.1,shape,false,true,America/Phoenix,4,85365,1840075263
+Lupton,Lupton,Arizona,4001,Apache,35.3547,-109.0527,5,24.5,shape,false,false,America/Denver,3,86508,1840022623
+Topock,Topock,Arizona,4015,Mohave,34.72,-114.4789,0,6.9,shape,false,false,America/Phoenix,3,86436,1840023185
+Toyei,Toyei,Arizona,4001,Apache,35.7043,-109.9371,0,17.3,shape,false,false,America/Denver,3,86505,1840022628
+Bear Flat,Bear Flat,Arizona,4007,Gila,34.2924,-111.0674,0,8.0,shape,false,false,America/Phoenix,3,85541,1840027972
+Tat Momoli,Tat Momoli,Arizona,4021,Pinal,32.6012,-111.8862,0,0.9,shape,false,false,America/Phoenix,3,85193,1840022987
+Sunwest,Sunwest,Arizona,4012,La Paz,33.651,-113.4091,0,0.1,shape,false,true,America/Phoenix,5,85348,1840038121
+Ak Chin,Ak Chin,Arizona,4019,Pima,32.2873,-112.0091,0,19.1,shape,false,false,America/Phoenix,3,85634,1840023059
+Willow Canyon,Willow Canyon,Arizona,4019,Pima,32.3881,-110.701,0,1.0,shape,false,false,America/Phoenix,3,85619,1840023083
+Concho,Concho,Arizona,4001,Apache,34.4742,-109.6102,0,14.0,shape,false,false,America/Phoenix,3,85924,1840022618
+Comobabi,Comobabi,Arizona,4019,Pima,32.0538,-111.8029,0,2.6,shape,false,false,America/Phoenix,3,85634,1840023068
+Cowlic,Cowlic,Arizona,4019,Pima,31.8048,-111.9876,0,102.9,shape,false,false,America/Phoenix,3,85634,1840023069
+Rillito,Rillito,Arizona,4019,Pima,32.4157,-111.1549,0,144.2,shape,false,false,America/Phoenix,3,85654 85653,1840023075
+Roosevelt,Roosevelt,Arizona,4007,Gila,33.6618,-111.1295,0,5.0,shape,false,false,America/Phoenix,3,85545,1840022866
+Aztec,Aztec,Arizona,4027,Yuma,32.8082,-113.4428,0,7.6,shape,false,false,America/Phoenix,3,85333,1840022977
+Nolic,Nolic,Arizona,4019,Pima,32.0341,-111.9549,0,28.0,shape,false,false,America/Phoenix,3,85634,1840023074
+Greer,Greer,Arizona,4001,Apache,34.0054,-109.4611,0,28.1,shape,false,false,America/Phoenix,3,85927,1840022621
+Supai,Supai,Arizona,4005,Coconino,36.2298,-112.6926,0,24.3,shape,false,false,America/Phoenix,3,86435,1840018974
+McConnico,McConnico,Arizona,4015,Mohave,35.1636,-114.0897,0,1.4,shape,false,false,America/Phoenix,3,86413 86401,1840023181
+Grand Canyon West,Grand Canyon West,Arizona,4015,Mohave,35.9998,-113.8103,0,0.1,shape,false,true,America/Phoenix,5,86434,1840075383
+Kohatk,Kohatk,Arizona,4021,Pinal,32.5781,-112.0032,0,77.3,shape,false,false,America/Phoenix,3,85634,1840022983

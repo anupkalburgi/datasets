@@ -1,0 +1,944 @@
+Miami,Miami,Florida,12086,Miami-Dade,25.784,-80.2101,6080145,4758.9,shape,false,true,America/New_York,1,33128 33129 33125 33126 33127 33149 33144 33145 33142 33139 33138 33137 33136 33135 33134 33133 33132 33131 33130 33150 33101 33109 33111 33151 33192 33195 33222 33231 33233 33238 33255 33299,1840015149
+Tampa,Tampa,Florida,12057,Hillsborough,27.9945,-82.4447,2861173,1320.9,shape,false,true,America/New_York,1,33637 33629 33621 33620 33609 33604 33606 33602 33619 33616 33613 33617 33614 33610 33611 33612 33605 33607 33603 33647 33608 33622 33623 33630 33631 33633 33646 33650 33655 33664 33672 33673 33674 33677 33679 33681 33684 33686 33689,1840015982
+Orlando,Orlando,Florida,12095,Orange,28.4773,-81.337,1882705,1070.2,shape,false,true,America/New_York,1,32829 32827 32824 32822 32804 32805 32806 32807 32801 32803 32808 32839 32835 32832 32819 32811 32812 32814 32802 32853 32854 32856 32861 32862 32872 32877 32885 32886 32891 32897,1840015099
+Jacksonville,Jacksonville,Florida,12031,Duval,30.3322,-81.6749,1288298,491.0,shape,false,true,America/New_York,1,32224 32225 32226 32227 32220 32221 32222 32223 32228 32219 32218 32214 32217 32216 32211 32210 32212 32246 32244 32233 32234 32202 32250 32254 32257 32256 32208 32209 32206 32207 32204 32205 32203 32258 32277 32099 32201 32229 32231 32232 32235 32236 32238 32239 32241 32245 32247 32255,1840015031
+Cape Coral,Cape Coral,Florida,12071,Lee,26.6443,-81.9957,654405,724.2,shape,false,true,America/New_York,2,33990 33993 33914 33991 33909 33904 33910 33915,1840015130
+Palm Bay,Palm Bay,Florida,12009,Brevard,27.9631,-80.6593,534348,542.9,shape,false,true,America/New_York,2,32909 32908 32905 32907 32976 32902 32906 32910 32911,1840015094
+Port St. Lucie,Port St. Lucie,Florida,12111,St. Lucie,27.2796,-80.3884,462047,681.8,shape,false,true,America/New_York,2,34986 34984 34983 34987 34952 34953 34985,1840015119
+Bonita Springs,Bonita Springs,Florida,12071,Lee,26.3558,-81.7859,449527,542.2,shape,false,true,America/New_York,2,33931 34135 34134,1840014227
+Kissimmee,Kissimmee,Florida,12097,Osceola,28.3041,-81.4169,431618,1409.2,shape,false,true,America/New_York,2,34743 34746 34741 34744 34745,1840015109
+Pensacola,Pensacola,Florida,12033,Escambia,30.4413,-87.1911,398813,917.0,shape,false,true,America/Chicago,2,32503 32504 32501 32502 32513 32522 32524 32591,1840015005
+Winter Haven,Winter Haven,Florida,12105,Polk,28.0118,-81.7014,293093,596.3,shape,false,true,America/New_York,2,33881 33880 33884 33883 33885 33888,1840015970
+Lakeland,Lakeland,Florida,12105,Polk,28.0557,-81.9545,280346,663.9,shape,false,true,America/New_York,2,33813 33803 33801 33805 33815 33811 33802 33804 33806,1840015108
+St. Petersburg,St. Petersburg,Florida,12103,Pinellas,27.7931,-82.6652,259343,1620.2,shape,false,true,America/New_York,2,33707 33702 33762 33713 33712 33711 33710 33716 33715 33714 33705 33703 33704 33701 33729 33731 33732 33733 33734 33742 33743 33747,1840015977
+Tallahassee,Tallahassee,Florida,12073,Leon,30.4551,-84.2527,258696,751.3,shape,false,true,America/New_York,2,32310 32312 32313 32399 32307 32306 32304 32303 32301 32309 32308 32311 32302 32314 32315 32316,1840015913
+Hialeah,Hialeah,Florida,12086,Miami-Dade,25.8696,-80.3045,222996,3989.5,shape,false,true,America/New_York,2,33014 33016 33010 33012 33013 33018,1840015157
+Deltona,Deltona,Florida,12127,Volusia,28.905,-81.2137,221137,976.3,shape,false,true,America/New_York,2,32725 32738 32739,1840015072
+Gainesville,Gainesville,Florida,12001,Alachua,29.6804,-82.3459,220929,860.2,shape,false,true,America/New_York,2,32608 32609 32607 32610 32612 32653 32603 32601 32605 32604 32611 32614 32627 32635,1840014022
+Ocala,Ocala,Florida,12083,Marion,29.178,-82.1511,186840,518.8,shape,false,true,America/New_York,2,34475 34474 34471 34470 34477 34478 34483,1840015067
+Fort Lauderdale,Fort Lauderdale,Florida,12011,Broward,26.1412,-80.1464,182673,2039.5,shape,false,true,America/New_York,2,33301 33304 33305 33306 33308 33309 33334 33316 33315 33312 33311 33320 33336 33338 33339 33340 33346 33348 33394,1840014236
+Spring Hill,Spring Hill,Florida,12053,Hernando,28.4798,-82.53,178833,753.2,shape,false,false,America/New_York,2,34608 34609 34604 34606 34611,1840014105
+Pembroke Pines,Pembroke Pines,Florida,12011,Broward,26.0128,-80.3382,170472,2014.0,shape,false,true,America/New_York,2,33029 33028 33025 33024 33026 33023 33027 33084,1840015141
+Panama City,Panama City,Florida,12005,Bay,30.1995,-85.6003,169810,373.9,shape,false,true,America/Chicago,2,32401 32404 32405 32402 32412,1840015034
+Leesburg,Leesburg,Florida,12069,Lake,28.7672,-81.8962,166200,270.6,shape,false,true,America/New_York,2,34748 34762 34736 34749 34789,1840015083
+Hollywood,Hollywood,Florida,12011,Broward,26.0293,-80.1679,152764,2164.4,shape,false,true,America/New_York,2,33024 33021 33023 33022 33020 33004 33316 33312 33019 33081 33082 33302,1840015144
+Miramar,Miramar,Florida,12011,Broward,25.9773,-80.3351,135158,1808.6,shape,false,true,America/New_York,2,33029 33025 33023 33027,1840015137
+Coral Springs,Coral Springs,Florida,12011,Broward,26.2702,-80.2591,133801,2259.4,shape,false,true,America/New_York,2,33071 33076 33065 33067 33075 33077,1840015134
+Lehigh Acres,Lehigh Acres,Florida,12071,Lee,26.612,-81.6388,124440,518.3,shape,false,false,America/New_York,2,33936 33973 33972 33971 33976 33974 33970,1840014220
+West Palm Beach,West Palm Beach,Florida,12099,Palm Beach,26.7469,-80.132,117588,842.8,shape,false,true,America/New_York,2,33411 33412 33417 33409 33407 33405 33401 33402 33422,1840015993
+Clearwater,Clearwater,Florida,12103,Pinellas,27.979,-82.7623,116984,1727.4,shape,false,true,America/New_York,2,33759 33755 33756 33763 33761 33767 33764 33765 33757 33758 33766 33769,1840015110
+Brandon,Brandon,Florida,12057,Hillsborough,27.9367,-82.3,114923,1339.2,shape,false,false,America/New_York,2,33510 33594 33619 33511 33584 33508 33509 33595,1840014151
+Pompano Beach,Pompano Beach,Florida,12011,Broward,26.2428,-80.1312,111790,1793.5,shape,false,true,America/New_York,2,33060 33062 33064 33069 33061 33074 33097,1840015143
+Miami Gardens,Miami Gardens,Florida,12086,Miami-Dade,25.9433,-80.2426,111618,2332.6,shape,false,true,America/New_York,2,33014 33169 33055 33056 33054 33269,1840015151
+Davie,Davie,Florida,12011,Broward,26.0789,-80.287,105821,1170.9,shape,false,true,America/New_York,2,33324 33325 33331 33330 33328 33314 33355,1840017272
+Riverview,Riverview,Florida,12057,Hillsborough,27.8227,-82.3023,102467,856.7,shape,false,false,America/New_York,2,33579 33578 33569 33568,1840014158
+Boca Raton,Boca Raton,Florida,12099,Palm Beach,26.3752,-80.108,97980,1296.5,shape,false,true,America/New_York,3,33496 33487 33486 33434 33432 33433 33431 33427 33429 33481 33499,1840014207
+St. Augustine,St. Augustine,Florida,12109,St. Johns,29.8976,-81.31,97703,593.7,shape,false,true,America/New_York,3,32080 32095 32084,1840015935
+Sunrise,Sunrise,Florida,12011,Broward,26.1547,-80.2997,96510,2300.4,shape,false,true,America/New_York,2,33322 33323 33326 33325 33351 33313 33307 33345,1840016000
+Plantation,Plantation,Florida,12011,Broward,26.1259,-80.2617,93130,1653.2,shape,false,true,America/New_York,3,33322 33323 33324 33325 33317 33313 33388 33318 33329 33337,1840015142
+Alafaya,Alafaya,Florida,12095,Orange,28.528,-81.1868,91531,1153.4,shape,false,false,America/New_York,3,32825 32828 32829 32834 32878,1840029102
+Palm Coast,Palm Coast,Florida,12035,Flagler,29.5389,-81.2457,91082,368.7,shape,false,true,America/New_York,3,32164 32137 32135 32142 32143,1840015064
+Town 'n' Country,Town 'n' Country,Florida,12057,Hillsborough,28.0106,-82.5763,89456,1551.0,shape,false,false,America/New_York,3,33635 33634 33615 33685,1840029089
+Fort Myers,Fort Myers,Florida,12071,Lee,26.6194,-81.8302,88699,858.3,shape,false,true,America/New_York,3,33913 33916 33966 33901 33907 33905 33902 33994,1840014226
+Deerfield Beach,Deerfield Beach,Florida,12011,Broward,26.305,-80.1277,86455,2231.6,shape,false,true,America/New_York,2,33442 33441 33064 33443,1840015136
+Melbourne,Melbourne,Florida,12009,Brevard,28.1086,-80.6627,84982,743.1,shape,false,true,America/New_York,3,32934 32901 32903 32935 32904 32912 32919 32941,1840015960
+Pine Hills,Pine Hills,Florida,12095,Orange,28.5818,-81.4692,83221,2634.9,shape,false,false,America/New_York,2,32808 32818 32710 32858 32868 32869,1840014098
+Largo,Largo,Florida,12103,Pinellas,27.9088,-82.7712,82541,1712.4,shape,false,true,America/New_York,3,33756 33770 33760 33764 33773 33778 33771 33774 33779,1840015114
+Miami Beach,Miami Beach,Florida,12086,Miami-Dade,25.8171,-80.1396,82400,4135.8,shape,false,true,America/New_York,2,33140 33141 33139 33109 33119 33239,1840015150
+Boynton Beach,Boynton Beach,Florida,12099,Palm Beach,26.5281,-80.0811,80068,1913.4,shape,false,true,America/New_York,3,33426 33436 33435 33474,1840014208
+Homestead,Homestead,Florida,12086,Miami-Dade,25.4665,-80.4472,79996,2047.7,shape,false,true,America/New_York,2,33035 33030 33033,1840015159
+The Villages,The Villages,Florida,12119,Sumter,28.9034,-81.9887,79108,935.5,shape,false,false,America/New_York,3,32163 32162 32159,1840014065
+Kendall,Kendall,Florida,12086,Miami-Dade,25.6697,-80.3556,78402,1880.3,shape,false,false,America/New_York,3,33173 33176 33156 33116 33256 33283 33296,1840014244
+North Port,North Port,Florida,12115,Sarasota,27.0576,-82.1977,76975,299.1,shape,false,true,America/New_York,3,34286 34287 34293 34223 34291 34288 34289 34290,1840015120
+Doral,Doral,Florida,12086,Miami-Dade,25.8152,-80.3565,74891,2087.9,shape,false,true,America/New_York,2,33178 33172 33122 33126 33166 33191,1840015148
+Lauderhill,Lauderhill,Florida,12011,Broward,26.1605,-80.2241,73987,3354.7,shape,false,true,America/New_York,2,33351 33313 33311 33319 33083,1840015146
+Daytona Beach,Daytona Beach,Florida,12127,Volusia,29.1995,-81.0982,73329,420.2,shape,false,true,America/New_York,3,32124 32117 32114 32118 32119 32115 32116 32120 32121 32126 32198,1840015068
+Tamarac,Tamarac,Florida,12011,Broward,26.2056,-80.2539,71578,2383.7,shape,false,true,America/New_York,2,33321 33319 33349 33359,1840016001
+Poinciana,Poinciana,Florida,12105,Polk,28.1217,-81.4821,69311,372.4,shape,false,false,America/New_York,3,33896 34758 34759,1840014132
+Wesley Chapel,Wesley Chapel,Florida,12101,Pasco,28.2106,-82.3238,68814,604.8,shape,false,false,America/New_York,3,33543 33545 33559 33544,1840014118
+Weston,Weston,Florida,12011,Broward,26.1006,-80.4054,68029,1068.0,shape,false,true,America/New_York,3,33326 33327 33331 33332,1840016003
+Delray Beach,Delray Beach,Florida,12099,Palm Beach,26.455,-80.0905,66646,1615.9,shape,false,true,America/New_York,3,33445 33444 33483 33448 33482,1840015123
+Port Charlotte,Port Charlotte,Florida,12015,Charlotte,26.9918,-82.114,63913,866.5,shape,false,false,America/New_York,3,33954 33952 33948 33980 33949,1840014200
+Port Orange,Port Orange,Florida,12127,Volusia,29.1085,-81.0137,62849,904.4,shape,false,true,America/New_York,3,32127 32129 32128 32122 32123,1840015077
+Palm Harbor,Palm Harbor,Florida,12103,Pinellas,28.0847,-82.7481,61589,1369.9,shape,false,false,America/New_York,3,34684 34681 34683 34660 34682,1840014143
+Wellington,Wellington,Florida,12099,Palm Beach,26.6461,-80.2699,61373,527.0,shape,false,true,America/New_York,3,33449 33414 33470,1840018311
+Sanford,Sanford,Florida,12117,Seminole,28.7891,-81.2757,61272,994.9,shape,false,true,America/New_York,3,32773 32771 32772,1840015958
+Jupiter,Jupiter,Florida,12099,Palm Beach,26.92,-80.1128,60926,1087.6,shape,false,true,America/New_York,3,33477 33458 33468,1840017255
+North Miami,North Miami,Florida,12086,Miami-Dade,25.9008,-80.1686,59854,2732.1,shape,false,true,America/New_York,2,33167 33160 33161 33168 33181 33261,1840015154
+St. Cloud,St. Cloud,Florida,12097,Osceola,28.2363,-81.2779,59851,893.8,shape,false,true,America/New_York,3,34769 34771 34772,1840015971
+The Hammocks,The Hammocks,Florida,12086,Miami-Dade,25.67,-80.4482,59843,2929.1,shape,false,false,America/New_York,2,33196 33186,1840029009
+Palm Beach Gardens,Palm Beach Gardens,Florida,12099,Palm Beach,26.8466,-80.1679,59088,388.6,shape,false,true,America/New_York,3,33418 33410 33412 33403,1840015125
+Horizon West,Horizon West,Florida,12095,Orange,28.4417,-81.6146,58595,691.1,shape,false,true,America/New_York,3,34787 34786 32836 34777 34778,1840038926
+Margate,Margate,Florida,12011,Broward,26.2466,-80.2119,58396,2573.8,shape,false,true,America/New_York,2,33068 33063 33093,1840015999
+Coconut Creek,Coconut Creek,Florida,12011,Broward,26.2803,-80.1842,57574,1989.0,shape,false,true,America/New_York,3,33073 33063 33066,1840015132
+Fountainebleau,Fountainebleau,Florida,12086,Miami-Dade,25.7723,-80.346,57066,5568.0,shape,false,false,America/New_York,2,33172 33174 33126 33144,1840028983
+Bradenton,Bradenton,Florida,12081,Manatee,27.4901,-82.5757,55795,1502.5,shape,false,true,America/New_York,3,34208 34209 34205 34206 34281,1840014173
+Sarasota,Sarasota,Florida,12115,Sarasota,27.3387,-82.5432,55508,1458.3,shape,false,true,America/New_York,3,34232 34234 34237 34236 34239 34276,1840015988
+Apopka,Apopka,Florida,12095,Orange,28.7015,-81.5316,55056,612.7,shape,false,true,America/New_York,3,32712 32703 32768,1840014093
+Westchester,Westchester,Florida,12086,Miami-Dade,25.7471,-80.3523,53765,2610.2,shape,false,false,America/New_York,2,33174 33144 33165 33155 33199,1840014241
+Pinellas Park,Pinellas Park,Florida,12103,Pinellas,27.8589,-82.7078,53352,1275.8,shape,false,true,America/New_York,3,33781 33782 33762 33760 33773 33780,1840015112
+Tamiami,Tamiami,Florida,12086,Miami-Dade,25.7556,-80.4016,52851,2924.0,shape,false,false,America/New_York,2,33175 33182 33184 33265,1840029085
+Kendale Lakes,Kendale Lakes,Florida,12086,Miami-Dade,25.7081,-80.4078,52661,2518.0,shape,false,false,America/New_York,2,33175 33183,1840029045
+Country Club,Country Club,Florida,12086,Miami-Dade,25.9407,-80.3102,50975,4711.3,shape,false,false,America/New_York,2,33015 33017,1840029029
+Coral Gables,Coral Gables,Florida,12086,Miami-Dade,25.7037,-80.2715,49696,1484.3,shape,false,true,America/New_York,3,33146 33143 33134 33158 33156 33114 33206 33234,1840015147
+University,University,Florida,12057,Hillsborough,28.0771,-82.4335,49148,2998.7,shape,false,true,America/New_York,2,33549 33613 33612 33559,1840073852
+Titusville,Titusville,Florida,12009,Brevard,28.5727,-80.8193,48595,642.0,shape,false,true,America/New_York,3,32796 32780 32781,1840015962
+Ocoee,Ocoee,Florida,12095,Orange,28.5796,-81.5332,47290,1162.1,shape,false,true,America/New_York,3,34761,1840015098
+Fort Pierce,Fort Pierce,Florida,12111,St. Lucie,27.4255,-80.3431,47153,762.2,shape,false,true,America/New_York,3,34949 34947 34982 34981 34950 34948 34954 34979,1840014178
+Winter Garden,Winter Garden,Florida,12095,Orange,28.5421,-81.5967,46518,1099.9,shape,false,true,America/New_York,3,34787,1840015965
+Altamonte Springs,Altamonte Springs,Florida,12117,Seminole,28.6615,-81.3953,45772,1942.2,shape,false,true,America/New_York,3,32714 32701 32715 32716,1840014072
+Cutler Bay,Cutler Bay,Florida,12086,Miami-Dade,25.5765,-80.3356,44738,1747.2,shape,false,true,America/New_York,3,33190 33157 33189,1840017276
+North Lauderdale,North Lauderdale,Florida,12011,Broward,26.2113,-80.2209,44635,3728.8,shape,false,true,America/New_York,2,33068,1840015138
+Oakland Park,Oakland Park,Florida,12011,Broward,26.178,-80.1528,44056,2268.3,shape,false,true,America/New_York,2,33306 33309 33334 33310 33335,1840015139
+Greenacres,Greenacres,Florida,12099,Palm Beach,26.627,-80.1371,43651,2801.0,shape,false,true,America/New_York,2,33413 33415 33463,1840036057
+North Miami Beach,North Miami Beach,Florida,12086,Miami-Dade,25.9302,-80.1659,43269,3448.7,shape,false,true,America/New_York,2,33162 33160 33280,1840015155
+Clermont,Clermont,Florida,12069,Lake,28.5325,-81.7208,43266,927.0,shape,false,true,America/New_York,3,34711 34712 34713,1840015080
+Ormond Beach,Ormond Beach,Florida,12127,Volusia,29.2985,-81.1014,43127,478.7,shape,false,true,America/New_York,3,32174 32176 32173 32175,1840015076
+North Fort Myers,North Fort Myers,Florida,12071,Lee,26.7244,-81.8485,42492,332.3,shape,false,false,America/New_York,3,33917 33903 33918,1840014222
+Meadow Woods,Meadow Woods,Florida,12095,Orange,28.3698,-81.3467,42207,1458.7,shape,false,false,America/New_York,3,32824,1840029057
+Hallandale Beach,Hallandale Beach,Florida,12011,Broward,25.9854,-80.1423,41102,3767.6,shape,false,true,America/New_York,2,33009 33008,1840014237
+Land O' Lakes,Land O' Lakes,Florida,12101,Pasco,28.2075,-82.4476,40843,831.9,shape,false,false,America/New_York,3,33549 33559 34639 34638,1840014120
+The Acreage,The Acreage,Florida,12099,Palm Beach,26.774,-80.2779,40160,452.5,shape,false,false,America/New_York,3,33411 33412 33470,1840026061
+Plant City,Plant City,Florida,12057,Hillsborough,28.014,-82.1201,39655,531.2,shape,false,true,America/New_York,3,33563 33565 33566 33564,1840015115
+Aventura,Aventura,Florida,12086,Miami-Dade,25.9566,-80.1371,39621,5776.7,shape,false,true,America/New_York,2,33160 33180 33163,1840014243
+Oviedo,Oviedo,Florida,12117,Seminole,28.658,-81.1872,39552,983.0,shape,false,true,America/New_York,3,32765 32766 32762,1840015089
+Royal Palm Beach,Royal Palm Beach,Florida,12099,Palm Beach,26.7038,-80.2241,38874,1323.1,shape,false,true,America/New_York,3,33411 33421,1840018309
+Navarre,Navarre,Florida,12113,Santa Rosa,30.4174,-86.8907,38829,650.0,shape,false,false,America/Chicago,3,32566,1840027017
+Valrico,Valrico,Florida,12057,Hillsborough,27.9193,-82.2293,38594,1079.1,shape,false,false,America/New_York,3,33594 33596,1840028790
+DeLand,DeLand,Florida,12127,Volusia,29.0225,-81.2875,38392,767.4,shape,false,true,America/New_York,3,32724 32720 32723 32721,1840015071
+Winter Springs,Winter Springs,Florida,12117,Seminole,28.6889,-81.2703,38205,992.7,shape,false,true,America/New_York,3,32708 32719,1840015959
+Princeton,Princeton,Florida,12086,Miami-Dade,25.5396,-80.3971,37954,1975.7,shape,false,false,America/New_York,3,33032 33092,1840014248
+Riviera Beach,Riviera Beach,Florida,12099,Palm Beach,26.7813,-80.0741,37668,1756.8,shape,false,true,America/New_York,3,33407 33404 33419,1840015126
+Richmond West,Richmond West,Florida,12086,Miami-Dade,25.6105,-80.4297,36964,3421.0,shape,false,true,America/New_York,2,33177 33187,1840073270
+Estero,Estero,Florida,12071,Lee,26.4276,-81.7951,36685,581.2,shape,false,true,America/New_York,3,33967 34135 33928 33929,1840013129
+Carrollwood,Carrollwood,Florida,12057,Hillsborough,28.0577,-82.5148,36148,1513.0,shape,false,false,America/New_York,3,33624 33618 33688,1840029026
+Dunedin,Dunedin,Florida,12103,Pinellas,28.0329,-82.7862,36089,1338.3,shape,false,true,America/New_York,3,34698 34697,1840014144
+Egypt Lake-Leto,Egypt Lake-Leto,Florida,12057,Hillsborough,28.0177,-82.5062,36000,2346.1,shape,false,true,America/New_York,2,33614,1840073269
+Lauderdale Lakes,Lauderdale Lakes,Florida,12011,Broward,26.1682,-80.2017,35914,3767.3,shape,false,true,America/New_York,2,33309 33313 33311 33319,1840015145
+South Miami Heights,South Miami Heights,Florida,12086,Miami-Dade,25.5886,-80.3862,35705,2809.0,shape,false,false,America/New_York,2,33177 33157,1840014240
+Kendall West,Kendall West,Florida,12086,Miami-Dade,25.7065,-80.4388,35606,4995.8,shape,false,true,America/New_York,2,33193 33185,1840035805
+Fruit Cove,Fruit Cove,Florida,12109,St. Johns,30.0972,-81.6175,35333,846.6,shape,false,false,America/New_York,3,32259,1840013970
+Parkland,Parkland,Florida,12011,Broward,26.3219,-80.2533,34832,1071.6,shape,false,true,America/New_York,3,33076 33067,1840015140
+Golden Glades,Golden Glades,Florida,12086,Miami-Dade,25.9129,-80.2013,34725,2774.7,shape,false,false,America/New_York,2,33162 33161 33168 33169,1840029039
+Lakewood Ranch,Lakewood Ranch,Florida,12081,Manatee,27.4185,-82.3948,34346,287.8,shape,false,false,America/New_York,3,34202 34212 34211 34240,1840137436
+Merritt Island,Merritt Island,Florida,12009,Brevard,28.3139,-80.6708,34300,780.3,shape,false,false,America/New_York,3,32952 32937 32953 32954,1840014076
+Cooper City,Cooper City,Florida,12011,Broward,26.0463,-80.2862,34046,1635.4,shape,false,true,America/New_York,3,33024 33026 33330 33328,1840015133
+East Lake,East Lake,Florida,12103,Pinellas,28.1206,-82.6868,33629,453.3,shape,false,false,America/New_York,3,34677 34685 34688,1840028980
+West Little River,West Little River,Florida,12086,Miami-Dade,25.8571,-80.2367,33465,2817.4,shape,false,false,America/New_York,2,33147 33150 33247,1840029096
+Buenaventura Lakes,Buenaventura Lakes,Florida,12097,Osceola,28.3349,-81.3539,33284,2304.3,shape,false,false,America/New_York,2,34743,1840028974
+Ferry Pass,Ferry Pass,Florida,12033,Escambia,30.5205,-87.1899,32447,900.9,shape,false,false,America/Chicago,3,32504 32514 32523,1840013909
+Dania Beach,Dania Beach,Florida,12011,Broward,26.0593,-80.1637,31700,1562.2,shape,false,true,America/New_York,3,33004 33312,1840015135
+Lake Magdalene,Lake Magdalene,Florida,12057,Hillsborough,28.0875,-82.4791,31546,1188.2,shape,false,false,America/New_York,3,33618 33613 33612 33682 33694,1840029049
+Lakeside,Lakeside,Florida,12019,Clay,30.1356,-81.7674,30973,888.9,shape,false,false,America/New_York,3,32068 32065 32073 32030,1840029051
+Miami Lakes,Miami Lakes,Florida,12086,Miami-Dade,25.9125,-80.3214,30621,2089.9,shape,false,true,America/New_York,2,33014 33016 33018 33002,1840017275
+New Smyrna Beach,New Smyrna Beach,Florida,12127,Volusia,29.0249,-80.9652,30449,310.9,shape,false,true,America/New_York,3,32169 32168 32170,1840015073
+Winter Park,Winter Park,Florida,12095,Orange,28.5989,-81.3442,29985,1320.9,shape,false,true,America/New_York,3,32792 32789 32790,1840015966
+Vero Beach South,Vero Beach South,Florida,12061,Indian River,27.6132,-80.4163,29965,981.7,shape,false,true,America/New_York,3,32968 32966 32962 32960,1840073853
+Fleming Island,Fleming Island,Florida,12019,Clay,30.0988,-81.7124,29810,726.7,shape,false,true,America/New_York,3,32003 32006,1840038864
+Golden Gate,Golden Gate,Florida,12021,Collier,26.1844,-81.7031,29400,2907.2,shape,false,false,America/New_York,2,34116,1840014228
+Sun City Center,Sun City Center,Florida,12057,Hillsborough,27.715,-82.3569,29290,717.6,shape,false,false,America/New_York,3,33598 33573,1840001841
+Oakleaf Plantation,Oakleaf Plantation,Florida,12019,Clay,30.1689,-81.8337,29265,688.0,shape,false,true,America/New_York,3,32068 32065 32073,1840039045
+East Lake-Orient Park,East Lake-Orient Park,Florida,12057,Hillsborough,27.997,-82.3653,29243,714.0,shape,false,true,America/New_York,3,33637 33619 33617 33610 33601 33680,1840073826
+Casselberry,Casselberry,Florida,12117,Seminole,28.6624,-81.3217,29092,1611.9,shape,false,true,America/New_York,3,32707 32718,1840015088
+Haines City,Haines City,Florida,12105,Polk,28.1102,-81.6157,28922,475.9,shape,false,true,America/New_York,3,33844 33837 33845,1840014136
+Ruskin,Ruskin,Florida,12057,Hillsborough,27.7065,-82.4209,28878,611.6,shape,false,false,America/New_York,3,33570 33571 33575,1840014159
+Rockledge,Rockledge,Florida,12009,Brevard,28.3203,-80.736,27808,812.2,shape,false,true,America/New_York,3,32955 32926 32956,1840015095
+Immokalee,Immokalee,Florida,12021,Collier,26.4253,-81.4251,27753,471.6,shape,false,false,America/New_York,3,34142 34143,1840014230
+Crestview,Crestview,Florida,12091,Okaloosa,30.7477,-86.5785,27427,621.8,shape,false,true,America/Chicago,3,32536 32539,1840015007
+Citrus Park,Citrus Park,Florida,12057,Hillsborough,28.073,-82.5628,27260,1035.5,shape,false,false,America/New_York,3,33625 33556,1840014152
+Leisure City,Leisure City,Florida,12086,Miami-Dade,25.4935,-80.4363,27033,3199.5,shape,false,false,America/New_York,2,33033,1840014245
+Temple Terrace,Temple Terrace,Florida,12057,Hillsborough,28.0436,-82.3773,26818,1369.9,shape,false,true,America/New_York,3,33637 33617 33687,1840015983
+Ives Estates,Ives Estates,Florida,12086,Miami-Dade,25.9632,-80.183,26814,4062.8,shape,false,false,America/New_York,2,33179,1840028705
+West Melbourne,West Melbourne,Florida,12009,Brevard,28.0694,-80.6736,26762,951.5,shape,false,true,America/New_York,3,32904,1840015963
+Palm Springs,Palm Springs,Florida,12099,Palm Beach,26.6348,-80.0969,26692,2449.6,shape,false,true,America/New_York,2,33406 33461,1840018308
+Apollo Beach,Apollo Beach,Florida,12057,Hillsborough,27.7618,-82.4003,26444,518.8,shape,false,false,America/New_York,3,33573 33572 33570,1840014149
+Wright,Wright,Florida,12091,Okaloosa,30.4445,-86.6419,26272,1846.2,shape,false,false,America/Chicago,3,32548 32547,1840013921
+Northdale,Northdale,Florida,12057,Hillsborough,28.1058,-82.5263,26079,1250.0,shape,false,false,America/New_York,3,33624 33548 33558,1840029107
+Key West,Key West,Florida,12087,Monroe,24.5642,-81.7775,26078,1798.2,shape,false,true,America/New_York,3,33040 33041 33045,1840015161
+Keystone,Keystone,Florida,12057,Hillsborough,28.1312,-82.5999,26059,286.5,shape,false,false,America/New_York,3,33626 33556 33558,1840028914
+Palm City,Palm City,Florida,12085,Martin,27.1735,-80.2862,25957,723.1,shape,false,false,America/New_York,3,34990 34991,1840014192
+Palm River-Clair Mel,Palm River-Clair Mel,Florida,12057,Hillsborough,27.9239,-82.3791,25729,869.5,shape,false,true,America/New_York,3,33619 33660,1840073873
+Venice,Venice,Florida,12115,Sarasota,27.1184,-82.4137,25710,613.5,shape,false,true,America/New_York,3,34285 34292 34275,1840015989
+Pace,Pace,Florida,12113,Santa Rosa,30.6188,-87.1667,25657,408.9,shape,false,false,America/Chicago,3,32571,1840013919
+South Bradenton,South Bradenton,Florida,12081,Manatee,27.4612,-82.5822,25471,2185.4,shape,false,false,America/New_York,2,34205 34207 34210,1840029076
+Silver Springs Shores,Silver Springs Shores,Florida,12083,Marion,29.1126,-82.0149,25453,658.1,shape,false,false,America/New_York,3,34472,1840028949
+Tarpon Springs,Tarpon Springs,Florida,12103,Pinellas,28.1493,-82.7623,25355,1057.4,shape,false,true,America/New_York,3,34689,1840015980
+Sebastian,Sebastian,Florida,12061,Indian River,27.7822,-80.4819,25266,696.9,shape,false,true,America/New_York,3,32958 32978,1840015984
+Fish Hawk,Fish Hawk,Florida,12057,Hillsborough,27.8511,-82.2164,25179,599.5,shape,false,false,America/New_York,3,33547,1840028982
+Westchase,Westchase,Florida,12057,Hillsborough,28.0597,-82.611,24891,963.4,shape,false,false,America/New_York,3,33626,1840029017
+Lutz,Lutz,Florida,12057,Hillsborough,28.1396,-82.4467,24721,390.2,shape,false,false,America/New_York,3,33548 33549 33559 33647 33675,1840014156
+Bayonet Point,Bayonet Point,Florida,12101,Pasco,28.3254,-82.6834,24628,1673.9,shape,false,false,America/New_York,3,34668 34667,1840014117
+Coral Terrace,Coral Terrace,Florida,12086,Miami-Dade,25.7464,-80.3049,24597,2827.3,shape,false,false,America/New_York,2,33144 33155 33245,1840029028
+Oak Ridge,Oak Ridge,Florida,12095,Orange,28.4727,-81.4169,24476,2662.9,shape,false,false,America/New_York,2,32809 32839,1840029062
+Port St. John,Port St. John,Florida,12009,Brevard,28.4757,-80.8104,24366,1009.3,shape,false,false,America/New_York,3,32927,1840014079
+Wekiwa Springs,Wekiwa Springs,Florida,12117,Seminole,28.6984,-81.4251,24270,1091.2,shape,false,false,America/New_York,3,32779 32752 32791,1840029016
+Palmetto Bay,Palmetto Bay,Florida,12086,Miami-Dade,25.6219,-80.3221,24267,1130.9,shape,false,true,America/New_York,3,33158 33157 33257,1840018335
+Bloomingdale,Bloomingdale,Florida,12057,Hillsborough,27.8784,-82.2624,24103,1144.1,shape,false,false,America/New_York,3,33596 33511,1840014150
+Bellview,Bellview,Florida,12033,Escambia,30.462,-87.312,24035,796.8,shape,false,false,America/Chicago,3,32526,1840013912
+Jasmine Estates,Jasmine Estates,Florida,12101,Pasco,28.293,-82.6907,24032,2555.8,shape,false,false,America/New_York,2,34668,1840014116
+Jacksonville Beach,Jacksonville Beach,Florida,12031,Duval,30.2782,-81.4045,23583,1244.3,shape,false,true,America/New_York,3,32250 32240,1840015032
+Edgewater,Edgewater,Florida,12127,Volusia,28.9594,-80.9406,23138,361.4,shape,false,true,America/New_York,3,32141 32168 32132,1840014043
+Liberty Triangle,Liberty Triangle,Florida,12083,Marion,29.076,-82.2191,23112,489.2,shape,false,false,America/New_York,3,34481 34476,1840152944
+Eustis,Eustis,Florida,12069,Lake,28.8563,-81.6771,23101,777.7,shape,false,true,America/New_York,3,32726 32736 32727,1840014054
+Brent,Brent,Florida,12033,Escambia,30.4727,-87.2495,22969,867.2,shape,false,false,America/Chicago,3,32503 32505 32520,1840013913
+Nocatee,Nocatee,Florida,12109,St. Johns,30.0927,-81.4095,22950,330.5,shape,false,true,America/New_York,3,32095 32081,1840028805
+Hialeah Gardens,Hialeah Gardens,Florida,12086,Miami-Dade,25.8878,-80.3569,22815,2734.0,shape,false,true,America/New_York,2,33016 33018,1840015158
+The Crossings,The Crossings,Florida,12086,Miami-Dade,25.6708,-80.4018,22708,2550.4,shape,false,false,America/New_York,2,33186,1840029008
+Florida Ridge,Florida Ridge,Florida,12061,Indian River,27.5805,-80.3848,22549,810.2,shape,false,false,America/New_York,3,32962,1840029035
+DeBary,DeBary,Florida,12127,Volusia,28.8815,-81.324,22310,454.5,shape,false,true,America/New_York,3,32713 32753,1840015070
+Sunny Isles Beach,Sunny Isles Beach,Florida,12086,Miami-Dade,25.9385,-80.1246,22202,8482.5,shape,false,true,America/New_York,2,33160,1840016007
+Ensley,Ensley,Florida,12033,Escambia,30.5259,-87.2733,22148,699.8,shape,false,false,America/Chicago,3,32514 32534,1840013104
+World Golf Village,World Golf Village,Florida,12109,St. Johns,29.9654,-81.4896,22137,316.3,shape,false,true,America/New_York,3,32092 32095,1840039162
+Holiday,Holiday,Florida,12101,Pasco,28.1864,-82.7429,21495,1551.6,shape,false,false,America/New_York,3,34691 34690 34692,1840014114
+West Pensacola,West Pensacola,Florida,12033,Escambia,30.4263,-87.2679,21246,1143.8,shape,false,false,America/Chicago,3,32505 32506 32507,1840013915
+Lealman,Lealman,Florida,12103,Pinellas,27.8197,-82.6847,21237,2038.4,shape,false,false,America/New_York,2,33702 33709 33714 33784,1840025161
+Fort Walton Beach,Fort Walton Beach,Florida,12091,Okaloosa,30.4255,-86.6222,20919,1056.8,shape,false,true,America/Chicago,3,32548 32547 32549,1840013923
+Marion Oaks,Marion Oaks,Florida,12083,Marion,29.0011,-82.1953,20283,266.8,shape,false,false,America/New_York,3,34473,1840047949
+Midway,Midway,Florida,12113,Santa Rosa,30.4169,-87.0229,20141,647.3,shape,false,true,America/Chicago,3,32563,1840143881
+Hunters Creek,Hunters Creek,Florida,12095,Orange,28.361,-81.4358,19895,1090.2,shape,false,false,America/New_York,3,32837,1840028986
+Palm Valley,Palm Valley,Florida,12109,St. Johns,30.2011,-81.3948,19766,625.8,shape,false,false,America/New_York,3,32082,1840013971
+Punta Gorda,Punta Gorda,Florida,12015,Charlotte,26.8941,-82.0513,19605,491.5,shape,false,true,America/New_York,3,33955 33950,1840015122
+Bartow,Bartow,Florida,12105,Polk,27.8868,-81.8214,19424,161.4,shape,false,true,America/New_York,3,33830 33831 33863,1840014128
+Lynn Haven,Lynn Haven,Florida,12005,Bay,30.2337,-85.637,19421,718.2,shape,false,true,America/Chicago,3,32404 32405 32444,1840015922
+Sweetwater,Sweetwater,Florida,12086,Miami-Dade,25.7785,-80.376,19399,1935.6,shape,false,true,America/New_York,3,33172 33174 33182 33112,1840016008
+Englewood,Englewood,Florida,12115,Sarasota,26.9717,-82.3524,19378,397.5,shape,false,false,America/New_York,3,34223 34224,1840013127
+Naples,Naples,Florida,12021,Collier,26.1504,-81.7936,19315,606.2,shape,false,true,America/New_York,3,34103 34102 34101 34105 34104 34106,1840015131
+Seminole,Seminole,Florida,12103,Pinellas,27.8435,-82.784,19287,1436.6,shape,false,true,America/New_York,3,33777 33772 33778 33775,1840015978
+Maitland,Maitland,Florida,12095,Orange,28.6295,-81.3718,19266,1387.8,shape,false,true,America/New_York,3,32751 32794 32799,1840015964
+Groveland,Groveland,Florida,12069,Lake,28.6098,-81.8246,19240,350.6,shape,false,true,America/New_York,3,34736 34737,1840014056
+Tavares,Tavares,Florida,12069,Lake,28.792,-81.7352,19088,597.1,shape,false,true,America/New_York,3,32778,1840015953
+Cocoa,Cocoa,Florida,12009,Brevard,28.382,-80.7675,19073,536.2,shape,false,true,America/New_York,3,32922 32926,1840015092
+San Carlos Park,San Carlos Park,Florida,12071,Lee,26.4765,-81.8193,18888,1544.1,shape,false,false,America/New_York,3,33967,1840014218
+Bradfordville,Bradfordville,Florida,12073,Leon,30.5735,-84.2055,18833,346.2,shape,false,false,America/New_York,3,32312 32309 32318,1840028817
+Bayshore Gardens,Bayshore Gardens,Florida,12081,Manatee,27.4345,-82.5793,18745,2061.9,shape,false,false,America/New_York,2,34207 34282,1840014168
+Country Walk,Country Walk,Florida,12086,Miami-Dade,25.633,-80.4353,18719,2802.5,shape,false,false,America/New_York,2,33196 33186,1840028979
+Trinity,Trinity,Florida,12101,Pasco,28.1809,-82.6582,18672,1165.4,shape,false,false,America/New_York,3,34655,1840029012
+Panama City Beach,Panama City Beach,Florida,12005,Bay,30.237,-85.8776,18281,365.7,shape,false,true,America/Chicago,3,32407 32413 32417,1840015035
+Pinecrest,Pinecrest,Florida,12086,Miami-Dade,25.665,-80.3042,18279,947.2,shape,false,true,America/New_York,3,33156,1840018336
+Glenvar Heights,Glenvar Heights,Florida,12086,Miami-Dade,25.709,-80.3155,17902,1694.9,shape,false,false,America/New_York,3,33143 33155,1840014238
+Gibsonton,Gibsonton,Florida,12057,Hillsborough,27.826,-82.3761,17879,538.7,shape,false,false,America/New_York,3,33534,1840014148
+Brownsville,Brownsville,Florida,12086,Miami-Dade,25.8216,-80.2417,17817,3017.8,shape,false,false,America/New_York,2,33142 33188,1840029024
+Lake Butler,Lake Butler,Florida,12095,Orange,28.4862,-81.546,17765,601.6,shape,false,false,America/New_York,3,34786,1840143771
+Stuart,Stuart,Florida,12085,Martin,27.1959,-80.2444,17639,957.1,shape,false,true,America/New_York,3,34994 34996 34957,1840015990
+Zephyrhills,Zephyrhills,Florida,12101,Pasco,28.2409,-82.1797,17575,708.2,shape,false,true,America/New_York,3,33542 33540 33541,1840015968
+South Venice,South Venice,Florida,12115,Sarasota,27.0444,-82.4155,17469,1132.5,shape,false,false,America/New_York,3,34293 34284,1840014180
+Pinewood,Pinewood,Florida,12086,Miami-Dade,25.8697,-80.2174,17163,3780.5,shape,false,false,America/New_York,2,33147 33167 33168 33150,1840029066
+Safety Harbor,Safety Harbor,Florida,12103,Pinellas,28.008,-82.6964,17087,1339.5,shape,false,true,America/New_York,3,34695,1840015975
+Upper Grand Lagoon,Upper Grand Lagoon,Florida,12005,Bay,30.169,-85.7407,17062,813.1,shape,false,false,America/Chicago,3,32401 32408 32407 32406 32411,1840029090
+Myrtle Grove,Myrtle Grove,Florida,12033,Escambia,30.4158,-87.3027,16945,984.8,shape,false,false,America/Chicago,3,32506 32511 32507 32512 32516,1840013917
+Belle Glade,Belle Glade,Florida,12099,Palm Beach,26.6916,-80.6656,16896,935.6,shape,false,true,America/New_York,3,33430,1840014206
+Palmetto Estates,Palmetto Estates,Florida,12086,Miami-Dade,25.6211,-80.3616,16776,3001.1,shape,false,false,America/New_York,2,33157,1840029063
+New Port Richey,New Port Richey,Florida,12101,Pasco,28.2468,-82.717,16742,1418.8,shape,false,true,America/New_York,3,34653 34652 34656,1840015102
+Lake Mary,Lake Mary,Florida,12117,Seminole,28.7592,-81.336,16636,707.8,shape,false,true,America/New_York,3,32746 32795,1840015090
+Three Lakes,Three Lakes,Florida,12086,Miami-Dade,25.6415,-80.4,16596,1985.9,shape,false,false,America/New_York,3,33186,1840029010
+Warrington,Warrington,Florida,12033,Escambia,30.3835,-87.2946,16567,922.8,shape,false,false,America/Chicago,3,32507 32521,1840013914
+Vero Beach,Vero Beach,Florida,12061,Indian River,27.6463,-80.393,16531,555.0,shape,false,true,America/New_York,3,32963 32960 32961 32964 32965 32969,1840015985
+Lake Wales,Lake Wales,Florida,12105,Polk,27.9195,-81.5961,16455,337.1,shape,false,true,America/New_York,3,33898 33853 33859,1840015107
+Ojus,Ojus,Florida,12086,Miami-Dade,25.9563,-80.1606,16450,2397.7,shape,false,false,America/New_York,2,33179 33180,1840028742
+Auburndale,Auburndale,Florida,12105,Polk,28.0963,-81.8012,16432,468.0,shape,false,true,America/New_York,3,33868 33823,1840014127
+Mount Dora,Mount Dora,Florida,12069,Lake,28.8142,-81.6344,16330,748.0,shape,false,true,America/New_York,3,32757 32756,1840015082
+Opa-locka,Opa-locka,Florida,12086,Miami-Dade,25.8997,-80.2551,16230,1454.7,shape,false,true,America/New_York,3,33054,1840015156
+Lady Lake,Lady Lake,Florida,12069,Lake,28.9241,-81.9299,16047,704.9,shape,false,true,America/New_York,3,32159 32158,1840017229
+Azalea Park,Azalea Park,Florida,12095,Orange,28.5473,-81.2956,16024,2027.7,shape,false,false,America/New_York,2,32822 32807 32857,1840014082
+Viera West,Viera West,Florida,12009,Brevard,28.2467,-80.7387,15958,676.7,shape,false,true,America/New_York,3,32955 32940,1840039133
+Marco Island,Marco Island,Florida,12021,Collier,25.933,-81.6993,15942,506.3,shape,false,true,America/New_York,3,34145 34140 34146,1840036141
+Niceville,Niceville,Florida,12091,Okaloosa,30.529,-86.4748,15804,423.5,shape,false,true,America/Chicago,3,32578 32588,1840015009
+Wildwood,Wildwood,Florida,12119,Sumter,28.7752,-82.0075,15735,107.1,shape,false,true,America/New_York,3,33514 34484 34785 32163 33585,1840015956
+Longwood,Longwood,Florida,12117,Seminole,28.7014,-81.3487,15628,1094.2,shape,false,true,America/New_York,3,32750,1840015957
+Southchase,Southchase,Florida,12095,Orange,28.3793,-81.3903,15573,868.9,shape,false,false,America/New_York,3,32824 32837,1840029005
+Homosassa Springs,Homosassa Springs,Florida,12017,Citrus,28.8119,-82.5392,15365,235.7,shape,false,false,America/New_York,3,34446 34448 34447,1840014060
+Fruitville,Fruitville,Florida,12115,Sarasota,27.3328,-82.4616,15333,867.5,shape,false,false,America/New_York,3,34232 34240,1840014179
+Palmer Ranch,Palmer Ranch,Florida,12115,Sarasota,27.2286,-82.4672,15278,786.4,shape,false,false,America/New_York,3,34238,1840142108
+West Park,West Park,Florida,12011,Broward,25.984,-80.1923,15074,2647.7,shape,false,true,America/New_York,2,33023,1840016002
+Lockhart,Lockhart,Florida,12095,Orange,28.627,-81.4354,15017,1307.3,shape,false,false,America/New_York,3,32703 32810 32860,1840014095
+Oldsmar,Oldsmar,Florida,12103,Pinellas,28.0506,-82.6698,14877,642.2,shape,false,true,America/New_York,3,34677,1840015111
+Forest City,Forest City,Florida,12117,Seminole,28.6619,-81.4444,14851,1333.9,shape,false,false,America/New_York,3,32714 32703,1840028825
+Gladeview,Gladeview,Florida,12086,Miami-Dade,25.8395,-80.2368,14698,2217.2,shape,false,false,America/New_York,2,33147,1840029038
+Key Biscayne,Key Biscayne,Florida,12086,Miami-Dade,25.6908,-80.1653,14572,4510.9,shape,false,true,America/New_York,2,33149,1840018333
+Minneola,Minneola,Florida,12069,Lake,28.6067,-81.7322,14406,502.1,shape,false,true,America/New_York,3,34715 34755,1840015081
+Iona,Iona,Florida,12071,Lee,26.516,-81.9601,14295,833.0,shape,false,false,America/New_York,3,33908,1840028702
+West Lealman,West Lealman,Florida,12103,Pinellas,27.8192,-82.7384,14277,1752.1,shape,false,true,America/New_York,3,33709,1840039134
+Hobe Sound,Hobe Sound,Florida,12085,Martin,27.0729,-80.1425,14188,770.9,shape,false,false,America/New_York,3,33455,1840014188
+Lakewood Park,Lakewood Park,Florida,12111,St. Lucie,27.539,-80.3865,14119,817.9,shape,false,false,America/New_York,3,34946 34951,1840014177
+Thonotosassa,Thonotosassa,Florida,12057,Hillsborough,28.0464,-82.291,14052,204.9,shape,false,false,America/New_York,3,33592 33584,1840014154
+East Milton,East Milton,Florida,12113,Santa Rosa,30.6175,-86.9636,13974,187.9,shape,false,false,America/Chicago,3,32583,1840025112
+Destin,Destin,Florida,12091,Okaloosa,30.395,-86.4701,13923,717.4,shape,false,true,America/Chicago,3,32541 32540,1840015008
+Sunset,Sunset,Florida,12086,Miami-Dade,25.706,-80.353,13877,1526.4,shape,false,false,America/New_York,3,33173,1840029084
+Bellair-Meadowbrook Terrace,Bellair-Meadowbrook Terrace,Florida,12019,Clay,30.1796,-81.7375,13850,1303.5,shape,false,true,America/New_York,3,32073,1840073845
+Olympia Heights,Olympia Heights,Florida,12086,Miami-Dade,25.724,-80.3388,13824,1972.3,shape,false,false,America/New_York,3,33165 33155,1840014247
+Villas,Villas,Florida,12071,Lee,26.5504,-81.8678,13801,1152.0,shape,false,false,America/New_York,3,33912 33907,1840029092
+Yulee,Yulee,Florida,12089,Nassau,30.635,-81.5678,13776,229.7,shape,false,false,America/New_York,3,32097 32041,1840013928
+Miami Springs,Miami Springs,Florida,12086,Miami-Dade,25.8195,-80.2894,13729,1841.3,shape,false,true,America/New_York,3,33166 33011,1840015152
+Gonzalez,Gonzalez,Florida,12033,Escambia,30.5822,-87.2906,13579,346.3,shape,false,false,America/Chicago,3,32533 32534 32560,1840013910
+Conway,Conway,Florida,12095,Orange,28.4968,-81.3316,13519,1541.7,shape,false,false,America/New_York,3,32806 32812,1840013121
+Callaway,Callaway,Florida,12005,Bay,30.1349,-85.5568,13455,553.2,shape,false,true,America/Chicago,3,32404,1840013958
+Palmetto,Palmetto,Florida,12081,Manatee,27.5251,-82.5749,13384,965.8,shape,false,true,America/New_York,3,34221 34220,1840015116
+Atlantic Beach,Atlantic Beach,Florida,12031,Duval,30.3375,-81.4127,13381,1403.6,shape,false,true,America/New_York,3,32233,1840013956
+Jupiter Farms,Jupiter Farms,Florida,12099,Palm Beach,26.9222,-80.2189,13358,342.0,shape,false,true,America/New_York,3,33478,1840042432
+Elfers,Elfers,Florida,12101,Pasco,28.214,-82.723,13296,1377.5,shape,false,false,America/New_York,3,34690 34653 34652 34680,1840013122
+Naranja,Naranja,Florida,12086,Miami-Dade,25.5164,-80.4222,13261,3416.8,shape,false,false,America/New_York,2,33032,1840014246
+Orange City,Orange City,Florida,12127,Volusia,28.9348,-81.2881,13254,654.7,shape,false,true,America/New_York,3,32763 32774,1840015075
+Cheval,Cheval,Florida,12057,Hillsborough,28.1459,-82.5184,13189,855.7,shape,false,false,America/New_York,3,33558,1840028977
+South Daytona,South Daytona,Florida,12127,Volusia,29.1657,-81.0055,13132,1369.9,shape,false,true,America/New_York,3,32119,1840015950
+North Palm Beach,North Palm Beach,Florida,12099,Palm Beach,26.8217,-80.0576,13092,1548.3,shape,false,true,America/New_York,3,33408,1840018307
+On Top of the World Designated Place,On Top of the World Designated Place,Florida,12083,Marion,29.1058,-82.2866,13056,288.0,shape,false,false,America/New_York,3,34432 34481,1840142109
+Fernandina Beach,Fernandina Beach,Florida,12089,Nassau,30.6571,-81.4511,13028,425.1,shape,false,true,America/New_York,3,32034 32035,1840013929
+Holly Hill,Holly Hill,Florida,12127,Volusia,29.2442,-81.0465,12919,1259.1,shape,false,true,America/New_York,3,32117 32125,1840015078
+Florida City,Florida City,Florida,12086,Miami-Dade,25.4418,-80.4685,12841,827.8,shape,false,true,America/New_York,3,33034 33035,1840014250
+Pasadena Hills,Pasadena Hills,Florida,12101,Pasco,28.2881,-82.238,12654,162.9,shape,false,true,America/New_York,3,33525 33541 33545 33539,1840039051
+Jensen Beach,Jensen Beach,Florida,12085,Martin,27.2437,-80.2423,12581,696.7,shape,false,false,America/New_York,3,34957,1840014190
+Viera East,Viera East,Florida,12009,Brevard,28.2613,-80.7149,12547,957.7,shape,false,true,America/New_York,3,32955 32940 32923 32924,1840039118
+Asbury Lake,Asbury Lake,Florida,12019,Clay,30.0472,-81.7853,12515,284.9,shape,false,false,America/New_York,3,32043 32067,1840029019
+Sarasota Springs,Sarasota Springs,Florida,12115,Sarasota,27.3087,-82.4746,12500,1803.8,shape,false,false,America/New_York,3,34232,1840029072
+Goldenrod,Goldenrod,Florida,12117,Seminole,28.6114,-81.2916,12496,1911.3,shape,false,false,America/New_York,3,32792,1840014080
+Highland City,Highland City,Florida,12105,Polk,27.9633,-81.8781,12456,609.9,shape,false,false,America/New_York,3,33812 33813 33830 33846,1840014122
+Wimauma,Wimauma,Florida,12057,Hillsborough,27.6964,-82.3034,12439,191.9,shape,false,false,America/New_York,3,33598,1840014155
+Mango,Mango,Florida,12057,Hillsborough,27.9914,-82.307,12400,1025.7,shape,false,false,America/New_York,3,33610 33550 33584,1840014157
+Cypress Lake,Cypress Lake,Florida,12071,Lee,26.5392,-81.8999,12313,1240.9,shape,false,false,America/New_York,3,33919,1840029032
+Lake City,Lake City,Florida,12023,Columbia,30.1901,-82.6471,12307,332.2,shape,false,true,America/New_York,3,32055 32025 32056,1840015029
+Doctor Phillips,Doctor Phillips,Florida,12095,Orange,28.4474,-81.4914,12278,1392.9,shape,false,false,America/New_York,3,32836 32819,1840013119
+Celebration,Celebration,Florida,12097,Osceola,28.3102,-81.551,12030,441.3,shape,false,false,America/New_York,3,34747,1840014138
+Key Largo,Key Largo,Florida,12087,Monroe,25.1224,-80.412,12021,385.3,shape,false,false,America/New_York,3,33037,1840014253
+South Miami,South Miami,Florida,12086,Miami-Dade,25.7079,-80.2952,11944,2034.1,shape,false,true,America/New_York,2,33143 33155 33243,1840016006
+Goulds,Goulds,Florida,12086,Miami-Dade,25.5614,-80.388,11943,1585.2,shape,false,false,America/New_York,3,33170,1840014239
+Laurel,Laurel,Florida,12115,Sarasota,27.1507,-82.4534,11858,504.2,shape,false,false,America/New_York,3,34275 34272 34274,1840014184
+Middleburg,Middleburg,Florida,12019,Clay,30.0502,-81.9011,11838,233.0,shape,false,false,America/New_York,3,32068 32050,1840013998
+Gulfport,Gulfport,Florida,12103,Pinellas,27.7463,-82.7099,11796,1647.2,shape,false,true,America/New_York,3,33707,1840014145
+Shady Hills,Shady Hills,Florida,12101,Pasco,28.4042,-82.5468,11724,158.0,shape,false,false,America/New_York,3,34610,1840029004
+Lantana,Lantana,Florida,12099,Palm Beach,26.5834,-80.0564,11703,1909.2,shape,false,true,America/New_York,3,33462 33464,1840017259
+Miami Shores,Miami Shores,Florida,12086,Miami-Dade,25.867,-80.1779,11638,1807.0,shape,false,true,America/New_York,3,33141 33138 33153,1840018334
+Fuller Heights,Fuller Heights,Florida,12105,Polk,27.9227,-81.9978,11462,1024.6,shape,false,false,America/New_York,3,33860,1840025156
+Wilton Manors,Wilton Manors,Florida,12011,Broward,26.1593,-80.1395,11451,2244.6,shape,false,true,America/New_York,2,33305 33334 33311,1840016004
+Port Salerno,Port Salerno,Florida,12085,Martin,27.1461,-80.1894,11440,1238.8,shape,false,false,America/New_York,3,34997,1840014193
+Medulla,Medulla,Florida,12105,Polk,27.957,-81.9866,11355,783.1,shape,false,false,America/New_York,3,33813 33811 33807,1840014131
+Cocoa Beach,Cocoa Beach,Florida,12009,Brevard,28.3327,-80.6274,11334,939.4,shape,false,true,America/New_York,3,32931 32932,1840015093
+Lakeland Highlands,Lakeland Highlands,Florida,12105,Polk,27.9572,-81.9496,11276,895.4,shape,false,false,America/New_York,3,33813,1840029047
+Satellite Beach,Satellite Beach,Florida,12009,Brevard,28.1782,-80.6019,11176,1477.4,shape,false,true,America/New_York,3,32937,1840015961
+New Port Richey East,New Port Richey East,Florida,12101,Pasco,28.2605,-82.6931,11170,1133.7,shape,false,true,America/New_York,3,34668 34653,1840073871
+Citrus Springs,Citrus Springs,Florida,12017,Citrus,28.9931,-82.4594,11074,202.2,shape,false,false,America/New_York,3,34433 34434 34445,1840014062
+Bithlo,Bithlo,Florida,12095,Orange,28.5644,-81.1073,11041,391.3,shape,false,false,America/New_York,3,32820 32833,1840014083
+Fairview Shores,Fairview Shores,Florida,12095,Orange,28.6021,-81.3958,11011,1443.0,shape,false,false,America/New_York,3,32804 32789 32810,1840013120
+Sebring,Sebring,Florida,12055,Highlands,27.477,-81.453,11006,398.7,shape,false,true,America/New_York,3,33870 33875 33871,1840015986
+Westview,Westview,Florida,12086,Miami-Dade,25.8825,-80.2415,10992,1402.4,shape,false,false,America/New_York,3,33167,1840029098
+Pebble Creek,Pebble Creek,Florida,12057,Hillsborough,28.1583,-82.3411,10976,1334.2,shape,false,false,America/New_York,3,33647,1840028995
+Memphis,Memphis,Florida,12081,Manatee,27.5435,-82.5608,10923,1293.8,shape,false,false,America/New_York,3,34221,1840014172
+Sugarmill Woods,Sugarmill Woods,Florida,12017,Citrus,28.7299,-82.501,10821,146.0,shape,false,false,America/New_York,3,34461 34446,1840014063
+Hudson,Hudson,Florida,12101,Pasco,28.3595,-82.6894,10821,659.5,shape,false,false,America/New_York,3,34667 34674,1840014115
+Union Park,Union Park,Florida,12095,Orange,28.5657,-81.2355,10821,1465.9,shape,false,false,America/New_York,3,32825 32817,1840014090
+Westwood Lakes,Westwood Lakes,Florida,12086,Miami-Dade,25.7237,-80.3717,10725,2497.3,shape,false,false,America/New_York,2,33165,1840028796
+West Perrine,West Perrine,Florida,12086,Miami-Dade,25.6061,-80.3639,10597,2333.4,shape,false,false,America/New_York,2,33157,1840029018
+Alachua,Alachua,Florida,12001,Alachua,29.7779,-82.4832,10570,112.7,shape,false,true,America/New_York,3,32615 32616,1840014020
+Lighthouse Point,Lighthouse Point,Florida,12011,Broward,26.2785,-80.0891,10496,1756.9,shape,false,true,America/New_York,3,33064,1840015998
+Palatka,Palatka,Florida,12107,Putnam,29.6493,-81.6705,10471,410.5,shape,false,true,America/New_York,3,32177 32178,1840015062
+Gateway,Gateway,Florida,12071,Lee,26.5793,-81.7446,10395,747.8,shape,false,false,America/New_York,3,33913,1840014213
+West Vero Corridor,West Vero Corridor,Florida,12061,Indian River,27.6363,-80.4844,10315,680.0,shape,false,true,America/New_York,3,32966,1840073271
+Pine Ridge,Pine Ridge,Florida,12017,Citrus,28.933,-82.4761,10269,159.6,shape,false,false,America/New_York,3,34465 34442 34445 34460,1840028997
+Milton,Milton,Florida,12113,Santa Rosa,30.6286,-87.0522,10254,703.2,shape,false,true,America/Chicago,3,32570 32572,1840015006
+Davenport,Davenport,Florida,12105,Polk,28.1587,-81.6083,10246,971.4,shape,false,true,America/New_York,3,33844 33837 33836,1840015104
+Rotonda,Rotonda,Florida,12015,Charlotte,26.8844,-82.2791,10233,370.7,shape,false,false,America/New_York,3,33947,1840014201
+Progress Village,Progress Village,Florida,12057,Hillsborough,27.8831,-82.3593,10096,1288.4,shape,false,false,America/New_York,3,33578 33619,1840028917
+Bee Ridge,Bee Ridge,Florida,12115,Sarasota,27.2855,-82.4731,10069,1036.6,shape,false,false,America/New_York,3,34233,1840028632
+Cape Canaveral,Cape Canaveral,Florida,12009,Brevard,28.3933,-80.6049,9980,1734.2,shape,false,true,America/New_York,3,32920,1840015091
+St. Augustine Shores,St. Augustine Shores,Florida,12109,St. Johns,29.8039,-81.3086,9883,870.4,shape,false,false,America/New_York,3,32086,1840013972
+Richmond Heights,Richmond Heights,Florida,12086,Miami-Dade,25.6347,-80.3721,9863,2389.2,shape,false,false,America/New_York,2,33176 33157,1840014249
+Bardmoor,Bardmoor,Florida,12103,Pinellas,27.8574,-82.7534,9834,1732.6,shape,false,true,America/New_York,3,33777,1840038841
+Avon Park,Avon Park,Florida,12055,Highlands,27.5898,-81.5068,9789,371.0,shape,false,true,America/New_York,3,33825 33826,1840014166
+Marathon,Marathon,Florida,12087,Monroe,24.7263,-81.0374,9789,447.5,shape,false,true,America/New_York,3,33050 33052,1840016010
+Beverly Hills,Beverly Hills,Florida,12017,Citrus,28.9176,-82.4542,9787,1273.6,shape,false,false,America/New_York,3,34465 34464,1840014061
+Green Cove Springs,Green Cove Springs,Florida,12019,Clay,29.9904,-81.6807,9758,447.8,shape,false,true,America/New_York,3,32043,1840013999
+Cypress Gardens,Cypress Gardens,Florida,12105,Polk,28.0036,-81.6857,9692,1084.7,shape,false,false,America/New_York,3,33884 33882,1840028660
+Pine Castle,Pine Castle,Florida,12095,Orange,28.4651,-81.3741,9556,1525.3,shape,false,false,America/New_York,3,32809 32839,1840014097
+Palm Beach,Palm Beach,Florida,12099,Palm Beach,26.6945,-80.0408,9205,936.0,shape,false,true,America/New_York,3,33480,1840017267
+Micco,Micco,Florida,12009,Brevard,27.8683,-80.51,9164,465.3,shape,false,false,America/New_York,3,32976,1840014077
+Miramar Beach,Miramar Beach,Florida,12131,Walton,30.3854,-86.3442,9115,501.2,shape,false,false,America/Chicago,3,32550,1840013925
+Orange Park,Orange Park,Florida,12019,Clay,30.1706,-81.7041,9047,960.1,shape,false,true,America/New_York,3,32073,1840017206
+North Merritt Island,North Merritt Island,Florida,12009,Brevard,28.4585,-80.7162,9033,206.9,shape,false,false,America/New_York,3,32953,1840142111
+Lake Park,Lake Park,Florida,12099,Palm Beach,26.7998,-80.0681,8996,1666.0,shape,false,true,America/New_York,3,33403,1840017258
+Brooksville,Brooksville,Florida,12053,Hernando,28.5404,-82.3903,8981,310.0,shape,false,true,America/New_York,3,34601 34603,1840014112
+Indian Harbour Beach,Indian Harbour Beach,Florida,12009,Brevard,28.1529,-80.5976,8944,1650.3,shape,false,true,America/New_York,3,32937,1840015096
+Hernando,Hernando,Florida,12017,Citrus,28.9451,-82.3781,8911,108.5,shape,false,false,America/New_York,3,34434 34442 34441,1840014058
+St. Pete Beach,St. Pete Beach,Florida,12103,Pinellas,27.7235,-82.7387,8905,1617.0,shape,false,true,America/New_York,3,33706 33736 33741,1840015976
+Citrus Hills,Citrus Hills,Florida,12017,Citrus,28.887,-82.4312,8599,342.4,shape,false,false,America/New_York,3,34453 34442,1840028978
+Seffner,Seffner,Florida,12057,Hillsborough,27.9981,-82.2735,8597,920.3,shape,false,false,America/New_York,3,33584 33583,1840014153
+Westgate,Westgate,Florida,12099,Palm Beach,26.6994,-80.0989,8340,2120.0,shape,false,true,America/New_York,2,33409,1840042909
+Springfield,Springfield,Florida,12005,Bay,30.1711,-85.609,8295,747.4,shape,false,true,America/Chicago,3,32401 32404 32405,1840015923
+Wedgefield,Wedgefield,Florida,12095,Orange,28.4847,-81.0809,8277,137.0,shape,false,false,America/New_York,3,32833,1840014091
+Fruitland Park,Fruitland Park,Florida,12069,Lake,28.8599,-81.9177,8219,449.1,shape,false,true,America/New_York,3,34731 32163,1840014055
+Fern Park,Fern Park,Florida,12117,Seminole,28.6485,-81.3458,8207,1580.1,shape,false,false,America/New_York,3,32751 32730,1840014068
+North Bay Village,North Bay Village,Florida,12086,Miami-Dade,25.8487,-80.1535,8024,4987.1,shape,false,true,America/New_York,2,33141,1840015153
+Quincy,Quincy,Florida,12039,Gadsden,30.5661,-84.5858,7811,258.9,shape,false,true,America/New_York,3,32351 32353,1840015022
+Inverness Highlands South,Inverness Highlands South,Florida,12017,Citrus,28.8007,-82.3371,7788,536.2,shape,false,true,America/New_York,3,34452,1840073844
+Southeast Arcadia,Southeast Arcadia,Florida,12027,DeSoto,27.1862,-81.8521,7675,409.3,shape,false,true,America/New_York,3,34266,1840035778
+South Apopka,South Apopka,Florida,12095,Orange,28.657,-81.5058,7653,1394.2,shape,false,false,America/New_York,3,32703 32793,1840028779
+McGregor,McGregor,Florida,12071,Lee,26.5611,-81.9134,7650,1248.5,shape,false,false,America/New_York,3,33919,1840029055
+Inverness,Inverness,Florida,12017,Citrus,28.8416,-82.3418,7602,352.3,shape,false,true,America/New_York,3,34450 34453 34452 34451,1840015085
+Southwest Ranches,Southwest Ranches,Florida,12011,Broward,26.0476,-80.3751,7589,225.8,shape,false,true,America/New_York,3,33331 33330 33332,1840018328
+Odessa,Odessa,Florida,12101,Pasco,28.1821,-82.553,7538,542.6,shape,false,false,America/New_York,3,33556 33558,1840014121
+North Weeki Wachee,North Weeki Wachee,Florida,12053,Hernando,28.5592,-82.5537,7529,201.6,shape,false,true,America/New_York,3,34613,1840073872
+Lely Resort,Lely Resort,Florida,12021,Collier,26.0889,-81.7031,7505,580.9,shape,false,false,America/New_York,3,34113,1840028991
+Arcadia,Arcadia,Florida,12027,DeSoto,27.2215,-81.8585,7480,652.2,shape,false,true,America/New_York,3,34266,1840014187
+Longboat Key,Longboat Key,Florida,12081,Manatee,27.3926,-82.6341,7479,708.1,shape,false,true,America/New_York,3,34228,1840017250
+Sky Lake,Sky Lake,Florida,12095,Orange,28.4611,-81.3913,7424,2272.6,shape,false,false,America/New_York,2,32809 32859,1840014085
+Newberry,Newberry,Florida,12001,Alachua,29.6382,-82.6061,7401,47.5,shape,false,true,America/New_York,3,32669,1840015058
+Broadview Park,Broadview Park,Florida,12011,Broward,26.0978,-80.209,7385,2846.5,shape,false,false,America/New_York,2,33317,1840028918
+Macclenny,Macclenny,Florida,12003,Baker,30.2809,-82.1253,7354,583.5,shape,false,true,America/New_York,3,32063,1840015921
+Beacon Square,Beacon Square,Florida,12101,Pasco,28.2118,-82.7504,7327,1398.3,shape,false,false,America/New_York,3,34691 34652,1840028798
+Clewiston,Clewiston,Florida,12051,Hendry,26.7529,-80.9399,7252,622.1,shape,false,true,America/New_York,3,33440,1840015128
+Mims,Mims,Florida,12009,Brevard,28.6929,-80.8468,7222,163.4,shape,false,false,America/New_York,3,32754,1840014078
+Dade City,Dade City,Florida,12101,Pasco,28.3565,-82.1942,7221,402.0,shape,false,true,America/New_York,3,33525 33523,1840015101
+Lake Lorraine,Lake Lorraine,Florida,12091,Okaloosa,30.4407,-86.5657,7164,1344.2,shape,false,false,America/Chicago,3,32579,1840029048
+West Miami,West Miami,Florida,12086,Miami-Dade,25.7578,-80.2969,7104,3868.9,shape,false,true,America/New_York,2,33144 33155,1840016009
+Heathrow,Heathrow,Florida,12117,Seminole,28.7754,-81.3721,7084,997.0,shape,false,false,America/New_York,3,32746,1840014070
+Inwood,Inwood,Florida,12105,Polk,28.0391,-81.7677,7054,1439.1,shape,false,false,America/New_York,3,33881 33880,1840014123
+"Islamorada, Village of Islands","Islamorada, Village of Islands",Florida,12087,Monroe,24.9407,-80.6098,7044,421.7,shape,false,true,America/New_York,3,33036 33070,1840073890
+Belle Isle,Belle Isle,Florida,12095,Orange,28.4723,-81.3491,7020,1129.5,shape,false,true,America/New_York,3,32809 32812,1840014101
+West Samoset,West Samoset,Florida,12081,Manatee,27.4702,-82.5552,6985,2002.7,shape,false,false,America/New_York,2,34208 34203,1840029097
+Mascotte,Mascotte,Florida,12069,Lake,28.611,-81.9106,6985,209.4,shape,false,true,America/New_York,3,34736 34753,1840015951
+Indian River Estates,Indian River Estates,Florida,12111,St. Lucie,27.3564,-80.2983,6965,482.8,shape,false,false,America/New_York,3,34982 34952,1840029044
+Lecanto,Lecanto,Florida,12017,Citrus,28.8359,-82.488,6938,99.5,shape,false,false,America/New_York,3,34461,1840014064
+Williamsburg,Williamsburg,Florida,12095,Orange,28.4014,-81.4462,6908,751.0,shape,false,false,America/New_York,3,32821,1840029100
+South Patrick Shores,South Patrick Shores,Florida,12009,Brevard,28.202,-80.6137,6899,1760.6,shape,false,false,America/New_York,3,32937,1840029080
+Willow Oak,Willow Oak,Florida,12105,Polk,27.9216,-82.0244,6885,852.3,shape,false,false,America/New_York,3,33860 33811,1840028919
+Perry,Perry,Florida,12123,Taylor,30.109,-83.5821,6879,284.0,shape,false,true,America/New_York,3,32347 32348,1840015046
+Live Oak,Live Oak,Florida,12121,Suwannee,30.2957,-82.9847,6811,344.7,shape,false,true,America/New_York,3,32064,1840015929
+St. Augustine Beach,St. Augustine Beach,Florida,12109,St. Johns,29.8415,-81.2713,6774,1228.7,shape,false,true,America/New_York,3,32080,1840015936
+Neptune Beach,Neptune Beach,Florida,12031,Duval,30.3165,-81.4118,6743,1114.0,shape,false,true,America/New_York,3,32266,1840015030
+Vero Lake Estates,Vero Lake Estates,Florida,12061,Indian River,27.7471,-80.5283,6714,768.0,shape,false,false,America/New_York,3,32967,1840047939
+Marianna,Marianna,Florida,12063,Jackson,30.7943,-85.2259,6681,138.7,shape,false,true,America/Chicago,3,32446 32448,1840015897
+Ormond-by-the-Sea,Ormond-by-the-Sea,Florida,12127,Volusia,29.3437,-81.0677,6668,1277.1,shape,false,false,America/New_York,3,32176,1840014042
+Orlovista,Orlovista,Florida,12095,Orange,28.5441,-81.4629,6661,1399.0,shape,false,false,America/New_York,3,32808 32835 32811,1840014096
+Indiantown,Indiantown,Florida,12085,Martin,27.0376,-80.491,6624,180.4,shape,false,true,America/New_York,3,34956,1840014189
+Treasure Island,Treasure Island,Florida,12103,Pinellas,27.774,-82.7663,6590,1646.0,shape,false,true,America/New_York,3,33706 33740,1840015981
+Lake Alfred,Lake Alfred,Florida,12105,Polk,28.1041,-81.7264,6555,269.4,shape,false,true,America/New_York,3,33850,1840015106
+Fort Pierce North,Fort Pierce North,Florida,12111,St. Lucie,27.4736,-80.3595,6519,593.6,shape,false,true,America/New_York,3,34947 34946,1840073834
+Sanibel,Sanibel,Florida,12071,Lee,26.4534,-82.1023,6420,153.2,shape,false,true,America/New_York,3,33957,1840015996
+Connerton,Connerton,Florida,12101,Pasco,28.3022,-82.4624,6383,190.3,shape,false,true,America/New_York,4,34637,1840038857
+Pelican Bay,Pelican Bay,Florida,12021,Collier,26.2327,-81.8108,6380,835.9,shape,false,false,America/New_York,3,34108,1840028996
+Gulf Breeze,Gulf Breeze,Florida,12113,Santa Rosa,30.3684,-87.1737,6372,525.6,shape,false,true,America/Chicago,3,32561 32562,1840013920
+Loughman,Loughman,Florida,12105,Polk,28.238,-81.5686,6296,699.8,shape,false,false,America/New_York,3,33896 33858 33837,1840014130
+High Springs,High Springs,Florida,12001,Alachua,29.807,-82.5955,6283,105.4,shape,false,true,America/New_York,3,32643 32655,1840015060
+Pembroke Park,Pembroke Park,Florida,12011,Broward,25.9852,-80.1777,6266,1694.0,shape,false,true,America/New_York,3,33021 33023 33009,1840017273
+Jan Phyl Village,Jan Phyl Village,Florida,12105,Polk,28.0201,-81.7933,6237,526.4,shape,false,false,America/New_York,3,33880,1840028708
+Lauderdale-by-the-Sea,Lauderdale-by-the-Sea,Florida,12011,Broward,26.1991,-80.0971,6202,2731.2,shape,false,true,America/New_York,2,33308 33062 33303,1840017271
+Osprey,Osprey,Florida,12115,Sarasota,27.1914,-82.48,6195,457.7,shape,false,false,America/New_York,3,34229,1840014186
+River Park,River Park,Florida,12111,St. Lucie,27.3214,-80.3308,6186,1015.7,shape,false,false,America/New_York,3,34983 34952,1840028958
+Southgate,Southgate,Florida,12115,Sarasota,27.3066,-82.5107,6183,1424.1,shape,false,false,America/New_York,3,34239,1840029078
+Three Oaks,Three Oaks,Florida,12071,Lee,26.4724,-81.7959,6156,1370.6,shape,false,false,America/New_York,3,33967,1840029011
+Zephyrhills West,Zephyrhills West,Florida,12101,Pasco,28.2311,-82.2052,6147,902.2,shape,false,true,America/New_York,3,33542 33541,1840035801
+Tequesta,Tequesta,Florida,12099,Palm Beach,26.9618,-80.1011,6116,1289.2,shape,false,true,America/New_York,3,33469,1840018310
+Ocean City,Ocean City,Florida,12091,Okaloosa,30.4398,-86.6071,6108,1517.6,shape,false,false,America/Chicago,3,32547,1840013922
+DeFuniak Springs,DeFuniak Springs,Florida,12131,Walton,30.7123,-86.1208,6072,168.1,shape,false,true,America/Chicago,3,32433 32435,1840015011
+Crystal Lake,Crystal Lake,Florida,12105,Polk,28.0371,-81.9064,6048,914.2,shape,false,false,America/New_York,3,33801,1840029030
+Fort Myers Shores,Fort Myers Shores,Florida,12071,Lee,26.7135,-81.7384,5990,1114.9,shape,false,false,America/New_York,3,33905,1840014212
+Ave Maria,Ave Maria,Florida,12021,Collier,26.3218,-81.4397,5895,218.3,shape,false,false,America/New_York,3,34142,1840144301
+Naples Manor,Naples Manor,Florida,12021,Collier,26.0892,-81.7254,5882,3318.3,shape,false,false,America/New_York,2,34113,1840014232
+South Gate Ridge,South Gate Ridge,Florida,12115,Sarasota,27.2856,-82.497,5872,1297.4,shape,false,false,America/New_York,3,34231 34233,1840029079
+Port LaBelle,Port LaBelle,Florida,12051,Hendry,26.7565,-81.3827,5858,210.5,shape,false,false,America/New_York,3,33935,1840014210
+Freeport,Freeport,Florida,12131,Walton,30.5039,-86.1391,5858,119.4,shape,false,true,America/Chicago,3,32439,1840013926
+Bay Harbor Islands,Bay Harbor Islands,Florida,12086,Miami-Dade,25.8877,-80.1334,5843,5691.6,shape,false,true,America/New_York,2,33154,1840016005
+Kathleen,Kathleen,Florida,12105,Polk,28.1224,-82.0387,5843,313.7,shape,false,false,America/New_York,3,33810,1840014129
+Starke,Starke,Florida,12007,Bradford,29.9474,-82.1129,5756,309.6,shape,false,true,America/New_York,3,32091 32042,1840015940
+The Meadows,The Meadows,Florida,12115,Sarasota,27.3647,-82.4716,5752,934.3,shape,false,false,America/New_York,3,34235,1840029087
+Cocoa West,Cocoa West,Florida,12009,Brevard,28.3591,-80.7713,5727,605.8,shape,false,true,America/New_York,3,32922 32926,1840073847
+Rio Pinar,Rio Pinar,Florida,12095,Orange,28.5271,-81.2628,5663,1006.2,shape,false,true,America/New_York,3,32825,1840039091
+Fort Myers Beach,Fort Myers Beach,Florida,12071,Lee,26.4308,-81.9146,5650,784.3,shape,false,true,America/New_York,3,33931 33932,1840017269
+Surfside,Surfside,Florida,12086,Miami-Dade,25.8787,-80.125,5625,3896.7,shape,false,true,America/New_York,2,33154,1840017278
+Pahokee,Pahokee,Florida,12099,Palm Beach,26.8202,-80.6621,5548,403.0,shape,false,true,America/New_York,3,33476,1840015124
+Siesta Key,Siesta Key,Florida,12115,Sarasota,27.2779,-82.5516,5535,911.6,shape,false,false,America/New_York,3,34242,1840028968
+White City,White City,Florida,12111,St. Lucie,27.3721,-80.3404,5494,424.8,shape,false,false,America/New_York,3,34982 34981,1840134890
+Zephyrhills South,Zephyrhills South,Florida,12101,Pasco,28.2152,-82.1886,5470,1068.4,shape,false,true,America/New_York,3,33542 33541,1840073858
+Tice,Tice,Florida,12071,Lee,26.6756,-81.8166,5468,1768.8,shape,false,false,America/New_York,3,33905,1840014219
+Belleview,Belleview,Florida,12083,Marion,29.0608,-82.0565,5438,531.3,shape,false,true,America/New_York,3,34420 34421,1840014040
+Balm,Balm,Florida,12057,Hillsborough,27.7542,-82.2882,5397,207.2,shape,false,false,America/New_York,3,33598 33503,1840025162
+Ellenton,Ellenton,Florida,12081,Manatee,27.5269,-82.5258,5391,629.4,shape,false,false,America/New_York,3,34222 34221,1840013124
+Dundee,Dundee,Florida,12105,Polk,28.0115,-81.5995,5373,189.6,shape,false,true,America/New_York,3,33898 33838 33844,1840017241
+South Pasadena,South Pasadena,Florida,12103,Pinellas,27.7526,-82.7394,5334,3375.7,shape,false,true,America/New_York,2,33707,1840015979
+Lochmoor Waterway Estates,Lochmoor Waterway Estates,Florida,12071,Lee,26.6447,-81.9098,5327,858.5,shape,false,false,America/New_York,3,33903,1840029053
+South Highpoint,South Highpoint,Florida,12103,Pinellas,27.9086,-82.7162,5325,2421.0,shape,false,false,America/New_York,2,33760,1840029006
+Okeechobee,Okeechobee,Florida,12093,Okeechobee,27.2413,-80.8298,5319,506.4,shape,false,true,America/New_York,3,34972 34974 34973,1840015118
+Fort Pierce South,Fort Pierce South,Florida,12111,St. Lucie,27.4098,-80.3539,5314,768.9,shape,false,true,America/New_York,3,34982 34981,1840073835
+Palm Springs North,Palm Springs North,Florida,12086,Miami-Dade,25.9351,-80.3339,5303,2574.1,shape,false,false,America/New_York,2,33015,1840047821
+Whiskey Creek,Whiskey Creek,Florida,12071,Lee,26.5733,-81.8903,5302,1325.4,shape,false,false,America/New_York,3,33919,1840029099
+Crawfordville,Crawfordville,Florida,12129,Wakulla,30.1996,-84.3634,5268,445.2,shape,false,false,America/New_York,3,32327,1840025125
+Naples Park,Naples Park,Florida,12021,Collier,26.2633,-81.8094,5200,1632.4,shape,false,false,America/New_York,3,34108,1840014233
+Rainbow Springs,Rainbow Springs,Florida,12083,Marion,29.094,-82.4408,5189,173.6,shape,false,false,America/New_York,3,34432 34431,1840152379
+Samsula-Spruce Creek,Samsula-Spruce Creek,Florida,12127,Volusia,29.0484,-81.0628,5137,118.0,shape,false,true,America/New_York,4,32128 32168,1840035478
+Fort Meade,Fort Meade,Florida,12105,Polk,27.7645,-81.8058,5133,242.2,shape,false,true,America/New_York,3,33841,1840014134
+Flagler Beach,Flagler Beach,Florida,12035,Flagler,29.4716,-81.1303,5100,555.2,shape,false,true,America/New_York,3,32136,1840014035
+St. Augustine South,St. Augustine South,Florida,12109,St. Johns,29.8449,-81.3156,5087,1238.9,shape,false,false,America/New_York,3,32086,1840029110
+Daytona Beach Shores,Daytona Beach Shores,Florida,12127,Volusia,29.1696,-80.9796,5087,2383.6,shape,false,true,America/New_York,2,32118,1840015069
+Timber Pines,Timber Pines,Florida,12053,Hernando,28.469,-82.5999,5059,888.1,shape,false,false,America/New_York,3,34606,1840029088
+Whitfield,Whitfield,Florida,12081,Manatee,27.4116,-82.5659,5048,1413.1,shape,false,false,America/New_York,3,34243,1840134894
+Fussels Corner,Fussels Corner,Florida,12105,Polk,28.0574,-81.861,5044,362.0,shape,false,false,America/New_York,3,33801 33823,1840029036
+Kenneth City,Kenneth City,Florida,12103,Pinellas,27.8156,-82.7162,5043,2727.0,shape,false,true,America/New_York,2,33709,1840017244
+Cortez,Cortez,Florida,12081,Manatee,27.4668,-82.6688,5033,871.1,shape,false,false,America/New_York,3,34215 34210,1840013125
+Pensacola Station,Pensacola Station,Florida,12033,Escambia,30.3541,-87.305,5015,223.6,shape,true,false,America/Chicago,3,32508 32507,1840152943
+LaBelle,LaBelle,Florida,12051,Hendry,26.7219,-81.4506,4963,132.3,shape,false,true,America/New_York,3,33935 33975,1840015129
+Orangetree,Orangetree,Florida,12021,Collier,26.2929,-81.5786,4929,523.2,shape,false,false,America/New_York,3,34120,1840014234
+Wauchula,Wauchula,Florida,12049,Hardee,27.5469,-81.8102,4898,578.9,shape,false,true,America/New_York,3,33873,1840015987
+Valparaiso,Valparaiso,Florida,12091,Okaloosa,30.4926,-86.5079,4889,160.8,shape,false,true,America/Chicago,3,32580 32542,1840015903
+Fellsmere,Fellsmere,Florida,12061,Indian River,27.7241,-80.5974,4885,32.8,shape,false,true,America/New_York,3,32948 32966,1840014165
+Combee Settlement,Combee Settlement,Florida,12105,Polk,28.0597,-81.9051,4880,953.3,shape,false,false,America/New_York,3,33801,1840029027
+Sawgrass,Sawgrass,Florida,12109,St. Johns,30.19,-81.3704,4877,622.5,shape,false,false,America/New_York,3,32082,1840029073
+Gifford,Gifford,Florida,12061,Indian River,27.6756,-80.4252,4868,691.4,shape,false,false,America/New_York,3,32967,1840014160
+South Sarasota,South Sarasota,Florida,12115,Sarasota,27.2857,-82.5332,4855,974.5,shape,false,false,America/New_York,3,34231,1840029081
+Butler Beach,Butler Beach,Florida,12109,St. Johns,29.798,-81.2653,4831,733.3,shape,false,false,America/New_York,3,32080,1840029025
+South Bay,South Bay,Florida,12099,Palm Beach,26.677,-80.7265,4830,651.7,shape,false,true,America/New_York,3,33493,1840015992
+Floral City,Floral City,Florida,12017,Citrus,28.7065,-82.309,4830,80.0,shape,false,false,America/New_York,3,34436,1840014057
+Ridge Wood Heights,Ridge Wood Heights,Florida,12115,Sarasota,27.2874,-82.5137,4812,1314.7,shape,false,false,America/New_York,3,34231,1840029070
+Mount Plymouth,Mount Plymouth,Florida,12069,Lake,28.8024,-81.5351,4798,643.9,shape,false,false,America/New_York,3,32776,1840014049
+Brookridge,Brookridge,Florida,12053,Hernando,28.5483,-82.4897,4783,729.1,shape,false,false,America/New_York,3,34613,1840029022
+June Park,June Park,Florida,12009,Brevard,28.072,-80.6876,4757,606.8,shape,false,false,America/New_York,3,32904,1840014074
+Lower Grand Lagoon,Lower Grand Lagoon,Florida,12005,Bay,30.1444,-85.7526,4733,874.3,shape,false,false,America/Chicago,3,32408,1840029054
+River Ridge,River Ridge,Florida,12101,Pasco,28.2669,-82.6257,4705,433.2,shape,false,true,America/New_York,3,34655 34654,1840039098
+South Brooksville,South Brooksville,Florida,12053,Hernando,28.5243,-82.4159,4577,99.0,shape,false,false,America/New_York,3,34604 34601 34605,1840029077
+Taylor Creek,Taylor Creek,Florida,12093,Okeechobee,27.2173,-80.7925,4566,578.3,shape,false,false,America/New_York,3,34974,1840029086
+Stock Island,Stock Island,Florida,12087,Monroe,24.5658,-81.7351,4564,2106.3,shape,false,false,America/New_York,2,33040,1840029082
+Warm Mineral Springs,Warm Mineral Springs,Florida,12115,Sarasota,27.0472,-82.2702,4540,742.9,shape,false,false,America/New_York,3,34287,1840014183
+Nassau Village-Ratliff,Nassau Village-Ratliff,Florida,12089,Nassau,30.5108,-81.8089,4530,119.3,shape,false,true,America/New_York,4,32011,1840073870
+Grant-Valkaria,Grant-Valkaria,Florida,12009,Brevard,27.9322,-80.5655,4520,64.1,shape,false,true,America/New_York,3,32909 32950 32949,1840017235
+Charlotte Harbor,Charlotte Harbor,Florida,12015,Charlotte,26.9629,-82.0571,4516,751.5,shape,false,false,America/New_York,3,33980,1840014198
+Big Pine Key,Big Pine Key,Florida,12087,Monroe,24.6893,-81.3676,4502,170.3,shape,false,false,America/New_York,3,33043,1840014251
+Ridge Manor,Ridge Manor,Florida,12053,Hernando,28.4988,-82.1832,4430,198.2,shape,false,false,America/New_York,3,33523,1840014111
+Wahneta,Wahneta,Florida,12105,Polk,27.9574,-81.7287,4406,748.2,shape,false,false,America/New_York,3,33880,1840014125
+Bay Hill,Bay Hill,Florida,12095,Orange,28.4559,-81.5122,4363,709.1,shape,false,false,America/New_York,3,32836 32819,1840029020
+Bagdad,Bagdad,Florida,12113,Santa Rosa,30.5824,-87.0447,4359,265.3,shape,false,false,America/Chicago,3,32583 32530,1840013918
+Woodville,Woodville,Florida,12073,Leon,30.312,-84.2611,4356,199.1,shape,false,false,America/New_York,3,32305 32362,1840013944
+Jasper,Jasper,Florida,12047,Hamilton,30.5061,-82.954,4310,387.1,shape,false,true,America/New_York,3,32052,1840015028
+Parker,Parker,Florida,12005,Bay,30.1289,-85.6008,4309,870.4,shape,false,true,America/Chicago,3,32404,1840015036
+Belleair,Belleair,Florida,12103,Pinellas,27.9365,-82.8114,4295,957.8,shape,false,true,America/New_York,3,33756,1840015973
+Buckingham,Buckingham,Florida,12071,Lee,26.6613,-81.7402,4288,92.0,shape,false,false,America/New_York,3,33905,1840014216
+Winter Beach,Winter Beach,Florida,12061,Indian River,27.712,-80.4254,4273,239.8,shape,false,false,America/New_York,3,32967 32971,1840014163
+Indian River Shores,Indian River Shores,Florida,12061,Indian River,27.7084,-80.3851,4266,321.5,shape,false,true,America/New_York,3,32963,1840017246
+Highland Beach,Highland Beach,Florida,12099,Palm Beach,26.4087,-80.0661,4261,3065.3,shape,false,true,America/New_York,2,33487,1840015995
+Samoset,Samoset,Florida,12081,Manatee,27.4764,-82.543,4235,1110.8,shape,false,false,America/New_York,3,34208,1840014169
+Moon Lake,Moon Lake,Florida,12101,Pasco,28.2993,-82.605,4214,271.7,shape,false,true,America/New_York,3,34654,1840039008
+Suncoast Estates,Suncoast Estates,Florida,12071,Lee,26.7123,-81.8684,4208,597.2,shape,false,false,America/New_York,3,33917,1840029083
+Hutchinson Island South,Hutchinson Island South,Florida,12111,St. Lucie,27.3243,-80.2425,4203,376.9,shape,false,true,America/New_York,3,34957,1840073842
+Laguna Beach,Laguna Beach,Florida,12005,Bay,30.2549,-85.9512,4194,645.6,shape,false,false,America/Chicago,3,32413,1840013957
+Lake Panasoffkee,Lake Panasoffkee,Florida,12119,Sumter,28.785,-82.1258,4173,374.7,shape,false,false,America/New_York,3,33538,1840014066
+Harbour Heights,Harbour Heights,Florida,12015,Charlotte,26.9928,-82.0072,4145,738.0,shape,false,false,America/New_York,3,33983,1840014197
+Clarcona,Clarcona,Florida,12095,Orange,28.6268,-81.4979,4128,383.9,shape,false,false,America/New_York,3,32703 32818 32704,1840025145
+Tierra Verde,Tierra Verde,Florida,12103,Pinellas,27.6687,-82.7299,4072,1269.9,shape,false,false,America/New_York,3,33715,1840014142
+Mary Esther,Mary Esther,Florida,12091,Okaloosa,30.4127,-86.6588,4018,1066.2,shape,false,true,America/Chicago,3,32569,1840015902
+Mulberry,Mulberry,Florida,12105,Polk,27.9058,-81.9873,3962,247.4,shape,false,true,America/New_York,3,33860,1840015105
+Pine Manor,Pine Manor,Florida,12071,Lee,26.573,-81.8774,3944,3295.6,shape,false,false,America/New_York,2,33907,1840028755
+West Bradenton,West Bradenton,Florida,12081,Manatee,27.5016,-82.6146,3935,1167.8,shape,false,false,America/New_York,3,34209,1840029094
+Madeira Beach,Madeira Beach,Florida,12103,Pinellas,27.7985,-82.7887,3931,1545.8,shape,false,true,America/New_York,3,33708 33738,1840015972
+Tangerine,Tangerine,Florida,12095,Orange,28.759,-81.6341,3870,326.5,shape,false,false,America/New_York,3,32757 32777,1840014088
+Juno Beach,Juno Beach,Florida,12099,Palm Beach,26.8754,-80.0589,3818,722.8,shape,false,true,America/New_York,3,33408,1840017254
+Florida Gulf Coast University,Florida Gulf Coast University,Florida,12071,Lee,26.4613,-81.7686,3793,607.4,shape,false,false,America/New_York,3,33965,1840150714
+Pea Ridge,Pea Ridge,Florida,12113,Santa Rosa,30.603,-87.1022,3765,518.0,shape,false,true,America/Chicago,3,32583 32571,1840043095
+Umatilla,Umatilla,Florida,12069,Lake,28.9273,-81.665,3738,395.3,shape,false,true,America/New_York,3,32784,1840015954
+Lake Sarasota,Lake Sarasota,Florida,12115,Sarasota,27.2948,-82.4323,3701,2135.0,shape,false,false,America/New_York,2,34241,1840029050
+Indian Rocks Beach,Indian Rocks Beach,Florida,12103,Pinellas,27.8961,-82.8444,3689,1686.1,shape,false,true,America/New_York,3,33785,1840015113
+High Point,High Point,Florida,12053,Hernando,28.5475,-82.5206,3685,286.8,shape,false,false,America/New_York,3,34613,1840029105
+North Brooksville,North Brooksville,Florida,12053,Hernando,28.5731,-82.3744,3661,216.8,shape,false,false,America/New_York,3,34601,1840029058
+Wallace,Wallace,Florida,12113,Santa Rosa,30.6746,-87.1996,3652,119.9,shape,false,false,America/Chicago,3,32571,1840027010
+Vineyards,Vineyards,Florida,12021,Collier,26.2279,-81.728,3649,720.2,shape,false,false,America/New_York,3,34119,1840029014
+Chipley,Chipley,Florida,12133,Washington,30.7752,-85.5406,3644,319.6,shape,false,true,America/Chicago,3,32428,1840015015
+Kensington Park,Kensington Park,Florida,12115,Sarasota,27.3578,-82.4942,3620,1445.6,shape,false,false,America/New_York,3,34235 34230,1840029046
+Flagler Estates,Flagler Estates,Florida,12109,St. Johns,29.6441,-81.4571,3608,117.7,shape,false,true,America/New_York,4,32145,1840038863
+Holden Lakes,Holden Lakes,Florida,12095,Orange,28.5013,-81.3878,3591,1352.0,shape,false,true,America/New_York,3,32805 32839 32855,1840000581
+Point Baker,Point Baker,Florida,12113,Santa Rosa,30.6855,-87.0522,3591,209.6,shape,false,false,America/Chicago,3,32570,1840025118
+Watergate,Watergate,Florida,12099,Palm Beach,26.3359,-80.2125,3589,3331.7,shape,false,true,America/New_York,2,33428,1840042907
+West DeLand,West DeLand,Florida,12127,Volusia,29.0162,-81.3343,3574,641.9,shape,false,false,America/New_York,3,32720,1840029095
+Lake Clarke Shores,Lake Clarke Shores,Florida,12099,Palm Beach,26.6461,-80.0752,3553,1486.7,shape,false,true,America/New_York,3,33406,1840017257
+Lely,Lely,Florida,12021,Collier,26.1032,-81.7297,3548,998.4,shape,false,false,America/New_York,3,34113,1840029052
+Port St. Joe,Port St. Joe,Florida,12045,Gulf,29.8274,-85.3075,3533,145.6,shape,false,true,America/New_York,3,32456 32457,1840015048
+Tiger Point,Tiger Point,Florida,12113,Santa Rosa,30.3757,-87.0573,3511,964.6,shape,false,false,America/Chicago,3,32563,1840029101
+Midway,Midway,Florida,12039,Gadsden,30.4995,-84.4582,3500,140.5,shape,false,true,America/New_York,3,32343,1840015021
+St. James City,St. James City,Florida,12071,Lee,26.5506,-82.0979,3494,92.4,shape,false,false,America/New_York,3,33956,1840014211
+Oakland,Oakland,Florida,12095,Orange,28.5535,-81.636,3488,569.4,shape,false,true,America/New_York,3,34760 34787 34740,1840015097
+Holden Heights,Holden Heights,Florida,12095,Orange,28.5013,-81.3878,3479,1526.6,shape,false,false,America/New_York,3,32805,1840029043
+Goulding,Goulding,Florida,12033,Escambia,30.4396,-87.23,3476,1131.8,shape,false,false,America/Chicago,3,32503 32501,1840013911
+Alturas,Alturas,Florida,12105,Polk,27.8417,-81.6952,3460,24.7,shape,false,false,America/New_York,3,33830 33859 33841 33820,1840025153
+Nokomis,Nokomis,Florida,12115,Sarasota,27.1241,-82.4354,3458,685.2,shape,false,false,America/New_York,3,34275,1840014185
+Montura,Montura,Florida,12051,Hendry,26.6428,-81.0937,3400,58.8,shape,false,true,America/New_York,4,33440,1840039004
+Crystal River,Crystal River,Florida,12017,Citrus,28.8964,-82.5991,3398,175.3,shape,false,true,America/New_York,3,34428 34429 34423,1840015084
+North River Shores,North River Shores,Florida,12085,Martin,27.2223,-80.2738,3390,1033.9,shape,false,false,America/New_York,3,34994,1840014191
+Loxahatchee Groves,Loxahatchee Groves,Florida,12099,Palm Beach,26.7106,-80.2763,3384,104.4,shape,false,true,America/New_York,3,33470,1840017260
+Ponce Inlet,Ponce Inlet,Florida,12127,Volusia,29.0927,-80.9472,3364,302.1,shape,false,true,America/New_York,3,32127 32169 32168,1840017227
+Bunnell,Bunnell,Florida,12035,Flagler,29.4193,-81.3231,3355,9.3,shape,false,true,America/New_York,3,32110,1840014036
+Venice Gardens,Venice Gardens,Florida,12115,Sarasota,27.0739,-82.4125,3301,1378.4,shape,false,false,America/New_York,3,34293,1840014182
+Blountstown,Blountstown,Florida,12013,Calhoun,30.443,-85.0455,3297,399.4,shape,false,true,America/Chicago,3,32424,1840013952
+Feather Sound,Feather Sound,Florida,12103,Pinellas,27.9061,-82.6813,3289,447.9,shape,false,false,America/New_York,3,33762,1840029034
+Zephyrhills North,Zephyrhills North,Florida,12101,Pasco,28.252,-82.1654,3280,1276.1,shape,false,true,America/New_York,3,33542 33540,1840073857
+Dover,Dover,Florida,12057,Hillsborough,27.9927,-82.2198,3247,481.9,shape,false,false,America/New_York,3,33527,1840013123
+Geneva,Geneva,Florida,12117,Seminole,28.7377,-81.1143,3247,98.5,shape,false,false,America/New_York,3,32732,1840014069
+Melbourne Beach,Melbourne Beach,Florida,12009,Brevard,28.0668,-80.561,3214,1256.5,shape,false,true,America/New_York,3,32951,1840017233
+San Castle,San Castle,Florida,12099,Palm Beach,26.5652,-80.0611,3192,2936.7,shape,false,true,America/New_York,2,33462,1840042878
+Big Coppitt Key,Big Coppitt Key,Florida,12087,Monroe,24.5914,-81.6574,3188,1066.8,shape,false,false,America/New_York,3,33040,1840029021
+Williston Highlands,Williston Highlands,Florida,12075,Levy,29.3336,-82.5357,3164,107.9,shape,false,false,America/New_York,3,32696 32668,1840014037
+Carrabelle,Carrabelle,Florida,12037,Franklin,29.8555,-84.6685,3151,254.1,shape,false,true,America/New_York,3,32322,1840015055
+Port Richey,Port Richey,Florida,12101,Pasco,28.2759,-82.7254,3132,544.5,shape,false,true,America/New_York,3,34668 34673,1840015103
+Woodlawn Beach,Woodlawn Beach,Florida,12113,Santa Rosa,30.3865,-86.9944,3128,508.7,shape,false,false,America/Chicago,3,32563,1840027011
+South Beach,South Beach,Florida,12061,Indian River,27.5883,-80.3435,3120,443.4,shape,false,false,America/New_York,3,32963,1840029075
+Eagle Lake,Eagle Lake,Florida,12105,Polk,27.976,-81.7573,3111,470.3,shape,false,true,America/New_York,3,33880 33839,1840014133
+Rainbow Lakes Estates,Rainbow Lakes Estates,Florida,12083,Marion,29.158,-82.5099,3108,75.8,shape,false,false,America/New_York,3,34431,1840142106
+Biscayne Park,Biscayne Park,Florida,12086,Miami-Dade,25.8818,-80.1814,3098,1929.6,shape,false,true,America/New_York,3,33161,1840018331
+Bushnell,Bushnell,Florida,12119,Sumter,28.686,-82.1165,3081,94.3,shape,false,true,America/New_York,3,33513 33538,1840014067
+Holmes Beach,Holmes Beach,Florida,12081,Manatee,27.5108,-82.7152,3076,707.7,shape,false,true,America/New_York,3,34217 34216,1840015117
+Windermere,Windermere,Florida,12095,Orange,28.5028,-81.5377,3043,607.8,shape,false,true,America/New_York,3,34786,1840017238
+Bal Harbour,Bal Harbour,Florida,12086,Miami-Dade,25.8935,-80.1258,3035,3169.3,shape,false,true,America/New_York,2,33154,1840018330
+Ocala Estates,Ocala Estates,Florida,12083,Marion,29.2018,-82.3098,3029,1198.9,shape,false,false,America/New_York,3,34482,1840142110
+Ridgecrest,Ridgecrest,Florida,12103,Pinellas,27.8923,-82.8074,3020,1313.5,shape,false,false,America/New_York,3,33778 33774,1840029000
+Cedar Grove,Cedar Grove,Florida,12005,Bay,30.1812,-85.6268,3019,442.7,shape,false,false,America/Chicago,3,32401 32405,1840027022
+Indialantic,Indialantic,Florida,12009,Brevard,28.0871,-80.57,3016,1198.1,shape,false,true,America/New_York,3,32903,1840017231
+Hill 'n Dale,Hill 'n Dale,Florida,12053,Hernando,28.519,-82.2918,3010,528.6,shape,false,false,America/New_York,3,34602,1840028916
+Inverness Highlands North,Inverness Highlands North,Florida,12017,Citrus,28.8637,-82.3766,3007,578.6,shape,false,true,America/New_York,3,34453,1840073843
+Verona Walk,Verona Walk,Florida,12021,Collier,26.086,-81.6798,2998,919.4,shape,false,true,America/New_York,3,34114,1840039117
+Grenelefe,Grenelefe,Florida,12105,Polk,28.0579,-81.5538,2995,272.1,shape,false,true,America/New_York,3,33844,1840038904
+Alva,Alva,Florida,12071,Lee,26.7188,-81.6269,2986,66.1,shape,false,false,America/New_York,3,33920,1840014214
+Malabar,Malabar,Florida,12009,Brevard,27.9884,-80.5781,2982,107.7,shape,false,true,America/New_York,3,32950,1840017232
+Williston,Williston,Florida,12075,Levy,29.374,-82.4579,2980,168.6,shape,false,true,America/New_York,3,32696,1840015949
+Chattahoochee,Chattahoochee,Florida,12039,Gadsden,30.6977,-84.8341,2975,205.1,shape,false,true,America/New_York,3,32324,1840015020
+Hilliard,Hilliard,Florida,12089,Nassau,30.6866,-81.9212,2975,208.6,shape,false,true,America/New_York,3,32046,1840017180
+Dade City North,Dade City North,Florida,12101,Pasco,28.3839,-82.1943,2959,737.6,shape,false,true,America/New_York,3,33525 33523,1840073823
+Frostproof,Frostproof,Florida,12105,Polk,27.7494,-81.5252,2946,105.4,shape,false,true,America/New_York,3,33827 33843,1840014135
+Madison,Madison,Florida,12079,Madison,30.4716,-83.413,2930,429.1,shape,false,true,America/New_York,3,32340 32341,1840015917
+Meadow Oaks,Meadow Oaks,Florida,12101,Pasco,28.3465,-82.6025,2909,769.5,shape,false,true,America/New_York,3,34669,1840038992
+Harbor Bluffs,Harbor Bluffs,Florida,12103,Pinellas,27.9081,-82.827,2889,1610.7,shape,false,false,America/New_York,3,33770,1840014140
+Lake Belvedere Estates,Lake Belvedere Estates,Florida,12099,Palm Beach,26.6888,-80.1326,2867,2428.8,shape,false,false,America/New_York,2,33413,1840028988
+Haverhill,Haverhill,Florida,12099,Palm Beach,26.691,-80.1217,2859,1746.2,shape,false,true,America/New_York,3,33415 33417,1840015994
+Zellwood,Zellwood,Florida,12095,Orange,28.7294,-81.5895,2850,292.5,shape,false,false,America/New_York,3,32798 32757,1840014092
+Lake Helen,Lake Helen,Florida,12127,Volusia,28.983,-81.2309,2836,240.4,shape,false,true,America/New_York,3,32744,1840015079
+Sharpes,Sharpes,Florida,12009,Brevard,28.4381,-80.7552,2812,452.1,shape,false,false,America/New_York,3,32959 32927 32926,1840014075
+Quail Ridge,Quail Ridge,Florida,12101,Pasco,28.3451,-82.5535,2811,281.1,shape,false,true,America/New_York,3,34610,1840039089
+Hurlburt Field,Hurlburt Field,Florida,12091,Okaloosa,30.4289,-86.6989,2780,106.4,shape,true,false,America/Chicago,4,32544 32547,1840152947
+Polk City,Polk City,Florida,12105,Polk,28.1805,-81.8296,2766,237.1,shape,false,true,America/New_York,3,33868,1840017242
+Bonifay,Bonifay,Florida,12059,Holmes,30.7786,-85.6862,2760,226.6,shape,false,true,America/Chicago,3,32425,1840013924
+Eglin AFB,Eglin AFB,Florida,12091,Okaloosa,30.4592,-86.5499,2759,351.9,shape,true,true,America/Chicago,3,32542,1840073828
+Olga,Olga,Florida,12071,Lee,26.7114,-81.695,2753,252.2,shape,false,false,America/New_York,3,33920 33905,1840028841
+De Leon Springs,De Leon Springs,Florida,12127,Volusia,29.1172,-81.3517,2745,393.2,shape,false,false,America/New_York,3,32720 32130,1840013118
+Hypoluxo,Hypoluxo,Florida,12099,Palm Beach,26.5634,-80.0531,2723,1853.3,shape,false,true,America/New_York,3,33462,1840017253
+Bay Pines,Bay Pines,Florida,12103,Pinellas,27.8139,-82.7748,2717,808.5,shape,false,false,America/New_York,3,33708 33744,1840014141
+Graceville,Graceville,Florida,12063,Jackson,30.9609,-85.5123,2717,242.4,shape,false,true,America/Chicago,3,32440,1840013906
+Edgewood,Edgewood,Florida,12095,Orange,28.4879,-81.3771,2689,839.1,shape,false,true,America/New_York,3,32806 32809 32839,1840014099
+Island Walk,Island Walk,Florida,12021,Collier,26.251,-81.711,2679,1011.0,shape,false,true,America/New_York,3,34119,1840038939
+Watertown,Watertown,Florida,12023,Columbia,30.1856,-82.6026,2657,414.7,shape,false,false,America/New_York,3,32055 32025,1840013955
+Vamo,Vamo,Florida,12115,Sarasota,27.2219,-82.4988,2656,1315.9,shape,false,false,America/New_York,3,34231 34229,1840014181
+Eastpoint,Eastpoint,Florida,12037,Franklin,29.7543,-84.8695,2624,136.1,shape,false,false,America/New_York,3,32328,1840013112
+Silver Springs,Silver Springs,Florida,12083,Marion,29.2191,-82.0558,2593,162.5,shape,false,false,America/New_York,3,34488 34479 34470,1840047018
+Monticello,Monticello,Florida,12065,Jefferson,30.5423,-83.8722,2589,249.2,shape,false,true,America/New_York,3,32344 32345,1840015025
+Harlem,Harlem,Florida,12051,Hendry,26.7324,-80.9519,2576,945.3,shape,false,false,America/New_York,3,33440,1840014209
+Astatula,Astatula,Florida,12069,Lake,28.7065,-81.7346,2573,316.9,shape,false,true,America/New_York,3,34705,1840015952
+North Sarasota,North Sarasota,Florida,12115,Sarasota,27.3592,-82.5213,2573,1208.6,shape,false,false,America/New_York,3,34234,1840029061
+Hernando Beach,Hernando Beach,Florida,12053,Hernando,28.4753,-82.6612,2558,278.4,shape,false,false,America/New_York,3,34607,1840014102
+Silver Lake,Silver Lake,Florida,12069,Lake,28.8426,-81.8009,2524,560.0,shape,false,false,America/New_York,3,34788,1840029074
+Lake Mack-Forest Hills,Lake Mack-Forest Hills,Florida,12069,Lake,29.0007,-81.424,2506,200.0,shape,false,true,America/New_York,4,32720,1840073860
+Apalachicola,Apalachicola,Florida,12037,Franklin,29.7283,-84.994,2504,502.3,shape,false,true,America/New_York,3,32320 32329,1840014015
+Eatonville,Eatonville,Florida,12095,Orange,28.6167,-81.3906,2486,974.3,shape,false,true,America/New_York,3,32751 32810,1840017237
+Cross City,Cross City,Florida,12029,Dixie,29.6386,-83.1248,2485,519.7,shape,false,true,America/New_York,3,32628,1840017280
+Bowling Green,Bowling Green,Florida,12049,Hardee,27.638,-81.8244,2484,759.0,shape,false,true,America/New_York,3,33834,1840014167
+Chuluota,Chuluota,Florida,12117,Seminole,28.638,-81.1159,2484,469.7,shape,false,false,America/New_York,3,32766,1840014071
+Belleair Bluffs,Belleair Bluffs,Florida,12103,Pinellas,27.9198,-82.8191,2476,2076.1,shape,false,true,America/New_York,2,33770,1840014147
+Berkshire Lakes,Berkshire Lakes,Florida,12021,Collier,26.1602,-81.7274,2476,1454.5,shape,false,false,America/New_York,3,34104,1840146539
+Pretty Bayou,Pretty Bayou,Florida,12005,Bay,30.1976,-85.6974,2469,592.7,shape,false,false,America/Chicago,3,32405,1840029069
+Cleveland,Cleveland,Florida,12015,Charlotte,26.9529,-81.9925,2466,181.2,shape,false,false,America/New_York,3,33982,1840013128
+Holley,Holley,Florida,12113,Santa Rosa,30.454,-86.9036,2455,267.1,shape,false,false,America/Chicago,3,32566,1840027015
+St. Leo,St. Leo,Florida,12101,Pasco,28.3363,-82.2588,2426,833.9,shape,false,true,America/New_York,3,33576 33574,1840018288
+Virginia Gardens,Virginia Gardens,Florida,12086,Miami-Dade,25.8095,-80.2974,2419,2463.2,shape,false,true,America/New_York,2,33166,1840018337
+Tangelo Park,Tangelo Park,Florida,12095,Orange,28.456,-81.4465,2371,2748.7,shape,false,false,America/New_York,2,32819,1840014087
+Greenbriar,Greenbriar,Florida,12103,Pinellas,28.0111,-82.7523,2356,1516.8,shape,false,true,America/New_York,3,33763 34698,1840038903
+Lake Placid,Lake Placid,Florida,12055,Highlands,27.3037,-81.371,2349,194.5,shape,false,true,America/New_York,3,33852 33862,1840017248
+Dunnellon,Dunnellon,Florida,12083,Marion,29.0572,-82.4289,2337,102.3,shape,false,true,America/New_York,3,34432 34431,1840014039
+Cabana Colony,Cabana Colony,Florida,12099,Palm Beach,26.8555,-80.0864,2334,2101.5,shape,false,true,America/New_York,2,33410 33420,1840042855
+Roosevelt Gardens,Roosevelt Gardens,Florida,12011,Broward,26.1406,-80.181,2322,2310.5,shape,false,false,America/New_York,2,33311,1840029108
+Pine Air,Pine Air,Florida,12099,Palm Beach,26.6586,-80.1075,2318,2642.6,shape,false,true,America/New_York,2,33406,1840042877
+Pelican Marsh,Pelican Marsh,Florida,12021,Collier,26.2545,-81.7861,2304,457.6,shape,false,false,America/New_York,3,34109 34108,1840144299
+Burnt Store Marina,Burnt Store Marina,Florida,12071,Lee,26.7645,-82.0507,2278,825.9,shape,false,false,America/New_York,3,33955,1840028975
+Campbell,Campbell,Florida,12097,Osceola,28.2603,-81.4525,2262,464.0,shape,false,false,America/New_York,3,34746,1840014137
+Tavernier,Tavernier,Florida,12087,Monroe,25.0188,-80.5132,2261,347.3,shape,false,false,America/New_York,3,33070,1840014252
+Tropical Park,Tropical Park,Florida,12009,Brevard,28.3805,-80.7075,2257,1592.7,shape,false,false,America/New_York,3,32953,1840152376
+Cudjoe Key,Cudjoe Key,Florida,12087,Monroe,24.6745,-81.4986,2238,167.0,shape,false,false,America/New_York,3,33042,1840029031
+Seminole Manor,Seminole Manor,Florida,12099,Palm Beach,26.5836,-80.1014,2232,1891.0,shape,false,false,America/New_York,3,33462,1840029003
+Bokeelia,Bokeelia,Florida,12071,Lee,26.68,-82.1409,2230,96.2,shape,false,false,America/New_York,3,33922,1840014215
+Hillsboro Beach,Hillsboro Beach,Florida,12011,Broward,26.2837,-80.0796,2225,1843.2,shape,false,true,America/New_York,3,33062,1840017270
+Malone,Malone,Florida,12063,Jackson,30.9589,-85.1622,2162,273.8,shape,false,true,America/Chicago,3,32445,1840017149
+Havana,Havana,Florida,12039,Gadsden,30.6298,-84.4135,2127,294.7,shape,false,true,America/New_York,3,32333,1840015912
+Lake Mary Jane,Lake Mary Jane,Florida,12095,Orange,28.3854,-81.1709,2122,156.0,shape,false,true,America/New_York,4,32832,1840038991
+Oak Hill,Oak Hill,Florida,12127,Volusia,28.878,-80.8347,2107,118.4,shape,false,true,America/New_York,3,32759,1840015074
+Wabasso Beach,Wabasso Beach,Florida,12061,Indian River,27.7569,-80.3991,2101,669.7,shape,false,false,America/New_York,3,32963,1840014161
+Redington Shores,Redington Shores,Florida,12103,Pinellas,27.8293,-82.8277,2078,2398.0,shape,false,true,America/New_York,2,33708 33730,1840018295
+Manatee Road,Manatee Road,Florida,12075,Levy,29.5145,-82.9192,2077,61.7,shape,false,false,America/New_York,3,32626 32693,1840028993
+Crooked Lake Park,Crooked Lake Park,Florida,12105,Polk,27.8293,-81.5897,2071,1163.3,shape,false,false,America/New_York,3,33859,1840028657
+Bear Creek,Bear Creek,Florida,12103,Pinellas,27.7542,-82.7285,2066,2058.8,shape,false,true,America/New_York,2,33707,1840038846
+Rainbow Park,Rainbow Park,Florida,12083,Marion,29.1654,-82.364,2059,164.7,shape,false,false,America/New_York,3,34481,1840152378
+Crescent City,Crescent City,Florida,12107,Putnam,29.4374,-81.5173,2040,381.5,shape,false,true,America/New_York,3,32112,1840015061
+Howey-in-the-Hills,Howey-in-the-Hills,Florida,12069,Lake,28.7098,-81.7798,2038,250.2,shape,false,true,America/New_York,3,34737,1840028859
+Moore Haven,Moore Haven,Florida,12043,Glades,26.8338,-81.0984,2034,737.2,shape,false,true,America/New_York,3,33471,1840015121
+Chiefland,Chiefland,Florida,12075,Levy,29.4923,-82.8682,2016,115.2,shape,false,true,America/New_York,3,32626 32644,1840015066
+Homosassa,Homosassa,Florida,12017,Citrus,28.7849,-82.6079,2016,99.7,shape,false,false,America/New_York,3,34487 34448,1840014059
+Lake Kerr,Lake Kerr,Florida,12083,Marion,29.3575,-81.7746,1978,77.3,shape,false,false,America/New_York,3,32134,1840145801
+Franklin Park,Franklin Park,Florida,12011,Broward,26.1327,-80.1763,1969,1448.6,shape,false,false,America/New_York,3,33311,1840029104
+Century,Century,Florida,12033,Escambia,30.9767,-87.2629,1952,234.1,shape,false,true,America/Chicago,3,32535,1840017155
+Mangonia Park,Mangonia Park,Florida,12099,Palm Beach,26.7586,-80.0761,1950,1006.2,shape,false,true,America/New_York,3,33407,1840017262
+East Bronson,East Bronson,Florida,12075,Levy,29.4593,-82.5905,1924,64.9,shape,false,true,America/New_York,4,32621 32618,1840073825
+Sewall's Point,Sewall's Point,Florida,12085,Martin,27.1971,-80.1982,1922,630.0,shape,false,true,America/New_York,3,34996 34958,1840018304
+El Portal,El Portal,Florida,12086,Miami-Dade,25.8556,-80.1954,1904,1768.2,shape,false,true,America/New_York,3,33138 33150,1840018332
+Westlake,Westlake,Florida,12099,Palm Beach,26.7549,-80.2984,1855,112.5,shape,false,true,America/New_York,3,33470,1840029114
+Trenton,Trenton,Florida,12041,Gilchrist,29.6092,-82.8147,1843,209.7,shape,false,true,America/New_York,3,32693,1840015945
+Grove City,Grove City,Florida,12015,Charlotte,26.9071,-82.3259,1824,519.7,shape,false,false,America/New_York,3,34224,1840014196
+Baldwin,Baldwin,Florida,12031,Duval,30.3052,-81.9744,1798,343.5,shape,false,true,America/New_York,3,32234,1840015920
+Charlotte Park,Charlotte Park,Florida,12015,Charlotte,26.9032,-82.0487,1795,674.4,shape,false,false,America/New_York,3,33950,1840028650
+Montverde,Montverde,Florida,12069,Lake,28.5971,-81.6786,1782,371.6,shape,false,true,America/New_York,3,34756,1840017230
+Washington Park,Washington Park,Florida,12011,Broward,26.1325,-80.1824,1775,1448.6,shape,false,false,America/New_York,3,33311,1840029015
+Atlantis,Atlantis,Florida,12099,Palm Beach,26.5962,-80.1031,1767,499.0,shape,false,true,America/New_York,3,33462,1840014203
+Zolfo Springs,Zolfo Springs,Florida,12049,Hardee,27.4926,-81.7869,1759,390.5,shape,false,true,America/New_York,3,33890,1840017249
+Royal Palm Estates,Royal Palm Estates,Florida,12099,Palm Beach,26.6817,-80.1328,1759,2437.5,shape,false,false,America/New_York,2,33413,1840029001
+Sneads,Sneads,Florida,12063,Jackson,30.7085,-84.9249,1744,153.0,shape,false,true,America/Chicago,3,32460,1840018207
+Desoto Lakes,Desoto Lakes,Florida,12115,Sarasota,27.3781,-82.4951,1738,1619.5,shape,false,false,America/New_York,3,34235,1840029033
+Oriole Beach,Oriole Beach,Florida,12113,Santa Rosa,30.367,-87.0955,1731,794.1,shape,false,false,America/Chicago,3,32563,1840027018
+Manasota Key,Manasota Key,Florida,12015,Charlotte,26.9226,-82.3537,1718,626.5,shape,false,false,America/New_York,3,34223,1840029056
+Verandah,Verandah,Florida,12071,Lee,26.6973,-81.7429,1715,311.0,shape,false,false,America/New_York,3,33905,1840151621
+Boulevard Gardens,Boulevard Gardens,Florida,12011,Broward,26.1253,-80.1804,1714,1448.6,shape,false,false,America/New_York,3,33311,1840029103
+Ocean Ridge,Ocean Ridge,Florida,12099,Palm Beach,26.5286,-80.0499,1712,868.9,shape,false,true,America/New_York,3,33435,1840017266
+Inglis,Inglis,Florida,12075,Levy,29.0323,-82.6603,1697,191.9,shape,false,true,America/New_York,3,34449,1840017222
+Harlem Heights,Harlem Heights,Florida,12071,Lee,26.516,-81.9293,1694,1010.5,shape,false,false,America/New_York,3,33908,1840028985
+Hawthorne,Hawthorne,Florida,12001,Alachua,29.5938,-82.0944,1683,88.1,shape,false,true,America/New_York,3,32640,1840015059
+Wewahitchka,Wewahitchka,Florida,12045,Gulf,30.1148,-85.1935,1668,96.2,shape,false,true,America/Chicago,3,32465,1840015938
+Fort Denaud,Fort Denaud,Florida,12051,Hendry,26.7404,-81.5241,1652,31.8,shape,false,true,America/New_York,4,33935,1840038865
+Interlachen,Interlachen,Florida,12107,Putnam,29.6203,-81.8963,1648,104.4,shape,false,true,America/New_York,3,32148 32149,1840017218
+South Palm Beach,South Palm Beach,Florida,12099,Palm Beach,26.5898,-80.039,1648,3120.7,shape,false,true,America/New_York,2,33480,1840018305
+Gotha,Gotha,Florida,12095,Orange,28.5306,-81.5191,1640,369.1,shape,false,false,America/New_York,3,34734 34786,1840014081
+Ocklawaha,Ocklawaha,Florida,12083,Marion,29.0442,-81.9339,1637,264.3,shape,false,false,America/New_York,3,32179 32183,1840047928
+Pine Island Center,Pine Island Center,Florida,12071,Lee,26.6351,-82.1253,1626,143.6,shape,false,false,America/New_York,3,33922,1840014223
+Lake Hamilton,Lake Hamilton,Florida,12105,Polk,28.0478,-81.627,1613,199.6,shape,false,true,America/New_York,3,33881 33851 33838 33844,1840017240
+Patrick AFB,Patrick AFB,Florida,12009,Brevard,28.2346,-80.6079,1606,201.0,shape,true,true,America/New_York,3,32925,1840042859
+Taft,Taft,Florida,12095,Orange,28.4283,-81.3677,1604,629.4,shape,false,false,America/New_York,3,32824,1840014086
+Navarre Beach,Navarre Beach,Florida,12113,Santa Rosa,30.383,-86.8874,1594,521.0,shape,false,true,America/Chicago,3,32566,1840039030
+Old Miakka,Old Miakka,Florida,12115,Sarasota,27.3199,-82.2777,1578,50.0,shape,false,false,America/New_York,4,34240,1840152945
+Palm Shores,Palm Shores,Florida,12009,Brevard,28.1919,-80.6594,1577,1014.0,shape,false,true,America/New_York,3,32935 32940,1840017236
+Greenville,Greenville,Florida,12079,Madison,30.4667,-83.6352,1546,453.4,shape,false,true,America/New_York,3,32331,1840017187
+Christmas,Christmas,Florida,12095,Orange,28.5605,-81.0201,1545,13.2,shape,false,false,America/New_York,3,32709,1840014084
+Belleair Beach,Belleair Beach,Florida,12103,Pinellas,27.9242,-82.8359,1512,1224.7,shape,false,true,America/New_York,3,33786,1840014146
+Key Vista,Key Vista,Florida,12101,Pasco,28.1946,-82.7703,1510,768.8,shape,false,true,America/New_York,3,34691,1840038986
+Heritage Pines,Heritage Pines,Florida,12101,Pasco,28.4267,-82.6254,1505,572.7,shape,false,true,America/New_York,3,34667,1840038917
+Callahan,Callahan,Florida,12089,Nassau,30.5655,-81.8319,1469,313.9,shape,false,true,America/New_York,3,32011,1840015907
+Astor,Astor,Florida,12069,Lake,29.1635,-81.5349,1469,242.8,shape,false,false,America/New_York,3,32102,1840014046
+Mayo,Mayo,Florida,12067,Lafayette,30.0511,-83.1768,1466,629.6,shape,false,true,America/New_York,3,32066,1840017202
+East Palatka,East Palatka,Florida,12107,Putnam,29.6502,-81.5997,1465,177.9,shape,false,false,America/New_York,3,32131,1840013115
+Limestone Creek,Limestone Creek,Florida,12099,Palm Beach,26.9432,-80.1407,1460,1441.4,shape,false,false,America/New_York,3,33458,1840028992
+Cypress Quarters,Cypress Quarters,Florida,12093,Okeechobee,27.2479,-80.8115,1460,211.1,shape,false,false,America/New_York,3,34972 34974,1840013126
+Midway,Midway,Florida,12117,Seminole,28.7924,-81.2314,1431,750.1,shape,false,false,America/New_York,3,32771,1840148976
+Bronson,Bronson,Florida,12075,Levy,29.4501,-82.6391,1424,128.4,shape,false,true,America/New_York,3,32621,1840015948
+Glencoe,Glencoe,Florida,12127,Volusia,29.0005,-80.9604,1418,158.9,shape,false,false,America/New_York,3,32168,1840014041
+Pomona Park,Pomona Park,Florida,12107,Putnam,29.5015,-81.5936,1408,178.7,shape,false,true,America/New_York,3,32181,1840017220
+Yalaha,Yalaha,Florida,12069,Lake,28.751,-81.8194,1404,95.5,shape,false,false,America/New_York,3,34797,1840014048
+Keystone Heights,Keystone Heights,Florida,12019,Clay,29.7812,-82.034,1398,502.3,shape,false,true,America/New_York,3,32656,1840015049
+Roseland,Roseland,Florida,12061,Indian River,27.836,-80.4885,1377,281.2,shape,false,false,America/New_York,3,32958 32957,1840014164
+San Antonio,San Antonio,Florida,12101,Pasco,28.3395,-82.2786,1375,382.3,shape,false,true,America/New_York,3,33525 33576,1840015969
+Rio,Rio,Florida,12085,Martin,27.216,-80.2401,1373,885.5,shape,false,false,America/New_York,3,34957,1840014194
+Punta Rassa,Punta Rassa,Florida,12071,Lee,26.5036,-81.9998,1370,221.5,shape,false,false,America/New_York,3,33908,1840014225
+Lacoochee,Lacoochee,Florida,12101,Pasco,28.4655,-82.1698,1353,183.0,shape,false,false,America/New_York,3,33523 33537,1840014119
+Bristol,Bristol,Florida,12077,Liberty,30.4255,-84.9773,1351,318.5,shape,false,true,America/New_York,3,32321,1840013953
+North Redington Beach,North Redington Beach,Florida,12103,Pinellas,27.8213,-82.819,1349,2044.2,shape,false,true,America/New_York,2,33708,1840017245
+Pierson,Pierson,Florida,12127,Volusia,29.2401,-81.4559,1332,50.4,shape,false,true,America/New_York,3,32180,1840017226
+Redington Beach,Redington Beach,Florida,12103,Pinellas,27.8128,-82.8096,1320,1675.6,shape,false,true,America/New_York,3,33708,1840018294
+Seville,Seville,Florida,12127,Volusia,29.3364,-81.5066,1310,71.2,shape,false,false,America/New_York,3,32190,1840025144
+Pine Lakes,Pine Lakes,Florida,12069,Lake,28.939,-81.4308,1274,307.1,shape,false,false,America/New_York,3,32736,1840014052
+North Key Largo,North Key Largo,Florida,12087,Monroe,25.2574,-80.3242,1271,26.4,shape,false,false,America/New_York,3,33037,1840029060
+Webster,Webster,Florida,12119,Sumter,28.6114,-82.0493,1267,305.2,shape,false,true,America/New_York,3,33597,1840015955
+Molino,Molino,Florida,12033,Escambia,30.7123,-87.324,1253,69.5,shape,false,false,America/Chicago,3,32577,1840013916
+Kenwood Estates,Kenwood Estates,Florida,12099,Palm Beach,26.6276,-80.1153,1252,1925.7,shape,false,true,America/New_York,3,33461 33463,1840042856
+Juno Ridge,Juno Ridge,Florida,12099,Palm Beach,26.8491,-80.0632,1245,1172.4,shape,false,false,America/New_York,3,33408,1840028987
+Homestead Base,Homestead Base,Florida,12086,Miami-Dade,25.4936,-80.391,1242,113.0,shape,true,true,America/New_York,4,33039 33033,1840073841
+DeLand Southwest,DeLand Southwest,Florida,12127,Volusia,29.0078,-81.3113,1233,779.3,shape,false,true,America/New_York,3,32720,1840073824
+North DeLand,North DeLand,Florida,12127,Volusia,29.0484,-81.2966,1220,898.1,shape,false,false,America/New_York,3,32724,1840029059
+Palm Beach Shores,Palm Beach Shores,Florida,12099,Palm Beach,26.7775,-80.0367,1217,2100.2,shape,false,true,America/New_York,2,33404,1840017268
+Gretna,Gretna,Florida,12039,Gadsden,30.5929,-84.6876,1208,54.5,shape,false,true,America/New_York,3,32351 32332,1840013943
+Black Diamond,Black Diamond,Florida,12017,Citrus,28.9067,-82.4946,1195,117.0,shape,false,false,America/New_York,3,34461 34465,1840028973
+Indian Shores,Indian Shores,Florida,12103,Pinellas,27.8536,-82.8438,1182,1580.6,shape,false,true,America/New_York,3,33785,1840017243
+Wabasso,Wabasso,Florida,12061,Indian River,27.7486,-80.4421,1179,123.5,shape,false,false,America/New_York,3,32970 32967 32958,1840014162
+Panacea,Panacea,Florida,12129,Wakulla,30.0282,-84.3936,1152,266.7,shape,false,false,America/New_York,3,32346,1840026031
+Black Hammock,Black Hammock,Florida,12117,Seminole,28.7107,-81.1801,1140,39.6,shape,false,true,America/New_York,4,32765,1840038852
+Center Hill,Center Hill,Florida,12119,Sumter,28.6334,-81.9986,1129,71.1,shape,false,true,America/New_York,3,33514 33597,1840015086
+Silver Springs Shores East,Silver Springs Shores East,Florida,12083,Marion,29.0496,-81.8875,1126,57.0,shape,false,false,America/New_York,4,32179,1840152948
+Fanning Springs,Fanning Springs,Florida,12075,Levy,29.5873,-82.9245,1114,88.3,shape,false,true,America/New_York,3,32693,1840014038
+Palmona Park,Palmona Park,Florida,12071,Lee,26.6892,-81.8945,1112,521.8,shape,false,false,America/New_York,3,33903,1840028922
+Lawtey,Lawtey,Florida,12007,Bradford,30.0484,-82.0725,1082,276.1,shape,false,true,America/New_York,3,32058,1840015051
+Waldo,Waldo,Florida,12001,Alachua,29.7925,-82.1663,1080,191.8,shape,false,true,America/New_York,3,32694,1840015943
+Paisley,Paisley,Florida,12069,Lake,28.985,-81.5404,1071,131.9,shape,false,false,America/New_York,3,32767,1840014051
+Babson Park,Babson Park,Florida,12105,Polk,27.8342,-81.5281,1071,271.4,shape,false,false,America/New_York,3,33827,1840014124
+Solana,Solana,Florida,12015,Charlotte,26.9388,-82.0277,1062,267.9,shape,false,false,America/New_York,3,33950,1840014199
+Chokoloskee,Chokoloskee,Florida,12021,Collier,25.8143,-81.3603,1061,925.1,shape,false,false,America/New_York,3,34138,1840014231
+Mexico Beach,Mexico Beach,Florida,12005,Bay,29.948,-85.4156,1054,178.8,shape,false,true,America/Chicago,3,32456 32410,1840015033
+Garden Grove,Garden Grove,Florida,12053,Hernando,28.4716,-82.4349,1035,413.8,shape,false,false,America/New_York,3,34604,1840025147
+Allentown,Allentown,Florida,12113,Santa Rosa,30.7745,-87.0822,1030,13.5,shape,false,false,America/Chicago,3,32570 32565,1840025108
+Buckhead Ridge,Buckhead Ridge,Florida,12043,Glades,27.1331,-80.8868,1028,283.1,shape,false,false,America/New_York,3,34974,1840014195
+Five Points,Five Points,Florida,12023,Columbia,30.2225,-82.6465,1022,181.8,shape,false,false,America/New_York,3,32055,1840013954
+Medley,Medley,Florida,12086,Miami-Dade,25.8647,-80.3516,1018,77.3,shape,false,true,America/New_York,3,33178 33166 33198,1840017274
+Masaryktown,Masaryktown,Florida,12053,Hernando,28.4417,-82.461,993,366.6,shape,false,false,America/New_York,3,34604,1840014108
+Chumuckla,Chumuckla,Florida,12113,Santa Rosa,30.7826,-87.2309,991,18.9,shape,false,false,America/Chicago,3,32571 32565,1840025111
+Lake Kathryn,Lake Kathryn,Florida,12069,Lake,29.0072,-81.4906,980,135.1,shape,false,false,America/New_York,3,32767,1840028990
+Crystal Springs,Crystal Springs,Florida,12101,Pasco,28.183,-82.1539,973,63.6,shape,false,false,America/New_York,3,33540 33524,1840014113
+St. George Island,St. George Island,Florida,12037,Franklin,29.652,-84.8881,970,78.8,shape,false,false,America/New_York,3,32328,1840029111
+Cottondale,Cottondale,Florida,12063,Jackson,30.7891,-85.3644,965,114.0,shape,false,true,America/Chicago,3,32431 32446,1840017150
+Welaka,Welaka,Florida,12107,Putnam,29.4822,-81.6658,948,248.2,shape,false,true,America/New_York,3,32193,1840017219
+Andrews,Andrews,Florida,12075,Levy,29.5496,-82.8883,944,67.3,shape,false,false,America/New_York,3,32626 32693,1840028972
+Cedar Key,Cedar Key,Florida,12075,Levy,29.146,-83.0388,940,358.9,shape,false,true,America/New_York,3,32625,1840015065
+Crescent Beach,Crescent Beach,Florida,12109,St. Johns,29.7355,-81.2413,936,251.3,shape,false,false,America/New_York,3,32080,1840013108
+Weeki Wachee Gardens,Weeki Wachee Gardens,Florida,12053,Hernando,28.5375,-82.6208,927,285.5,shape,false,false,America/New_York,3,34607,1840029093
+Winding Cypress,Winding Cypress,Florida,12021,Collier,26.0641,-81.6782,924,192.5,shape,false,false,America/New_York,3,34114,1840144298
+Coleman,Coleman,Florida,12119,Sumter,28.8028,-82.0707,918,158.2,shape,false,true,America/New_York,3,33521,1840015087
+Shalimar,Shalimar,Florida,12091,Okaloosa,30.4435,-86.583,918,918.0,shape,false,true,America/Chicago,3,32579,1840018212
+Scottsmoor,Scottsmoor,Florida,12009,Brevard,28.768,-80.871,914,304.2,shape,false,false,America/New_York,3,32775 32754,1840028774
+Archer,Archer,Florida,12001,Alachua,29.54,-82.5186,908,38.4,shape,false,true,America/New_York,3,32618,1840014021
+Hastings,Hastings,Florida,12109,St. Johns,29.7145,-81.499,898,107.0,shape,false,false,America/New_York,3,32145,1840017203
+Heritage Bay,Heritage Bay,Florida,12021,Collier,26.2837,-81.6629,879,513.4,shape,false,false,America/New_York,3,34120,1840144300
+Branford,Branford,Florida,12121,Suwannee,29.9623,-82.9243,873,296.8,shape,false,true,America/New_York,3,32008,1840015930
+Jupiter Island,Jupiter Island,Florida,12085,Martin,27.0451,-80.1101,866,123.4,shape,false,true,America/New_York,3,33455,1840017251
+Harold,Harold,Florida,12113,Santa Rosa,30.6772,-86.831,863,22.6,shape,false,false,America/Chicago,3,32583 32564,1840025113
+Page Park,Page Park,Florida,12071,Lee,26.5782,-81.8614,856,941.6,shape,false,false,America/New_York,3,33907,1840028749
+Gulf Stream,Gulf Stream,Florida,12099,Palm Beach,26.4894,-80.0573,848,417.1,shape,false,true,America/New_York,3,33483,1840017265
+Raleigh,Raleigh,Florida,12075,Levy,29.4479,-82.468,838,166.5,shape,false,false,America/New_York,3,32696,1840026044
+St. Lucie Village,St. Lucie Village,Florida,12111,St. Lucie,27.4967,-80.3417,838,360.4,shape,false,true,America/New_York,3,34946,1840028959
+Matlacha,Matlacha,Florida,12071,Lee,26.6303,-82.0718,837,1745.5,shape,false,false,America/New_York,3,33993,1840014221
+Anna Maria,Anna Maria,Florida,12081,Manatee,27.5297,-82.7339,825,433.2,shape,false,true,America/New_York,3,34216,1840014171
+Grand Ridge,Grand Ridge,Florida,12063,Jackson,30.7083,-85.0207,824,73.2,shape,false,true,America/Chicago,3,32442,1840017151
+Paradise Heights,Paradise Heights,Florida,12095,Orange,28.6237,-81.5439,808,677.4,shape,false,false,America/New_York,3,32703,1840028994
+Melbourne Village,Melbourne Village,Florida,12009,Brevard,28.088,-80.6652,785,521.4,shape,false,true,America/New_York,3,32904,1840017234
+White Springs,White Springs,Florida,12047,Hamilton,30.3317,-82.7562,781,164.9,shape,false,true,America/New_York,3,32096,1840017189
+Lee,Lee,Florida,12079,Madison,30.4114,-83.3003,778,123.3,shape,false,true,America/New_York,3,32059,1840017186
+Avalon,Avalon,Florida,12113,Santa Rosa,30.5366,-87.101,777,78.5,shape,false,true,America/Chicago,4,32583,1840043091
+Ponce de Leon,Ponce de Leon,Florida,12059,Holmes,30.7234,-85.9374,775,60.3,shape,false,true,America/Chicago,3,32455,1840017164
+Jay,Jay,Florida,12113,Santa Rosa,30.9504,-87.1523,773,179.8,shape,false,true,America/Chicago,3,32565,1840017156
+Greensboro,Greensboro,Florida,12039,Gadsden,30.5705,-84.7324,762,128.1,shape,false,true,America/New_York,3,32351 32330,1840017183
+Tyndall AFB,Tyndall AFB,Florida,12005,Bay,30.0856,-85.6075,746,19.9,shape,true,true,America/Chicago,4,32403,1840035791
+Bradley Junction,Bradley Junction,Florida,12105,Polk,27.7942,-81.9784,743,136.1,shape,false,false,America/New_York,3,33860 33835,1840025154
+Cinco Bayou,Cinco Bayou,Florida,12091,Okaloosa,30.4222,-86.6096,741,833.5,shape,false,true,America/Chicago,3,32548,1840017158
+Bradenton Beach,Bradenton Beach,Florida,12081,Manatee,27.4651,-82.6958,737,550.4,shape,false,true,America/New_York,3,34217,1840014174
+Jennings,Jennings,Florida,12047,Hamilton,30.5968,-83.107,733,106.4,shape,false,true,America/New_York,3,32053,1840017188
+Fort Braden,Fort Braden,Florida,12073,Leon,30.4308,-84.5346,732,65.0,shape,false,false,America/New_York,3,32310,1840143094
+Duck Key,Duck Key,Florida,12087,Monroe,24.771,-80.9132,731,471.5,shape,false,false,America/New_York,3,33050,1840013130
+Penney Farms,Penney Farms,Florida,12019,Clay,29.9807,-81.8108,721,190.8,shape,false,true,America/New_York,3,32079 32043,1840017207
+Greenwood,Greenwood,Florida,12063,Jackson,30.8727,-85.1612,713,60.3,shape,false,true,America/Chicago,3,32443,1840017152
+Glen St. Mary,Glen St. Mary,Florida,12003,Baker,30.2752,-82.1604,712,600.5,shape,false,true,America/New_York,3,32040,1840017191
+Hosford,Hosford,Florida,12077,Liberty,30.3944,-84.8034,709,55.1,shape,false,false,America/New_York,3,32334,1840026011
+Desoto Acres,Desoto Acres,Florida,12115,Sarasota,27.3823,-82.5167,705,208.3,shape,false,false,America/New_York,3,34234 34243,1840143093
+Vernon,Vernon,Florida,12133,Washington,30.6197,-85.7062,688,55.8,shape,false,true,America/Chicago,3,32462,1840015906
+Chaires,Chaires,Florida,12073,Leon,30.4421,-84.1269,687,117.0,shape,false,false,America/New_York,3,32317,1840028649
+Fisher Island,Fisher Island,Florida,12086,Miami-Dade,25.7607,-80.1416,681,1639.7,shape,false,false,America/New_York,3,33109,1840028981
+East Williston,East Williston,Florida,12075,Levy,29.3883,-82.4165,674,86.5,shape,false,true,America/New_York,4,32696,1840073827
+Indian Lake Estates,Indian Lake Estates,Florida,12105,Polk,27.7988,-81.3563,672,23.9,shape,false,false,America/New_York,3,33898 33855,1840047779
+Key Colony Beach,Key Colony Beach,Florida,12087,Monroe,24.7233,-81.0216,650,570.4,shape,false,true,America/New_York,3,33051,1840015160
+Yankeetown,Yankeetown,Florida,12075,Levy,29.0334,-82.7326,629,31.4,shape,false,true,America/New_York,3,34498,1840017223
+Gun Club Estates,Gun Club Estates,Florida,12099,Palm Beach,26.6753,-80.108,629,370.2,shape,false,false,America/New_York,3,33406,1840028984
+Wiscon,Wiscon,Florida,12053,Hernando,28.5409,-82.4664,628,288.1,shape,false,false,America/New_York,3,34613 34601,1840025148
+Marco Shores-Hammock Bay,Marco Shores-Hammock Bay,Florida,12021,Collier,25.9964,-81.6889,617,268.7,shape,false,false,America/New_York,3,34114,1840152946
+Ferndale,Ferndale,Florida,12069,Lake,28.622,-81.7014,612,88.1,shape,false,false,America/New_York,3,34715 34729,1840014044
+Lemon Grove,Lemon Grove,Florida,12049,Hardee,27.5765,-81.636,610,7.9,shape,false,false,America/New_York,3,33890 33873,1840025168
+Paxton,Paxton,Florida,12131,Walton,30.9746,-86.3099,583,60.5,shape,false,true,America/Chicago,3,32567 32538,1840017165
+Fort White,Fort White,Florida,12023,Columbia,29.9224,-82.7135,576,92.1,shape,false,true,America/New_York,3,32038,1840017190
+Fort Green Springs,Fort Green Springs,Florida,12049,Hardee,27.5876,-81.9402,573,21.3,shape,false,false,America/New_York,3,33834,1840025165
+Briny Breezes,Briny Breezes,Florida,12099,Palm Beach,26.509,-80.0542,570,2383.5,shape,false,true,America/New_York,2,33435,1840015991
+Golden Beach,Golden Beach,Florida,12086,Miami-Dade,25.966,-80.121,548,2618.2,shape,false,true,America/New_York,2,33160,1840017277
+Orchid,Orchid,Florida,12061,Indian River,27.7733,-80.4181,537,167.8,shape,false,true,America/New_York,3,32963,1840017247
+Stacey Street,Stacey Street,Florida,12099,Palm Beach,26.6978,-80.1239,531,2253.3,shape,false,false,America/New_York,2,33417,1840029007
+Lake Mystic,Lake Mystic,Florida,12077,Liberty,30.3906,-84.9857,529,45.0,shape,false,true,America/New_York,4,32321,1840042858
+Altha,Altha,Florida,12013,Calhoun,30.5721,-85.1263,525,151.6,shape,false,true,America/Chicago,3,32421,1840015919
+Micanopy,Micanopy,Florida,12001,Alachua,29.506,-82.2806,522,194.4,shape,false,true,America/New_York,3,32667,1840017215
+Steinhatchee,Steinhatchee,Florida,12123,Taylor,29.6795,-83.3837,514,62.1,shape,false,false,America/New_York,3,32359,1840026030
+Lake Hart,Lake Hart,Florida,12095,Orange,28.3851,-81.2322,507,180.9,shape,false,false,America/New_York,3,32832,1840014094
+Beverly Beach,Beverly Beach,Florida,12035,Flagler,29.5166,-81.1476,495,278.2,shape,false,true,America/New_York,3,32136,1840015947
+Gardner,Gardner,Florida,12049,Hardee,27.3537,-81.7895,493,24.7,shape,false,false,America/New_York,3,33890,1840025167
+Schall Circle,Schall Circle,Florida,12099,Palm Beach,26.7153,-80.1144,486,1329.4,shape,false,false,America/New_York,3,33417,1840029002
+Hampton,Hampton,Florida,12007,Bradford,29.8643,-82.138,472,173.0,shape,false,true,America/New_York,3,32044,1840014006
+Laurel Hill,Laurel Hill,Florida,12091,Okaloosa,30.9623,-86.4586,469,43.1,shape,false,true,America/Chicago,3,32567,1840015010
+Bell,Bell,Florida,12041,Gilchrist,29.7568,-82.862,469,110.6,shape,false,true,America/New_York,3,32619,1840015944
+Pinecraft,Pinecraft,Florida,12115,Sarasota,27.3229,-82.4999,463,1289.9,shape,false,false,America/New_York,3,34232 34237 34239,1840047792
+Jupiter Inlet Colony,Jupiter Inlet Colony,Florida,12099,Palm Beach,26.948,-80.0755,461,926.8,shape,false,true,America/New_York,3,33469,1840036152
+Reddick,Reddick,Florida,12083,Marion,29.3687,-82.1976,453,138.8,shape,false,true,America/New_York,3,32686,1840018275
+Sea Ranch Lakes,Sea Ranch Lakes,Florida,12011,Broward,26.2007,-80.0981,443,2749.9,shape,false,true,America/New_York,2,33308,1840018329
+Canal Point,Canal Point,Florida,12099,Palm Beach,26.8626,-80.6222,437,121.2,shape,false,false,America/New_York,3,33438,1840014202
+Ona,Ona,Florida,12049,Hardee,27.483,-81.9097,435,6.3,shape,false,false,America/New_York,3,33873 33865,1840025170
+Alford,Alford,Florida,12063,Jackson,30.6967,-85.3953,432,158.2,shape,false,true,America/Chicago,3,32420,1840015898
+Sopchoppy,Sopchoppy,Florida,12129,Wakulla,30.0598,-84.4854,426,98.0,shape,false,true,America/New_York,3,32358,1840015934
+Roeville,Roeville,Florida,12113,Santa Rosa,30.6836,-86.9927,425,37.9,shape,false,false,America/Chicago,3,32570,1840025119
+Garcon Point,Garcon Point,Florida,12113,Santa Rosa,30.4758,-87.09,421,85.7,shape,false,true,America/Chicago,4,32583,1840043092
+Pioneer,Pioneer,Florida,12051,Hendry,26.7257,-81.219,419,7.6,shape,false,true,America/New_York,4,33440,1840039063
+Munson,Munson,Florida,12113,Santa Rosa,30.8418,-86.887,390,6.0,shape,false,false,America/Chicago,3,32570,1840025115
+Brownsdale,Brownsdale,Florida,12113,Santa Rosa,30.8859,-87.2218,389,17.3,shape,false,false,America/Chicago,3,32565,1840025110
+Pineland,Pineland,Florida,12071,Lee,26.6642,-82.1477,379,163.1,shape,false,false,America/New_York,3,33922 33945,1840014224
+Spring Lake,Spring Lake,Florida,12053,Hernando,28.4952,-82.3017,370,42.9,shape,false,false,America/New_York,3,34601 34602,1840014106
+Acacia Villas,Acacia Villas,Florida,12099,Palm Beach,26.6457,-80.1104,363,2257.1,shape,false,true,America/New_York,2,33415 33406,1840042854
+Hillcrest Heights,Hillcrest Heights,Florida,12105,Polk,27.8083,-81.5695,360,0.0,shape,false,true,America/New_York,3,33827 33843,1840017239
+Wausau,Wausau,Florida,12133,Washington,30.6334,-85.5874,338,113.4,shape,false,true,America/Chicago,3,32428 32463,1840017179
+Esto,Esto,Florida,12059,Holmes,30.9819,-85.6429,336,59.5,shape,false,true,America/Chicago,3,32425,1840017161
+Hillsboro Pines,Hillsboro Pines,Florida,12011,Broward,26.3253,-80.1947,334,2257.8,shape,false,false,America/New_York,2,33073,1840029106
+Wacissa,Wacissa,Florida,12065,Jefferson,30.3566,-83.9937,330,30.4,shape,false,false,America/New_York,3,32344 32361,1840026007
+Trilby,Trilby,Florida,12101,Pasco,28.4564,-82.194,329,126.6,shape,false,false,America/New_York,3,33523 33593,1840025152
+Manalapan,Manalapan,Florida,12099,Palm Beach,26.562,-80.0439,326,281.5,shape,false,true,America/New_York,3,33462,1840017261
+Miccosukee,Miccosukee,Florida,12073,Leon,30.5931,-84.047,324,45.1,shape,false,false,America/New_York,3,32309,1840028730
+Capitola,Capitola,Florida,12073,Leon,30.4449,-84.0799,310,51.0,shape,false,false,America/New_York,3,32317,1840028646
+St. Marks,St. Marks,Florida,12129,Wakulla,30.1656,-84.2078,291,57.4,shape,false,true,America/New_York,3,32355,1840015933
+McIntosh,McIntosh,Florida,12083,Marion,29.4494,-82.2211,285,154.7,shape,false,true,America/New_York,3,32664,1840017225
+Ocean Breeze,Ocean Breeze,Florida,12085,Martin,27.2411,-80.2262,285,943.6,shape,false,true,America/New_York,3,34957,1840150343
+Homeland,Homeland,Florida,12105,Polk,27.8181,-81.8268,274,249.2,shape,false,false,America/New_York,3,33847 33830,1840025157
+Raiford,Raiford,Florida,12125,Union,30.0638,-82.2391,270,191.2,shape,false,true,America/New_York,3,32083,1840018256
+Caryville,Caryville,Florida,12133,Washington,30.7753,-85.812,269,34.5,shape,false,true,America/Chicago,3,32427,1840017177
+Worthington Springs,Worthington Springs,Florida,12125,Union,29.933,-82.4149,269,108.3,shape,false,true,America/New_York,3,32054 32697,1840017213
+Waverly,Waverly,Florida,12105,Polk,27.9843,-81.6199,269,72.2,shape,false,false,America/New_York,3,33877,1840014126
+Westville,Westville,Florida,12059,Holmes,30.7697,-85.8465,268,14.3,shape,false,true,America/Chicago,3,32464,1840017162
+Spring Ridge,Spring Ridge,Florida,12041,Gilchrist,29.8218,-82.7245,256,30.8,shape,false,true,America/New_York,4,32643,1840042894
+Golf,Golf,Florida,12099,Palm Beach,26.5043,-80.1091,255,120.0,shape,false,true,America/New_York,3,33436,1840018306
+Noma,Noma,Florida,12059,Holmes,30.9802,-85.6223,254,91.9,shape,false,true,America/Chicago,3,32425 32452,1840017163
+Nobleton,Nobleton,Florida,12053,Hernando,28.6451,-82.262,250,514.9,shape,false,false,America/New_York,3,34661,1840014109
+Lisbon,Lisbon,Florida,12069,Lake,28.8824,-81.7812,249,53.6,shape,false,false,America/New_York,3,34788,1840028935
+Brooker,Brooker,Florida,12007,Bradford,29.8877,-82.3327,243,178.0,shape,false,true,America/New_York,3,32622,1840015939
+Campbellton,Campbellton,Florida,12063,Jackson,30.9505,-85.4025,240,35.7,shape,false,true,America/Chicago,3,32426 32440,1840015900
+Floridatown,Floridatown,Florida,12113,Santa Rosa,30.5828,-87.1613,237,229.5,shape,false,false,America/Chicago,3,32571,1840027009
+Windsor,Windsor,Florida,12061,Indian River,27.7869,-80.4141,236,104.2,shape,false,true,America/New_York,4,32963,1840042918
+Ebro,Ebro,Florida,12133,Washington,30.4369,-85.8791,236,19.3,shape,false,true,America/Chicago,3,32437,1840017178
+Okahumpka,Okahumpka,Florida,12069,Lake,28.7459,-81.8962,220,210.5,shape,false,false,America/New_York,3,34762,1840014050
+Cloud Lake,Cloud Lake,Florida,12099,Palm Beach,26.6743,-80.0731,219,959.0,shape,false,true,America/New_York,3,33406,1840017263
+Glen Ridge,Glen Ridge,Florida,12099,Palm Beach,26.6714,-80.0751,219,1475.6,shape,false,true,America/New_York,3,33406,1840017264
+Pittman,Pittman,Florida,12069,Lake,28.9967,-81.6462,214,65.6,shape,false,false,America/New_York,3,32702,1840014053
+Mount Carmel,Mount Carmel,Florida,12113,Santa Rosa,30.9868,-87.121,207,15.1,shape,false,false,America/Chicago,3,32565,1840025114
+Jacob City,Jacob City,Florida,12063,Jackson,30.8925,-85.4108,199,25.2,shape,false,true,America/Chicago,4,32431,1840036116
+Day,Day,Florida,12067,Lafayette,30.195,-83.2909,198,84.4,shape,false,false,America/New_York,3,32066 32013,1840026032
+Aripeka,Aripeka,Florida,12101,Pasco,28.4308,-82.6668,185,86.9,shape,false,false,America/New_York,3,34607 34679,1840025149
+Berrydale,Berrydale,Florida,12113,Santa Rosa,30.8982,-87.035,180,8.1,shape,false,false,America/Chicago,3,32570 32565,1840025109
+Aucilla,Aucilla,Florida,12065,Jefferson,30.477,-83.7604,179,34.5,shape,false,false,America/New_York,3,32344,1840026004
+Highland Park,Highland Park,Florida,12105,Polk,27.8615,-81.5619,178,125.6,shape,false,true,America/New_York,3,33898,1840018289
+Lloyd,Lloyd,Florida,12065,Jefferson,30.4822,-84.0244,177,45.1,shape,false,false,America/New_York,3,32344 32337,1840026006
+Mulat,Mulat,Florida,12113,Santa Rosa,30.5595,-87.1297,174,42.7,shape,false,false,America/Chicago,3,32583,1840027016
+West Canaveral Groves,West Canaveral Groves,Florida,12009,Brevard,28.3928,-80.8459,167,17.1,shape,false,false,America/New_York,3,32926,1840152377
+Sorrento,Sorrento,Florida,12069,Lake,28.8087,-81.5632,165,50.7,shape,false,false,America/New_York,3,32776,1840014047
+La Crosse,La Crosse,Florida,12001,Alachua,29.8395,-82.3784,163,13.6,shape,false,true,America/New_York,3,32609 32622 32615 32653 32658,1840017214
+Goodland,Goodland,Florida,12021,Collier,25.9252,-81.648,155,422.8,shape,false,false,America/New_York,3,34140,1840014229
+Captiva,Captiva,Florida,12071,Lee,26.5205,-82.191,151,49.3,shape,false,false,America/New_York,3,33924,1840014217
+Pine Level,Pine Level,Florida,12113,Santa Rosa,30.8887,-87.1687,151,8.7,shape,false,true,America/Chicago,4,32565,1840039052
+Dickerson City,Dickerson City,Florida,12113,Santa Rosa,30.4827,-87.0651,145,42.0,shape,false,false,America/Chicago,3,32583,1840029112
+Layton,Layton,Florida,12087,Monroe,24.8247,-80.8128,144,184.1,shape,false,true,America/New_York,3,33001,1840015162
+Lazy Lake,Lazy Lake,Florida,12011,Broward,26.1563,-80.1452,143,3559.2,shape,false,true,America/New_York,2,33305,1840028718
+Everglades,Everglades,Florida,12021,Collier,25.858,-81.3862,143,60.3,shape,false,true,America/New_York,4,34139 34141,1840073877
+Morriston,Morriston,Florida,12075,Levy,29.2811,-82.44,140,132.4,shape,false,false,America/New_York,3,32668,1840026043
+Lake Lindsey,Lake Lindsey,Florida,12053,Hernando,28.6322,-82.3617,139,133.9,shape,false,false,America/New_York,3,34601,1840014107
+Pine Island,Pine Island,Florida,12053,Hernando,28.5727,-82.6546,136,336.0,shape,false,false,America/New_York,3,34607,1840014110
+Waukeenah,Waukeenah,Florida,12065,Jefferson,30.402,-83.96,136,16.6,shape,false,false,America/New_York,3,32344,1840026008
+Yeehaw Junction,Yeehaw Junction,Florida,12097,Osceola,27.6993,-80.8871,134,27.7,shape,false,false,America/New_York,3,34972,1840014139
+Otter Creek,Otter Creek,Florida,12075,Levy,29.3238,-82.7734,130,36.9,shape,false,true,America/New_York,3,32626 32683,1840017224
+Bascom,Bascom,Florida,12063,Jackson,30.9278,-85.1181,123,111.9,shape,false,true,America/Chicago,3,32423,1840015899
+Bayport,Bayport,Florida,12053,Hernando,28.5468,-82.6456,106,71.2,shape,false,false,America/New_York,3,34607,1840014104
+Fort Green,Fort Green,Florida,12049,Hardee,27.6255,-81.9397,105,10.0,shape,false,false,America/New_York,3,33834,1840025166
+Istachatta,Istachatta,Florida,12053,Hernando,28.6634,-82.2726,98,113.9,shape,false,false,America/New_York,3,34601,1840014103
+Matlacha Isles-Matlacha Shores,Matlacha Isles-Matlacha Shores,Florida,12071,Lee,26.6341,-82.059,96,354.0,shape,false,true,America/New_York,3,33993 33991,1840073863
+Belleair Shore,Belleair Shore,Florida,12103,Pinellas,27.9173,-82.8455,67,1108.9,shape,false,true,America/New_York,3,33786,1840028633
+Fidelis,Fidelis,Florida,12113,Santa Rosa,30.9343,-87.0245,62,8.4,shape,false,false,America/Chicago,3,32565,1840027008
+Cobbtown,Cobbtown,Florida,12113,Santa Rosa,30.8823,-87.1212,57,8.4,shape,false,false,America/Chicago,3,32565,1840027007
+Indian Creek,Indian Creek,Florida,12086,Miami-Dade,25.8783,-80.1371,54,48.7,shape,false,true,America/New_York,4,33154,1840073889
+Dixonville,Dixonville,Florida,12113,Santa Rosa,30.9865,-87.0416,47,3.6,shape,false,false,America/Chicago,3,32565,1840029113
+Bay Lake,Bay Lake,Florida,12095,Orange,28.387,-81.5751,42,0.0,shape,false,true,America/New_York,3,32830,1840011791
+Horseshoe Beach,Horseshoe Beach,Florida,12029,Dixie,29.4495,-83.2821,39,32.1,shape,false,true,America/New_York,3,32648,1840017279
+Sumatra,Sumatra,Florida,12077,Liberty,30.023,-84.9825,35,14.0,shape,false,false,America/New_York,3,32321 32335,1840026013
+Charleston Park,Charleston Park,Florida,12071,Lee,26.7055,-81.5807,33,379.4,shape,false,false,America/New_York,3,33920,1840028976
+Limestone,Limestone,Florida,12049,Hardee,27.3673,-81.9048,32,32.5,shape,false,false,America/New_York,3,33865,1840025169
+Altoona,Altoona,Florida,12069,Lake,28.9681,-81.6482,26,22.4,shape,false,false,America/New_York,3,32702,1840014045
+Tildenville,Tildenville,Florida,12095,Orange,28.5384,-81.6025,19,437.2,shape,false,false,America/New_York,3,34787,1840014089
+Marineland,Marineland,Florida,12035,Flagler,29.6657,-81.2138,12,10.7,shape,false,true,America/New_York,3,32080 32137 32086,1840017221
+Lake Buena Vista,Lake Buena Vista,Florida,12095,Orange,28.379,-81.5262,7,0.0,shape,false,true,America/New_York,3,32830,1840015100
+Lake Harbor,Lake Harbor,Florida,12099,Palm Beach,26.6885,-80.8079,0,4.1,shape,false,false,America/New_York,3,33440 33459,1840014204
+Lamont,Lamont,Florida,12065,Jefferson,30.3796,-83.8135,0,41.3,shape,false,false,America/New_York,3,32336,1840026005
+Plantation Island,Plantation Island,Florida,12021,Collier,25.8475,-81.3757,0,83.0,shape,false,false,America/New_York,3,34139,1840028759
